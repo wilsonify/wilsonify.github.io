@@ -1,4 +1,5 @@
 title: Wilsonify
 description: "Dream of Wilsonification"
+baseurl: "https://wilsonify.github.io/blog/"
 tagline: "What you are about to experience are just my thoughts--right or wrong--just what I was feeling at the time"
 theme: jekyll-theme-tactile

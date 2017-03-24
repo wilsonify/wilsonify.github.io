@@ -1,0 +1,2 @@
+# blog
+just my thoughts

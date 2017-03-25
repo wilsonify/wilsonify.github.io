@@ -1,3 +1,8 @@
+---
+layout: default
+title: Resume
+---
+
 # Thomas Andrew Wilson
 
 Houston, TX  77030

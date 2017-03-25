@@ -10,3 +10,6 @@ layout: default
 
 # page
 {{ page | inspect }}
+
+# Paginator
+{{ paginator | inspect }}

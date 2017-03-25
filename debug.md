@@ -8,10 +8,17 @@ tagline: inspect all the things
 "{{ site.github | jsonify }}"
 
 # site
-"{{ site | jsonify }}"
+{% for var in site %}
+## {{var}}
+{{ var | jsonify }}
+{% endfor %}
 
 # page
-"{{ page | jsonify }}"
+{% for var in page %}
+## {{var}}
+{{ var | jsonify }}
+{% endfor %}
+
 
 # Paginator
 "{{ paginator | jsonify }}"

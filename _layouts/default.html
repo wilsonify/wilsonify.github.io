@@ -19,8 +19,13 @@
         <header>
           <h1> {% if page.title %} {{ page.title }}
                {% else %} {{ site.title | default: site.github.repository_name }}
-               {% endif %} </h1>
-          <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+               {% endif %} 
+          </h1>
+          <h2>
+            {% if page.tagline %} {{ page.tagline }}
+            {% else %} {{ site.description | default: site.github.project_tagline }}
+            {% endif %}
+          </h2>
 	  <a href="{{site.github.url}}/index.html" title="Blog">Blog</a>
           <a href="{{site.github.url}}/about.html" title="About">About</a>
 	  <a href="{{site.github.url}}/resume.html" title="Resume">Resume</a>

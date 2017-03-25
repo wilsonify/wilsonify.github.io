@@ -1,5 +1,7 @@
 ---
 layout: default
+title: debug
+tagline: inspect all the things
 ---
 
 # site.github

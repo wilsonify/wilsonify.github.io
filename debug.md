@@ -5,13 +5,13 @@ tagline: inspect all the things
 ---
 
 # site.github
-"{{ site.github | inspect }}"
+"{{ site.github | jsonify }}"
 
 # site
-"{{ site | inspect }}"
+"{{ site | jsonify }}"
 
 # page
-"{{ page | inspect }}"
+"{{ page | jsonify }}"
 
 # Paginator
-"{{ paginator | inspect }}"
+"{{ paginator | jsonify }}"

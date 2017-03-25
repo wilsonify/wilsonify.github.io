@@ -2,16 +2,11 @@
 layout: default
 ---
 
+# site.github
 {{ site.github | inspect }}
 
-# Global Variables
-{% for var in global_variables %}
-    {{ var }}
-    {{ var | inspect }}
-{% endfor %}
+# site
+{{ site | inspect }}
 
-# Local Variables
-{% for var in local_variables %}
-    {{ var }}
-    {{ var | inspect }}
-{% endfor %}
+# page
+{{ page | inspect }}

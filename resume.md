@@ -14,12 +14,14 @@ https://wilsonify.github.io/blog
 - Outstanding communication to senior leadership via presentations which facilitate decision-making and ensure client satisfaction. 
 
 ## Technical Proficiencies
-|
-|-|-|
-|Platforms:|Linux, Windows|
-|Applications:|JMP, Spotfire, Tableau, AutoCAD, SAP, Visio, Project, SharePoint| 
-|Languages:|Python, SQL, R,  SAS, VBA, Matlab|
-|Other Tools:|SPC, APC, DOE, FMEA, Lean, Hadoop|
+
+|type          |skill                                                           |
+|--------------|----------------------------------------------------------------|
+|Platforms:    |Linux, Windows                                                  |
+|Applications: |JMP, Spotfire, Tableau, AutoCAD, SAP, Visio, Project, SharePoint| 
+|Languages:    |Python, SQL, R,  SAS, VBA, Matlab                               |
+|Other Tools:  |SPC, APC, DOE, FMEA, Lean, Hadoop                               |
+
 
 # Professional Experience
 ### Samsung Austin Semiconductor, Austin, Texas 

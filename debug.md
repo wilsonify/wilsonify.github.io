@@ -3,13 +3,13 @@ layout: default
 ---
 
 # site.github
-{{ site.github | inspect }}
+"{{ site.github | inspect }}"
 
 # site
-{{ site | inspect }}
+"{{ site | inspect }}"
 
 # page
-{{ page | inspect }}
+"{{ page | inspect }}"
 
 # Paginator
-{{ paginator | inspect }}
+"{{ paginator | inspect }}"

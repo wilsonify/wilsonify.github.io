@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Projects"
+navigation_weight: 3
 ---
 
 {% for post in site.posts %}

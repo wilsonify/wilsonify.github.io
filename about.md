@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About this blog
+navigation_weight: 2
 ---
 
 This site was created to showcase my interests and projects.

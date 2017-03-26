@@ -1,5 +1,6 @@
 ---
 layout: default
+navigation_weight: 1
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.

@@ -26,11 +26,13 @@
             {% else %} {{ site.description | default: site.github.project_tagline }}
             {% endif %}
           </h2>
-          <nav>
-      	    <a href="{{site.github.url}}/index.html" title="Blog">Blog</a>
-            <a href="{{site.github.url}}/about.html" title="About">About</a>
-	          <a href="{{site.github.url}}/resume.html" title="Resume">Resume</a>
-            <a href="{{site.github.url}}/projects.html" title="Projects">Projects</a>
+          <nav> 
+            {% assign navigation_pages=site.html_pages | sort: 'navigation_weight' %}
+            {% for p in navigation_pages %}
+              {% if p.navigation_weight %}
+                <li> <a href={{ p.url }}>{{ p.title }}</a> </li>
+              {% endif %}
+            {% endfor %}
           </nav>
         </header>
         <section id="downloads" class="clearfix">

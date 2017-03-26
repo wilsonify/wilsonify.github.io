@@ -21,15 +21,17 @@
                {% else %} {{ site.title | default: site.github.repository_name }}
                {% endif %} 
           </h1>
-          <h2>
+          <h2>            
             {% if page.tagline %} {{ page.tagline }}
             {% else %} {{ site.description | default: site.github.project_tagline }}
             {% endif %}
           </h2>
-	  <a href="{{site.github.url}}/index.html" title="Blog">Blog</a>
-          <a href="{{site.github.url}}/about.html" title="About">About</a>
-	  <a href="{{site.github.url}}/resume.html" title="Resume">Resume</a>
-          <a href="{{site.github.url}}/projects.html" title="Projects">Projects</a>		
+          <nav>
+      	    <a href="{{site.github.url}}/index.html" title="Blog">Blog</a>
+            <a href="{{site.github.url}}/about.html" title="About">About</a>
+	          <a href="{{site.github.url}}/resume.html" title="Resume">Resume</a>
+            <a href="{{site.github.url}}/projects.html" title="Projects">Projects</a>
+          </nav>
         </header>
         <section id="downloads" class="clearfix">
           {% if site.show_downloads %}

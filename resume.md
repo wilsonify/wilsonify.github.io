@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Resume
+navigation_weight: 4
 ---
 
 # Thomas Andrew Wilson

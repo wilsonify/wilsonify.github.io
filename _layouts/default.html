@@ -32,10 +32,7 @@
             {% for p in navigation_pages %}
               {% if p.navigation_weight %}
                 <li> <a href={{ site.baseurl }}{{ p.url }} 
-			{% if p.url == page.url %} class=active {% endif %}
-			>
-			{% if p.title=='' %}Home
-			{% else %} {{ p.title }} {% endif %}</a> </li>
+			{% if p.url == page.url %} class=active {% endif %}>{{ p.title }} {% endif %}</a> </li>
               {% endif %}
             {% endfor %}
           </ul>

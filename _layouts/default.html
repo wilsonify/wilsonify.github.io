@@ -35,8 +35,9 @@
             {% endfor %}
           </nav>
           <p>
-	  {{ site.html_pages }}
-	  {{ site.html_pages | inspect }}	
+          {% for p in navigation_pages %}
+		  {{ p.url }}
+          {% endfor %}
           </p>
         </header>
         <section id="downloads" class="clearfix">

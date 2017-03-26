@@ -26,10 +26,10 @@
             {% else %} {{ site.description | default: site.github.project_tagline }}
             {% endif %}
           </h2>
-	  <a href="{{site.baseurl}}/index.html" title="Blog">Blog</a>
-          <a href="{{site.baseurl}}/about.html" title="About">About</a>
-	  <a href="{{site.baseurl}}/resume.html" title="Resume">Resume</a>
-          <a href="{{site.baseurl}}/projects.html" title="Projects">Projects</a>		
+	  <a href="{{site.url}}/index.html" title="Blog">Blog</a>
+          <a href="{{site.url}}/about.html" title="About">About</a>
+	  <a href="{{site.url}}/resume.html" title="Resume">Resume</a>
+          <a href="{{site.url}}/projects.html" title="Projects">Projects</a>		
         </header>
         <section id="downloads" class="clearfix">
           {% if site.show_downloads %}

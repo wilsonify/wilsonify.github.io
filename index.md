@@ -4,6 +4,12 @@ title: Home
 navigation_weight: 1
 ---
 
+{% for p in site.posts %}
+# [{{ p.title }}]({{site.baseurl}}{{p.url}})
+  {{ p.date | date_to_long_string }}
+{% endfor %}
+
+{% comment %}
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](another-page).
@@ -116,6 +122,8 @@ end
 <dd>Green</dd>
 </dl>
 
+
+
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
 ```
@@ -123,3 +131,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+{% endcomment %}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="http://jekyllrb.com" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-03-27T12:08:05-05:00</updated><id>http://localhost:4000/</id><title type="html">Wilsonify</title><subtitle>Dream of Wilsonification</subtitle><entry><title type="html">Temperature Control</title><link href="http://localhost:4000/projects/2017/03/27/temperature-control.html" rel="alternate" type="text/html" title="Temperature Control" /><published>2017-03-27T07:02:00-05:00</published><updated>2017-03-27T07:02:00-05:00</updated><id>http://localhost:4000/projects/2017/03/27/temperature-control</id><content type="html" xml:base="http://localhost:4000/projects/2017/03/27/temperature-control.html">Problem: stovetop temperature is poorly controlled resulting in inconsistent cooking times and results.
+
+Solution: Use an Arduino to control the temperature of pan.
+
+&lt;!--more--&gt;
+
+![]({{site.baseurl}}/assets/images/thermocouple.jpg) 
+I started by purchasing a k-type thermocouple from amazon (about $5). I also needed some female connections to connect to my circuit.
+
+The thermo couple is composed of two wires, each a different alloy of chrome.
+
+![]({{site.baseurl}}/assets/images/Thermocouple_circuit_Ktype_including_voltmeter_temperature.png)
+Any temperature difference between the ends will create a current in the wire. I should be able to measure the current with my arduino and hopefully use that signal to control the temperature of my pan.
+
+&amp;nbsp;
+
+My plan is to control the temperature just below the smoke point of what every oil is being used.
+![]({{site.baseurl}}/assets/images/smokepoint.png)
+
+&amp;nbsp;</content><author><name></name></author><category term="cooking" /><category term="arduino" /><summary type="html">Problem: stovetop temperature is poorly controlled resulting in inconsistent cooking times and results.</summary></entry></feed>

@@ -27,3 +27,8 @@ nav ul li a:hover {
     background-color: #111;
     color: white;
 }
+
+li a:active {
+    background-color: #111;
+    color: yellow;
+}

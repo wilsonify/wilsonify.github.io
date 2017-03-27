@@ -1,20 +1,163 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="http://jekyllrb.com" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-03-27T12:08:05-05:00</updated><id>http://localhost:4000/</id><title type="html">Wilsonify</title><subtitle>Dream of Wilsonification</subtitle><entry><title type="html">Temperature Control</title><link href="http://localhost:4000/projects/2017/03/27/temperature-control.html" rel="alternate" type="text/html" title="Temperature Control" /><published>2017-03-27T07:02:00-05:00</published><updated>2017-03-27T07:02:00-05:00</updated><id>http://localhost:4000/projects/2017/03/27/temperature-control</id><content type="html" xml:base="http://localhost:4000/projects/2017/03/27/temperature-control.html">Problem: stovetop temperature is poorly controlled resulting in inconsistent cooking times and results.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="http://jekyllrb.com" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-03-27T17:33:08-05:00</updated><id>http://localhost:4000/</id><title type="html">Wilsonify</title><subtitle>Dream of Wilsonification</subtitle><entry><title type="html">Temperature Control</title><link href="http://localhost:4000/projects/2017/03/27/temperature-control.html" rel="alternate" type="text/html" title="Temperature Control" /><published>2017-03-27T07:02:00-05:00</published><updated>2017-03-27T07:02:00-05:00</updated><id>http://localhost:4000/projects/2017/03/27/temperature-control</id><content type="html" xml:base="http://localhost:4000/projects/2017/03/27/temperature-control.html">&lt;p&gt;Problem: stovetop temperature is poorly controlled resulting in inconsistent cooking times and results.&lt;/p&gt;
 
-Solution: Use an Arduino to control the temperature of pan.
+&lt;p&gt;Solution: Use an Arduino to control the temperature of pan.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
-![]({{site.baseurl}}/assets/images/thermocouple.jpg) 
-I started by purchasing a k-type thermocouple from amazon (about $5). I also needed some female connections to connect to my circuit.
+&lt;p&gt;&lt;img src=&quot;/assets/images/thermocouple.jpg&quot; alt=&quot;&quot; /&gt; 
+I started by purchasing a k-type thermocouple from amazon (about $5). I also needed some female connections to connect to my circuit.&lt;/p&gt;
 
-The thermo couple is composed of two wires, each a different alloy of chrome.
+&lt;p&gt;The thermo couple is composed of two wires, each a different alloy of chrome.&lt;/p&gt;
 
-![]({{site.baseurl}}/assets/images/Thermocouple_circuit_Ktype_including_voltmeter_temperature.png)
-Any temperature difference between the ends will create a current in the wire. I should be able to measure the current with my arduino and hopefully use that signal to control the temperature of my pan.
+&lt;p&gt;&lt;img src=&quot;/assets/images/Thermocouple_circuit_Ktype_including_voltmeter_temperature.png&quot; alt=&quot;&quot; /&gt;
+Any temperature difference between the ends will create a current in the wire. I should be able to measure the current with my arduino and hopefully use that signal to control the temperature of my pan.&lt;/p&gt;
 
-&amp;nbsp;
+&lt;p&gt; &lt;/p&gt;
 
-My plan is to control the temperature just below the smoke point of what every oil is being used.
-![]({{site.baseurl}}/assets/images/smokepoint.png)
+&lt;p&gt;My plan is to control the temperature just below the smoke point of what every oil is being used.
+&lt;img src=&quot;/assets/images/smokepoint.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&amp;nbsp;</content><author><name></name></author><category term="cooking" /><category term="arduino" /><summary type="html">Problem: stovetop temperature is poorly controlled resulting in inconsistent cooking times and results.</summary></entry></feed>
+&lt;p&gt; &lt;/p&gt;</content><author><name></name></author><category term="cooking" /><category term="arduino" /><summary type="html">Problem: stovetop temperature is poorly controlled resulting in inconsistent cooking times and results.</summary></entry><entry><title type="html">Toilets</title><link href="http://localhost:4000/howitworks/2017/03/23/toilets.html" rel="alternate" type="text/html" title="Toilets" /><published>2017-03-23T00:00:00-05:00</published><updated>2017-03-23T00:00:00-05:00</updated><id>http://localhost:4000/howitworks/2017/03/23/toilets</id><content type="html" xml:base="http://localhost:4000/howitworks/2017/03/23/toilets.html">&lt;p&gt;I thought it would be fun to talk about toilets since we interact with them daily, yet, mostly ignore them and their operation.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/Toilet-Flow-Diagram.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="toilets" /><category term="diagrams" /><summary type="html">I thought it would be fun to talk about toilets since we interact with them daily, yet, mostly ignore them and their operation.</summary></entry><entry><title type="html">3x3x3</title><link href="http://localhost:4000/rubicscube/2017/03/21/3x3x3.html" rel="alternate" type="text/html" title="3x3x3" /><published>2017-03-21T00:00:00-05:00</published><updated>2017-03-21T00:00:00-05:00</updated><id>http://localhost:4000/rubicscube/2017/03/21/3x3x3</id><content type="html" xml:base="http://localhost:4000/rubicscube/2017/03/21/3x3x3.html">&lt;p&gt;Here is my approach to solving a standard 3x3x3 Rubic’s Cube. There’s nothing new here. It’s just how I learned about 12 years ago.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;I try to use as few algorithms as possible, but it is handy to be familiar with the
+&lt;a href=&quot;&amp;quot;https://ruwix.com/the-rubiks-cube/notation/&amp;quot;&quot;&gt;notation&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I add the word loop() when there is a step or combination that can be repeated indefinitely.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/3x3x3-225x300.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;fundamentals&quot;&gt;Fundamentals&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;the cube is composed of 26 3-dimensional pieces. 8 corners, 12 Edges, 6 Centers. Stop thinking about each 2D colored square and start thinking in 3D.&lt;/li&gt;
+  &lt;li&gt;center pieces do not move, they define color of each side.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;phase-1---1st-corner&quot;&gt;Phase 1 - 1st corner&lt;/h1&gt;
+ 	- place the 1st corner
+ 	- place 1st 2 edges
+ 	- place the 3rd edge
+ 	  - target 1 side
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- L U L' # Phase 2 - 2nd corner
+ 	- place 2nd corner
+ 	- place 2 more edges
+ 	  - target 1 side
+- F' U2 F
+- L U L'
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h1 id=&quot;phase-3---2nd-layer&quot;&gt;Phase 3 - 2nd layer&lt;/h1&gt;
+
+&lt;h2 id=&quot;edge-parity&quot;&gt;Edge Parity&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;target 2 unpaired edges (these always occur in pairs)
+    &lt;ul&gt;
+      &lt;li&gt;U’ R’ U&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;place-next-corner&quot;&gt;Place next corner&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;loop(R U)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;place-2-more-edges&quot;&gt;place 2 more edges&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;target 1 side
+    &lt;ul&gt;
+      &lt;li&gt;U R loop(U) R’ U’&lt;/li&gt;
+      &lt;li&gt;U2 R’ loop(U) R U2&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;place-last-corner-of-2nd-layer&quot;&gt;Place last corner of 2nd layer&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;orient corner
+    &lt;ul&gt;
+      &lt;li&gt;loop(U R2 U’ R)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;place
+    &lt;ul&gt;
+      &lt;li&gt;R’ U’ R U&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;place-last-edge-of-2nd-layer&quot;&gt;Place last edge of 2nd layer&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;U R U R loop(U) R’ U’ R’ U’&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;phase-4---last-layer&quot;&gt;Phase 4 - Last Layer&lt;/h1&gt;
+
+&lt;h2 id=&quot;permute-2-corners&quot;&gt;permute 2 corners&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;target 2 adjacent corners
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;table&gt;
+          &lt;tbody&gt;
+            &lt;tr&gt;
+              &lt;td&gt;left version:  R  U’ L’&lt;/td&gt;
+              &lt;td&gt;U&lt;/td&gt;
+              &lt;td&gt;R’ U’ L&lt;/td&gt;
+            &lt;/tr&gt;
+          &lt;/tbody&gt;
+        &lt;/table&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;table&gt;
+          &lt;tbody&gt;
+            &lt;tr&gt;
+              &lt;td&gt;right version: L’ U  R&lt;/td&gt;
+              &lt;td&gt;U’&lt;/td&gt;
+              &lt;td&gt;L  U  R’&lt;/td&gt;
+            &lt;/tr&gt;
+          &lt;/tbody&gt;
+        &lt;/table&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;orient-remaining-corners&quot;&gt;Orient remaining corners&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;target 1 corner 1st
+    &lt;ul&gt;
+      &lt;li&gt;R U R’ U R U2 R’&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;permute-last-3-edges&quot;&gt;permute last 3 edges&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;clockwise version: B2 U  L’ R&lt;/td&gt;
+          &lt;td&gt;B2&lt;/td&gt;
+          &lt;td&gt;L R’ U  B2&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;counter clockwise: B2 U’ L’ R&lt;/td&gt;
+          &lt;td&gt;B2&lt;/td&gt;
+          &lt;td&gt;L R’ U’ B2&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="puzzles" /><summary type="html">Here is my approach to solving a standard 3x3x3 Rubic’s Cube. There’s nothing new here. It’s just how I learned about 12 years ago.</summary></entry></feed>

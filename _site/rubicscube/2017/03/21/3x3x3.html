@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <link href='https://fonts.googleapis.com/css?family=Chivo:900' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="/assets/css/style.css?v=c9c78c55dbf3993cab6ea29b0331747b8fe72acd">
+    <link rel="stylesheet" type="text/css" href="/assets/css/print.css" media="print">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+    
+    <title>Wilsonify by wilsonify</title>
+  </head>
+
+  <body>
+    <div id="container">
+      <div class="inner">
+        <header>
+          <h1> 
+             
+              3x3x3
+             
+          </h1>
+          <h2>            
+             
+              Dream of Wilsonification
+            
+          </h2>
+            <nav> 
+              <ul>
+                
+                
+                  
+                
+                  
+                    <li> <a href=/>Home</a> </li>
+                  
+                
+                  
+                    <li> <a href=/about.html>About this blog</a> </li>
+                  
+                
+                  
+                    <li> <a href=/projects.html>Projects</a> </li>
+                  
+                
+                  
+                    <li> <a href=/resume.html>Resume</a> </li>
+                  
+                
+              </ul>
+            </nav>
+        </header>
+        
+        <section id="downloads" class="clearfix">
+          
+          
+            <a href="http://github.com/wilsonify/blog" id="view-on-github" class="button"><span>View on GitHub</span></a>
+            
+        </section> 
+        <hr>
+          <section id="main_content">
+            <p>Here is my approach to solving a standard 3x3x3 Rubic’s Cube. There’s nothing new here. It’s just how I learned about 12 years ago.</p>
+
+<!--more-->
+
+<p>I try to use as few algorithms as possible, but it is handy to be familiar with the
+<a href="&quot;https://ruwix.com/the-rubiks-cube/notation/&quot;">notation</a>.</p>
+
+<p>I add the word loop() when there is a step or combination that can be repeated indefinitely.</p>
+
+<p><img src="/assets/images/3x3x3-225x300.jpg" alt="" /></p>
+
+<h1 id="fundamentals">Fundamentals</h1>
+<ul>
+  <li>the cube is composed of 26 3-dimensional pieces. 8 corners, 12 Edges, 6 Centers. Stop thinking about each 2D colored square and start thinking in 3D.</li>
+  <li>center pieces do not move, they define color of each side.</li>
+</ul>
+
+<h1 id="phase-1---1st-corner">Phase 1 - 1st corner</h1>
+ 	- place the 1st corner
+ 	- place 1st 2 edges
+ 	- place the 3rd edge
+ 	  - target 1 side
+<div class="highlighter-rouge"><pre class="highlight"><code>- L U L' # Phase 2 - 2nd corner
+ 	- place 2nd corner
+ 	- place 2 more edges
+ 	  - target 1 side
+- F' U2 F
+- L U L'
+</code></pre>
+</div>
+
+<h1 id="phase-3---2nd-layer">Phase 3 - 2nd layer</h1>
+
+<h2 id="edge-parity">Edge Parity</h2>
+<ul>
+  <li>target 2 unpaired edges (these always occur in pairs)
+    <ul>
+      <li>U’ R’ U</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="place-next-corner">Place next corner</h2>
+<ul>
+  <li>loop(R U)</li>
+</ul>
+
+<h2 id="place-2-more-edges">place 2 more edges</h2>
+<ul>
+  <li>target 1 side
+    <ul>
+      <li>U R loop(U) R’ U’</li>
+      <li>U2 R’ loop(U) R U2</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="place-last-corner-of-2nd-layer">Place last corner of 2nd layer</h2>
+<ul>
+  <li>orient corner
+    <ul>
+      <li>loop(U R2 U’ R)</li>
+    </ul>
+  </li>
+  <li>place
+    <ul>
+      <li>R’ U’ R U</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="place-last-edge-of-2nd-layer">Place last edge of 2nd layer</h2>
+<ul>
+  <li>U R U R loop(U) R’ U’ R’ U’</li>
+</ul>
+
+<h1 id="phase-4---last-layer">Phase 4 - Last Layer</h1>
+
+<h2 id="permute-2-corners">permute 2 corners</h2>
+<ul>
+  <li>target 2 adjacent corners
+    <ul>
+      <li>
+        <table>
+          <tbody>
+            <tr>
+              <td>left version:  R  U’ L’</td>
+              <td>U</td>
+              <td>R’ U’ L</td>
+            </tr>
+          </tbody>
+        </table>
+      </li>
+      <li>
+        <table>
+          <tbody>
+            <tr>
+              <td>right version: L’ U  R</td>
+              <td>U’</td>
+              <td>L  U  R’</td>
+            </tr>
+          </tbody>
+        </table>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="orient-remaining-corners">Orient remaining corners</h2>
+<ul>
+  <li>target 1 corner 1st
+    <ul>
+      <li>R U R’ U R U2 R’</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="permute-last-3-edges">permute last 3 edges</h2>
+<ul>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>clockwise version: B2 U  L’ R</td>
+          <td>B2</td>
+          <td>L R’ U  B2</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>counter clockwise: B2 U’ L’ R</td>
+          <td>B2</td>
+          <td>L R’ U’ B2</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+</ul>
+
+          </section>
+
+        <footer>
+          <ul class="social">
+            <li><a href="https://www.facebook.com/thomwilson" class="icon"><i class="fa fa-facebook"></i><span class="label"></span></a></li>
+            <li><a href="https://www.linkedin.com/in/tom-andrew-wilson" class="icon"><i class="fa fa-linkedin"></i><span class="label"></span></a>
+            <li><a href="https://github.com/wilsonify" class="icon"><i class="fa fa-github"></i><span class="label"></span></a></li>
+            <li><a href="https://www.instagram.com/slaphappyhubris" class="icon"><i class="fa fa-instagram"></i><span></span></a></li>
+            <li><a href="https://www.youtube.com/user/tomwilsonification" class="icon"><i class="fa fa-youtube"></i><span></span></a></li>
+            <li><a href="https://www.reddit.com/r/wilsonify" class="icon"><i class="fa fa-reddit"></i><span></span></a></li>
+          </ul>
+          
+            Wilsonify is maintained by <a href="Thomas Wilson">wilsonify</a><br>
+          
+          This site was created using Jekyll on <a href="https://pages.github.com">GitHub Pages</a>.
+        </footer>
+      </div>
+    </div>
+    
+  </body>
+</html>

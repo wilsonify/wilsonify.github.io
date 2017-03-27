@@ -3,11 +3,26 @@ layout: default
 title: Home
 navigation_weight: 1
 ---
-
+# By Date
 {% for p in site.posts %}
-# [{{ p.title }}]({{site.baseurl}}{{p.url}})
+## [{{ p.title }}]({{site.baseurl}}{{p.url}})
   {{ p.date | date_to_long_string }}
+  {% for tag in p.tags %}
+   #{{ tag }}
+  {% endfor %}
 {% endfor %}
+
+
+
+# By Category
+{% for c in site.categories %}
+## {{ c[0] }}
+{% for p in c[1] %}
+* [{{  p.title  }}]({{ site.baseurl }}{{ p.url }})
+{% endfor %}
+{% endfor %}
+
+
 
 {% comment %}
 Text can be **bold**, _italic_, or ~~strikethrough~~.

@@ -9,6 +9,8 @@
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+    
     <title>{{ site.title | default: site.github.repository_name }} by {{ site.github.owner_name }}</title>
   </head>
 
@@ -59,6 +61,14 @@
           </section>
 
         <footer>
+          <ul class="social">
+            <li><a href="https://www.facebook.com/thomwilson" class="icon"><i class="fa fa-facebook"></i><span class="label"></span></a></li>
+            <li><a href="https://www.linkedin.com/in/tom-andrew-wilson" class="icon"><i class="fa fa-linkedin"></i><span class="label"></span></a>
+            <li><a href="https://github.com/wilsonify" class="icon"><i class="fa fa-github"></i><span class="label"></span></a></li>
+            <li><a href="https://www.instagram.com/slaphappyhubris" class="icon"><i class="fa fa-instagram"></i><span></span></a></li>
+            <li><a href="https://www.youtube.com/user/tomwilsonification" class="icon"><i class="fa fa-youtube"></i><span></span></a></li>
+            <li><a href="https://www.reddit.com/r/wilsonify" class="icon"><i class="fa fa-reddit"></i><span></span></a></li>
+          </ul>
           {% if site.github.is_project_page %}
             {{ site.title | default: site.github.repository_name }} is maintained by <a href="Thomas Wilson">{{ site.github.owner_name }}</a><br>
           {% endif %}

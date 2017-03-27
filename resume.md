@@ -6,10 +6,8 @@ navigation_weight: 4
 
 # Thomas Andrew Wilson
 
-Houston, TX  77030
-tom.andrew.wilson@gmail.com 
-www.linkedin.com/in/tom-andrew-wilson
-https://wilsonify.github.io/blog
+ [LinkedIn](www.linkedin.com/in/tom-andrew-wilson)
+ [Website](https://wilsonify.github.io/blog)
 
 ## Process Engineer
 *Technically sophisticated engineering professional with a 5+ year history of client-facing new product integration, process improvement, data analysis, problem-solving, and change point management*
@@ -21,7 +19,6 @@ https://wilsonify.github.io/blog
 
 ## Technical Proficiencies
 
-|type          |skill                                                           |
 |--------------|----------------------------------------------------------------|
 |Platforms:    |Linux, Windows                                                  |
 |Applications: |JMP, Spotfire, Tableau, AutoCAD, SAP, Visio, Project, SharePoint| 

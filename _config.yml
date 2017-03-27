@@ -3,3 +3,7 @@ description: "Dream of Wilsonification"
 tagline: "What you are about to experience are just my thoughts--right or wrong--just what I was feeling at the time"
 theme: jekyll-theme-tactile
 gems: ['jekyll-github-metadata']
+
+linkedin_username: tom-andrew-wilson
+facebook_username: thomwilson
+

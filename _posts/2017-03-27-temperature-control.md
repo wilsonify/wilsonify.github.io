@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: post
 title: Temperature Control
 date: 2017-03-27T12:02:00Z
+image: /assets/images/smokepoint.png
 categories: projects
 tags:
 - cooking

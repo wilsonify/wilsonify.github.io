@@ -1,0 +1,175 @@
+---
+layout: landing-page
+title: Home
+navigation_weight: 1
+---		
+		<!-- Main -->
+			<article id="main">
+				<header class="special container">
+					<span class="icon fa-bar-chart-o"></span>
+					
+					<h2>This site was created to showcase my interests and projects.</h2>
+					<p>My name is Thomas Wilson.
+					<br /> 
+					I'm an Engineer living in Houston, TX. 
+					<br />
+					I've worked in the semiconductor industry since 2011.
+					<br /> 
+					I am passionate about data analysis and visualization.</p>
+				</header>
+					
+				<!-- One -->
+					<section class="wrapper style2 container special-alt">
+						<div class="row half">
+							<div class="8u">
+							
+								<header>
+									<h2>I solve interesting problems with the tools at hand</h2>
+								</header>
+								<p>I worked at Samsung in Austin, TX in the Dry Etch Department. Etching patterns into silicon wafers in order to create functioning LSI microchips for mobile applications. </p>
+								<footer>
+									<ul class="buttons">
+										<li><a href="{{ site.baseurl }}/resume.html" class="button">Resume</a></li>
+									</ul>
+								</footer>
+							
+							</div>
+							<div class="4u skel-cell-important">
+							
+								<ul class="featured-icons">
+									<li><span class="icon fa-flask"><span class="label">Feature 2</span></span></li>
+									<li><span class="icon fa-cogs"><span class="label">Feature 6</span></span></li>
+									<li><span class="icon fa-usd"><span class="label">Feature 1</span></span></li>
+									<li><span class="icon fa-linux"><span class="label">Feature 5</span></span></li>
+									<li><span class="icon fa-coffee"><span class="label">Feature 3</span></span></li>
+									<li><span class="icon fa-music"><span class="label">Feature 4</span></span></li>
+								</ul>
+							
+							</div>				
+						</div>
+					</section>
+					
+				<!-- Two -->
+					<section class="wrapper style1 container special">
+						<div class="row">
+							<div class="4u">							
+								<section>
+									<span class="icon featured fa-check"></span>
+									<header>
+										<h3>Problem Solving</h3>
+									</header>
+									<p>Sed tristique purus vitae volutpat ultrices. Aliquam eu elit eget arcu commodo suscipit dolor nec nibh. Proin a ullamcorper elit, et sagittis turpis. Integer ut fermentum.</p>
+								</section>
+							
+							</div>
+							<div class="4u">
+							
+								<section>
+									<span class="icon featured fa-check"></span>
+									<header>
+										<h3>Leadership</h3>
+									</header>
+									<p>Sed tristique purus vitae volutpat ultrices. Aliquam eu elit eget arcu commodo suscipit dolor nec nibh. Proin a ullamcorper elit, et sagittis turpis. Integer ut fermentum.</p>
+								</section>
+							
+							</div>
+							<div class="4u">
+							
+								<section>
+									<span class="icon featured fa-check"></span>
+									<header>
+										<h3>Project Management</h3>
+									</header>
+									<p>Sed tristique purus vitae volutpat ultrices. Aliquam eu elit eget arcu commodo suscipit dolor nec nibh. Proin a ullamcorper elit, et sagittis turpis. Integer ut fermentum.</p>
+								</section>
+							
+							</div>
+						</div>
+					</section>
+					
+				<!-- Three -->
+					<section class="wrapper style3 container special">
+					
+						<header class="major">
+							<h2>Recent Posts</h2>
+						</header>
+						
+						{% assign postsNum = 3 %}
+						{% for p in site.posts limit: 6 %}
+						{% assign n = postsNum | modulo: 2 %}
+						{% if n > 0 %}
+						<div class="row">
+						{% endif %}
+							<div class="6u">
+								<section>
+									<a href="{{ site.baseurl }}{{ p.url }}" class="image featured"><img src="{{ site.basreurl }}{{ p.image }}" alt="" /></a>
+									<header>
+										<h3>{{ p.title }}</h3>
+									</header>
+									<p>{{ p.exerpt }}</p>
+								</section>
+						  </div>
+              {% assign postsNum = postsNum | plus: 1 %}
+							{% endfor %}
+
+							<div class="6u">					
+								<section>
+									<a href="#" class="image featured"><img src="images/pic02.jpg" alt="" /></a>
+									<header>
+										<h3>An Airport Terminal</h3>
+									</header>
+									<p>Sed tristique purus vitae volutpat commodo suscipit amet sed nibh. Proin a ullamcorper sed blandit. Sed tristique purus vitae volutpat commodo suscipit ullamcorper sed blandit lorem ipsum dolore.</p>
+								</section>
+
+							</div>
+						</div>
+						<div class="row">
+							<div class="6u">
+							
+								<section>
+									<a href="#" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
+									<header>
+										<h3>Hyperspace Travel</h3>
+									</header>
+									<p>Sed tristique purus vitae volutpat commodo suscipit amet sed nibh. Proin a ullamcorper sed blandit. Sed tristique purus vitae volutpat commodo suscipit ullamcorper sed blandit lorem ipsum dolore.</p>
+								</section>
+
+							</div>
+							<div class="6u">
+							
+								<section>
+									<a href="#" class="image featured"><img src="images/pic04.jpg" alt="" /></a>
+									<header>
+										<h3>And Another Train</h3>
+									</header>
+									<p>Sed tristique purus vitae volutpat commodo suscipit amet sed nibh. Proin a ullamcorper sed blandit. Sed tristique purus vitae volutpat commodo suscipit ullamcorper sed blandit lorem ipsum dolore.</p>
+								</section>
+
+							</div>
+						</div>
+
+						<footer class="major">
+							<ul class="buttons">
+								<li><a href="#" class="button">See More</a></li>
+							</ul>
+						</footer>
+					
+					</section>
+					
+			</article>
+
+		<!-- CTA -->
+			<section id="cta">
+			
+				<header>
+					<h2>hire me</h2>
+					<p>Proin a ullamcorper elit, et sagittis turpis integer ut fermentum.</p>
+				</header>
+				<footer>
+					<ul class="buttons">
+						<li><a href="tom.andrew.wilson@gmail.com" class="button special">tom.andrew.wilson@gmail.com</a></li>
+						<li><a href="{{ site.baseurl }}/resume.html" class="button">resume</a></li>
+					</ul>
+				</footer>
+			
+			</section>

@@ -1,4 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="http://jekyllrb.com" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-03-28T15:21:55-05:00</updated><id>http://localhost:4000/</id><title type="html">Thomas Wilson</title><subtitle>Engineer</subtitle><entry><title type="html">Temperature Control</title><link href="http://localhost:4000/projects/2017/03/27/temperature-control.html" rel="alternate" type="text/html" title="Temperature Control" /><published>2017-03-27T07:02:00-05:00</published><updated>2017-03-27T07:02:00-05:00</updated><id>http://localhost:4000/projects/2017/03/27/temperature-control</id><content type="html" xml:base="http://localhost:4000/projects/2017/03/27/temperature-control.html">Problem: stovetop temperature is poorly controlled resulting in inconsistent cooking times and results.
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>wilsonify</title>
+    <description>Engineer</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 28 Mar 2017 21:08:34 -0500</pubDate>
+    <lastBuildDate>Tue, 28 Mar 2017 21:08:34 -0500</lastBuildDate>
+    <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>Temperature Control</title>
+        <description>Problem: stovetop temperature is poorly controlled resulting in inconsistent cooking times and results.
 
 Solution: Use an Arduino to control the temperature of pan.
 
@@ -17,9 +30,43 @@ Any temperature difference between the ends will create a current in the wire. I
 My plan is to control the temperature just below the smoke point of what every oil is being used.
 ![]({{site.baseurl}}/assets/images/smokepoint.png)
 
-&amp;nbsp;</content><author><name></name></author><category term="cooking" /><category term="arduino" /><summary type="html">Problem: stovetop temperature is poorly controlled resulting in inconsistent cooking times and results.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/smokepoint.png" /></entry><entry><title type="html">Toilets</title><link href="http://localhost:4000/howitworks/2017/03/23/toilets.html" rel="alternate" type="text/html" title="Toilets" /><published>2017-03-23T00:00:00-05:00</published><updated>2017-03-23T00:00:00-05:00</updated><id>http://localhost:4000/howitworks/2017/03/23/toilets</id><content type="html" xml:base="http://localhost:4000/howitworks/2017/03/23/toilets.html">I thought it would be fun to talk about toilets since we interact with them daily, yet, mostly ignore them and their operation.
+&amp;nbsp;
+</description>
+        <pubDate>Mon, 27 Mar 2017 07:02:00 -0500</pubDate>
+        <link>http://localhost:4000/projects/2017/03/27/temperature-control.html</link>
+        <guid isPermaLink="true">http://localhost:4000/projects/2017/03/27/temperature-control.html</guid>
+        
+        <category>cooking</category>
+        
+        <category>arduino</category>
+        
+        
+        <category>projects</category>
+        
+      </item>
+    
+      <item>
+        <title>Toilets</title>
+        <description>I thought it would be fun to talk about toilets since we interact with them daily, yet, mostly ignore them and their operation.
 
-![]({{site.baseurl}}/assets/images/Toilet-Flow-Diagram.png)</content><author><name></name></author><category term="toilets" /><category term="diagrams" /><summary type="html">I thought it would be fun to talk about toilets since we interact with them daily, yet, mostly ignore them and their operation.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/Toilet-Flow-Diagram.png" /></entry><entry><title type="html">3x3x3</title><link href="http://localhost:4000/rubicscube/2017/03/21/3x3x3.html" rel="alternate" type="text/html" title="3x3x3" /><published>2017-03-21T00:00:00-05:00</published><updated>2017-03-21T00:00:00-05:00</updated><id>http://localhost:4000/rubicscube/2017/03/21/3x3x3</id><content type="html" xml:base="http://localhost:4000/rubicscube/2017/03/21/3x3x3.html">Here is my approach to solving a standard 3x3x3 Rubic's Cube. There's nothing new here. It's just how I learned about 12 years ago.
+![]({{site.baseurl}}/assets/images/Toilet-Flow-Diagram.png)
+</description>
+        <pubDate>Thu, 23 Mar 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/howitworks/2017/03/23/toilets.html</link>
+        <guid isPermaLink="true">http://localhost:4000/howitworks/2017/03/23/toilets.html</guid>
+        
+        <category>toilets</category>
+        
+        <category>diagrams</category>
+        
+        
+        <category>howitworks</category>
+        
+      </item>
+    
+      <item>
+        <title>3x3x3</title>
+        <description>Here is my approach to solving a standard 3x3x3 Rubic's Cube. There's nothing new here. It's just how I learned about 12 years ago.
 
 &lt;!--more--&gt;
 
@@ -83,4 +130,18 @@ I add the word loop() when there is a step or combination that can be repeated i
 
 ##   permute last 3 edges
 - clockwise version: B2 U  L' R | B2 | L R' U  B2
-- counter clockwise: B2 U' L' R | B2 | L R' U' B2</content><author><name></name></author><category term="puzzles" /><summary type="html">Here is my approach to solving a standard 3x3x3 Rubic’s Cube. There’s nothing new here. It’s just how I learned about 12 years ago.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/3x3x3-225x300.jpg" /></entry></feed>
+- counter clockwise: B2 U' L' R | B2 | L R' U' B2
+</description>
+        <pubDate>Tue, 21 Mar 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/rubicscube/2017/03/21/3x3x3.html</link>
+        <guid isPermaLink="true">http://localhost:4000/rubicscube/2017/03/21/3x3x3.html</guid>
+        
+        <category>puzzles</category>
+        
+        
+        <category>rubicscube</category>
+        
+      </item>
+    
+  </channel>
+</rss>

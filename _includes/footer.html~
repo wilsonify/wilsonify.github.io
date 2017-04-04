@@ -2,7 +2,7 @@
 <footer id="footer">
 
     <ul class="icons">
-        <h3> find me elsewhere on the internet </h3>
+        <h3> find me elsewhere </h3>
         <li><a href="https://www.linkedin.com/in/tom-andrew-wilson"      class="icon circle fa-linkedin">   <span class="label">LinkedIn</span></a></li>
         <li><a href="https://www.facebook.com/thomwilson"                class="icon circle fa-facebook">   <span class="label">Facebook</span></a></li>
         <li><a href="https://www.youtube.com/user/tomwilsonification"    class="icon circle fa-youtube">    <span class="label">Youtube</span></a></li>
@@ -11,6 +11,10 @@
         <li><a href="https://www.instagram.com/slaphappyhubris"          class="icon circle fa-instagram">  <span class="label">Instagram</span></a></li>
         <li><a href="https://www.reddit.com/r/wilsonify"                 class="icon circle fa-reddit">     <span class="label">Reddit</span></a></li>
     </ul>
+
+
+
+
 
     <ul class="copyright">
         <li>&copy; 2017</li><li>Template: <a href="https://github.com/old-jekyll-templates/Twenty-Jekyll-Theme">Twenty</a></li>

@@ -164,7 +164,7 @@
 				font-size: 3.5em;
 				opacity: 0.35;
 			}
-
+			
 	footer > :last-child {
 		margin-bottom: 0;
 	}
@@ -272,7 +272,7 @@
 			.image.featured img {
 				display: block;
 				width: 100%;
-			}
+			}	
 
 /* Icon */
 
@@ -1101,3 +1101,10 @@
 			display: inline-block;
 			width: 5em;
 		}
+
+
+  article header img.portrait {
+	         display: block;
+				margin: 0 auto;
+				border-radius: 50%;
+		}	

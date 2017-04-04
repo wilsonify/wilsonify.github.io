@@ -1,0 +1,49 @@
+---
+layout: landing-page
+title: Thomas Wilson
+navigation_weight: 1
+---		
+		<!-- Main -->
+			<article id="main">
+				<!-- Three -->
+				{% for t in site.tags %}
+					<section class="wrapper style3 container special"  id={{ t[0] }}>
+						<header class="major">
+							<h2>{{ t[0] }}</h2>
+						</header>
+				{% assign postsNum = 3 %}
+				{% for p in t[1] %}
+				{% assign n = postsNum | modulo: 2 %}
+	{% if n > 0 %} <div class="row"> {% endif %}
+							<div class="6u">
+								<section>
+									<a href="{{ site.baseurl }}{{ p.url }}" ><img src="{{ site.baseurl }}{{ p.thumbnail }}" alt="" /></a>
+									<header>
+										<h3>{{ p.title }}</h3>
+									</header>
+									<p>{{ p.exerpt }}</p>
+								</section>
+						  </div>
+   {% if n == 0 %} </div> {% endif %}				
+                  {% assign postsNum = postsNum | plus: 1 %}
+	               {% endfor %}
+        				{% endfor %}				
+					</section>
+					
+			</article>
+		<!--
+      -->
+		<!-- CTA -->
+			<section id="cta">
+			
+				<header id="hire">
+					<h2>hire me</h2>
+				</header>
+				<footer>
+					<ul class="buttons">
+						<li><a href="mailto:tom.andrew.wilson@gmail.com" class="button special">email</a></li>
+						<li><a href="{{ site.baseurl }}/resume.html" class="button">resume</a></li>
+					</ul>
+				</footer>
+			
+			</section>

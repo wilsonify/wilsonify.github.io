@@ -31,6 +31,7 @@
     <meta name="viewport" content="width=device-width">
     <link rel="canonical" href="http://localhost:4000/projects/2017/03/27/temperature-control.html">
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 
 </head>
 
@@ -38,7 +39,7 @@
   <body class="no-sidebar">
 
     <header id="header">
-				<h1 id="logo"><a href="/">Wilsonify <span>by Thomas Wilson</span></a></h1>
+				<h1 id="logo"><a href="https://jekyllrb.com/"><a>made using Jekyll</a></h1>
 				<nav id="nav">
 					<ul>
             
@@ -46,9 +47,13 @@
               
             
               
+            
+              
+            
+              
                 <li> <a href="/"
                  
-                 >Home</a> </li>
+                 >Thomas Wilson</a> </li>
               
             
               
@@ -63,7 +68,7 @@
 							<ul>
 							  
 							  <li class="submenu">
-							    <a href="/rubicscube">rubicscube</a>
+							    <a href="/categories.html#rubicscube">rubicscube</a>
    							  <ul>
    							    
 										  <li><a href="/rubicscube/2017/03/21/3x3x3.html">3x3x3</a></li>
@@ -72,7 +77,7 @@
 								</li>
 						    
 							  <li class="submenu">
-							    <a href="/howitworks">howitworks</a>
+							    <a href="/categories.html#howitworks">howitworks</a>
    							  <ul>
    							    
 										  <li><a href="/howitworks/2017/03/23/toilets.html">Toilets</a></li>
@@ -81,10 +86,19 @@
 								</li>
 						    
 							  <li class="submenu">
-							    <a href="/projects">projects</a>
+							    <a href="/categories.html#projects">projects</a>
    							  <ul>
    							    
 										  <li><a href="/projects/2017/03/27/temperature-control.html">Temperature Control</a></li>
+										
+									</ul>
+								</li>
+						    
+							  <li class="submenu">
+							    <a href="/categories.html#MachineLearning">MachineLearning</a>
+   							  <ul>
+   							    
+										  <li><a href="/machinelearning/2017/04/03/Recurrent-Neural-Networks.html">Recurrent Neural Network</a></li>
 										
 									</ul>
 								</li>
@@ -97,7 +111,7 @@
 							<ul>
 							  
 							  <li class="submenu">
-							    <a href="/puzzles">puzzles</a>
+							    <a href="/tags.html#puzzles">puzzles</a>
    							  <ul>
    							    
 										  <li><a href="/rubicscube/2017/03/21/3x3x3.html">3x3x3</a></li>
@@ -106,7 +120,7 @@
 								</li>
 						    
 							  <li class="submenu">
-							    <a href="/toilets">toilets</a>
+							    <a href="/tags.html#toilets">toilets</a>
    							  <ul>
    							    
 										  <li><a href="/howitworks/2017/03/23/toilets.html">Toilets</a></li>
@@ -115,7 +129,7 @@
 								</li>
 						    
 							  <li class="submenu">
-							    <a href="/diagrams">diagrams</a>
+							    <a href="/tags.html#diagrams">diagrams</a>
    							  <ul>
    							    
 										  <li><a href="/howitworks/2017/03/23/toilets.html">Toilets</a></li>
@@ -124,7 +138,16 @@
 								</li>
 						    
 							  <li class="submenu">
-							    <a href="/cooking">cooking</a>
+							    <a href="/tags.html#FMEA">FMEA</a>
+   							  <ul>
+   							    
+										  <li><a href="/howitworks/2017/03/23/toilets.html">Toilets</a></li>
+										
+									</ul>
+								</li>
+						    
+							  <li class="submenu">
+							    <a href="/tags.html#cooking">cooking</a>
    							  <ul>
    							    
 										  <li><a href="/projects/2017/03/27/temperature-control.html">Temperature Control</a></li>
@@ -133,10 +156,28 @@
 								</li>
 						    
 							  <li class="submenu">
-							    <a href="/arduino">arduino</a>
+							    <a href="/tags.html#arduino">arduino</a>
    							  <ul>
    							    
 										  <li><a href="/projects/2017/03/27/temperature-control.html">Temperature Control</a></li>
+										
+									</ul>
+								</li>
+						    
+							  <li class="submenu">
+							    <a href="/tags.html#music">music</a>
+   							  <ul>
+   							    
+										  <li><a href="/machinelearning/2017/04/03/Recurrent-Neural-Networks.html">Recurrent Neural Network</a></li>
+										
+									</ul>
+								</li>
+						    
+							  <li class="submenu">
+							    <a href="/tags.html#tensorflow">tensorflow</a>
+   							  <ul>
+   							    
+										  <li><a href="/machinelearning/2017/04/03/Recurrent-Neural-Networks.html">Recurrent Neural Network</a></li>
 										
 									</ul>
 								</li>
@@ -149,13 +190,17 @@
 			</header>
 
     <div class="page-content">
-            <article id="main">
+        <article id="main">
+
   <header class="special container">
     <h2 class="post-title">Temperature Control</h2>
+    
+    <img src="/assets/images/smokepoint.png"/>
+    
     <p class="post-meta">Mar 27, 2017</p>
   </header>
 
-  <section class="style4 wrapper container">
+  <section class="style3 wrapper container">
     <p>Problem: stovetop temperature is poorly controlled resulting in inconsistent cooking times and results.</p>
 
 <p>Solution: Use an Arduino to control the temperature of pan.</p>
@@ -183,6 +228,8 @@ Any temperature difference between the ends will create a current in the wire. I
         
         <a href="/howitworks/2017/03/23/toilets.html" class="post-prev">&larr; Previous post</a> 
         
+        <a href="/machinelearning/2017/04/03/Recurrent-Neural-Networks.html" class="post-next">Next post &rarr;</a> 
+    
     </footer>
 </article>
 
@@ -192,6 +239,7 @@ Any temperature difference between the ends will create a current in the wire. I
 <footer id="footer">
 
     <ul class="icons">
+        <h3> find me elsewhere on the internet </h3>
         <li><a href="https://www.linkedin.com/in/tom-andrew-wilson"      class="icon circle fa-linkedin">   <span class="label">LinkedIn</span></a></li>
         <li><a href="https://www.facebook.com/thomwilson"                class="icon circle fa-facebook">   <span class="label">Facebook</span></a></li>
         <li><a href="https://www.youtube.com/user/tomwilsonification"    class="icon circle fa-youtube">    <span class="label">Youtube</span></a></li>
@@ -201,12 +249,8 @@ Any temperature difference between the ends will create a current in the wire. I
         <li><a href="https://www.reddit.com/r/wilsonify"                 class="icon circle fa-reddit">     <span class="label">Reddit</span></a></li>
     </ul>
 
-
-
-
-
     <ul class="copyright">
-        <li>&copy; Untitled</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+        <li>&copy; 2017</li><li>Template: <a href="https://github.com/old-jekyll-templates/Twenty-Jekyll-Theme">Twenty</a></li>
     </ul>
 
 </footer>

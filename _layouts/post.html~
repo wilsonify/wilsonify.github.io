@@ -22,6 +22,16 @@ layout: default
         {% if page.next %}
         <a href="{{ page.next.url }}" class="post-next">Next post &rarr;</a> {% endif %}
     
+    <ul>
+    {% for c in site.categories %}
+    {% if c[0]==page.categories %}
+    {% for p in c[1] %} 
+    <li>{{ p.title }}</li>
+    {% endfor %}
+    {% endif %}
+    {% endfor %}
+    </ul>
+
     </footer>
 </article>
 

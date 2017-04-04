@@ -5,32 +5,63 @@
     <description>Engineer</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 28 Mar 2017 21:08:34 -0500</pubDate>
-    <lastBuildDate>Tue, 28 Mar 2017 21:08:34 -0500</lastBuildDate>
+    <pubDate>Tue, 04 Apr 2017 11:54:55 -0500</pubDate>
+    <lastBuildDate>Tue, 04 Apr 2017 11:54:55 -0500</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
-        <title>Temperature Control</title>
-        <description>Problem: stovetop temperature is poorly controlled resulting in inconsistent cooking times and results.
+        <title>Recurrent Neural Network</title>
+        <description>&lt;p&gt;After watching this &lt;a href=&quot;https://www.youtube.com/watch?v=vq2nnJ4g6N0&quot;&gt;presentation&lt;/a&gt;, where Martin Görner shows the use of 
+recurrent neural networks to create a new Shakespear play, I was feeling inspired.
+So, I pointed his code a bunch of song lyrics.&lt;/p&gt;
 
-Solution: Use an Arduino to control the temperature of pan.
+&lt;h1 id=&quot;getting-the-lyrics&quot;&gt;Getting the lyrics&lt;/h1&gt;
+&lt;p&gt;First, I used the &lt;a href=&quot;https://docs.genius.com/&quot;&gt;Genius API&lt;/a&gt; to find as many Beatles songs as possible.&lt;/p&gt;
+
+&lt;h1 id=&quot;tensorflow&quot;&gt;Tensorflow&lt;/h1&gt;
+&lt;p&gt;Then I installed google’s Tensorflow&lt;/p&gt;
+
+&lt;h1 id=&quot;training&quot;&gt;Training&lt;/h1&gt;
+&lt;p&gt;I then got to work training my neural network to predict Beatles song lyrics.&lt;/p&gt;
+
+&lt;h1 id=&quot;result&quot;&gt;Result&lt;/h1&gt;
+&lt;p&gt;I think it’s beautiful.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 03 Apr 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/machinelearning/2017/04/03/Recurrent-Neural-Networks.html</link>
+        <guid isPermaLink="true">http://localhost:4000/machinelearning/2017/04/03/Recurrent-Neural-Networks.html</guid>
+        
+        <category>music</category>
+        
+        <category>tensorflow</category>
+        
+        
+        <category>MachineLearning</category>
+        
+      </item>
+    
+      <item>
+        <title>Temperature Control</title>
+        <description>&lt;p&gt;Problem: stovetop temperature is poorly controlled resulting in inconsistent cooking times and results.&lt;/p&gt;
+
+&lt;p&gt;Solution: Use an Arduino to control the temperature of pan.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
-![]({{site.baseurl}}/assets/images/thermocouple.jpg) 
-I started by purchasing a k-type thermocouple from amazon (about $5). I also needed some female connections to connect to my circuit.
+&lt;p&gt;&lt;img src=&quot;/assets/images/thermocouple.jpg&quot; alt=&quot;&quot; /&gt; 
+I started by purchasing a k-type thermocouple from amazon (about $5). I also needed some female connections to connect to my circuit.&lt;/p&gt;
 
-The thermo couple is composed of two wires, each a different alloy of chrome.
+&lt;p&gt;The thermo couple is composed of two wires, each a different alloy of chrome.&lt;/p&gt;
 
-![]({{site.baseurl}}/assets/images/Thermocouple_circuit_Ktype_including_voltmeter_temperature.png)
-Any temperature difference between the ends will create a current in the wire. I should be able to measure the current with my arduino and hopefully use that signal to control the temperature of my pan.
+&lt;p&gt;&lt;img src=&quot;/assets/images/Thermocouple_circuit_Ktype_including_voltmeter_temperature.png&quot; alt=&quot;&quot; /&gt;
+Any temperature difference between the ends will create a current in the wire. I should be able to measure the current with my arduino and hopefully use that signal to control the temperature of my pan.&lt;/p&gt;
 
-&amp;nbsp;
+&lt;p&gt; &lt;/p&gt;
 
-My plan is to control the temperature just below the smoke point of what every oil is being used.
-![]({{site.baseurl}}/assets/images/smokepoint.png)
+&lt;p&gt;My plan is to control the temperature just below the smoke point of what every oil is being used.
+&lt;img src=&quot;/assets/images/smokepoint.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&amp;nbsp;
+&lt;p&gt; &lt;/p&gt;
 </description>
         <pubDate>Mon, 27 Mar 2017 07:02:00 -0500</pubDate>
         <link>http://localhost:4000/projects/2017/03/27/temperature-control.html</link>
@@ -47,9 +78,134 @@ My plan is to control the temperature just below the smoke point of what every o
     
       <item>
         <title>Toilets</title>
-        <description>I thought it would be fun to talk about toilets since we interact with them daily, yet, mostly ignore them and their operation.
+        <description>&lt;p&gt;I thought it would be fun to talk about toilets since we interact with them daily, yet, mostly ignore them and their operation.&lt;/p&gt;
 
-![]({{site.baseurl}}/assets/images/Toilet-Flow-Diagram.png)
+&lt;p&gt;&lt;img src=&quot;/assets/images/Toilet-Flow-Diagram.png&quot; alt=&quot;flow diagram of a common toilet&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;components&quot;&gt;Components:&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;water inlet&lt;/li&gt;
+  &lt;li&gt;diaphram valve&lt;/li&gt;
+  &lt;li&gt;Tank open to atmosphere (usually covered)&lt;/li&gt;
+  &lt;li&gt;Level Indicator with mechanical linkage to diaphram valve(2)&lt;/li&gt;
+  &lt;li&gt;Chain operated stop-check valve&lt;/li&gt;
+  &lt;li&gt;Bowl also open to atmosphere&lt;/li&gt;
+  &lt;li&gt;S-bend outlet pipe to sewer/septic system&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;operation&quot;&gt;Operation&lt;/h3&gt;
+&lt;p&gt;During normal operation, the water level in the tank is controlled by feedback from the level indicator to the inlet valve.
+When the level is low, the valve is open filling the tank. When the level is high, the valve is closed.
+The water level in the bowl is determined by hydrostic pressure in the s-bend of the outlet pipe. The toilet is flushed by manipulating the check valve releasing water from the tank to the bowl. When the bowl water level exceeds the height of the s-bend, a syphon effect empties both the bowl and the tank. once the check valve is closed, the tank refills to the appropriate level so the process can be repeated as needed.&lt;/p&gt;
+
+&lt;h1 id=&quot;fmea&quot;&gt;FMEA&lt;/h1&gt;
+&lt;p&gt;It may seem contrived to talk about Failure modes and effects of a toilet, but actually a running or overflowing toilet can cause a lot of damage not to mention inconvenience.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Failure Mode&lt;/th&gt;
+      &lt;th&gt;Effects&lt;/th&gt;
+      &lt;th&gt;Cause(s)&lt;/th&gt;
+      &lt;th&gt;Occ&lt;/th&gt;
+      &lt;th&gt;Det&lt;/th&gt;
+      &lt;th&gt;Sev&lt;/th&gt;
+      &lt;th&gt;RPN&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Low inlet pressure&lt;/td&gt;
+      &lt;td&gt;long tank refill time&lt;/td&gt;
+      &lt;td&gt;utility issue&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;24&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;high inlet pressure&lt;/td&gt;
+      &lt;td&gt;Short tank refill time, tank overflow, noisy&lt;/td&gt;
+      &lt;td&gt;utility issue&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;64&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;valve stuck open/leaking&lt;/td&gt;
+      &lt;td&gt;tank overflow, wasted water, noisy&lt;/td&gt;
+      &lt;td&gt;level indicator failure, corroded valve&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;168&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;valve stuck closed&lt;/td&gt;
+      &lt;td&gt;unable to flush bowl&lt;/td&gt;
+      &lt;td&gt;level indicator failure, corroded valve&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;105&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;low tank level&lt;/td&gt;
+      &lt;td&gt;unable to flush bowl&lt;/td&gt;
+      &lt;td&gt;inlet valve closed, check valve open&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;50&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;high tank level&lt;/td&gt;
+      &lt;td&gt;tank overflow&lt;/td&gt;
+      &lt;td&gt;inlet valve open, check valve closed&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;80&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;check valve stuck closed&lt;/td&gt;
+      &lt;td&gt;unable to flush bowl&lt;/td&gt;
+      &lt;td&gt;broken chain, corroded valve&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;30&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;check valve stuck open/leaking&lt;/td&gt;
+      &lt;td&gt;bowl overflow, unable to refill tank, unable to flush bowl&lt;/td&gt;
+      &lt;td&gt;corroded or physically blocked check valve&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;125&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;bowl level low&lt;/td&gt;
+      &lt;td&gt;unable to flush bowl&lt;/td&gt;
+      &lt;td&gt;outlet leak&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;bowl level high&lt;/td&gt;
+      &lt;td&gt;bowl overflow&lt;/td&gt;
+      &lt;td&gt;clogged outlet, check valve open&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;144&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 </description>
         <pubDate>Thu, 23 Mar 2017 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/howitworks/2017/03/23/toilets.html</link>
@@ -59,6 +215,8 @@ My plan is to control the temperature just below the smoke point of what every o
         
         <category>diagrams</category>
         
+        <category>FMEA</category>
+        
         
         <category>howitworks</category>
         
@@ -66,71 +224,148 @@ My plan is to control the temperature just below the smoke point of what every o
     
       <item>
         <title>3x3x3</title>
-        <description>Here is my approach to solving a standard 3x3x3 Rubic's Cube. There's nothing new here. It's just how I learned about 12 years ago.
+        <description>&lt;p&gt;Here is my approach to solving a standard 3x3x3 Rubic’s Cube. There’s nothing new here. It’s just how I learned about 12 years ago.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
-I try to use as few algorithms as possible, but it is handy to be familiar with the
-[notation](&quot;https://ruwix.com/the-rubiks-cube/notation/&quot;).
+&lt;p&gt;I try to use as few algorithms as possible, but it is handy to be familiar with the
+&lt;a href=&quot;&amp;quot;https://ruwix.com/the-rubiks-cube/notation/&amp;quot;&quot;&gt;notation&lt;/a&gt;.&lt;/p&gt;
 
-I add the word loop() when there is a step or combination that can be repeated indefinitely.
+&lt;p&gt;I add the word loop() when there is a step or combination that can be repeated indefinitely.&lt;/p&gt;
 
-![]({{site.baseurl}}/assets/images/3x3x3-225x300.jpg)
+&lt;p&gt;&lt;img src=&quot;/assets/images/3x3x3-225x300.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-# Fundamentals
-- the cube is composed of 26 3-dimensional pieces. 8 corners, 12 Edges, 6 Centers. Stop thinking about each 2D colored square and start thinking in 3D.
-- center pieces do not move, they define color of each side.
+&lt;h1 id=&quot;fundamentals&quot;&gt;Fundamentals&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;the cube is composed of 26 3-dimensional pieces. 8 corners, 12 Edges, 6 Centers. Stop thinking about each 2D colored square and start thinking in 3D.&lt;/li&gt;
+  &lt;li&gt;center pieces do not move, they define color of each side.&lt;/li&gt;
+&lt;/ul&gt;
 
-# Phase 1 - 1st corner
+&lt;h1 id=&quot;phase-1---1st-corner&quot;&gt;Phase 1 - 1st corner&lt;/h1&gt;
  	- place the 1st corner
  	- place 1st 2 edges
  	- place the 3rd edge
  	  - target 1 side
-    - L U L'
-# Phase 2 - 2nd corner
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- L U L' # Phase 2 - 2nd corner
  	- place 2nd corner
  	- place 2 more edges
  	  - target 1 side
-    - F' U2 F
-    - L U L'
+- F' U2 F
+- L U L'
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
 
-# Phase 3 - 2nd layer
+&lt;h1 id=&quot;phase-3---2nd-layer&quot;&gt;Phase 3 - 2nd layer&lt;/h1&gt;
 
-## Edge Parity
-- target 2 unpaired edges (these always occur in pairs)
-  - U' R' U
+&lt;h2 id=&quot;edge-parity&quot;&gt;Edge Parity&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;target 2 unpaired edges (these always occur in pairs)
+    &lt;ul&gt;
+      &lt;li&gt;U’ R’ U&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
-##   Place next corner
-- loop(R U)
+&lt;h2 id=&quot;place-next-corner&quot;&gt;Place next corner&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;loop(R U)&lt;/li&gt;
+&lt;/ul&gt;
 
-##   place 2 more edges
-- target 1 side
-  - U R loop(U) R' U'
-  - U2 R' loop(U) R U2
+&lt;h2 id=&quot;place-2-more-edges&quot;&gt;place 2 more edges&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;target 1 side
+    &lt;ul&gt;
+      &lt;li&gt;U R loop(U) R’ U’&lt;/li&gt;
+      &lt;li&gt;U2 R’ loop(U) R U2&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
-##   Place last corner of 2nd layer
-- orient corner
-  - loop(U R2 U' R)
-- place
-  - R' U' R U
+&lt;h2 id=&quot;place-last-corner-of-2nd-layer&quot;&gt;Place last corner of 2nd layer&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;orient corner
+    &lt;ul&gt;
+      &lt;li&gt;loop(U R2 U’ R)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;place
+    &lt;ul&gt;
+      &lt;li&gt;R’ U’ R U&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
-##   Place last edge of 2nd layer
-- U R U R loop(U) R' U' R' U'
+&lt;h2 id=&quot;place-last-edge-of-2nd-layer&quot;&gt;Place last edge of 2nd layer&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;U R U R loop(U) R’ U’ R’ U’&lt;/li&gt;
+&lt;/ul&gt;
 
-# Phase 4 - Last Layer
+&lt;h1 id=&quot;phase-4---last-layer&quot;&gt;Phase 4 - Last Layer&lt;/h1&gt;
 
-##   permute 2 corners
-- target 2 adjacent corners
-  - left version:  R  U' L' | U  | R' U' L
-  - right version: L' U  R  | U' | L  U  R'
+&lt;h2 id=&quot;permute-2-corners&quot;&gt;permute 2 corners&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;target 2 adjacent corners
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;table&gt;
+          &lt;tbody&gt;
+            &lt;tr&gt;
+              &lt;td&gt;left version:  R  U’ L’&lt;/td&gt;
+              &lt;td&gt;U&lt;/td&gt;
+              &lt;td&gt;R’ U’ L&lt;/td&gt;
+            &lt;/tr&gt;
+          &lt;/tbody&gt;
+        &lt;/table&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;table&gt;
+          &lt;tbody&gt;
+            &lt;tr&gt;
+              &lt;td&gt;right version: L’ U  R&lt;/td&gt;
+              &lt;td&gt;U’&lt;/td&gt;
+              &lt;td&gt;L  U  R’&lt;/td&gt;
+            &lt;/tr&gt;
+          &lt;/tbody&gt;
+        &lt;/table&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
-##   Orient remaining corners
-- target 1 corner 1st
-  - R U R' U R U2 R'
+&lt;h2 id=&quot;orient-remaining-corners&quot;&gt;Orient remaining corners&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;target 1 corner 1st
+    &lt;ul&gt;
+      &lt;li&gt;R U R’ U R U2 R’&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
-##   permute last 3 edges
-- clockwise version: B2 U  L' R | B2 | L R' U  B2
-- counter clockwise: B2 U' L' R | B2 | L R' U' B2
+&lt;h2 id=&quot;permute-last-3-edges&quot;&gt;permute last 3 edges&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;clockwise version: B2 U  L’ R&lt;/td&gt;
+          &lt;td&gt;B2&lt;/td&gt;
+          &lt;td&gt;L R’ U  B2&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;counter clockwise: B2 U’ L’ R&lt;/td&gt;
+          &lt;td&gt;B2&lt;/td&gt;
+          &lt;td&gt;L R’ U’ B2&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 </description>
         <pubDate>Tue, 21 Mar 2017 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/rubicscube/2017/03/21/3x3x3.html</link>

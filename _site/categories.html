@@ -8,7 +8,7 @@
 -->
 
 <head>
-    <title>Toilets</title>
+    <title>Categories</title>
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta name="description" content="Engineer">
     <meta name="keywords" content="" />
@@ -29,14 +29,14 @@
     <!--[if lte IE 8]><link rel="stylesheet" href="/css/ie/v8.css" /><![endif]-->
     <!--[if lte IE 9]><link rel="stylesheet" href="/css/ie/v9.css" /><![endif]-->
     <meta name="viewport" content="width=device-width">
-    <link rel="canonical" href="http://localhost:4000/howitworks/2017/03/23/toilets.html">
+    <link rel="canonical" href="http://localhost:4000/categories.html">
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
     <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 
 </head>
 
 
-  <body class="no-sidebar">
+  <body class="index">
 
     <header id="header">
 				<h1 id="logo"><a href="https://jekyllrb.com/"><a>made using Jekyll</a></h1>
@@ -189,160 +189,146 @@
 				</nav>
 			</header>
 
-    <div class="page-content">
-        <article id="main">
+    <!-- Banner -->		
+<section id="banner">
 
-  <header class="special container">
-    <h2 class="post-title">Toilets</h2>
-    
-    <img src="/assets/images/Toilet-Flow-Diagram.png"/>
-    
-    <p class="post-meta">Mar 23, 2017</p>
-  </header>
+    <!--
+        ".inner" is set up as an inline-block so it automatically expands
+        in both directions to fit whatever's inside it. This means it won't
+        automatically wrap lines, so be sure to use line breaks where
+        appropriate (<br />).
+    -->
+    <div class="inner">
 
-  <section class="style3 wrapper container">
-    <p>I thought it would be fun to talk about toilets since we interact with them daily, yet, mostly ignore them and their operation.</p>
-
-<p><img src="/assets/images/Toilet-Flow-Diagram.png" alt="flow diagram of a common toilet" /></p>
-
-<h3 id="components">Components:</h3>
-<ol>
-  <li>water inlet</li>
-  <li>diaphram valve</li>
-  <li>Tank open to atmosphere (usually covered)</li>
-  <li>Level Indicator with mechanical linkage to diaphram valve(2)</li>
-  <li>Chain operated stop-check valve</li>
-  <li>Bowl also open to atmosphere</li>
-  <li>S-bend outlet pipe to sewer/septic system</li>
-</ol>
-
-<h3 id="operation">Operation</h3>
-<p>During normal operation, the water level in the tank is controlled by feedback from the level indicator to the inlet valve.
-When the level is low, the valve is open filling the tank. When the level is high, the valve is closed.
-The water level in the bowl is determined by hydrostic pressure in the s-bend of the outlet pipe. The toilet is flushed by manipulating the check valve releasing water from the tank to the bowl. When the bowl water level exceeds the height of the s-bend, a syphon effect empties both the bowl and the tank. once the check valve is closed, the tank refills to the appropriate level so the process can be repeated as needed.</p>
-
-<h1 id="fmea">FMEA</h1>
-<p>It may seem contrived to talk about Failure modes and effects of a toilet, but actually a running or overflowing toilet can cause a lot of damage not to mention inconvenience.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>Failure Mode</th>
-      <th>Effects</th>
-      <th>Cause(s)</th>
-      <th>Occ</th>
-      <th>Det</th>
-      <th>Sev</th>
-      <th>RPN</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Low inlet pressure</td>
-      <td>long tank refill time</td>
-      <td>utility issue</td>
-      <td>1</td>
-      <td>8</td>
-      <td>3</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>high inlet pressure</td>
-      <td>Short tank refill time, tank overflow, noisy</td>
-      <td>utility issue</td>
-      <td>1</td>
-      <td>8</td>
-      <td>8</td>
-      <td>64</td>
-    </tr>
-    <tr>
-      <td>valve stuck open/leaking</td>
-      <td>tank overflow, wasted water, noisy</td>
-      <td>level indicator failure, corroded valve</td>
-      <td>3</td>
-      <td>7</td>
-      <td>8</td>
-      <td>168</td>
-    </tr>
-    <tr>
-      <td>valve stuck closed</td>
-      <td>unable to flush bowl</td>
-      <td>level indicator failure, corroded valve</td>
-      <td>3</td>
-      <td>7</td>
-      <td>5</td>
-      <td>105</td>
-    </tr>
-    <tr>
-      <td>low tank level</td>
-      <td>unable to flush bowl</td>
-      <td>inlet valve closed, check valve open</td>
-      <td>2</td>
-      <td>5</td>
-      <td>5</td>
-      <td>50</td>
-    </tr>
-    <tr>
-      <td>high tank level</td>
-      <td>tank overflow</td>
-      <td>inlet valve open, check valve closed</td>
-      <td>2</td>
-      <td>5</td>
-      <td>8</td>
-      <td>80</td>
-    </tr>
-    <tr>
-      <td>check valve stuck closed</td>
-      <td>unable to flush bowl</td>
-      <td>broken chain, corroded valve</td>
-      <td>3</td>
-      <td>2</td>
-      <td>5</td>
-      <td>30</td>
-    </tr>
-    <tr>
-      <td>check valve stuck open/leaking</td>
-      <td>bowl overflow, unable to refill tank, unable to flush bowl</td>
-      <td>corroded or physically blocked check valve</td>
-      <td>5</td>
-      <td>5</td>
-      <td>5</td>
-      <td>125</td>
-    </tr>
-    <tr>
-      <td>bowl level low</td>
-      <td>unable to flush bowl</td>
-      <td>outlet leak</td>
-      <td>2</td>
-      <td>1</td>
-      <td>5</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>bowl level high</td>
-      <td>bowl overflow</td>
-      <td>clogged outlet, check valve open</td>
-      <td>9</td>
-      <td>2</td>
-      <td>8</td>
-      <td>144</td>
-    </tr>
-  </tbody>
-</table>
-
-  </section>
-    
-    <footer>
-        
-        <a href="/rubicscube/2017/03/21/3x3x3.html" class="post-prev">&larr; Previous post</a> 
-        
-        <a href="/projects/2017/03/27/temperature-control.html" class="post-next">Next post &rarr;</a> 
-    
-    </footer>
-</article>
-
+        <header>
+            <h2> 
+               Categories
+              </h2>
+        </header>
+        <p>Process Engineer</p>
+        <footer>
+            <ul class="buttons vertical">
+                <li><a href="#main" class="button fit scrolly">Tell Me More</a></li>
+                <li><a href="#recent" class="button fit scrolly">Recent Posts</a></li>
+            </ul>
+        </footer>
 
     </div>
+
+</section>
+
+
+    <div class="page-content">
+        		<!-- Main -->
+			<article id="main">
+				<!-- Three -->
+				
+					<section class="wrapper style3 container special"  id=rubicscube>
+						<header class="major">
+							<h2>rubicscube</h2>
+						</header>
+				
+				
+				
+	 <div class="row"> 
+							<div class="6u">
+								<section>
+									<a href="/rubicscube/2017/03/21/3x3x3.html" ><img src="/assets/images/thumbnails/thumb.3x3x3-225x300.jpg" alt="" /></a>
+									<header>
+										<h3>3x3x3</h3>
+									</header>
+									<p></p>
+								</section>
+						  </div>
+   				
+                  
+	               
+        				
+					<section class="wrapper style3 container special"  id=howitworks>
+						<header class="major">
+							<h2>howitworks</h2>
+						</header>
+				
+				
+				
+	 <div class="row"> 
+							<div class="6u">
+								<section>
+									<a href="/howitworks/2017/03/23/toilets.html" ><img src="/assets/images/thumbnails/thumb.Toilet-Flow-Diagram.png" alt="" /></a>
+									<header>
+										<h3>Toilets</h3>
+									</header>
+									<p></p>
+								</section>
+						  </div>
+   				
+                  
+	               
+        				
+					<section class="wrapper style3 container special"  id=projects>
+						<header class="major">
+							<h2>projects</h2>
+						</header>
+				
+				
+				
+	 <div class="row"> 
+							<div class="6u">
+								<section>
+									<a href="/projects/2017/03/27/temperature-control.html" ><img src="/assets/images/thumbnails/thumb.smokepoint.png" alt="" /></a>
+									<header>
+										<h3>Temperature Control</h3>
+									</header>
+									<p></p>
+								</section>
+						  </div>
+   				
+                  
+	               
+        				
+					<section class="wrapper style3 container special"  id=MachineLearning>
+						<header class="major">
+							<h2>MachineLearning</h2>
+						</header>
+				
+				
+				
+	 <div class="row"> 
+							<div class="6u">
+								<section>
+									<a href="/machinelearning/2017/04/03/Recurrent-Neural-Networks.html" ><img src="/assets/images/thumbnails/thumb.RNN.png" alt="" /></a>
+									<header>
+										<h3>Recurrent Neural Network</h3>
+									</header>
+									<p></p>
+								</section>
+						  </div>
+   				
+                  
+	               
+        								
+					</section>
+					
+			</article>
+		<!--
+      -->
+		<!-- CTA -->
+			<section id="cta">
+			
+				<header id="hire">
+					<h2>hire me</h2>
+				</header>
+				<footer>
+					<ul class="buttons">
+						<li><a href="mailto:tom.andrew.wilson@gmail.com" class="button special">email</a></li>
+						<li><a href="/resume.html" class="button">resume</a></li>
+					</ul>
+				</footer>
+			
+			</section>
+
+    </div>
+
     <!-- Footer -->
 <footer id="footer">
 

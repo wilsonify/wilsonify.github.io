@@ -103,7 +103,7 @@ navigation_weight: 1
 	{% if n > 0 %} <div class="row"> {% endif %}
 							<div class="6u">
 								<section>
-									<a href="{{ site.baseurl }}{{ p.url }}" ><img src="{{ site.baseurl }}{{ p.thumbnail }}" alt="" /></a>
+									<a href="{{ site.baseurl }}{{ p.url }}" class="image featured" ><img src="{{ site.baseurl }}{{ p.thumbnail }}" alt="" /></a>
 									<header>
 										<h3>{{ p.title }}</h3>
 									</header>

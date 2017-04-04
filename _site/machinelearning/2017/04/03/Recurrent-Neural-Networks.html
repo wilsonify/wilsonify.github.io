@@ -8,7 +8,7 @@
 -->
 
 <head>
-    <title>Toilets</title>
+    <title>Recurrent Neural Network</title>
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta name="description" content="Engineer">
     <meta name="keywords" content="" />
@@ -29,7 +29,7 @@
     <!--[if lte IE 8]><link rel="stylesheet" href="/css/ie/v8.css" /><![endif]-->
     <!--[if lte IE 9]><link rel="stylesheet" href="/css/ie/v9.css" /><![endif]-->
     <meta name="viewport" content="width=device-width">
-    <link rel="canonical" href="http://localhost:4000/howitworks/2017/03/23/toilets.html">
+    <link rel="canonical" href="http://localhost:4000/machinelearning/2017/04/03/Recurrent-Neural-Networks.html">
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
     <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 
@@ -193,150 +193,95 @@
         <article id="main">
 
   <header class="special container">
-    <h2 class="post-title">Toilets</h2>
+    <h2 class="post-title">Recurrent Neural Network</h2>
     
-    <img src="/assets/images/Toilet-Flow-Diagram.png"/>
+    <img src="/assets/images/RNN.png"/>
     
-    <p class="post-meta">Mar 23, 2017</p>
+    <p class="post-meta">Apr 3, 2017</p>
   </header>
 
   <section class="style3 wrapper container">
-    <p>I thought it would be fun to talk about toilets since we interact with them daily, yet, mostly ignore them and their operation.</p>
+    <p>After watching this <a href="https://www.youtube.com/watch?v=vq2nnJ4g6N0">presentation</a>, where Martin Görner shows the use of 
+recurrent neural networks to create a new Shakespear play, I was feeling inspired.
+So, I pointed his code a bunch of song lyrics.</p>
 
-<p><img src="/assets/images/Toilet-Flow-Diagram.png" alt="flow diagram of a common toilet" /></p>
+<h1 id="background">Background</h1>
+<p>I’ve been interested in Neural Networks for a long time because, fundamentally, they are similar to a procress controller.</p>
 
-<h3 id="components">Components:</h3>
-<ol>
-  <li>water inlet</li>
-  <li>diaphram valve</li>
-  <li>Tank open to atmosphere (usually covered)</li>
-  <li>Level Indicator with mechanical linkage to diaphram valve(2)</li>
-  <li>Chain operated stop-check valve</li>
-  <li>Bowl also open to atmosphere</li>
-  <li>S-bend outlet pipe to sewer/septic system</li>
-</ol>
+<script type="math/tex; mode=display">Output = Input \times Weight + Bias</script>
 
-<h3 id="operation">Operation</h3>
-<p>During normal operation, the water level in the tank is controlled by feedback from the level indicator to the inlet valve.
-When the level is low, the valve is open filling the tank. When the level is high, the valve is closed.
-The water level in the bowl is determined by hydrostic pressure in the s-bend of the outlet pipe. The toilet is flushed by manipulating the check valve releasing water from the tank to the bowl. When the bowl water level exceeds the height of the s-bend, a syphon effect empties both the bowl and the tank. once the check valve is closed, the tank refills to the appropriate level so the process can be repeated as needed.</p>
+<p>It’s just a line. For multiple inputs/outputs, the equation is the same, but the are matrices (or tensors). Why stop there, send the output of one “neuron” to the input of another and you’ve got a “deep” network.</p>
 
-<h1 id="fmea">FMEA</h1>
-<p>It may seem contrived to talk about Failure modes and effects of a toilet, but actually a running or overflowing toilet can cause a lot of damage not to mention inconvenience.</p>
+<h1 id="a-recurrent-network-is">A “recurrent” network is</h1>
+<blockquote>
+  <p>a neural network where the output of one neuron is appended to the original input and passed to the next neuron.</p>
+</blockquote>
 
-<table>
-  <thead>
-    <tr>
-      <th>Failure Mode</th>
-      <th>Effects</th>
-      <th>Cause(s)</th>
-      <th>Occ</th>
-      <th>Det</th>
-      <th>Sev</th>
-      <th>RPN</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Low inlet pressure</td>
-      <td>long tank refill time</td>
-      <td>utility issue</td>
-      <td>1</td>
-      <td>8</td>
-      <td>3</td>
-      <td>24</td>
-    </tr>
-    <tr>
-      <td>high inlet pressure</td>
-      <td>Short tank refill time, tank overflow, noisy</td>
-      <td>utility issue</td>
-      <td>1</td>
-      <td>8</td>
-      <td>8</td>
-      <td>64</td>
-    </tr>
-    <tr>
-      <td>valve stuck open/leaking</td>
-      <td>tank overflow, wasted water, noisy</td>
-      <td>level indicator failure, corroded valve</td>
-      <td>3</td>
-      <td>7</td>
-      <td>8</td>
-      <td>168</td>
-    </tr>
-    <tr>
-      <td>valve stuck closed</td>
-      <td>unable to flush bowl</td>
-      <td>level indicator failure, corroded valve</td>
-      <td>3</td>
-      <td>7</td>
-      <td>5</td>
-      <td>105</td>
-    </tr>
-    <tr>
-      <td>low tank level</td>
-      <td>unable to flush bowl</td>
-      <td>inlet valve closed, check valve open</td>
-      <td>2</td>
-      <td>5</td>
-      <td>5</td>
-      <td>50</td>
-    </tr>
-    <tr>
-      <td>high tank level</td>
-      <td>tank overflow</td>
-      <td>inlet valve open, check valve closed</td>
-      <td>2</td>
-      <td>5</td>
-      <td>8</td>
-      <td>80</td>
-    </tr>
-    <tr>
-      <td>check valve stuck closed</td>
-      <td>unable to flush bowl</td>
-      <td>broken chain, corroded valve</td>
-      <td>3</td>
-      <td>2</td>
-      <td>5</td>
-      <td>30</td>
-    </tr>
-    <tr>
-      <td>check valve stuck open/leaking</td>
-      <td>bowl overflow, unable to refill tank, unable to flush bowl</td>
-      <td>corroded or physically blocked check valve</td>
-      <td>5</td>
-      <td>5</td>
-      <td>5</td>
-      <td>125</td>
-    </tr>
-    <tr>
-      <td>bowl level low</td>
-      <td>unable to flush bowl</td>
-      <td>outlet leak</td>
-      <td>2</td>
-      <td>1</td>
-      <td>5</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>bowl level high</td>
-      <td>bowl overflow</td>
-      <td>clogged outlet, check valve open</td>
-      <td>9</td>
-      <td>2</td>
-      <td>8</td>
-      <td>144</td>
-    </tr>
-  </tbody>
-</table>
+<p>They work remarkably well for language processing (think google translate).</p>
+
+<h1 id="getting-the-lyrics">Getting the lyrics</h1>
+<p>First, I used the <a href="https://docs.genius.com/">Genius API</a> to find lyrics for as many Beatles songs as possible. You can see my code on <a href="https://github.com/wilsonify/lyrics">github</a></p>
+
+<h1 id="tensorflow">Tensorflow</h1>
+<p>Next, I installed google’s <a href="https://www.tensorflow.org/install/">Tensorflow</a>.</p>
+
+<h1 id="training">Training</h1>
+<p>I then got to work training my neural network to predict Beatles song lyrics.</p>
+
+<h1 id="result">Result</h1>
+<p>I think it’s beautiful. My network is far from optimal, but the fact that it outputs anything that resembles a song lyric in english is amazing.</p>
+
+<blockquote>
+  <p>Title:I’m Down</p>
+
+  <p>[Verse 1]
+I seed to lose her alone
+Well I know I’m gone you live be anymore
+I know I’ll never be the same
+If I don’t get her back again</p>
+
+  <p>[Verse 2]
+I can tell you baby what you weal in the short
+In our love you made me take
+I want you so bad It’s not to be back
+I’m so glad you walk in your door
+I never get you in so my eight</p>
+
+  <p>Now give me money
+That’s what I want
+That’s what I want</p>
+</blockquote>
+
+<blockquote>
+  <p>Title:That Goes On Girl</p>
+
+  <p>[Chorus]
+Hol’ up. Don’t you know it’s gonna be alright
+Alright, alright</p>
+
+  <p>[Verse 1]
+And you want it, any time you use it
+Out you got the wall
+I’m a bog the boat as you want to do
+As go and is not something
+Things you bet eeery to say
+It’s today just things are going
+They’re gonna pain at you dest</p>
+
+  <p>[Bridge]
+I feel as tough you ought to know
+That I’ve been good, as good as I can be
+Then I could you like no time
+I won’t get it just to hear, you know
+won’t you please, don’t you stop le Girl</p>
+</blockquote>
 
   </section>
     
     <footer>
         
-        <a href="/rubicscube/2017/03/21/3x3x3.html" class="post-prev">&larr; Previous post</a> 
+        <a href="/projects/2017/03/27/temperature-control.html" class="post-prev">&larr; Previous post</a> 
         
-        <a href="/projects/2017/03/27/temperature-control.html" class="post-next">Next post &rarr;</a> 
     
     </footer>
 </article>

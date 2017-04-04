@@ -34,7 +34,7 @@
 							<ul>
 							  {% for t in site.tags %}
 							  <li class="submenu">
-							    <a href="{{ site.baseurl }}/tags.html#{{ t[0] }}">{{ t[0] }}</a>
+							    <a href="{{ site.baseurl }}/tags.html{{ t[0] }}">{{ t[0] }}</a>
    							  <ul>
    							    {% for p in t[1] %}
 										  <li><a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a></li>

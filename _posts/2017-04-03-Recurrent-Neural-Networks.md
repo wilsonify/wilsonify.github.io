@@ -3,7 +3,7 @@ layout: post
 image: /assets/images/RNN.png
 title: Recurrent Neural Network
 date: 2017-04-03
-categories: "machine learning"
+categories: "MachineLearning"
 tags:
 - music
 - tensorflow

@@ -1,10 +1,12 @@
 ---
 layout: landing-page
 title: Thomas Wilson
+tagline: Process Engineer
 navigation_weight: 1
 ---		
 		<!-- Main -->
 			<article id="main">
+
 				<header class="special container">
 					<span class="icon fa-bar-chart-o"></span>
 					
@@ -97,13 +99,14 @@ navigation_weight: 1
 							<h2>Recent Posts</h2>
 						</header>
 						
+												
 						{% assign postsNum = 3 %}
 						{% for p in site.posts limit: 6 %}
 						{% assign n = postsNum | modulo: 2 %}
 	{% if n > 0 %} <div class="row"> {% endif %}
 							<div class="6u">
 								<section>
-									<a href="{{ site.baseurl }}{{ p.url }}" class="image featured" ><img src="{{ site.baseurl }}{{ p.thumbnail }}" alt="" /></a>
+									<a href="{{ site.baseurl }}{{ p.url }}" ><img src="{{ site.baseurl }}{{ p.thumbnail }}" alt="" /></a>
 									<header>
 										<h3>{{ p.title }}</h3>
 									</header>
@@ -116,7 +119,7 @@ navigation_weight: 1
 
 						<footer class="major">
 							<ul class="buttons">
-								<li><a href="#" class="button">See More</a></li>
+								<li><a href="{{ site.baseurl }}/chronological.html" class="button">See More</a></li>
 							</ul>
 						</footer>
 					

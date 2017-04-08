@@ -33,3 +33,8 @@ My plan is to control the temperature just below the smoke point of what every o
 ![]({{site.baseurl}}/assets/images/smokepoint.png)
 
 &nbsp;
+
+Since the termocouple output will be just a few millivolts. I will need to amplify the signal closer to the 5mV range for the arduino to record it properly.
+
+
+

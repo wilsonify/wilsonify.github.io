@@ -4,10 +4,11 @@ title: Resume
 navigation_weight: 4
 ---
 
+
 # Thomas Andrew Wilson
 
  [LinkedIn](www.linkedin.com/in/tom-andrew-wilson)
- [Website](https://wilsonify.github.io/blog)
+ [Website]({{ site.url }})
 
 ## Process Engineer
 *Technically sophisticated engineering professional with a 5+ year history of client-facing new product integration, process improvement, data analysis, problem-solving, and change point management*
@@ -20,7 +21,7 @@ navigation_weight: 4
 ## Technical Proficiencies
 
 |--------------|----------------------------------------------------------------|
-|Platforms:    |Linux, Windows                                                  |
+|Platforms:    |Linux, Windows, MacOS, Android                                                  |
 |Applications: |JMP, Spotfire, Tableau, AutoCAD, SAP, Visio, Project, SharePoint| 
 |Languages:    |Python, SQL, R,  SAS, VBA, Matlab                               |
 |Other Tools:  |SPC, APC, DOE, FMEA, Lean, Hadoop                               |

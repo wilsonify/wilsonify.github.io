@@ -15,7 +15,7 @@
               {% else %} {{ site.title }}
               {% endif %}</h2>
         </header>
-        <p>{{ site.tagline }}</p>
+        <p>{% if page.tagline %} {{ page.tagline }} {% endif %}</p>
         <footer>
             <ul class="buttons vertical">
                 <li><a href="#main" class="button fit scrolly">Tell Me More</a></li>

@@ -36,4 +36,5 @@ There are a few key plot points that are not obvious:
 Other than these, the rest of the film is actually easy to plot. There are very few characters, they spend the entire film together, and they typically time travel for half a day once per day. 
 
 While I'm at it, why not make the plot look hand drawn.
+
 ![]({{ site.baseurl }}/assets/images/XKCDPrimerLine.png)

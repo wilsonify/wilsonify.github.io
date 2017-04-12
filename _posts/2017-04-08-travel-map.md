@@ -38,9 +38,4 @@ looks like:
 |2017|Texas|Houston|29.704918|-95.393291|
 
 
-![](https://github.com/wilsonify/blog/blob/master/assets/images/PlacesIveBeen.png)
-
-
-
-
 

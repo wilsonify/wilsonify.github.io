@@ -5,9 +5,166 @@
     <description>Engineer</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 05 Apr 2017 17:02:16 -0500</pubDate>
-    <lastBuildDate>Wed, 05 Apr 2017 17:02:16 -0500</lastBuildDate>
+    <pubDate>Mon, 17 Apr 2017 20:48:27 -0500</pubDate>
+    <lastBuildDate>Mon, 17 Apr 2017 20:48:27 -0500</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>Movie Narrative Chart</title>
+        <description>&lt;h2 id=&quot;comic&quot;&gt;Comic&lt;/h2&gt;
+&lt;p&gt;There is a great &lt;a href=&quot;https://xkcd.com/657&quot;&gt;xkcd&lt;/a&gt; about plotting the relationships of characters in a movie. I find it a very elegant way to present information that is otherwise a complicated network of changing relationships.&lt;/p&gt;
+
+&lt;h2 id=&quot;primer&quot;&gt;Primer&lt;/h2&gt;
+&lt;p&gt;Of course, the punchline is the movie Primer which involves a substantial amount of time travel.
+It’s just a bunch of scribbles. Ha Ha.&lt;/p&gt;
+
+&lt;p&gt;Back when I first watched the movie (2011?), I stumbled upon this &lt;a href=&quot;http://unrealitymag.com/wp-content/uploads/2011/09/primer-chart.jpg&quot;&gt;chart&lt;/a&gt; explaining the timelines. There are at least 9, by the way.
+While better than the xkcd gag at explaining the movie, I wanted to make an honest attempt at displaying the information more concisely.&lt;/p&gt;
+
+&lt;h2 id=&quot;result-spoilers&quot;&gt;Result (Spoilers)&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/PrimerLine.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There are a few key plot points that are not obvious:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Abe has a failsafe time machine (box)&lt;/li&gt;
+  &lt;li&gt;Aaron discovers and uses the failsafe very early (this is only his 2nd time using a box).&lt;/li&gt;
+  &lt;li&gt;Aaron takes both boxes with him in the failsafe (he calls this “recycling”)&lt;/li&gt;
+  &lt;li&gt;Aaron replaces himself and the failsafe. (rats in the attic?…no)&lt;/li&gt;
+  &lt;li&gt;Upon witnessing Granger go into a coma, Abe decides to use the false failsafe placed by Aaron.&lt;/li&gt;
+  &lt;li&gt;Aaron uses his own failsafe bringing audio recordings with him. (This is Bill and Ted style time travel. Just think about recording conversations and your future self will deliver it to you.)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Other than these, the rest of the film is actually easy to plot. There are very few characters, they spend the entire film together, and they typically time travel for half a day once per day.&lt;/p&gt;
+
+&lt;p&gt;While I’m at it, why not make the plot look hand drawn.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/XKCDPrimerLine.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 12 Apr 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/projects/2017/04/12/movie-narrative-chart.html</link>
+        <guid isPermaLink="true">http://localhost:4000/projects/2017/04/12/movie-narrative-chart.html</guid>
+        
+        <category>movies</category>
+        
+        <category>python</category>
+        
+        
+        <category>projects</category>
+        
+      </item>
+    
+      <item>
+        <title>TravelMap</title>
+        <description>&lt;h1 id=&quot;travels&quot;&gt;travels&lt;/h1&gt;
+
+&lt;p&gt;I wanted to make a digital version of one of large maps where you put actual pins to show where you’ve been.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://matplotlib.org/basemap/users/robin.html&quot;&gt;Basemap&lt;/a&gt; makes that pretty easy.&lt;/p&gt;
+
+&lt;p&gt;My code is on github: &lt;a href=&quot;https://github.com/wilsonify/travels/blob/master/travelmap.py&quot;&gt;travelmap.py&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Here is what the &lt;a href=&quot;https://github.com/wilsonify/travels/blob/master/OhThePlacesIveBeen.csv&quot;&gt;Raw data&lt;/a&gt;
+looks like:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Year&lt;/th&gt;
+      &lt;th&gt;State/Country&lt;/th&gt;
+      &lt;th&gt;Trip/Path&lt;/th&gt;
+      &lt;th&gt;Latitude&lt;/th&gt;
+      &lt;th&gt;Longitude&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1987&lt;/td&gt;
+      &lt;td&gt;Illinois&lt;/td&gt;
+      &lt;td&gt;Home&lt;/td&gt;
+      &lt;td&gt;41.439691&lt;/td&gt;
+      &lt;td&gt;-88.949886&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1990&lt;/td&gt;
+      &lt;td&gt;Wisconsin&lt;/td&gt;
+      &lt;td&gt;Dells&lt;/td&gt;
+      &lt;td&gt;43.627705&lt;/td&gt;
+      &lt;td&gt;-89.773422&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1997&lt;/td&gt;
+      &lt;td&gt;Wisconsin&lt;/td&gt;
+      &lt;td&gt;I90&lt;/td&gt;
+      &lt;td&gt;43.51265&lt;/td&gt;
+      &lt;td&gt;-89.530689&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2014&lt;/td&gt;
+      &lt;td&gt;Montana&lt;/td&gt;
+      &lt;td&gt;Bozeman&lt;/td&gt;
+      &lt;td&gt;45.713946&lt;/td&gt;
+      &lt;td&gt;-111.068216&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2015&lt;/td&gt;
+      &lt;td&gt;Brazil&lt;/td&gt;
+      &lt;td&gt;Rio De Jenaro&lt;/td&gt;
+      &lt;td&gt;-22.985197&lt;/td&gt;
+      &lt;td&gt;-43.207486&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2015&lt;/td&gt;
+      &lt;td&gt;California&lt;/td&gt;
+      &lt;td&gt;Los Angeles&lt;/td&gt;
+      &lt;td&gt;34.044468&lt;/td&gt;
+      &lt;td&gt;-118.460819&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2016&lt;/td&gt;
+      &lt;td&gt;Virginia&lt;/td&gt;
+      &lt;td&gt;Arlington&lt;/td&gt;
+      &lt;td&gt;38.880196&lt;/td&gt;
+      &lt;td&gt;-77.119795&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2016&lt;/td&gt;
+      &lt;td&gt;California&lt;/td&gt;
+      &lt;td&gt;Los Angeles&lt;/td&gt;
+      &lt;td&gt;34.044468&lt;/td&gt;
+      &lt;td&gt;-118.460819&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2016&lt;/td&gt;
+      &lt;td&gt;Tennessee&lt;/td&gt;
+      &lt;td&gt;Nashville&lt;/td&gt;
+      &lt;td&gt;36.134572&lt;/td&gt;
+      &lt;td&gt;-86.805819&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2017&lt;/td&gt;
+      &lt;td&gt;Texas&lt;/td&gt;
+      &lt;td&gt;Houston&lt;/td&gt;
+      &lt;td&gt;29.704918&lt;/td&gt;
+      &lt;td&gt;-95.393291&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+</description>
+        <pubDate>Sat, 08 Apr 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/projects/2017/04/08/travel-map.html</link>
+        <guid isPermaLink="true">http://localhost:4000/projects/2017/04/08/travel-map.html</guid>
+        
+        <category>travel</category>
+        
+        <category>python</category>
+        
+        
+        <category>projects</category>
+        
+      </item>
     
       <item>
         <title>Recurrent Neural Network</title>
@@ -121,6 +278,9 @@ Any temperature difference between the ends will create a current in the wire. I
 &lt;img src=&quot;/assets/images/smokepoint.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;Since the termocouple output will be just a few millivolts. I will need to amplify the signal closer to the 5mV range for the arduino to record it properly.&lt;/p&gt;
+
 </description>
         <pubDate>Mon, 27 Mar 2017 07:02:00 -0500</pubDate>
         <link>http://localhost:4000/projects/2017/03/27/temperature-control.html</link>
@@ -288,35 +448,56 @@ The water level in the bowl is determined by hydrostic pressure in the s-bend of
 &lt;!--more--&gt;
 
 &lt;p&gt;I try to use as few algorithms as possible, but it is handy to be familiar with the
-&lt;a href=&quot;&amp;quot;https://ruwix.com/the-rubiks-cube/notation/&amp;quot;&quot;&gt;notation&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&quot;https://ruwix.com/the-rubiks-cube/notation/&quot;&gt;notation&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;images were created using this &lt;a href=&quot;https://rubiks-cube-solver.com/&quot;&gt;site&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;I add the word loop() when there is a step or combination that can be repeated indefinitely.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/3x3x3-225x300.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;fundamentals&quot;&gt;Fundamentals&lt;/h1&gt;
+&lt;h2 id=&quot;fundamentals&quot;&gt;Fundamentals&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;the cube is composed of 26 3-dimensional pieces. 8 corners, 12 Edges, 6 Centers. Stop thinking about each 2D colored square and start thinking in 3D.&lt;/li&gt;
   &lt;li&gt;center pieces do not move, they define color of each side.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&quot;phase-1---1st-corner&quot;&gt;Phase 1 - 1st corner&lt;/h1&gt;
- 	- place the 1st corner
- 	- place 1st 2 edges
- 	- place the 3rd edge
- 	  - target 1 side
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- L U L' # Phase 2 - 2nd corner
+&lt;h2 id=&quot;phase-1---1st-corner&quot;&gt;Phase 1 - 1st corner&lt;/h2&gt;
+ 	- place the 1st corner and find the 1st 3 edges
+&lt;p&gt;&lt;img src=&quot;/assets/images/Rubik/01-1stCorner.png&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;starting with the red/white/blue corner&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;place 1st, 2nd, and 3rd edges 
+by aligning 1 color ( there are three sides that can move freely without moving the 1st corner. )
+then move the 1st corner out of the way temporarily.
+for example, F loop(U) F’ will place the UR edge.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/Rubik/02-3Edges.png&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;the Left, Back, and Down sides can still move freely&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;phase-2---2nd-corner&quot;&gt;Phase 2 - 2nd corner&lt;/h2&gt;
  	- place 2nd corner
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/Rubik/03-2ndCorner.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
  	- place 2 more edges
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/Rubik/04-4thEdgeTargeted.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/Rubik/05-4thEdgePlaced-5thEdgeTargeted.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
  	  - target 1 side
-- F' U2 F
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- F' U2 F
 - L U L'
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 
-&lt;h1 id=&quot;phase-3---2nd-layer&quot;&gt;Phase 3 - 2nd layer&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/Rubik/06-5thEdgePlaced.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;edge-parity&quot;&gt;Edge Parity&lt;/h2&gt;
+&lt;h2 id=&quot;phase-3---2nd-layer&quot;&gt;Phase 3 - 2nd layer&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/Rubik/07-CrossPhase.png&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;rotate the cube so you can hold it by the solved portion and move the remaining 2 sides easily&lt;/em&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;edge-parity&quot;&gt;Edge Parity&lt;/h4&gt;
 &lt;ul&gt;
   &lt;li&gt;target 2 unpaired edges (these always occur in pairs)
     &lt;ul&gt;
@@ -325,12 +506,20 @@ The water level in the bowl is determined by hydrostic pressure in the s-bend of
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;place-next-corner&quot;&gt;Place next corner&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/Rubik/08-1stEdgePairTargeted.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/Rubik/09-2ndEdgePairTargeted.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/Rubik/10-CrossComplete.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;place-next-corner&quot;&gt;Place next corner&lt;/h4&gt;
 &lt;ul&gt;
   &lt;li&gt;loop(R U)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;place-2-more-edges&quot;&gt;place 2 more edges&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/Rubik/11-3rdCorner.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;place-2-more-edges&quot;&gt;place 2 more edges&lt;/h4&gt;
 &lt;ul&gt;
   &lt;li&gt;target 1 side
     &lt;ul&gt;
@@ -340,7 +529,13 @@ The water level in the bowl is determined by hydrostic pressure in the s-bend of
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;place-last-corner-of-2nd-layer&quot;&gt;Place last corner of 2nd layer&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/Rubik/12-6thEdgeTargeted.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/Rubik/13-6thEdgePlaced-7thEdgeTargeted.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/Rubik/14-7thEdgePlaced.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;place-last-corner-of-2nd-layer&quot;&gt;Place last corner of 2nd layer&lt;/h4&gt;
 &lt;ul&gt;
   &lt;li&gt;orient corner
     &lt;ul&gt;
@@ -354,44 +549,38 @@ The water level in the bowl is determined by hydrostic pressure in the s-bend of
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;place-last-edge-of-2nd-layer&quot;&gt;Place last edge of 2nd layer&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/Rubik/15-4thCorner.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;place-last-edge-of-2nd-layer&quot;&gt;Place last edge of 2nd layer&lt;/h4&gt;
 &lt;ul&gt;
   &lt;li&gt;U R U R loop(U) R’ U’ R’ U’&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&quot;phase-4---last-layer&quot;&gt;Phase 4 - Last Layer&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/Rubik/16-8thEdgeTargeted.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;permute-2-corners&quot;&gt;permute 2 corners&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/Rubik/17-8thEdgePlacing.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/Rubik/18-8thEdgePlaced.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;phase-4---last-layer&quot;&gt;Phase 4 - Last Layer&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/Rubik/19-topLayer.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;permute-2-corners&quot;&gt;permute 2 corners&lt;/h4&gt;
 &lt;ul&gt;
   &lt;li&gt;target 2 adjacent corners
     &lt;ul&gt;
-      &lt;li&gt;
-        &lt;table&gt;
-          &lt;tbody&gt;
-            &lt;tr&gt;
-              &lt;td&gt;left version:  R  U’ L’&lt;/td&gt;
-              &lt;td&gt;U&lt;/td&gt;
-              &lt;td&gt;R’ U’ L&lt;/td&gt;
-            &lt;/tr&gt;
-          &lt;/tbody&gt;
-        &lt;/table&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;table&gt;
-          &lt;tbody&gt;
-            &lt;tr&gt;
-              &lt;td&gt;right version: L’ U  R&lt;/td&gt;
-              &lt;td&gt;U’&lt;/td&gt;
-              &lt;td&gt;L  U  R’&lt;/td&gt;
-            &lt;/tr&gt;
-          &lt;/tbody&gt;
-        &lt;/table&gt;
-      &lt;/li&gt;
+      &lt;li&gt;left version:  R  U’ L’ | U  | R’ U’ L&lt;/li&gt;
+      &lt;li&gt;right version: L’ U  R  | U’ | L  U  R’&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;orient-remaining-corners&quot;&gt;Orient remaining corners&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/Rubik/20-PermuteCornersTargeted.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/Rubik/21-CornersPermuted.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;orient-remaining-corners&quot;&gt;Orient remaining corners&lt;/h4&gt;
 &lt;ul&gt;
   &lt;li&gt;target 1 corner 1st
     &lt;ul&gt;
@@ -400,31 +589,24 @@ The water level in the bowl is determined by hydrostic pressure in the s-bend of
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;permute-last-3-edges&quot;&gt;permute last 3 edges&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/Rubik/22-OrientCornersTargeted1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/Rubik/23-OrientCornersTargeted2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/Rubik/24-CornersOriented.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;permute-last-3-edges&quot;&gt;permute last 3 edges&lt;/h4&gt;
 &lt;ul&gt;
-  &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;clockwise version: B2 U  L’ R&lt;/td&gt;
-          &lt;td&gt;B2&lt;/td&gt;
-          &lt;td&gt;L R’ U  B2&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;counter clockwise: B2 U’ L’ R&lt;/td&gt;
-          &lt;td&gt;B2&lt;/td&gt;
-          &lt;td&gt;L R’ U’ B2&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/li&gt;
+  &lt;li&gt;clockwise version: B2 U  L’ R | B2 | L R’ U  B2&lt;/li&gt;
+  &lt;li&gt;counter clockwise: B2 U’ L’ R | B2 | L R’ U’ B2&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/Rubik/25-LastEdgesTargeted.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/Rubik/26-FinalMoveTargeted.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/Rubik/27-Solved.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
 </description>
         <pubDate>Tue, 21 Mar 2017 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/rubicscube/2017/03/21/3x3x3.html</link>

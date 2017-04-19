@@ -5,3 +5,4 @@ tagline: "Process Engineer"
 theme: jekyll-theme-tactile
 gems: ['jekyll-github-metadata']
 markdown: kramdown
+excerpt_separator: <!--more-->

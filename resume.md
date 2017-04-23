@@ -8,10 +8,13 @@ navigation_weight: 4
 # Thomas Andrew Wilson
 
  [LinkedIn](www.linkedin.com/in/tom-andrew-wilson)
- [Website]({{ site.url }})
+ 
+ [Personal Website]({{ site.url }})
+ 
+ [upwork](https://www.upwork.com/o/profiles/users/_~01d8072d62e13f3eae)
 
-## Process Engineer
-*Technically sophisticated engineering professional with a 5+ year history of client-facing new product integration, process improvement, data analysis, problem-solving, and change point management*
+## Data Engineer
+*Technically sophisticated engineering professional with more than 5 years experience in process improvement, data analysis, problem-solving, and change point management.
 
 ## Areas of Expertise
 - Broad knowledge and award-winning achievements in high-volume manufacturing, with competency in chemical processes, project management, problem-solving, and data analysis. 
@@ -24,7 +27,7 @@ navigation_weight: 4
 |Platforms:    |Linux, Windows, MacOS, Android                                                  |
 |Applications: |JMP, Spotfire, Tableau, AutoCAD, SAP, Visio, Project, SharePoint| 
 |Languages:    |Python, SQL, R,  SAS, VBA, Matlab                               |
-|Other Tools:  |SPC, APC, DOE, FMEA, Lean, Hadoop                               |
+|Other Tools:  |SPC, APC, DOE, FMEA                              |
 
 
 # Professional Experience
@@ -32,7 +35,8 @@ navigation_weight: 4
 #### Plasma Etch Process Engineer III (2011 – 2016)
 Orchestrated continuous improvement in the quality, cost, and production of fluorine based etching of  low-k silicon-oxides used in the fabrication of thin copper wires while addressing international clients’ new product integration needs. Managed complex engineering projects, resolving problems through root cause identification, design of experiments, and big data analysis. Developed change point management plans for process changes. 
 Key Achievements:
-- Awarded corporate awards during consecutive quarters between Q3-2015 and Q1-2016 which recognized 2% improved yield valued at $2,000,000 annually, 73% defect reduction, and world-class new product integration respectively.
+- Awarded multiple corporate awards which recognized 2% improved yield valued at $2,000,000 
+annually, 73% defect reduction, and world-class new product integration respectively.
 - Spearheaded $100,000 savings per device, using breakthrough ideas for eliminating the use of sample wafers during new product integration.
 - Reduced by 90% the man-days of new product setup time.
 - Saved $4,800,000/ year by reducing process variation 80% (1 Ppk improved to 1.8 Ppk) thus eliminating scrap.

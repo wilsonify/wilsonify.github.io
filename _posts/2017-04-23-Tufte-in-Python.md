@@ -2,7 +2,7 @@
 layout: post
 title: "Tufte in Python"
 date: 2017-04-23
-image: /assets/images/minimalLinePlotPython.png
+image: /assets/images/minimalBoxplot.png
 thumbnail: /assets/images/thumbnails/thumb.minimalLinePlotPython.png
 categories: stats
 tags:
@@ -19,6 +19,23 @@ I greatly admire [Edward Tufte](https://en.wikipedia.org/wiki/Edward_Tufte).
 After running across [Tufte in R](/home/thom/site/wilsonify/wilsonify.github.io/_posts/2017-04-18-one-hundered-year-flood.md). I thought it would be a fun challenge to port the plots to python.
 
 <!--more-->
+
+# imports
+
+I'm going to need some libraries.
+
+
+```../
+import numpy as np
+import pandas as pd
+from matplotlib import pyplot as plt
+from matplotlib import ticker as mtick
+
+#just to use R datasets
+from rpy2.robjects.packages import importr
+import rpy2.robjects as ro
+import pandas.rpy.common as com
+```
 
 ## Minimal line plot 
 I've left the original R code in the comments.
@@ -75,14 +92,7 @@ plt.show()
 ## Quartile-frame scatterplot 
 
 
-{% highlight python linenos %}
-
-import numpy as np
-from matplotlib import pyplot as plt
-from matplotlib import ticker as mtick
-from rpy2.robjects.packages import importr
-import rpy2.robjects as ro
-import pandas.rpy.common as com
+{% highlight python %}
 
 ro.r('data(mtcars)')
 data = com.load_data('mtcars')
@@ -121,13 +131,6 @@ plt.show()
 
 
 ```python
-import numpy as np
-from matplotlib import pyplot as plt
-from matplotlib import ticker as mtick
-from rpy2.robjects.packages import importr
-import rpy2.robjects as ro
-import pandas as pd
-
 ro.r('data(mtcars)')
 data = pd.rpy.common.load_data('mtcars')
 
@@ -176,15 +179,7 @@ This one was a bit more difficult.
 I gave up on replicating the exact axis in favor of a just getting a decent histogram on each axis.
 
 ```python
-import numpy as np
-from matplotlib import pyplot as plt
-from matplotlib import ticker as mtick
-import pandas as pd
 
-#just to use R datasets
-from rpy2.robjects.packages import importr
-import rpy2.robjects as ro
-import pandas.rpy.common as com
 
 ro.r('data(faithful)')
 data=com.load_data('faithful')
@@ -230,5 +225,94 @@ plt.show()
 
 ![]({{ site.baseurl }}/assets/images/marginalHistogramScatterplotPython.png)
 
+
+## Minimal Boxplot
+
+This was tougher than I thought it would be.
+The R code doesn't line up well this time, so I removed it from the comments.
+
+```python
+#import data from R
+ro.r('data(quakes)')
+data=com.load_data('quakes')
+
+#initialize the figure and axes/subplot
+fig=plt.figure(figsize=(10,6)) 
+ax=fig.add_subplot(111)
+
+#use pandas boxplot. it's a little nicer than matplotlib's
+bp=data.boxplot(column='stations'
+             ,by='mag'
+             ,ax=ax
+             ,grid=False
+             ,showfliers=False
+             ,showbox=False
+             ,showcaps=False
+             ,widths=0.005
+             ,return_type='dict')
+
+#loop through wisker lines. could not get whiskerprops={'color':'k'} to work.
+for w in bp['stations']['whiskers']:
+    w.set_color('k')
+
+#loop through medians to create markers
+for m in bp['stations']['medians']:
+    m.set_marker('o')
+    m.set_markerfacecolor('k')
+    m.set_markeredgecolor('k')
+    m.set_markersize(3)
+
+#turn off spines    
+for s in ax.spines.keys():
+    ax.spines[s].set_visible(False)
+
+#set title
+ax.set_title("Number of stations \nreporting Richter Magnitude\nof Fiji earthquakes (n=1000)")
+plt.suptitle("") # remove pandas default title
+
+plt.show()
+```
+
+![]({{ site.baseurl }}/assets/images/minimalBoxplot.png)
+
+## Minimal Bar Chart
+
+```python
+#import data
+ro.r('library(psych)')
+d=ro.r('colMeans(msq[,c(2,7,34,36,42,43,46,55,68)], na.rm = T)*10')
+data=com.convert_robj(d) #data is a Series rather than DataFrame this time
+
+#initialize the figure and axes/subplot
+fig=plt.figure(figsize=(10,6)) 
+ax=fig.add_subplot(111)
+
+# use pandas bar plot
+data.plot.bar(color = '0.75',width=0.4)
+
+#overlay a white grid on the y-axis
+ax.grid(axis='y',c='w')
+
+#rotate the x axis tick labls
+labels = ax.get_xticklabels()
+plt.setp(labels, rotation=0, fontsize=10)
+
+#turn off spines    
+for s in ax.spines.keys():
+    ax.spines[s].set_visible(False)
+
+#set text on the figure in the top left 
+ax.text(x=0
+        ,y=data.max()
+        ,va='top'
+        ,s="""Average scores
+non negative emotion traits
+from 3896 participants
+(Watson et al., 1988)""")
+plt.show()
+
+```
+
+![]({{ site.baseurl }}/assets/images/minimalBarChart.png)
 
 

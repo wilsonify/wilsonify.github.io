@@ -1,0 +1,22 @@
+<html>
+ <head>
+     <style>
+     div.container{
+         background-color: red;
+         position: relative;
+         -webkit-transition: -webkit-transform 1s ease-in-out;
+                 transition:         transform 1s ease-in-out;
+         }
+
+     div.container:active{
+	     -webkit-transform: rotate(90deg);
+	             transform: rotate(90deg);
+         }
+     </style>    
+</head> 
+ 
+<body>
+  <h3>Click and Hold to Rotate</h3>
+  <div align="center" class="container" style="width: 100; height:100;"></div>
+</body>
+</html>

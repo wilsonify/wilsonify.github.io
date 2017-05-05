@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Schmoyoho Accent on the Yo"
+description: "a curated list"
+---
+
 #AutoTune the News
 [Thin Ice: autotune the news #2](https://www.youtube.com/watch?v=tBb4cjjj1gI)
 [Joe Biden from space: autotune the news #5](https://www.youtube.com/watch?v=3eooXNd0heM)

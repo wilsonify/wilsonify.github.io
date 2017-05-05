@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: landing-page
 title: "Schmoyoho Accent on the Yo"
 description: "a curated list"
 ---

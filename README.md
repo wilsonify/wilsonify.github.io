@@ -8,4 +8,4 @@ Jekyll becomes read/write limited every time an include is used causing build ti
 As my post counts goes up, I intend to remove as many \_includes as possible by merging \_layouts using conditional liquid tags.
 
 ### Theme
-[Twenty]()
+[Twenty](https://html5up.net/twenty)

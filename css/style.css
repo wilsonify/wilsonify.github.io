@@ -1108,3 +1108,8 @@
 				margin: 0 auto;
 				border-radius: 50%;
 		}	
+  code {
+	font-family: monospace;
+	background-color: white;
+}
+

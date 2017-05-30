@@ -5,9 +5,78 @@
     <description>Engineer</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 25 Apr 2017 13:22:09 -0500</pubDate>
-    <lastBuildDate>Tue, 25 Apr 2017 13:22:09 -0500</lastBuildDate>
+    <pubDate>Tue, 30 May 2017 16:34:45 -0500</pubDate>
+    <lastBuildDate>Tue, 30 May 2017 16:34:45 -0500</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>Coffee Recipe</title>
+        <description>&lt;h2 id=&quot;motivation&quot;&gt;Motivation&lt;/h2&gt;
+
+&lt;p&gt;I enjoy coffee, but I find most coffee to be too bitter. This is a symptom of over-extraction.
+Here is my recipe for minimally bitter coffee.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;materials-needed&quot;&gt;Materials needed&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Boiling water&lt;/li&gt;
+  &lt;li&gt;Coffee&lt;/li&gt;
+  &lt;li&gt;Grider&lt;/li&gt;
+  &lt;li&gt;Filter&lt;/li&gt;
+  &lt;li&gt;Pot&lt;/li&gt;
+  &lt;li&gt;Scale&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;grind&quot;&gt;Grind&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/Coffee/1_Grounds.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I have my grider set to the most coarse setting.&lt;/p&gt;
+
+&lt;h1 id=&quot;preheat&quot;&gt;Preheat&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/Coffee/2_Preheat.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Warm up all the glassware with some nearly boiling water.&lt;/p&gt;
+
+&lt;h1 id=&quot;weights&quot;&gt;Weights&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/Coffee/3_Weigh_Grounds.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Weigh out the grounds. I aim for 10:1 water:coffee by mass.&lt;/p&gt;
+
+&lt;h1 id=&quot;first-pour&quot;&gt;First Pour&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/Coffee/4_First_Pour.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The goal here is to clog the filter. About 100g is usually sufficient.&lt;/p&gt;
+
+&lt;h1 id=&quot;stir&quot;&gt;Stir&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/Coffee/5_After_First_Pour.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Give it a swirl to ensure everything is evenly distributed.&lt;/p&gt;
+
+&lt;h1 id=&quot;final-pour&quot;&gt;Final Pour&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/Coffee/6_Final_Pour.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Pour the rest of the water.&lt;/p&gt;
+
+&lt;h1 id=&quot;enjoy&quot;&gt;Enjoy&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/Coffee/7_Enjoy.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Coffee should taste good, not bitter.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 30 May 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/coffee/2017/05/30/Coffee-Recipe.html</link>
+        <guid isPermaLink="true">http://localhost:4000/coffee/2017/05/30/Coffee-Recipe.html</guid>
+        
+        <category>cooking</category>
+        
+        <category>pourover</category>
+        
+        
+        <category>Coffee</category>
+        
+      </item>
     
       <item>
         <title>Tufte in Python</title>

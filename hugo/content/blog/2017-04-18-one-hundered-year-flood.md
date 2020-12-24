@@ -2,8 +2,8 @@
 layout: post
 title: "100 Year Flood"
 date: 2017-04-18
-image: /assets/images//BraysBayouFlow.png
-thumbnail: /assets/images/thumbnails/thumb.BraysBayouHeight.png
+image: /static/images//BraysBayouFlow.png
+thumbnail: /static/images/thumbnails/thumb.BraysBayouHeight.png
 categories: stats
 tags:
 - bayou
@@ -29,7 +29,7 @@ First I tried to directly fit the height data to a normal distribution. This is 
 
 > In 2005, channel modifications began on a three-mile upstream channel segment between Old Westheimer Road and Highway 6 and construction is now complete. Construction began on the first downstream channel segment, from the mouth of Brays Bayou to Lawndale, in the first quarter of 2006. In the second quarter of 2006, construction began on the second downstream channel segment, from the mouth to Lawndale.
 
-![]({{site.baseurl}}/assets/images/BraysBayouHeight.png)
+![]({{site.baseurl}}/static/images/BraysBayouHeight.png)
 
 Technically, floods are defined by volume flow-rate, so let's be more precise.
 
@@ -38,7 +38,7 @@ Technically, floods are defined by volume flow-rate, so let's be more precise.
 Using the same data source, I fit the volume flow rate to a normal distribution. 
 This time it looks more normal across time.
 
-![]({{site.baseurl}}/assets/images//BraysBayouFlow.png)
+![]({{site.baseurl}}/static/images//BraysBayouFlow.png)
 
 
 
@@ -54,11 +54,11 @@ $$ b_2   = b_1 + 2x $$
 $$ \frac{h}{x}  = tan(\theta) $$
 
 
-![]({{site.baseurl}}/assets/images/crossSection.png)
+![]({{site.baseurl}}/static/images/crossSection.png)
 
 If follows that height vs flow fits quadratically.
 
-![]({{site.baseurl}}/assets/images/BraysBayouHeightvsFlow.png)
+![]({{site.baseurl}}/static/images/BraysBayouHeightvsFlow.png)
 
 My original approach (55ft) was quite accurate for data prior to 2005.
 
@@ -68,7 +68,7 @@ The current 100-year flood mark is much lower at 46ft.
 
 This is a slightly different part of the bayou. Data is from Harris County rather than USGS.
 
-![]({{ site.baseurl }}/assets/images/crisisAverted.jpg)
+![]({{ site.baseurl }}/static/images/crisisAverted.jpg)
 
 view my [notebook](https://github.com/wilsonify/flood/blob/master/flood.ipynb)
 

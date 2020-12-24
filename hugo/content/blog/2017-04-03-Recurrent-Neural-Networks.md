@@ -1,7 +1,7 @@
 ---
 layout: post
-image: /assets/images/RNN.png
-thumbnail: /assets/images/thumbnails/thumb.RNN.png
+image: /static/images/RNN.png
+thumbnail: /static/images/thumbnails/thumb.RNN.png
 title: Recurrent Neural Network
 date: 2017-04-03
 categories: "MachineLearning"

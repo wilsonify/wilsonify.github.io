@@ -2,7 +2,7 @@
 layout: post
 title: "Movie Narrative Chart"
 date: 2017-04-12
-thumbnail: /assets/images/thumbnails/thumb.XKCD_movie_narrative_chart_primer.png
+thumbnail: /static/images/thumbnails/thumb.XKCD_movie_narrative_chart_primer.png
 categories: projects
 tags:
 - movies
@@ -22,7 +22,7 @@ While better than the xkcd gag at explaining the movie, I wanted to make an hone
 
 ## Result (Spoilers)
 
-![]({{ site.baseurl }}/assets/images/PrimerLine.png)
+![]({{ site.baseurl }}/static/images/PrimerLine.png)
 
 There are a few key plot points that are not obvious:
 
@@ -37,4 +37,4 @@ Other than these, the rest of the film is actually easy to plot. There are very 
 
 While I'm at it, why not make the plot look hand drawn.
 
-![]({{ site.baseurl }}/assets/images/XKCDPrimerLine.png)
+![]({{ site.baseurl }}/static/images/XKCDPrimerLine.png)

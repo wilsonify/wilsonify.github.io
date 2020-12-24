@@ -2,8 +2,8 @@
 layout: post
 title: TravelMap
 date: 2017-04-08
-image: /assets/images/PlacesIveBeen.png
-thumbnail: /assets/images/thumbnails/thumb.PlacesIveBeen.png
+image: /static/images/PlacesIveBeen.png
+thumbnail: /static/images/thumbnails/thumb.PlacesIveBeen.png
 categories: projects
 tags:
 - travel

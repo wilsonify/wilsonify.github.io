@@ -1,39 +1,17 @@
 baseURL = "http://localhost:49159/"            # Hosting location.
 languageCode = "en-us"                         # Locale
 tagline = "Data Scientist"                     # Name of the website
-theme = "ananke"                               # Name of the theme
+theme = "ananke"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 10 # this is set low for demonstrating with dummy content. Set to a higher number
 
 [author]                                       # Information about the website author
 email = "tom.andrew.wilson@gmail.com"
 name = "Thomas Wilson"
 location = "Pennsylvania"
 
-[menu]                                        # Menu placement
-  [[menu.main]]                               #    - Name of the menu
-  identifier = "about"                        #       - Identifier
-  name = "About"                              #       - Display name (theme specific key)
-  url = "/about"                              #       - Target URL
-  weight = 1.0                                #       - Sorting order
-
-  [[menu.main]]
-  identifier = "contact"
-  name = "Contact"
-  url = "/contact"
-  weight = 2.0
-
-[params]                                      # Theme specific parameters
-color = "#71B180"
-copyright = "Copyright &copy; 2020 Thomas Wilson. All Rights Reserved."
-
-  [[params.footer]]
-  title = "About"
-  content = ""
-
-  [[params.footer]]
-  title = "Blog Posts"
-  recents = "blog"
-  recentCount = 7.0
-
-  [[params.footer]]
-  title = "Contact Us"
-  contact = true
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"

@@ -1,0 +1,228 @@
+<!doctype html><html lang=en-us><head><meta charset=utf-8><meta http-equiv=x-ua-compatible content="IE=edge,chrome=1"><title>Tufte in Python |</title><meta name=viewport content="width=device-width,minimum-scale=1"><meta name=description content="Motivation
+I greatly admire Edward Tufte.
+After running across Tufte in R. I thought it would be a fun challenge to port the plots to python."><meta name=generator content="Hugo 0.79.1"><meta name=ROBOTS content="NOINDEX, NOFOLLOW"><link href=/dist/css/app.4fc0b62e4b82c997bb0041217cd6b979.css rel=stylesheet><meta property="og:title" content="Tufte in Python"><meta property="og:description" content="Motivation
+I greatly admire Edward Tufte.
+After running across Tufte in R. I thought it would be a fun challenge to port the plots to python."><meta property="og:type" content="article"><meta property="og:url" content="https://wilsonify.github.io/2017/04/23/Tufte-in-Python/"><meta property="article:published_time" content="2017-04-23T00:00:00+00:00"><meta property="article:modified_time" content="2017-04-23T00:00:00+00:00"><meta itemprop=name content="Tufte in Python"><meta itemprop=description content="Motivation
+I greatly admire Edward Tufte.
+After running across Tufte in R. I thought it would be a fun challenge to port the plots to python."><meta itemprop=datePublished content="2017-04-23T00:00:00+00:00"><meta itemprop=dateModified content="2017-04-23T00:00:00+00:00"><meta itemprop=wordCount content="603"><meta itemprop=keywords content="python,R,tufte,"><meta name=twitter:card content="summary"><meta name=twitter:title content="Tufte in Python"><meta name=twitter:description content="Motivation
+I greatly admire Edward Tufte.
+After running across Tufte in R. I thought it would be a fun challenge to port the plots to python."></head><body class="ma0 avenir bg-near-white"><header><div class=bg-black><nav class="pv3 ph3 ph4-ns" role=navigation><div class="flex-l justify-between items-center center"><a href=/ class="f3 fw2 hover-white no-underline white-90 dib"></a><div class="flex-l items-center"><ul class="pl0 mr3"><li class="list f5 f4-ns fw4 dib pr3"><a class="hover-white no-underline white-90" href=/ title="Home page">Home</a></li><li class="list f5 f4-ns fw4 dib pr3"><a class="hover-white no-underline white-90" href=/about/ title="About page">About</a></li><li class="list f5 f4-ns fw4 dib pr3"><a class="hover-white no-underline white-90" href=/articles/ title="Articles page">Articles</a></li></ul></div></div></nav></div></header><main class=pb7 role=main><article class="flex-l flex-wrap justify-between mw8 center ph3"><header class="mt4 w-100"><aside class="instapaper_ignoref b helvetica tracked">ARTICLES</aside><div id=sharing class=mt3><a href="https://www.facebook.com/sharer.php?u=https://wilsonify.github.io/2017/04/23/Tufte-in-Python/" class="facebook no-underline" aria-label="share on Facebook"><svg height="32" style="enable-background:new 0 0 67 67" viewBox="0 0 67 67" width="32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M28.765 50.32h6.744V33.998h4.499l.596-5.624h-5.095l.007-2.816c0-1.466.14-2.253 2.244-2.253h2.812V17.68h-4.5c-5.405.0-7.307 2.729-7.307 7.317v3.377h-3.369v5.625h3.369V50.32zM33 64C16.432 64 3 50.569 3 34S16.432 4 33 4s30 13.431 30 30S49.568 64 33 64z" style="fill-rule:evenodd;clip-rule:evenodd"/></svg></a><a href="https://twitter.com/share?url=https://wilsonify.github.io/2017/04/23/Tufte-in-Python/&text=Tufte%20in%20Python" class="twitter no-underline" aria-label="share on Twitter"><svg height="32" style="enable-background:new 0 0 67 67" viewBox="0 0 67 67" width="32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M37.167 22.283c-2.619.953-4.274 3.411-4.086 6.101l.063 1.038-1.048-.127c-3.813-.487-7.145-2.139-9.974-4.915l-1.383-1.377-.356 1.017c-.754 2.267-.272 4.661 1.299 6.271.838.89.649 1.017-.796.487-.503-.169-.943-.296-.985-.233-.146.149.356 2.076.754 2.839.545 1.06 1.655 2.097 2.871 2.712l1.027.487-1.215.021c-1.173.0-1.215.021-1.089.467.419 1.377 2.074 2.839 3.918 3.475l1.299.444-1.131.678c-1.676.976-3.646 1.526-5.616 1.568C19.775 43.256 19 43.341 19 43.405c0 .211 2.557 1.397 4.044 1.864 4.463 1.377 9.765.783 13.746-1.568 2.829-1.673 5.657-5 6.978-8.221.713-1.716 1.425-4.851 1.425-6.354.0-.975.063-1.102 1.236-2.267.692-.678 1.341-1.419 1.467-1.631.21-.403.188-.403-.88-.043-1.781.636-2.033.551-1.152-.402.649-.678 1.425-1.907 1.425-2.267.0-.063-.314.042-.671.233-.377.212-1.215.53-1.844.72l-1.131.361-1.027-.7c-.566-.381-1.361-.805-1.781-.932C39.766 21.902 38.131 21.944 37.167 22.283zM33 64C16.432 64 3 50.569 3 34S16.432 4 33 4s30 13.431 30 30S49.568 64 33 64z" style="fill-rule:evenodd;clip-rule:evenodd;fill:"/></svg></a><a href="https://www.linkedin.com/shareArticle?mini=true&url=https://wilsonify.github.io/2017/04/23/Tufte-in-Python/&title=Tufte%20in%20Python" class="linkedin no-underline" aria-label="share on LinkedIn"><svg height="32" style="enable-background:new 0 0 65 65" viewBox="0 0 65 65" width="32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M50.837 48.137V36.425c0-6.275-3.35-9.195-7.816-9.195-3.604.0-5.219 1.983-6.119 3.374V27.71h-6.79c.09 1.917.0 20.427.0 20.427h6.79V36.729c0-.609.044-1.219.224-1.655.49-1.22 1.607-2.483 3.482-2.483 2.458.0 3.44 1.873 3.44 4.618v10.929H50.837zM22.959 24.922c2.367.0 3.842-1.57 3.842-3.531-.044-2.003-1.475-3.528-3.797-3.528s-3.841 1.524-3.841 3.528c0 1.961 1.474 3.531 3.753 3.531H22.959zM34 64C17.432 64 4 50.568 4 34 4 17.431 17.432 4 34 4s30 13.431 30 30C64 50.568 50.568 64 34 64zM26.354 48.137V27.71h-6.789v20.427H26.354z" style="fill-rule:evenodd;clip-rule:evenodd;fill:"/></svg></a></div><h1 class="f1 athelas mt3 mb1">Tufte in Python</h1><time class="f6 mv4 dib tracked" datetime=2017-04-23T00:00:00Z>April 23, 2017</time></header><div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><h2 id=motivation>Motivation</h2><p>I greatly admire <a href=https://en.wikipedia.org/wiki/Edward_Tufte>Edward Tufte</a>.</p><p>After running across <a href=/home/thom/site/wilsonify/wilsonify.github.io/_posts/2017-04-18-one-hundered-year-flood.md>Tufte in R</a>. I thought it would be a fun challenge to port the plots to python.</p><h1 id=imports>imports</h1><p>I&rsquo;m going to need some libraries.</p><pre><code class=language-../ data-lang=../>import numpy as np
+import pandas as pd
+from matplotlib import pyplot as plt
+from matplotlib import ticker as mtick
+
+#just to use R datasets
+from rpy2.robjects.packages import importr
+import rpy2.robjects as ro
+import pandas.rpy.common as com
+</code></pre><h2 id=minimal-line-plot>Minimal line plot</h2><p>I&rsquo;ve left the original R code in the comments.</p><div class=highlight><pre style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-python data-lang=python><span style=color:#75715e>#x &lt;- 1967:1977</span>
+x <span style=color:#f92672>=</span> np<span style=color:#f92672>.</span>arange(<span style=color:#ae81ff>1967</span>,<span style=color:#ae81ff>1978</span>)
+
+<span style=color:#75715e>#y &lt;- c(0.5,1.8,4.6,5.3,5.3,5.7,5.4,5,5.5,6,5)</span>
+<span style=color:#75715e>#axis(2, at=seq(1,6,1), label=sprintf(&#34;$%s&#34;, seq(300,400,20)), tick=F, las=2, family=&#34;serif&#34;)</span>
+y <span style=color:#f92672>=</span> np<span style=color:#f92672>.</span>array([<span style=color:#ae81ff>300.00</span>,<span style=color:#ae81ff>323.63</span>,<span style=color:#ae81ff>374.54</span>,<span style=color:#ae81ff>387.27</span>,<span style=color:#ae81ff>387.27</span>,<span style=color:#ae81ff>394.54</span>,<span style=color:#ae81ff>389.09</span>,<span style=color:#ae81ff>381.81</span>,<span style=color:#ae81ff>390.91</span>,<span style=color:#ae81ff>400.00</span>,<span style=color:#ae81ff>381.82</span>])
+
+<span style=color:#75715e>#pdf(width=10, height=6)</span>
+fig<span style=color:#f92672>=</span>plt<span style=color:#f92672>.</span>figure(figsize<span style=color:#f92672>=</span>(<span style=color:#ae81ff>10</span>,<span style=color:#ae81ff>6</span>))
+ax<span style=color:#f92672>=</span>fig<span style=color:#f92672>.</span>add_subplot(<span style=color:#ae81ff>111</span>)
+
+<span style=color:#75715e>#plot(y ~ x, axes=F, xlab=&#34;&#34;, ylab=&#34;&#34;, pch=16, type=&#34;b&#34;)</span>
+ax<span style=color:#f92672>.</span>plot(x,y,c<span style=color:#f92672>=</span><span style=color:#e6db74>&#39;k&#39;</span>)
+ax<span style=color:#f92672>.</span>scatter(x,y,c<span style=color:#f92672>=</span><span style=color:#e6db74>&#39;k&#39;</span>,marker<span style=color:#f92672>=</span><span style=color:#e6db74>&#39;o&#39;</span>)
+ax<span style=color:#f92672>.</span>set(xlabel<span style=color:#f92672>=</span><span style=color:#e6db74>&#34;&#34;</span>,ylabel<span style=color:#f92672>=</span><span style=color:#e6db74>&#34;&#34;</span>)
+<span style=color:#66d9ef>for</span> s <span style=color:#f92672>in</span> [<span style=color:#e6db74>&#39;top&#39;</span>,<span style=color:#e6db74>&#39;left&#39;</span>,<span style=color:#e6db74>&#39;bottom&#39;</span>,<span style=color:#e6db74>&#39;right&#39;</span>]:
+    ax<span style=color:#f92672>.</span>spines[s]<span style=color:#f92672>.</span>set_visible(False)
+
+<span style=color:#75715e>#axis(1, at=x, label=x, tick=F, family=&#34;serif&#34;)</span>
+ax<span style=color:#f92672>.</span>set_xticks(x,)
+
+<span style=color:#75715e>#abline(h=6,lty=2)</span>
+<span style=color:#75715e>#abline(h=5,lty=2)</span>
+ax<span style=color:#f92672>.</span>axhline(y<span style=color:#f92672>=</span><span style=color:#ae81ff>400</span>,linestyle<span style=color:#f92672>=</span><span style=color:#e6db74>&#39;dashed&#39;</span>,c<span style=color:#f92672>=</span><span style=color:#e6db74>&#39;k&#39;</span>)
+ax<span style=color:#f92672>.</span>axhline(y<span style=color:#f92672>=</span><span style=color:#ae81ff>380</span>,linestyle<span style=color:#f92672>=</span><span style=color:#e6db74>&#39;dashed&#39;</span>,c<span style=color:#f92672>=</span><span style=color:#e6db74>&#39;k&#39;</span>)
+
+<span style=color:#75715e>#text(max(x), min(y)*2.5</span>
+<span style=color:#75715e>#      ,&#34;Per capita\nbudget expanditures\nin constant dollars&#34;</span>
+<span style=color:#75715e>#      , adj=1</span>
+<span style=color:#75715e>#      ,family=&#34;serif&#34;)</span>
+
+ax<span style=color:#f92672>.</span>annotate(xy<span style=color:#f92672>=</span>(x<span style=color:#f92672>.</span>max(),y<span style=color:#f92672>.</span>min())
+            ,s<span style=color:#f92672>=</span><span style=color:#e6db74>&#34;Per capita</span><span style=color:#ae81ff>\n</span><span style=color:#e6db74>budget expanditures</span><span style=color:#ae81ff>\n</span><span style=color:#e6db74>in constant dollars&#34;</span>
+            ,family<span style=color:#f92672>=</span><span style=color:#e6db74>&#39;serif&#39;</span>
+            ,horizontalalignment<span style=color:#f92672>=</span><span style=color:#e6db74>&#39;right&#39;</span>)
+
+<span style=color:#75715e>#text(max(x), max(y)/1.08, labels=&#34;5%&#34;, family=&#34;serif&#34;)</span>
+ax<span style=color:#f92672>.</span>annotate(xy<span style=color:#f92672>=</span>(x<span style=color:#f92672>.</span>max(),y[<span style=color:#f92672>-</span><span style=color:#ae81ff>2</span>:]<span style=color:#f92672>.</span>mean())
+            ,s<span style=color:#f92672>=</span><span style=color:#e6db74>&#34;5%&#34;</span>
+            ,family<span style=color:#f92672>=</span><span style=color:#e6db74>&#39;serif&#39;</span>)
+           
+<span style=color:#75715e>#dev.off()</span>
+plt<span style=color:#f92672>.</span>show()
+</code></pre></div><p><img src=/images/minimalLinePlotPython.png alt></p><h2 id=quartile-frame-scatterplot>Quartile-frame scatterplot</h2><p>{% highlight python %}</p><p>ro.r(&lsquo;data(mtcars)')
+data = com.load_data(&lsquo;mtcars&rsquo;)</p><p>#x &lt;- mtcars$wt
+#y &lt;- mtcars$mpg
+#axis(1,at=summary(x),labels=round(summary(x),1), tick=F, family=&ldquo;serif&rdquo;)
+#axis(2,at=summary(y),labels=round(summary(y),1), tick=F, las=2, family=&ldquo;serif&rdquo;)</p><p>x=data[&lsquo;wt&rsquo;]
+y=data[&lsquo;mpg&rsquo;]
+xSummary=x.quantile([0,0.25,0.5,0.75,1.0]).map(lambda x: round(x,1))
+ySummary=y.quantile([0,0.25,0.5,0.75,1.0]).map(lambda x: round(x,1))</p><p>#plot(x, y, main="", axes=FALSE, pch=16, cex=0.8, family=&ldquo;serif&rdquo;,
+fig=plt.figure(figsize=(10,6))
+ax=fig.add_subplot(111)
+ax.scatter(x,y,c=&lsquo;k&rsquo;)
+for s in [&lsquo;top&rsquo;,&lsquo;left&rsquo;,&lsquo;bottom&rsquo;,&lsquo;right&rsquo;]:
+ax.spines[s].set_visible(False)</p><p>#xlab=&ldquo;Car weight (lb/1000)&rdquo;, ylab=&ldquo;Miles per gallon of fuel&rdquo;)</p><p>ax.set(xlabel=&ldquo;Car weight (lb/1000)&rdquo;
+,ylabel=&ldquo;Miles per gallon of fuel&rdquo;
+,xticks=xSummary
+,yticks=ySummary)</p><p>plt.show()
+{% endhighlight %}</p><p><img src=/images/quartile-frameScatterplotPython.png alt></p><h2 id=dot-dash-plot>Dot-dash Plot</h2><div class=highlight><pre style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-python data-lang=python>ro<span style=color:#f92672>.</span>r(<span style=color:#e6db74>&#39;data(mtcars)&#39;</span>)
+data <span style=color:#f92672>=</span> pd<span style=color:#f92672>.</span>rpy<span style=color:#f92672>.</span>common<span style=color:#f92672>.</span>load_data(<span style=color:#e6db74>&#39;mtcars&#39;</span>)
+
+<span style=color:#75715e>#x &lt;- mtcars$wt</span>
+x<span style=color:#f92672>=</span>data[<span style=color:#e6db74>&#39;wt&#39;</span>]
+
+<span style=color:#75715e>#y &lt;- mtcars$mpg</span>
+y<span style=color:#f92672>=</span>data[<span style=color:#e6db74>&#39;mpg&#39;</span>]
+
+<span style=color:#75715e>#axis(1,at=summary(x),labels=round(summary(x),1), tick=F, family=&#34;serif&#34;)</span>
+xSummary<span style=color:#f92672>=</span>x<span style=color:#f92672>.</span>quantile([<span style=color:#ae81ff>0</span>,<span style=color:#ae81ff>0.25</span>,<span style=color:#ae81ff>0.5</span>,<span style=color:#ae81ff>0.75</span>,<span style=color:#ae81ff>1.0</span>])<span style=color:#f92672>.</span>map(<span style=color:#66d9ef>lambda</span> x: round(x,<span style=color:#ae81ff>1</span>))
+
+<span style=color:#75715e>#axis(2,at=summary(y),labels=round(summary(y),1), tick=F, las=2, family=&#34;serif&#34;)</span>
+ySummary<span style=color:#f92672>=</span>y<span style=color:#f92672>.</span>quantile([<span style=color:#ae81ff>0</span>,<span style=color:#ae81ff>0.25</span>,<span style=color:#ae81ff>0.5</span>,<span style=color:#ae81ff>0.75</span>,<span style=color:#ae81ff>1.0</span>])<span style=color:#f92672>.</span>map(<span style=color:#66d9ef>lambda</span> x: round(x,<span style=color:#ae81ff>1</span>))
+
+<span style=color:#75715e>#plot(x, y, main=&#34;&#34;, axes=FALSE, pch=16, cex=0.8, family=&#34;serif&#34;,</span>
+fig<span style=color:#f92672>=</span>plt<span style=color:#f92672>.</span>figure(figsize<span style=color:#f92672>=</span>(<span style=color:#ae81ff>10</span>,<span style=color:#ae81ff>6</span>))
+ax<span style=color:#f92672>=</span>fig<span style=color:#f92672>.</span>add_subplot(<span style=color:#ae81ff>111</span>)
+ax<span style=color:#f92672>.</span>scatter(x,y,c<span style=color:#f92672>=</span><span style=color:#e6db74>&#39;k&#39;</span>)
+<span style=color:#66d9ef>for</span> s <span style=color:#f92672>in</span> [<span style=color:#e6db74>&#39;top&#39;</span>,<span style=color:#e6db74>&#39;left&#39;</span>,<span style=color:#e6db74>&#39;bottom&#39;</span>,<span style=color:#e6db74>&#39;right&#39;</span>]:
+    ax<span style=color:#f92672>.</span>spines[s]<span style=color:#f92672>.</span>set_visible(False)
+    
+<span style=color:#75715e>#xlab=&#34;Car weight (lb/1000)&#34;, ylab=&#34;Miles per gallon of fuel&#34;)</span>
+
+ax<span style=color:#f92672>.</span>set(xlabel<span style=color:#f92672>=</span><span style=color:#e6db74>&#34;Car weight (lb/1000)&#34;</span>
+       ,ylabel<span style=color:#f92672>=</span><span style=color:#e6db74>&#34;Miles per gallon of fuel&#34;</span>)
+
+ax<span style=color:#f92672>.</span>xaxis<span style=color:#f92672>.</span>set_major_locator(mtick<span style=color:#f92672>.</span>MaxNLocator(<span style=color:#ae81ff>5</span>))
+ax<span style=color:#f92672>.</span>xaxis<span style=color:#f92672>.</span>set_minor_locator(mtick<span style=color:#f92672>.</span>FixedLocator(x))
+ax<span style=color:#f92672>.</span>yaxis<span style=color:#f92672>.</span>set_major_locator(mtick<span style=color:#f92672>.</span>MaxNLocator(<span style=color:#ae81ff>5</span>))
+ax<span style=color:#f92672>.</span>yaxis<span style=color:#f92672>.</span>set_minor_locator(mtick<span style=color:#f92672>.</span>FixedLocator(y))
+
+ax<span style=color:#f92672>.</span>tick_params(<span style=color:#e6db74>&#39;both&#39;</span>, length<span style=color:#f92672>=</span><span style=color:#ae81ff>15</span>, width<span style=color:#f92672>=</span><span style=color:#ae81ff>0</span>, which<span style=color:#f92672>=</span><span style=color:#e6db74>&#39;major&#39;</span>)
+ax<span style=color:#f92672>.</span>tick_params(<span style=color:#e6db74>&#39;both&#39;</span>, length<span style=color:#f92672>=</span><span style=color:#ae81ff>15</span>, width<span style=color:#f92672>=</span><span style=color:#ae81ff>1</span>, which<span style=color:#f92672>=</span><span style=color:#e6db74>&#39;minor&#39;</span>)
+
+plt<span style=color:#f92672>.</span>show()
+</code></pre></div><p><img src=/images/dash-dotPlot.png alt></p><h2 id=marginal-histogram-scatterplot>Marginal Histogram Scatterplot</h2><p>This one was a bit more difficult.</p><p>I gave up on replicating the exact axis in favor of a just getting a decent histogram on each axis.</p><div class=highlight><pre style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-python data-lang=python>
+
+ro<span style=color:#f92672>.</span>r(<span style=color:#e6db74>&#39;data(faithful)&#39;</span>)
+data<span style=color:#f92672>=</span>com<span style=color:#f92672>.</span>load_data(<span style=color:#e6db74>&#39;faithful&#39;</span>)
+
+<span style=color:#75715e>#x &lt;- faithful$waiting</span>
+x<span style=color:#f92672>=</span>data[<span style=color:#e6db74>&#39;waiting&#39;</span>]
+<span style=color:#75715e>#y &lt;- faithful$eruptions</span>
+y<span style=color:#f92672>=</span>data[<span style=color:#e6db74>&#39;eruptions&#39;</span>]
+
+<span style=color:#75715e>#plot(x, y, main=&#34;&#34;, axes=FALSE, pch=16, cex=0.8,</span>
+<span style=color:#75715e>#     xlab=&#34;Time till next eruption (min)&#34;, ylab=&#34;Duration (sec)&#34;, </span>
+<span style=color:#75715e>#     xlim=c(min(x)/1.1, max(x)), ylim=c(min(y)/1.5, max(y)))</span>
+fig<span style=color:#f92672>=</span>plt<span style=color:#f92672>.</span>figure(figsize<span style=color:#f92672>=</span>(<span style=color:#ae81ff>10</span>,<span style=color:#ae81ff>6</span>))
+yHist<span style=color:#f92672>=</span>fig<span style=color:#f92672>.</span>add_subplot(<span style=color:#ae81ff>221</span>)
+scatter<span style=color:#f92672>=</span>fig<span style=color:#f92672>.</span>add_subplot(<span style=color:#ae81ff>222</span>)
+xHist<span style=color:#f92672>=</span>fig<span style=color:#f92672>.</span>add_subplot(<span style=color:#ae81ff>224</span>)
+
+<span style=color:#75715e>#axis(2, tick=F, las=2)</span>
+<span style=color:#75715e>#axisstripchart(faithful$waiting, 1)</span>
+yHist<span style=color:#f92672>.</span>hist(y,orientation<span style=color:#f92672>=</span><span style=color:#e6db74>&#39;horizontal&#39;</span>,color<span style=color:#f92672>=</span><span style=color:#e6db74>&#39;k&#39;</span>)
+yHist<span style=color:#f92672>.</span>axis(<span style=color:#e6db74>&#39;off&#39;</span>)
+yHist<span style=color:#f92672>.</span>set(aspect<span style=color:#f92672>=</span><span style=color:#ae81ff>100</span>
+          ,xlim<span style=color:#f92672>=</span>yHist<span style=color:#f92672>.</span>get_xlim()[::<span style=color:#f92672>-</span><span style=color:#ae81ff>1</span>] <span style=color:#75715e># invert x-axis</span>
+          ,anchor<span style=color:#f92672>=</span><span style=color:#e6db74>&#39;E&#39;</span>)
+
+scatter<span style=color:#f92672>.</span>scatter(x,y,c<span style=color:#f92672>=</span><span style=color:#e6db74>&#39;k&#39;</span>)
+scatter<span style=color:#f92672>.</span>set_anchor(<span style=color:#e6db74>&#39;W&#39;</span>)
+<span style=color:#66d9ef>for</span> s <span style=color:#f92672>in</span> scatter<span style=color:#f92672>.</span>spines<span style=color:#f92672>.</span>keys():
+    scatter<span style=color:#f92672>.</span>spines[s]<span style=color:#f92672>.</span>set_visible(False)
+
+<span style=color:#75715e>#axis(1, tick=F)</span>
+<span style=color:#75715e>#axisstripchart(faithful$eruptions, 2)</span>
+xHist<span style=color:#f92672>.</span>hist(x,orientation<span style=color:#f92672>=</span><span style=color:#e6db74>&#39;vertical&#39;</span>,color<span style=color:#f92672>=</span><span style=color:#e6db74>&#39;k&#39;</span>)
+xHist<span style=color:#f92672>.</span>axis(<span style=color:#e6db74>&#39;off&#39;</span>)
+xHist<span style=color:#f92672>.</span>set_aspect(<span style=color:#ae81ff>0.1</span>)
+xHist<span style=color:#f92672>.</span>set_ylim(xHist<span style=color:#f92672>.</span>get_ylim()[::<span style=color:#f92672>-</span><span style=color:#ae81ff>1</span>]) <span style=color:#75715e># invert y-axis</span>
+xHist<span style=color:#f92672>.</span>set_anchor(<span style=color:#e6db74>&#39;N&#39;</span>)
+
+plt<span style=color:#f92672>.</span>tight_layout(pad<span style=color:#f92672>=</span><span style=color:#ae81ff>0.5</span>) <span style=color:#75715e>#as tight as possible</span>
+plt<span style=color:#f92672>.</span>show()
+
+</code></pre></div><p><img src=/images/marginalHistogramScatterplotPython.png alt></p><h2 id=minimal-boxplot>Minimal Boxplot</h2><p>This was tougher than I thought it would be.
+The R code doesn&rsquo;t line up well this time, so I removed it from the comments.</p><div class=highlight><pre style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-python data-lang=python><span style=color:#75715e>#import data from R</span>
+ro<span style=color:#f92672>.</span>r(<span style=color:#e6db74>&#39;data(quakes)&#39;</span>)
+data<span style=color:#f92672>=</span>com<span style=color:#f92672>.</span>load_data(<span style=color:#e6db74>&#39;quakes&#39;</span>)
+
+<span style=color:#75715e>#initialize the figure and axes/subplot</span>
+fig<span style=color:#f92672>=</span>plt<span style=color:#f92672>.</span>figure(figsize<span style=color:#f92672>=</span>(<span style=color:#ae81ff>10</span>,<span style=color:#ae81ff>6</span>)) 
+ax<span style=color:#f92672>=</span>fig<span style=color:#f92672>.</span>add_subplot(<span style=color:#ae81ff>111</span>)
+
+<span style=color:#75715e>#use pandas boxplot. it&#39;s a little nicer than matplotlib&#39;s</span>
+bp<span style=color:#f92672>=</span>data<span style=color:#f92672>.</span>boxplot(column<span style=color:#f92672>=</span><span style=color:#e6db74>&#39;stations&#39;</span>
+             ,by<span style=color:#f92672>=</span><span style=color:#e6db74>&#39;mag&#39;</span>
+             ,ax<span style=color:#f92672>=</span>ax
+             ,grid<span style=color:#f92672>=</span>False
+             ,showfliers<span style=color:#f92672>=</span>False
+             ,showbox<span style=color:#f92672>=</span>False
+             ,showcaps<span style=color:#f92672>=</span>False
+             ,widths<span style=color:#f92672>=</span><span style=color:#ae81ff>0.005</span>
+             ,return_type<span style=color:#f92672>=</span><span style=color:#e6db74>&#39;dict&#39;</span>)
+
+<span style=color:#75715e>#loop through wisker lines. could not get whiskerprops={&#39;color&#39;:&#39;k&#39;} to work.</span>
+<span style=color:#66d9ef>for</span> w <span style=color:#f92672>in</span> bp[<span style=color:#e6db74>&#39;stations&#39;</span>][<span style=color:#e6db74>&#39;whiskers&#39;</span>]:
+    w<span style=color:#f92672>.</span>set_color(<span style=color:#e6db74>&#39;k&#39;</span>)
+
+<span style=color:#75715e>#loop through medians to create markers</span>
+<span style=color:#66d9ef>for</span> m <span style=color:#f92672>in</span> bp[<span style=color:#e6db74>&#39;stations&#39;</span>][<span style=color:#e6db74>&#39;medians&#39;</span>]:
+    m<span style=color:#f92672>.</span>set_marker(<span style=color:#e6db74>&#39;o&#39;</span>)
+    m<span style=color:#f92672>.</span>set_markerfacecolor(<span style=color:#e6db74>&#39;k&#39;</span>)
+    m<span style=color:#f92672>.</span>set_markeredgecolor(<span style=color:#e6db74>&#39;k&#39;</span>)
+    m<span style=color:#f92672>.</span>set_markersize(<span style=color:#ae81ff>3</span>)
+
+<span style=color:#75715e>#turn off spines    </span>
+<span style=color:#66d9ef>for</span> s <span style=color:#f92672>in</span> ax<span style=color:#f92672>.</span>spines<span style=color:#f92672>.</span>keys():
+    ax<span style=color:#f92672>.</span>spines[s]<span style=color:#f92672>.</span>set_visible(False)
+
+<span style=color:#75715e>#set title</span>
+ax<span style=color:#f92672>.</span>set_title(<span style=color:#e6db74>&#34;Number of stations </span><span style=color:#ae81ff>\n</span><span style=color:#e6db74>reporting Richter Magnitude</span><span style=color:#ae81ff>\n</span><span style=color:#e6db74>of Fiji earthquakes (n=1000)&#34;</span>)
+plt<span style=color:#f92672>.</span>suptitle(<span style=color:#e6db74>&#34;&#34;</span>) <span style=color:#75715e># remove pandas default title</span>
+
+plt<span style=color:#f92672>.</span>show()
+</code></pre></div><p><img src=/images/minimalBoxplot.png alt></p><h2 id=minimal-bar-chart>Minimal Bar Chart</h2><div class=highlight><pre style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-python data-lang=python><span style=color:#75715e>#import data</span>
+ro<span style=color:#f92672>.</span>r(<span style=color:#e6db74>&#39;library(psych)&#39;</span>)
+d<span style=color:#f92672>=</span>ro<span style=color:#f92672>.</span>r(<span style=color:#e6db74>&#39;colMeans(msq[,c(2,7,34,36,42,43,46,55,68)], na.rm = T)*10&#39;</span>)
+data<span style=color:#f92672>=</span>com<span style=color:#f92672>.</span>convert_robj(d) <span style=color:#75715e>#data is a Series rather than DataFrame this time</span>
+
+<span style=color:#75715e>#initialize the figure and axes/subplot</span>
+fig<span style=color:#f92672>=</span>plt<span style=color:#f92672>.</span>figure(figsize<span style=color:#f92672>=</span>(<span style=color:#ae81ff>10</span>,<span style=color:#ae81ff>6</span>)) 
+ax<span style=color:#f92672>=</span>fig<span style=color:#f92672>.</span>add_subplot(<span style=color:#ae81ff>111</span>)
+
+<span style=color:#75715e># use pandas bar plot</span>
+data<span style=color:#f92672>.</span>plot<span style=color:#f92672>.</span>bar(color <span style=color:#f92672>=</span> <span style=color:#e6db74>&#39;0.75&#39;</span>,width<span style=color:#f92672>=</span><span style=color:#ae81ff>0.4</span>)
+
+<span style=color:#75715e>#overlay a white grid on the y-axis</span>
+ax<span style=color:#f92672>.</span>grid(axis<span style=color:#f92672>=</span><span style=color:#e6db74>&#39;y&#39;</span>,c<span style=color:#f92672>=</span><span style=color:#e6db74>&#39;w&#39;</span>)
+
+<span style=color:#75715e>#rotate the x axis tick labls</span>
+labels <span style=color:#f92672>=</span> ax<span style=color:#f92672>.</span>get_xticklabels()
+plt<span style=color:#f92672>.</span>setp(labels, rotation<span style=color:#f92672>=</span><span style=color:#ae81ff>0</span>, fontsize<span style=color:#f92672>=</span><span style=color:#ae81ff>10</span>)
+
+<span style=color:#75715e>#turn off spines    </span>
+<span style=color:#66d9ef>for</span> s <span style=color:#f92672>in</span> ax<span style=color:#f92672>.</span>spines<span style=color:#f92672>.</span>keys():
+    ax<span style=color:#f92672>.</span>spines[s]<span style=color:#f92672>.</span>set_visible(False)
+
+<span style=color:#75715e>#set text on the figure in the top left </span>
+ax<span style=color:#f92672>.</span>text(x<span style=color:#f92672>=</span><span style=color:#ae81ff>0</span>
+        ,y<span style=color:#f92672>=</span>data<span style=color:#f92672>.</span>max()
+        ,va<span style=color:#f92672>=</span><span style=color:#e6db74>&#39;top&#39;</span>
+        ,s<span style=color:#f92672>=</span><span style=color:#e6db74>&#34;&#34;&#34;Average scores
+</span><span style=color:#e6db74>non negative emotion traits
+</span><span style=color:#e6db74>from 3896 participants
+</span><span style=color:#e6db74>(Watson et al., 1988)&#34;&#34;&#34;</span>)
+plt<span style=color:#f92672>.</span>show()
+
+</code></pre></div><p><img src=/images/minimalBarChart.png alt></p><ul class=pa0><li class=list><a href=/tags/python class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">python</a></li><li class=list><a href=/tags/r class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">R</a></li><li class=list><a href=/tags/tufte class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">tufte</a></li></ul><div class="mt6 instapaper_ignoref"></div></div><aside class="w-30-l mt6-l"><div class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links"><p class="f5 b mb3">Related</p><ul class="pa0 list"><li class=mb2><a href=/2017/04/12/movie-narrative-chart/>Movie Narrative Chart</a></li><li class=mb2><a href=/2017/04/08/travel-map/>TravelMap</a></li></ul></div></aside></article></main><footer class="bg-black bottom-0 w-100 pa3" role=contentinfo><div class="flex justify-between"><a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href=https://wilsonify.github.io/>&copy;</a><div></div></div></footer><script src=/dist/js/app.3fc0f988d21662902933.js></script></body></html>

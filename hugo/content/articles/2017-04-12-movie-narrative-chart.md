@@ -1,14 +1,16 @@
 ---
-layout: post
-title: "Movie Narrative Chart"
+categories:
+  - projects
 date: 2017-04-12
-thumbnail: /static/images/thumbnails/thumb.XKCD_movie_narrative_chart_primer.png
-categories: projects
-tags:
-- movies
-- python
 excerpt_separator: <!--more-->
+tags:
+  - movies
+  - python
+thumbnail: /images/thumbnails/thumb.XKCD_movie_narrative_chart_primer.png
+title: Movie Narrative Chart
+url: /2017/04/12/movie-narrative-chart/
 ---
+
 
 ## Comic
 There is a great [xkcd](https://xkcd.com/657) about plotting the relationships of characters in a movie. I find it a very elegant way to present information that is otherwise a complicated network of changing relationships. 
@@ -22,7 +24,7 @@ While better than the xkcd gag at explaining the movie, I wanted to make an hone
 
 ## Result (Spoilers)
 
-![]({{ site.baseurl }}/static/images/PrimerLine.png)
+![](/images/PrimerLine.png)
 
 There are a few key plot points that are not obvious:
 
@@ -37,4 +39,4 @@ Other than these, the rest of the film is actually easy to plot. There are very 
 
 While I'm at it, why not make the plot look hand drawn.
 
-![]({{ site.baseurl }}/static/images/XKCDPrimerLine.png)
+![](/images/XKCDPrimerLine.png)

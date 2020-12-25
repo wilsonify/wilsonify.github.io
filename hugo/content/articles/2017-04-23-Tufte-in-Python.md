@@ -1,16 +1,18 @@
 ---
-layout: post
-title: "Tufte in Python"
+categories:
+  - stats
 date: 2017-04-23
-image: /static/images/minimalBoxplot.png
-thumbnail: /static/images/thumbnails/thumb.minimalLinePlotPython.png
-categories: stats
-tags:
-- python
-- R
-- tufte
 highlighter: rouge
+image: /images/minimalBoxplot.png
+tags:
+  - python
+  - R
+  - tufte
+thumbnail: /images/thumbnails/thumb.minimalLinePlotPython.png
+title: Tufte in Python
+url: /2017/04/23/Tufte-in-Python/
 ---
+
 
 ## Motivation
 
@@ -86,7 +88,7 @@ ax.annotate(xy=(x.max(),y[-2:].mean())
 plt.show()
 ```
 
-![]({{ site.baseurl }}/static/images/minimalLinePlotPython.png)
+![](/images/minimalLinePlotPython.png)
 
 
 ## Quartile-frame scatterplot 
@@ -125,7 +127,7 @@ plt.show()
 {% endhighlight %}
 
 
-![]({{ site.baseurl }}/static/images/quartile-frameScatterplotPython.png)
+![](/images/quartile-frameScatterplotPython.png)
 
 ## Dot-dash Plot
 
@@ -169,7 +171,7 @@ ax.tick_params('both', length=15, width=1, which='minor')
 plt.show()
 ```
 
-![]({{ site.baseurl }}/static/images/dash-dotPlot.png)
+![](/images/dash-dotPlot.png)
 
 
 ## Marginal Histogram Scatterplot
@@ -223,7 +225,7 @@ plt.show()
 
 ```
 
-![]({{ site.baseurl }}/static/images/marginalHistogramScatterplotPython.png)
+![](/images/marginalHistogramScatterplotPython.png)
 
 
 ## Minimal Boxplot
@@ -273,7 +275,7 @@ plt.suptitle("") # remove pandas default title
 plt.show()
 ```
 
-![]({{ site.baseurl }}/static/images/minimalBoxplot.png)
+![](/images/minimalBoxplot.png)
 
 ## Minimal Bar Chart
 
@@ -313,6 +315,5 @@ plt.show()
 
 ```
 
-![]({{ site.baseurl }}/static/images/minimalBarChart.png)
-
+![](/images/minimalBarChart.png)
 

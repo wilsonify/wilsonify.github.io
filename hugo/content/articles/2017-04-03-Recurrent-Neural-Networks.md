@@ -1,16 +1,18 @@
 ---
-layout: post
-image: /static/images/RNN.png
-thumbnail: /static/images/thumbnails/thumb.RNN.png
-title: Recurrent Neural Network
+categories:
+  - MachineLearning
 date: 2017-04-03
-categories: "MachineLearning"
-tags:
-- music
-- tensorflow
 exerpt_separator: <!--more-->
+image: /images/RNN.png
+tags:
+  - music
+  - tensorflow
+thumbnail: /images/thumbnails/thumb.RNN.png
+title: Recurrent Neural Network
+url: /2017/04/03/Recurrent-Neural-Networks/
 use_math: true
 ---
+
 
 After watching this [presentation](https://www.youtube.com/watch?v=vq2nnJ4g6N0), where Martin Görner shows the use of 
 recurrent neural networks to create a new Shakespear play, I was feeling inspired.

@@ -1,15 +1,17 @@
 ---
-layout: post
-title: TravelMap
+categories:
+  - projects
 date: 2017-04-08
-image: /static/images/PlacesIveBeen.png
-thumbnail: /static/images/thumbnails/thumb.PlacesIveBeen.png
-categories: projects
-tags:
-- travel
-- python
 exerpt_separator: <!--more-->
+image: /images/PlacesIveBeen.png
+tags:
+  - travel
+  - python
+thumbnail: /images/thumbnails/thumb.PlacesIveBeen.png
+title: TravelMap
+url: /2017/04/08/travel-map/
 ---
+
 
 # travels
 
@@ -36,6 +38,5 @@ looks like:
 |2016|California|Los Angeles|34.044468|-118.460819|
 |2016|Tennessee|Nashville|36.134572|-86.805819|
 |2017|Texas|Houston|29.704918|-95.393291|
-
 
 

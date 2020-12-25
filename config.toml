@@ -1,4 +1,4 @@
-baseURL = "https://wilsonify.github.io/"
+baseURL = "wilsonify.github.io/"
 languageCode = "en-us"
 tagline = "Data Scientist"
 theme = "ananke"

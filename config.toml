@@ -1,0 +1,17 @@
+baseURL = "https://wilsonify.github.io/"
+languageCode = "en-us"
+tagline = "Data Scientist"
+theme = "ananke"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 100
+
+[author]
+email = "tom.andrew.wilson@gmail.com"
+name = "Thomas Wilson"
+location = "Pennsylvania"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"

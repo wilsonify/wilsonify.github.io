@@ -1,9 +1,0 @@
-title: wilsonify
-email: tom.andrew.wilson@gmail.com
-description: "Engineer"
-tagline: "Process Engineer"
-theme: jekyll-theme-tactile
-gems: ['jekyll-github-metadata']
-markdown: kramdown
-excerpt_separator: <!--more-->
-highlighter: rouge

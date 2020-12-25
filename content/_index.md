@@ -6,10 +6,14 @@ description: "just my thoughts"
 
 This site was created to be an example of my work as well as showcase my interests and projects. 
 
-My name is Thomas Wilson. 
-I'm a Data Scientist living in Lewisburg, PA.
+My name is Thomas Wilson. I'm a Data Scientist living in Lewisburg, PA.
 
-I worked in the semiconductor industry for 6 years, where I realized the importance of data for making statistically sound business decisions.
+BS Chemical Engineering University of Illinois at Urbana-Champaign
 
-Since then,  
-I am passionate about data analysis and visualization. I'm also very knowledgeable about engineering, chemistry, and computers.
+MS Data Analytics University of Houston – Downtown
+
+7 years experience in semiconductor process engineering at Samsung in Austin, TX
+
+3 years experience creating data analytic software at Baker Hughes in Houston, TX
+
+I am passionate about data analysis and visualization.

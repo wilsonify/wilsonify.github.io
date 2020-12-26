@@ -18,7 +18,8 @@ url: /2017/04/23/Tufte-in-Python/
 
 I greatly admire [Edward Tufte](https://en.wikipedia.org/wiki/Edward_Tufte).
 
-After running across [Tufte in R](/home/thom/site/wilsonify/wilsonify.github.io/_posts/2017-04-18-one-hundered-year-flood.md). I thought it would be a fun challenge to port the plots to python.
+After running across [Tufte in R](http://motioninsocial.com/tufte/). 
+I thought it would be a fun challenge to port the plots to python.
 
 <!--more-->
 

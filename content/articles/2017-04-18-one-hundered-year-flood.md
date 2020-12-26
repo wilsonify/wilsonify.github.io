@@ -26,12 +26,12 @@ First, I need some historical data. Luckily, the [USGS](https://nwis.waterdata.u
 
 ## Height
 
-First I tried to directly fit the height data to a normal distribution. This is almost good enough, but notice the change-point between 2002-2007. I confirmed that there was [major construction](https://www.projectbrays.org/about-project-brays/project-history/) done in that time frame.
+First I tried to directly fit the height data to a normal distribution. This is almost good enough, but notice the change-point between 2002-2007. I confirmed that there was [major construction](https://www.projectbrays.org/our-history/) done in that time frame.
 
 
 > In 2005, channel modifications began on a three-mile upstream channel segment between Old Westheimer Road and Highway 6 and construction is now complete. Construction began on the first downstream channel segment, from the mouth of Brays Bayou to Lawndale, in the first quarter of 2006. In the second quarter of 2006, construction began on the second downstream channel segment, from the mouth to Lawndale.
 
-![]({{site.baseurl}}/images/BraysBayouHeight.png)
+![](/images/BraysBayouHeight.png)
 
 Technically, floods are defined by volume flow-rate, so let's be more precise.
 
@@ -40,7 +40,7 @@ Technically, floods are defined by volume flow-rate, so let's be more precise.
 Using the same data source, I fit the volume flow rate to a normal distribution. 
 This time it looks more normal across time.
 
-![]({{site.baseurl}}/images//BraysBayouFlow.png)
+![](/images//BraysBayouFlow.png)
 
 
 
@@ -56,11 +56,11 @@ $$ b_2   = b_1 + 2x $$
 $$ \frac{h}{x}  = tan(\theta) $$
 
 
-![]({{site.baseurl}}/images/crossSection.png)
+![](/images/crossSection.png)
 
 If follows that height vs flow fits quadratically.
 
-![]({{site.baseurl}}/images/BraysBayouHeightvsFlow.png)
+![](/images/BraysBayouHeightvsFlow.png)
 
 My original approach (55ft) was quite accurate for data prior to 2005.
 

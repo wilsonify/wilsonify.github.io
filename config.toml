@@ -11,8 +11,17 @@ Paginate = 100
   [[menu.main]]
   name = "Home"
   URL = "/"
+  weight = 1
+
+  [[menu.main]]
+  name = "Tags"
+  URL = "/tags"
   weight = 2
 
+  [[menu.main]]
+  name = "Categories"
+  URL = "/categories"
+  weight = 3
 
 [author]
 email = "tom.andrew.wilson@gmail.com"

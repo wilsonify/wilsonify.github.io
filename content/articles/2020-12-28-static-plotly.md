@@ -14,7 +14,8 @@ url: /2020/12/28/Plotly-Example/
 
 should see a plot here
 
-{{/*% plots plot2 %*/}}
+
+{{< plots plot2 >}}
 var trace1 = {
   x: [1, 2, 3, 4],
   y: [10, 15, 13, 17],
@@ -31,4 +32,4 @@ data = [trace1, trace2];
 fig = {
   data: data
 }
-{{/*% /plots %*/}}
+{{< /plots >}}

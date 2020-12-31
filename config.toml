@@ -23,6 +23,11 @@ Paginate = 100
   URL = "/categories"
   weight = 3
 
+  [[menu.main]]
+  name = "Projects"
+  URL = "/projects"
+  weight = 3
+
 [author]
 email = "tom.andrew.wilson@gmail.com"
 name = "Thomas Wilson"

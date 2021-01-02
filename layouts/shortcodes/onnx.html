@@ -1,0 +1,30 @@
+<!-- Load ONNX.js -->
+<script src="https://cdn.jsdelivr.net/npm/onnxjs/dist/onnx.min.js"></script>
+<!-- Code that consume ONNX.js -->
+<div class="figure">
+<div class="figure-plot" id="{{ .Get 0 }}">
+	Code could not finish, some reasons why this could happen:
+	- Plot name not defined. The first parameter of the shortcode is the name.
+	- There is a syntax error. check browser console.
+</div>
+
+<script>
+      // create a session
+      const myOnnxSession = new onnx.InferenceSession();
+      // load the ONNX model file
+      myOnnxSession.loadModel("{{ .Get 0 }}").then(() => {
+        // generate model input
+        const inferenceInputs = getInputs();
+        // execute the model
+        myOnnxSession.run(inferenceInputs).then((output) => {
+          // consume the output
+          const outputTensor = output.values().next().value;
+          console.log(`model output tensor: ${outputTensor.data}.`);
+        });
+      });
+</script>
+
+</div>
+
+
+

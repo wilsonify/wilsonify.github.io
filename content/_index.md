@@ -1,6 +1,6 @@
 ---
 title: "Thomas Wilson: Data Scientist"
-featured_image: "/images/gohugo-default-sample-hero-image.jpg"
+featured_image: "/images/bristlecone.jpg"
 description: "just my thoughts"
 ---
 

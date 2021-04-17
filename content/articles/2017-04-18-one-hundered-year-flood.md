@@ -8,7 +8,7 @@ tags:
   - normal
 thumbnail: /images/thumbnails/thumb.BraysBayouHeight.png
 title: 100 Year Flood
-url: /2017/04/18/one-hundered-year-flood/
+url: /2017/04/18/one-hundred-year-flood/
 ---
 
 
@@ -16,7 +16,7 @@ url: /2017/04/18/one-hundered-year-flood/
 
 100-year flood, means that the [Annual Exceedance Probability](https://en.wikipedia.org/wiki/Frequency_of_exceedance) is 1/100.
 
-It is is a strange term. I cannot think of any other probability that is expressed in this way.
+It is a strange term. I cannot think of any other probability that is expressed in this way.
 In any case, I want to calculate the 100-year flood plain for my area.
 
 <!--more-->
@@ -46,8 +46,8 @@ This time it looks more normal across time.
 
 ## Solve for Height
 
-Volume flow is proportional to the cross sectional area of the bayou.
-Each cross section of the bayou is a trapezoid. 
+Volume flow is proportional to the cross-sectional area of the bayou.
+Each cross-section of the bayou is a trapezoid. 
 
 $$ Area_{trapezoid} = \frac{(b_1 + b_2)h}{2} $$
 

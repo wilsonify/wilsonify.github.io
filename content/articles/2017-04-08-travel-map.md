@@ -2,7 +2,7 @@
 categories:
   - projects
 date: 2017-04-08
-exerpt_separator: <!--more-->
+excerpt_separator: <!--more-->
 image: /images/PlacesIveBeen.png
 tags:
   - travel
@@ -20,7 +20,7 @@ I wanted to make a digital version of one of large maps where you put actual pin
 [Basemap](http://matplotlib.org/basemap/users/robin.html) makes that pretty easy.
 
 
-My code is on github: [travelmap.py](https://github.com/wilsonify/travels/blob/master/travelmap.py) 
+My code is on GitHub: [travelmap.py](https://github.com/wilsonify/travels/blob/master/travelmap.py) 
 
 
 Here is what the [Raw data](https://github.com/wilsonify/travels/blob/master/OhThePlacesIveBeen.csv)

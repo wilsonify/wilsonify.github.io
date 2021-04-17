@@ -1,12 +1,12 @@
 ---
-title: "Thomas Wilson: Data Scientist"
+title: "Thomas Wilson"
 featured_image: "/images/bristlecone.jpg"
-description: "just my thoughts"
+description: "
+I'm a Data Scientist living in Lewisburg, PA.
+This site was created to showcase my interests and projects. 
+"
 ---
 
-This site was created to showcase my interests and projects. 
-
-My name is Thomas Wilson. I'm a Data Scientist living in Lewisburg, PA.
 
 ## Education
 
@@ -20,4 +20,4 @@ My name is Thomas Wilson. I'm a Data Scientist living in Lewisburg, PA.
 
 ## Enthusiasm
 
-I am passionate about statistical literacy, data analysis, visualization, and music.
+I am passionate about statistical literacy, data analysis through visualization, and music.

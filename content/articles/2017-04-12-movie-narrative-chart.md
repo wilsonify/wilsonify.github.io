@@ -33,7 +33,7 @@ There are a few key plot points that are not obvious:
  3. Aaron takes both boxes with him in the failsafe (he calls this "recycling")
  4. Aaron replaces himself and the failsafe. (rats in the attic?...no)
  5. Upon witnessing Granger go into a coma, Abe decides to use the false failsafe placed by Aaron.
- 6. Aaron uses his own failsafe bringing audio recordings with him. (This is Bill and Ted style time travel. Just think about recording conversations and your future self will deliver it to you.) 
+ 6. Aaron uses his own failsafe bringing audio recordings with him. (This is Bill and Ted style time travel. Just think about recording conversations, and your future self will deliver it to you.) 
 
 Other than these, the rest of the film is actually easy to plot. There are very few characters, they spend the entire film together, and they typically time travel for half a day once per day. 
 

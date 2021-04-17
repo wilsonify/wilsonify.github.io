@@ -25,7 +25,7 @@ Here is my recipe for minimally bitter coffee.
 
 - Boiling water
 - Coffee
-- Grider
+- Grinder
 - Filter
 - Pot
 - Scale

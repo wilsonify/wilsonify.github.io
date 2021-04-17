@@ -2,7 +2,7 @@
 categories:
   - MachineLearning
 date: 2017-04-03
-exerpt_separator: <!--more-->
+excerpt_separator: <!--more-->
 image: /images/RNN.png
 tags:
   - music
@@ -15,20 +15,20 @@ use_math: true
 
 
 After watching this [presentation](https://www.youtube.com/watch?v=vq2nnJ4g6N0), where Martin Görner shows the use of 
-recurrent neural networks to create a new Shakespear play, I was feeling inspired.
+recurrent neural networks to create a new Shakespeare play, I was feeling inspired.
 So, I pointed his code a bunch of song lyrics.
 
 # Background
-I've been interested in Neural Networks for a long time because, fundamentally, they are similar to a procress controller.
+I've been interested in Neural Networks for a long time because, fundamentally, they are similar to a process controller.
 
 $$ Output = Input \times Weight + Bias $$
 
-It's just a line. For multiple inputs/outputs, the equation is the same, but the are matrices (or tensors). Why stop there, send the output of one "neuron" to the input of another and you've got a "deep" network.
+It's just a line. For multiple inputs/outputs, the equation is the same, but they are matrices (or tensors). Why stop there, send the output of one "neuron" to the input of another, and you've got a "deep" network.
 
 # A "recurrent" network is
 >a neural network where the output of one neuron is appended to the original input and passed to the next neuron. 
 
-They work remarkably well for language processing (think google translate).
+They work remarkably well for language processing (think Google Translate).
 
 # Getting the lyrics
 First, I used the [Genius API](https://docs.genius.com/) to find lyrics for as many Beatles songs as possible. You can see my code on [github](https://github.com/wilsonify/lyrics)

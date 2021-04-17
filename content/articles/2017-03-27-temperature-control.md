@@ -2,7 +2,7 @@
 categories:
   - projects
 date: 2017-03-27 12:02:00+00:00
-exerpt_separator: <!--more-->
+excerpt_separator: <!--more-->
 image: /images/smokepoint.png
 tags:
   - cooking
@@ -14,7 +14,7 @@ url: /2017/03/27/temperature-control/
 
 
 
-Problem: stovetop temperature is poorly controlled resulting in inconsistent cooking times and results.
+Problem: stove-top temperature is poorly controlled resulting in inconsistent cooking times and results.
 
 Solution: Use an Arduino to control the temperature of pan.
 
@@ -36,6 +36,6 @@ My plan is to control the temperature just below the smoke point of what every o
 
 ![](/images/smokepoint.png)
 
-Since the thermocouple output will be just a few millivolts, I will need to amplify the signal closer to the 5mV range for the arduino to record it properly.
+Since the thermocouple output will be just a few milli-volts, I will need to amplify the signal closer to the 5mV range for the arduino to record it properly.
 
 

@@ -296,7 +296,7 @@ data.plot.bar(color = '0.75',width=0.4)
 #overlay a white grid on the y-axis
 ax.grid(axis='y',c='w')
 
-#rotate the x axis tick labls
+#rotate the x axis tick labels
 labels = ax.get_xticklabels()
 plt.setp(labels, rotation=0, fontsize=10)
 

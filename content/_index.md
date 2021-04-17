@@ -8,7 +8,7 @@ This site was created to showcase my interests and projects.
 
 My name is Thomas Wilson. I'm a Data Scientist living in Lewisburg, PA.
 
-### Education
+## Education
 
 * BS Chemical Engineering University of Illinois at Urbana-Champaign
 * MS Data Analytics University of Houston – Downtown

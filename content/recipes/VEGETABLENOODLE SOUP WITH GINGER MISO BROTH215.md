@@ -1,7 +1,9 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <html>
   <head>
-  <title>VEGETABLE-NOODLE SOUP WITH GINGER MISO BROTH</title><link rel='stylesheet' href='style.css' type='text/css'><meta http-equiv="Content-Style-Stype" content="text/css">
+  title: "VEGETABLE-NOODLE SOUP WITH GINGER MISO BROTH"
+---
+# VEGETABLE-NOODLE SOUP WITH GINGER MISO BROTH<link rel='stylesheet' href='style.css' type='text/css'><meta http-equiv="Content-Style-Stype" content="text/css">
      <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
      </head><body><div class="recipe" itemscope itemtype="http://schema.org/Recipe"><div class='header'><p class="title"><span class="label">Title:</span> <span itemprop="name">VEGETABLE-NOODLE SOUP WITH GINGER MISO BROTH</span></p>
 <p class="yields"><span class="label">Yield:</span> <span itemprop="recipeYield">2 BIG-ASS BOWLS OR 4 SIDES</span></p>

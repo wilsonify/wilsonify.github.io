@@ -1,12 +1,16 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <html>
   <head>
-  <title>PAN-ROASTED PEPPERS</title><link rel='stylesheet' href='style.css' type='text/css'><meta http-equiv="Content-Style-Stype" content="text/css">
+  title: "PAN-ROASTED PEPPERS"
+---
+# PAN-ROASTED PEPPERS<link rel='stylesheet' href='style.css' type='text/css'><meta http-equiv="Content-Style-Stype" content="text/css">
      <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
      </head><body><div class="recipe" itemscope itemtype="http://schema.org/Recipe"><div class='header'><p class="title"><span class="label">Title:</sp<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <html>
   <head>
-  <title>PAN-ROASTED PEPPERS</title><link rel='stylesheet' href='style.css' type='text/css'><meta http-equiv="Content-Style-Stype" content="text/css">
+  title: "PAN-ROASTED PEPPERS"
+---
+# PAN-ROASTED PEPPERS<link rel='stylesheet' href='style.css' type='text/css'><meta http-equiv="Content-Style-Stype" content="text/css">
      <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
      </head><body><div class="recipe" itemscope itemtype="http://schema.org/Recipe"><div class='header'><p class="title"><span class="label">Title:</spass="ing" itemprop="ingredients">1 pinch salt </li>
 </ul>

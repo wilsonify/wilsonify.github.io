@@ -1,13 +1,17 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <html>
   <head>
-  <title>BUFFALO LETTUCE BITES</title><link rel='stylesheet' href='style.css' type='text/css'><meta http-equiv="Content-Style-Stype" content="text/css">
+  title: "BUFFALO LETTUCE BITES"
+---
+# BUFFALO LETTUCE BITES<link rel='stylesheet' href='style.css' type='text/css'><meta http-equiv="Content-Style-Stype" content="text/css">
      <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
      </head><body><div class="recipe" itemscope itemtype="http://schema.org/Recipe"><div class='header'><p class="title"><span class="label">Title:</span> <span itemprop="name">BUFFALO LETTUCE BITES</span></p>
 </div><div class="ing"><h3>Ingredients</h3><ul class="ing"><li class="ing" itemprop="ingredients">3 cup cooked chickpeas </l<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <html>
   <head>
-  <title>BUFFALO LETTUCE BITES</title><link rel='stylesheet' href='style.css' type='text/css'><meta http-equiv="Content-Style-Stype" content="text/css">
+  title: "BUFFALO LETTUCE BITES"
+---
+# BUFFALO LETTUCE BITES<link rel='stylesheet' href='style.css' type='text/css'><meta http-equiv="Content-Style-Stype" content="text/css">
      <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
      </head><body><div class="recipe" itemscope itemtype="http://schema.org/Recipe"><div class='header'><p class="title"><span class="label">Title:</span> <span itemprop="name">BUFFALO LETTUCE BITES</span></p>
 </div><div class="ing"><h3>Ingredients</h3><ul class="ing"><li class="ing" itemprop="ingredients">3 cup cooked chickpeas </l butter, or green leaf lettuce, something that can hold a scoop </li>

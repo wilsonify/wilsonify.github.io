@@ -1,14 +1,18 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <html>
   <head>
-  <title>GRILLED EGGPLANT WITH SOBA NOODLES</title><link rel='stylesheet' href='style.css' type='text/css'><meta http-equiv="Content-Style-Stype" content="text/css">
+  title: "GRILLED EGGPLANT WITH SOBA NOODLES"
+---
+# GRILLED EGGPLANT WITH SOBA NOODLES<link rel='stylesheet' href='style.css' type='text/css'><meta http-equiv="Content-Style-Stype" content="text/css">
      <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
      </head><body><div class="recipe" itemscope itemtype="http://schema.org/Recipe"><div class='header'><p class="title"><span class="label">Title:</span> <span itemprop="name">GRILLED EGGPLANT WITH SOBA NOODLES</span></p>
 <p class="yields"><span class="label">Yield:</span> <span itemprop="recipeYield">4 PEOPLE OR JUST 1 IF YOU WANT TO SAVE THIS</span></p>
 </div><div class="ing"><h3>Ingredients</h3><ul class="ing"><li class="ing" itemprop="ingredients">2 TBL toasted se<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <html>
   <head>
-  <title>GRILLED EGGPLANT WITH SOBA NOODLES</title><link rel='stylesheet' href='style.css' type='text/css'><meta http-equiv="Content-Style-Stype" content="text/css">
+  title: "GRILLED EGGPLANT WITH SOBA NOODLES"
+---
+# GRILLED EGGPLANT WITH SOBA NOODLES<link rel='stylesheet' href='style.css' type='text/css'><meta http-equiv="Content-Style-Stype" content="text/css">
      <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
      </head><body><div class="recipe" itemscope itemtype="http://schema.org/Recipe"><div class='header'><p class="title"><span class="label">Title:</span> <span itemprop="name">GRILLED EGGPLANT WITH SOBA NOODLES</span></p>
 <p class="yields"><span class="label">Yield:</span> <span itemprop="recipeYield">4 PEOPLE OR JUST 1 IF YOU WANT TO SAVE THIS</span></p>

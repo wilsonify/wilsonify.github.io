@@ -1,65 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE gourmetDoc>
-<gourmetDoc>
 
-	<recipe id="55">
-		<title>POTATO LEEK SOUP</title>
-		<yields>4 AS A SIDE</yields>
-		<ingredient-list>
-			<ingredient>
-				<amount>3</amount>
-				<item>fist-size russet (baking) or yellow potatoes</item>
-				<key>fist-size russet (baking) or yellow potatoes</key>
-			</ingredient>
-			<ingredient>
-				<amount>3</amount>
-				<unit>medium</unit>
-				<item>leeks</item>
-				<key>leeks</key>
-			</ingredient>
-			<ingredient>
-				<amount>1</amount>
-				<unit>TBL</unit>
-				<item>olive oil</item>
-				<key>olive oil</key>
-			</ingredient>
-			<ingredient>
-				<amount>3</amount>
-				<item>to 4 clove garlic</item>
-				<key>to 4 clove garlic</key>
-			</ingredient>
-			<ingredient>
-				<amount>4</amount>
-				<unit>cup</unit>
-				<item>vegetable broth</item>
-				<key>vegetable broth</key>
-			</ingredient>
-			<ingredient>
-				<amount>1/4</amount>
-				<unit>tsp</unit>
-				<item>salt</item>
-				<key>salt</key>
-			</ingredient>
-			<ingredient>
-				<amount>1/4</amount>
-				<unit>tsp</unit>
-				<item>ground pepper</item>
-				<key>ground pepper</key>
-			</ingredient>
-			<ingredient>
-				<amount>1/4</amount>
-				<unit>cup</unit>
-				<item>sliced fresh chives or green onions</item>
-				<key>sliced fresh chives or green onions</key>
-			</ingredient>
-			<ingredient>
-				<amount>1/4</amount>
-				<unit>cup</unit>
-				<item>fresh dill</item>
-				<key>fresh dill</key>
-			</ingredient>
-		</ingredient-list>
-		<instructions>1 Chop the potatoes into 1-inch cubes. Keep the skin on if you like to go hard. Cut off the
+
+	
+title: "POTATO LEEK SOUP"
+---
+# POTATO LEEK SOUP
+#### yields
+4 AS A SIDE
+## ingredients
+* 3 fist-size russet (baking) or yellow potatoes fist-size russet (baking) or yellow potatoes
+* 3 medium leeks* 3 medium leeksl
+
+* 3 to 4 clove garlic to 4 clove garlic
+* 4 cup vegetable broth* 4 cup vegetable broth* 4 cup vegetable broth* 4 cup vegetable broth* 4 cup vegetable broth fresh chives or green onions
+
+* 1/4 cup fresh dill
+
+# instructions
+1 Chop the potatoes into 1-inch cubes. Keep the skin on if you like to go hard. Cut off the
 rough, leafy ends of the leeks and save that shit to make broth later (see this page). Cut off the
 roots and then slice that fucker up the middle lengthwise. Now cut the leek crosswise into
 ribbons about as thin as a hair tie and wash the fuck out of them.
@@ -72,12 +29,14 @@ let it cool for a bit and then add it to your blender, or you can stick your imm
 right in there and get that shit down in a sec. Do whatever you can. Once the soup is nice and
 creamy, add it back to the pot (if you took it out), add the pepper, and warm it back up. Stir in
 the chives and taste. Add more salt and pepper if you think it needs it. That shit is on you.
-Dish that soup up and serve with about a TBL of the fresh dill on top. Tasty and classy.</instructions>
-		<modifications>About 1 LB
+Dish that soup up and serve with about a TBL of the fresh dill on top. Tasty and classy.
+
+# modifications
+
+About 1 LB
  Leeks are always dirty as hell when you buy them because they grow in sandy soil and can be hard to clean
 when they are whole. Instead, cut them up to the size you need them, throw them in a bowl of water, and mix that
 shit around so that all the dirt comes loose and sinks to the bottom. Drain it and rinse a couple more times so you
-aren’t eating any grit with dinner.</modifications>
-	</recipe>
+aren’t eating any grit with dinner.
+	
 
-</gourmetDoc>

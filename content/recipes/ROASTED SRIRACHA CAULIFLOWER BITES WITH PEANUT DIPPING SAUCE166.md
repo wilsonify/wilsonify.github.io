@@ -1,7 +1,9 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <html>
   <head>
-  <title>ROASTED SRIRACHA CAULIFLOWER BITES WITH PEANUT DIPPING SAUCE</title><link rel='stylesheet' href='style.css' type='text/css'><meta http-equiv="Content-Style-Stype" content="text/css">
+  title: "ROASTED SRIRACHA CAULIFLOWER BITES WITH PEANUT DIPPING SAUCE"
+---
+# ROASTED SRIRACHA CAULIFLOWER BITES WITH PEANUT DIPPING SAUCE<link rel='stylesheet' href='style.css' type='text/css'><meta http-equiv="Content-Style-Stype" content="text/css">
      <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
      </head><body><div class="recipe" itemscope itemtype="http://schema.org/Recipe"><div class='header'><p class="title"><span class="label">Title:</span> <span itemprop="name">ROASTED SRIRACHA CAULIFLOWER BITES WITH PEANUT DIPPING SAUCE</span></p>
 <p class="yields"><span class="label">Yield:</span> <span itemprop="recipeYield">4 TO 6 PEOPLE, OR 1 PERSON WITH NO FEARS</span></p>

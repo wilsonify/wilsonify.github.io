@@ -1,94 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE gourmetDoc>
-<gourmetDoc>
-	<recipe id="39">
-		<title>5-SPICE FRIED RICE WITH SWEET POTATOES</title>
-		<yields>4 AS A SIDE OR YOUR LONELY ASS FOR A COUPLE</yields>
-		<ingredient-list>
-			<ingredient>
-				<amount>1</amount>
-				<unit>medium</unit>
-				<item>sweet potato (¾ to 1 LB)</item>
-				<key>sweet potato (¾ to 1 LB)</key>
-			</ingredient>
-			<ingredient>
-				<amount>2</amount>
-				<unit>tsp</unit>
-				<item>neutral-tasting oil</item>
-				<key>neutral-tasting oil</key>
-			</ingredient>
-			<ingredient>
-				<amount>2</amount>
-				<unit>TBL</unit>
-				<item>water</item>
-				<key>water</key>
-			</ingredient>
-			<ingredient>
-				<amount>1/2</amount>
-				<unit>small</unit>
-				<item>yellow onion</item>
-				<key>yellow onion</key>
-			</ingredient>
-			<ingredient>
-				<amount>1</amount>
-				<item>carrot</item>
-				<key>carrot</key>
-			</ingredient>
-			<ingredient>
-				<amount>1/4</amount>
-				<unit>tsp</unit>
-				<item>Chinese 5-spice powder</item>
-				<key>Chinese 5-spice powder</key>
-			</ingredient>
-			<ingredient>
-				<amount>1</amount>
-				<item>to 2 clove garlic</item>
-				<key>to 2 clove garlic</key>
-			</ingredient>
-			<ingredient>
-				<amount>1 1/2</amount>
-				<unit>TBL</unit>
-				<item>soy sauce or tamari</item>
-				<key>soy sauce or tamari</key>
-			</ingredient>
-			<ingredient>
-				<amount>1</amount>
-				<unit>TBL</unit>
-				<item>rice vinegar</item>
-				<key>rice vinegar</key>
-			</ingredient>
-			<ingredient>
-				<amount>1</amount>
-				<unit>tsp</unit>
-				<item>chili paste or an Asian-style hot sauce like Sriracha</item>
-				<key>chili paste or an Asian-style hot sauce like Sriracha</key>
-			</ingredient>
-			<ingredient>
-				<amount>4</amount>
-				<unit>cup</unit>
-				<item>cooked short-grain brown rice that’s been chilled for a couple hours</item>
-				<key>cooked short-grain brown rice that’s been chilled for a couple hours</key>
-			</ingredient>
-			<ingredient>
-				<amount>1</amount>
-				<unit>cup</unit>
-				<item>bitter greens</item>
-				<key>bitter greens</key>
-			</ingredient>
-			<ingredient>
-				<amount>1/2</amount>
-				<unit>cup</unit>
-				<item>sliced green onions</item>
-				<key>sliced green onions</key>
-			</ingredient>
-			<ingredient>
-				<amount>1</amount>
-				<unit>cup</unit>
-				<item>frozen green peas, thawed</item>
-				<key>frozen green peas, thawed</key>
-			</ingredient>
-		</ingredient-list>
-		<instructions>0 chop onion, carrot, and greans no bigger than a quarter
+
+title: "5-SPICE FRIED RICE WITH SWEET POTATOES"
+---
+# 5-SPICE FRIED RICE WITH SWEET POTATOES
+#### yields
+4 AS A SIDE OR YOUR LONELY ASS FOR A COUPLE
+
+## ingredients
+* 1 medium sweet potato (¾ to 1 LB)
+* 2 tsp neutral-tasting oil
+* 2 TBL water
+* 1/2 small yellow onion
+* 1 carrot carrot
+* 1/4 tsp Chinese 5-spice powder
+* 1 to 2 clove garlic to 2 clove garlic
+* 1 1/2 TBL soy sauce or tamari
+* 1 TBL rice vinegar
+* 1 tsp chili paste or an Asian-style hot sauce like Sriracha
+* 4 cup cooked short-grain brown rice that’s been chilled for a couple hours
+* 1 cup bitter greens
+* 1/2 cup sliced green onions
+* 1 cup frozen green peas, thawed
+
+# instructions
+0 chop onion, carrot, and greans no bigger than a quarter
 1 Peel the sweet potato and chop into dice-size cubes.
 2 In a large wok or skillet, heat 1 tsp of the oil over medium heat. Add the sweet potato
 and the water and stir-fry the potato, stirring often. If the potato starts to stick, add a little
@@ -100,11 +34,13 @@ vegetables from the pan. Scrape the pan clean cause we aren’t fucking done.
 over medium heat and add the remaining 1 tsp oil. Throw in the rice and stir-fry until it
 begins to warm, 3 to 5 minutes. Drizzle the sauce over the rice, mix well, then add the cooked
 vegetables. Stir-fry for a minute so everything is well mixed. Fold in the greens, green onions,
-and peas. Turn off the heat and serve immediately.</instructions>
-		<modifications>Grapeseed, peanut, or regular sesame oil would be cool.
+and peas. Turn off the heat and serve immediately.
+
+# modifications
+
+Grapeseed, peanut, or regular sesame oil would be cool.
  Most grocery stores carry this shit with the rest of the spices. It’s a blend of clove, star anise, cinnamon, pepper,
 ginger, and fennel seeds. It’s tasty as hell and you should own some. If you can’t find it, you can make your own
 blend or just leave it out and tell your grocer to get their shit together.
- We used watercress, but mustard or arugula are fine if you can’t find that weedy looking bastard.</modifications>
-	</recipe>
-</gourmetDoc>
+ We used watercress, but mustard or arugula are fine if you can’t find that weedy looking bastard.
+	

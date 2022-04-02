@@ -1,47 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE gourmetDoc>
-<gourmetDoc>
-	<recipe id="83">
-		<title>CREAMY RAVIOLI WITH HOUSE MARINARA</title>
-		<ingredient-list>
-			<ingredient>
-				<amount>2</amount>
-				<unit>cup</unit>
-				<item>all-purpose flour</item>
-				<key>all-purpose flour</key>
-			</ingredient>
-			<ingredient>
-				<amount>1/2</amount>
-				<unit>cup</unit>
-				<item>flour</item>
-				<key>flour</key>
-			</ingredient>
-			<ingredient>
-				<amount>1</amount>
-				<unit>pinch</unit>
-				<item>salt</item>
-				<key>salt</key>
-			</ingredient>
-			<ingredient>
-				<item>¾ to 1 cup water</item>
-				<key>¾ to 1 cup water</key>
-			</ingredient>
-			<ingredient>
-				<amount>3</amount>
-				<unit>TBL</unit>
-				<item>olive oil</item>
-				<key>olive oil</key>
-			</ingredient>
-			<ingredient>
-				<item>House Marinara</item>
-				<key>House Marinara</key>
-			</ingredient>
-			<ingredient>
-				<item>Tofu Ricotta</item>
-				<key>Tofu Ricotta</key>
-			</ingredient>
-		</ingredient-list>
-		<instructions>1 To make the dough: In a large bowl, combine the flours and salt and stir it all around. Make
+
+	
+title: "CREAMY RAVIOLI WITH HOUSE MARINARA"
+---
+# CREAMY RAVIOLI WITH HOUSE MARINARA
+## ingredients
+* 2 cup all-purpose flour* 2 cup all-purpose flour* 2 cup all-purpose flour
+* 1 pinch salt
+
+¾ to 1 cup water
+* 3 TBL olive oil
+House MarinaraHouse Marinaracotta</key>
+
+
+# instructions
+1 To make the dough: In a large bowl, combine the flours and salt and stir it all around. Make
 a crater in the center of that and add ¾ cup of the water and the olive oil. Mix the liquids and
 flour together until a shaggy dough comes together. If there’s still a bunch of dry-ass flour in
 the bowl, add the remaining .25 cup water—but no more—1 TBL at a time until that
@@ -63,8 +35,11 @@ then transfer to a large baking sheet. Repeat this process with the other piece 
 this point you can either freeze the ravioli or cook them immediately.)
 4 To cook, bring a large pot of salted water to boil and add the ravioli in batches of 8 to 10,
 depending on the size of your pot. Boil gently until the raviolis float, 2 to 4 minutes.
-5 Serve with the marinara.</instructions>
-		<modifications>If you’re feeling lazy as fuck or are scared of making your own dough, you can cheat and just buy wonton
+5 Serve with the marinara.
+
+# modifications
+
+If you’re feeling lazy as fuck or are scared of making your own dough, you can cheat and just buy wonton
 wrappers and use them instead. Skip the whole ravioli stamp and rolling out thing. Just place a little filling in the
 center of a wonton wrapper, wet the edges, and press another wrapper over the top, making sure to seal the edges.
 Freeze them or cook them right away just like the homemade shit.
@@ -72,7 +47,6 @@ Freeze them or cook them right away just like the homemade shit.
 easier. Or you can use a knife and just cut those bastards out if you are feeling brave. Just remember to wet your
 fingers and press down the edges so the filling doesn’t spill out while you cook.
  Or just serve with your favorite sauce or with the basil pesto from the Mixed Mushroom and Spinach Lasagna
-thinned out with a couple TBL of water.</modifications>
-	</recipe>
+thinned out with a couple TBL of water.
 	
-</gourmetDoc>
+	

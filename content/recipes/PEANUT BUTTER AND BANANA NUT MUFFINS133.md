@@ -1,7 +1,9 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <html>
   <head>
-  <title>PEANUT BUTTER AND BANANA NUT MUFFINS</title><link rel='stylesheet' href='style.css' type='text/css'><meta http-equiv="Content-Style-Stype" content="text/css">
+  title: "PEANUT BUTTER AND BANANA NUT MUFFINS"
+---
+# PEANUT BUTTER AND BANANA NUT MUFFINS<link rel='stylesheet' href='style.css' type='text/css'><meta http-equiv="Content-Style-Stype" content="text/css">
      <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
      </head><body><div class="recipe" itemscope itemtype="http://schema.org/Recipe"><div class='header'><p class="title"><span class="label">Title:</span> <span itemprop="name">PEANUT BUTTER AND BANANA NUT MUFFINS</span></p>
 <p class="yields"><span class="label">Yield:</span> <span itemprop="recipeYield">12 STANDARD MUFFINS</span></p>

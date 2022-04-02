@@ -1,114 +1,113 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE gourmetDoc>
-<gourmetDoc>
 
-	<recipe id="33">
-		<title>GINGER-MUSHROOM SUMMER ROLLS</title>
-		<yields>10 TO 12 ROLLS THAT WILL HAVE PEOPLE TALKING FOR WEEKS</yields>
-		<ingredient-list>
+
+	
+title: "GINGER-MUSHROOM SUMMER ROLLS"
+---
+# GINGER-MUSHROOM SUMMER ROLLS
+#### yields
+10 TO 12 ROLLS THAT WILL HAVE PEOPLE TALKING FOR WEEKS
+## ingredients
 			<ingredient>
 				<amount>8</amount>
 				<item>ounces mushrooms</item>
 				<key>ounces mushrooms</key>
-			</ingredient>
+
 			<ingredient>
 				<amount>3</amount>
 				<unit>clove</unit>
 				<item>garlic</item>
 				<key>garlic</key>
-			</ingredient>
+
 			<ingredient>
 				<amount>1/2</amount>
 				<unit>tsp</unit>
 				<item>neutral-tasting oil like grapeseed</item>
 				<key>neutral-tasting oil like grapeseed</key>
-			</ingredient>
+
 			<ingredient>
 				<amount>1 1/2</amount>
 				<unit>tsp</unit>
 				<item>soy sauce or tamari</item>
 				<key>soy sauce or tamari</key>
-			</ingredient>
+
 			<ingredient>
 				<amount>1/3</amount>
 				<unit>cup</unit>
 				<item>minced green onions</item>
 				<key>minced green onions</key>
-			</ingredient>
+
 			<ingredient>
 				<amount>2</amount>
 				<unit>TBL</unit>
 				<item>minced fresh ginger</item>
 				<key>minced fresh ginger</key>
-			</ingredient>
+
 			<ingredient>
 				<amount>1/2</amount>
 				<unit>tsp</unit>
 				<item>toasted sesame oil</item>
 				<key>toasted sesame oil</key>
-			</ingredient>
-			<ingredient optional="yes">
-				<item>SWEET AND SOUR DIPPING SAUCE</item>
-				<key>SWEET AND SOUR DIPPING SAUCE</key>
-			</ingredient>
+
+SWEET AND SOUR DIPPING SAUCE *optional*
 			<ingredient>
 				<amount>1/2</amount>
 				<unit>cup</unit>
 				<item>rice vinegar</item>
 				<key>rice vinegar</key>
-			</ingredient>
+
 			<ingredient>
 				<amount>2</amount>
 				<unit>TBL</unit>
 				<item>sugar</item>
 				<key>sugar</key>
-			</ingredient>
+
 			<ingredient>
 				<amount>2-3</amount>
 				<unit>tsp</unit>
 				<item>chili-garlic paste</item>
 				<key>chili-garlic paste</key>
-			</ingredient>
+
 			<ingredient>
 				<amount>1</amount>
 				<unit>tsp</unit>
 				<item>lime juice</item>
 				<key>lime juice</key>
-			</ingredient>
+
 			<ingredient>
 				<amount>1/4</amount>
 				<unit>cup</unit>
 				<item>peanuts</item>
 				<key>peanuts</key>
-			</ingredient>
+
 			<ingredient>
 				<amount>6</amount>
 				<item>lettuce leaves</item>
 				<key>lettuce leaves</key>
-			</ingredient>
+
 			<ingredient>
 				<amount>1</amount>
 				<item>cucumber</item>
 				<key>cucumber</key>
-			</ingredient>
+
 			<ingredient>
 				<amount>1</amount>
 				<item>carrot</item>
 				<key>carrot</key>
-			</ingredient>
+
 			<ingredient>
 				<amount>1</amount>
 				<unit>cup</unit>
 				<item>fresh herbs</item>
 				<key>fresh herbs</key>
-			</ingredient>
+
 			<ingredient>
 				<amount>1</amount>
 				<item>pack of large spring roll wrappers/rice paper wrappers</item>
 				<key>pack of large spring roll wrappers/rice paper wrappers</key>
-			</ingredient>
-		</ingredient-list>
-		<instructions>1 Trim and slice the mushrooms into strips no thicker than your finger and mince the garlic.
+
+
+# instructions
+1 Trim and slice the mushrooms into strips no thicker than your finger and mince the garlic.
 Heat up the neutral oil in a wok or skillet over medium heat. Add the mushrooms and sauté
 until they start releasing a bunch of liquid, 1 to 2 minutes. Add the soy sauce, green onions,
 ginger, and garlic and cook until most of that liquid shit evaporates, about 2 more minutes.
@@ -137,11 +136,13 @@ over once, left to right, and then fold the bottom up like a burrito. Continue r
 tightly and press the end flap gently against the roll. If you can make a burrito then you already
 have this shit on lock. Keep making rolls until you run out of filling.
 6 To serve, add the chopped peanuts to the dipping sauce and go to town. Finished rolls will
-keep in the fridge for about 2 days but if you haven’t eaten them by then, you’re fucking crazy.</instructions>
-		<modifications>Enoki, shiitake, button, whateverthefuck you find is cool.
+keep in the fridge for about 2 days but if you haven’t eaten them by then, you’re fucking crazy.
+
+# modifications
+
+Enoki, shiitake, button, whateverthefuck you find is cool.
  You can find this by the soy sauce in the store.
  A combo of cilantro, mint, and basil is so fucking good, but use whichever of those you can find.
- They look like a stack of white paper frisbees. They are usually near the soy sauce at the store and are cheap as fuck.</modifications>
-	</recipe>
+ They look like a stack of white paper frisbees. They are usually near the soy sauce at the store and are cheap as fuck.
 	
-</gourmetDoc>
+	

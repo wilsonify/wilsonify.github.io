@@ -1,61 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE gourmetDoc>
-<gourmetDoc>
 
-	<recipe id="113">
-		<title>COCONUT CORNMEAL CAKE</title>
-		<yields>1 Cake</yields>
-		<ingredient-list>
-			<ingredient>
-				<amount>1 1/4</amount>
-				<unit>cup</unit>
-				<item>cornmeal</item>
-				<key>cornmeal</key>
-			</ingredient>
-			<ingredient>
-				<amount>3/4</amount>
-				<unit>cup</unit>
-				<item>flour</item>
-				<key>flour</key>
-			</ingredient>
-			<ingredient>
-				<amount>3/4</amount>
-				<unit>cup</unit>
-				<item>sugar</item>
-				<key>sugar</key>
-			</ingredient>
-			<ingredient>
-				<amount>2</amount>
-				<unit>tsp</unit>
-				<item>baking powder</item>
-				<key>baking powder</key>
-			</ingredient>
-			<ingredient>
-				<amount>1/2</amount>
-				<unit>tsp</unit>
-				<item>salt</item>
-				<key>salt</key>
-			</ingredient>
-			<ingredient>
-				<amount>1 1/2</amount>
-				<unit>cup</unit>
-				<item>canned coconut milk</item>
-				<key>canned coconut milk</key>
-			</ingredient>
-			<ingredient>
-				<amount>1</amount>
-				<unit>tsp</unit>
-				<item>vanilla extract</item>
-				<key>vanilla extract</key>
-			</ingredient>
-			<ingredient>
-				<amount>1/2</amount>
-				<unit>tsp</unit>
-				<item>grated lemon zest</item>
-				<key>grated lemon zest</key>
-			</ingredient>
-		</ingredient-list>
-		<instructions>1 First, heat your oven to 375°F. Grab an 8-inch cake pan, grease it, and dust it with flour to
+
+	
+title: "COCONUT CORNMEAL CAKE"
+---
+# COCONUT CORNMEAL CAKE
+#### yields
+1 Cake
+## ingredients
+* 1 1/4 cup cornmeal* 1 1/4 cup cornmeal* 1 1/4 cup cornmeal* 1 1/4 cup cornmeal* 1 1/4 cup cornmealo* 1 1/4 cup cornmeal* 1 1/4 cup cornmeal* 1 1/4 cup cornmealed coconut milk
+
+* 1 tsp vanilla extract* 1 tsp vanilla extract lemon zest
+
+
+# instructions
+1 First, heat your oven to 375°F. Grab an 8-inch cake pan, grease it, and dust it with flour to
 make sure your cake doesn’t stick. If you are still consumed with fear, cut a round out of
 parchment paper the same size as the pan and stick that in the bottom to be extra fucking sure
 your cake will come out in one piece. Now relax, you got this shit.
@@ -70,9 +28,11 @@ fucking welcome.
 4 Bake the cake until a toothpick stuck in the center comes out clean, 30 to 40 minutes. Let it
 cool in the pan for 15 minutes and then turn it out on to a wire rack to finish cooling until
 you’re ready for it.
-5 Serve cold or at room temperature.</instructions>
-		<modifications>The finely ground stuff you would use to make cornbread, not that coarser shit you would use to make polenta.
-Got it?</modifications>
-	</recipe>
+5 Serve cold or at room temperature.
 
-</gourmetDoc>
+# modifications
+
+The finely ground stuff you would use to make cornbread, not that coarser shit you would use to make polenta.
+Got it?
+	
+

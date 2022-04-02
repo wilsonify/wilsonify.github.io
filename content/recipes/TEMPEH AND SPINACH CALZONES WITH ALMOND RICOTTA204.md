@@ -1,130 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE gourmetDoc>
-<gourmetDoc>
 
-	<recipe id="193">
-		<title>TEMPEH AND SPINACH CALZONES WITH ALMOND RICOTTA</title>
-		<yields>8 HAND-SIZE CALZONES</yields>
-		<ingredient-list>
-			<ingredient>
-				<amount>2</amount>
-				<unit>tsp</unit>
-				<item>olive oil</item>
-				<key>olive oil</key>
-			</ingredient>
-			<ingredient>
-				<amount>8</amount>
-				<item>ounces tempeh</item>
-				<key>ounces tempeh</key>
-			</ingredient>
-			<ingredient>
-				<amount>1</amount>
-				<item>yellow onion</item>
-				<key>yellow onion</key>
-			</ingredient>
-			<ingredient>
-				<amount>1</amount>
-				<unit>TBL</unit>
-				<item>soy sauce</item>
-				<key>soy sauce</key>
-			</ingredient>
-			<ingredient>
-				<amount>2</amount>
-				<unit>tsp</unit>
-				<item>fennel seeds</item>
-				<key>fennel seeds</key>
-			</ingredient>
-			<ingredient>
-				<amount>1</amount>
-				<unit>tsp</unit>
-				<item>dried basil</item>
-				<key>dried basil</key>
-			</ingredient>
-			<ingredient>
-				<amount>1</amount>
-				<unit>tsp</unit>
-				<item>dried oregano</item>
-				<key>dried oregano</key>
-			</ingredient>
-			<ingredient>
-				<amount>1</amount>
-				<unit>tsp</unit>
-				<item>dried thyme</item>
-				<key>dried thyme</key>
-			</ingredient>
-			<ingredient>
-				<amount>6</amount>
-				<unit>cup</unit>
-				<item>spinach</item>
-				<key>spinach</key>
-			</ingredient>
-			<ingredient>
-				<amount>1</amount>
-				<unit>TBL</unit>
-				<item>lemon juice</item>
-				<key>lemon juice</key>
-			</ingredient>
-			<ingredient>
-				<amount>3</amount>
-				<unit>clove</unit>
-				<item>garlic</item>
-				<key>garlic</key>
-			</ingredient>
-			<ingredient>
-				<item>Red pepper flakes</item>
-				<key>Red pepper flakes</key>
-			</ingredient>
-			<ingredient>
-				<amount>1/3</amount>
-				<unit>cup</unit>
-				<item>sliced almonds, toasted</item>
-				<key>sliced almonds, toasted</key>
-			</ingredient>
-			<ingredient>
-				<amount>14</amount>
-				<item>ounces extra-firm tofu, drained</item>
-				<key>ounces extra-firm tofu, drained</key>
-			</ingredient>
-			<ingredient>
-				<amount>2</amount>
-				<unit>clove</unit>
-				<item>garlic</item>
-				<key>garlic</key>
-			</ingredient>
-			<ingredient>
-				<amount>1</amount>
-				<unit>TBL</unit>
-				<item>olive oil</item>
-				<key>olive oil</key>
-			</ingredient>
-			<ingredient>
-				<amount>1</amount>
-				<unit>TBL</unit>
-				<item>lemon juice</item>
-				<key>lemon juice</key>
-			</ingredient>
-			<ingredient>
-				<amount>1/2</amount>
-				<unit>tsp</unit>
-				<item>salt</item>
-				<key>salt</key>
-			</ingredient>
-			<ingredient>
-				<amount>1/3</amount>
-				<unit>cup</unit>
-				<item>nutritional yeast</item>
-				<key>nutritional yeast</key>
-			</ingredient>
-			<ingredient>
-				<item>Spray oil</item>
-				<key>Spray oil</key>
-			</ingredient>
-			<ingredient>
-				<item>Quick Blender Marinara or Blender Red Sauce, for dipping</item>
-				<key>Quick Blender Marinara or Blender Red Sauce, for dipping</key>
-			</ingredient>
-		</ingredient-list>
-		<instructions>0 chop onion
+
+	
+title: "TEMPEH AND SPINACH CALZONES WITH ALMOND RICOTTA"
+---
+# TEMPEH AND SPINACH CALZONES WITH ALMOND RICOTTA
+#### yields
+8 HAND-SIZE CALZONES
+## ingredients
+* 2 tsp olive oil
+* 8 ounces tempeh ounces tempeh* 8 ounces tempeh ounces tempeh yellow onion
+
+* 1 TBL soy sauce* 1 TBL soy saucee* 1 TBL soy sauce* 1 TBL soy sauce* 1 TBL soy saucee* 1 TBL soy sauce* 1 TBL soy sauce* 1 TBL soy sauce
+
+* 1 TBL lemon juice* 1 TBL lemon juice
+
+Red pepper flakes
+* 1/3 cup sliced almonds, toasted
+* 14 ounces extra-firm tofu, drained ounces extra-firm tofu, drained
+* 2 clove garlic* 2 clove garlicl* 2 clove garlic* 2 clove garlic* 2 clove garlic
+
+* 1/3 cup nutritional yeast
+Spray oilSpray oillender Marinara or Blender Red Sauce, for dipping</key>
+
+
+# instructions
+0 chop onion
 1 Make the dough according to the directions because we’re not about to type that shit out again. Let it rise in one big ball and about 30 minutes before it’s ready, start making the filling. If you made the dough ahead of time and stuck that shit in the fridge, just pull it out to warm up as you start the filling.
 2 Warm your oven up 475°F. Set aside a large baking sheet.
 3 Make the filling: Grab a large skillet or wok and warm up the olive oil over medium heat. Using your hands, crumble in the tempeh in pieces no bigger than a nickel. Smaller is way better than big-ass chunks. Add the onion and sauté them together until the tempeh starts to brown, about 5 minutes. Sprinkle the soy sauce all over the pan, stir, then add the fennel seeds, dried basil, oregano, and thyme. Sauté for 30 seconds, then fold in the spinach, lemon juice, and garlic. If that pan starts looking a little dry, add a couple TBL of water to loosen that shit up instead of pouring in a fuck-ton of added oil. Cook it up until the spinach is all wilted, about 2 more minutes. Turn off the heat and shake in some pepper flakes if you know you like that shit.
@@ -132,10 +32,12 @@
 5 If you want the calzones to look extra fancy, you can layer the almond ricotta and the spinach/tempeh filling separately in the calzones. But if you could give 2 shits about that, mix the ricotta into the pan of spinach/tempeh filling now and stir that shit until it’s all together.
 6 Now assemble the goddamn things. Punch down the dough to let out all the gas (stop laughing) and knead it once or twice until it comes together into a ball. Cut that shit into 8 equal pieces. Grab one, and roll it, on a well-floured surface, into a vaguely round shape about .25 inch thick. Pile on about .5 cup of the filling on one half of the round. (If you kept the fillings separate, spoon in about 2 TBL of tempeh and ⅓ cup ricotta.) Wet all around the edge with a little water to help that fucker stick shut. Pull the dough over to form a half-moon and press down the edge to close it up. You can kinda roll the edge up a little and press down or press down with a fork to make a legit crimp around the edge. Repeat to make 8 calzones.
 7 Cut 2 or 3 little vents on top of the calzones with a small knife and put the finished calzones on the baking sheet. Spray the tops with a little oil and bake those fuckers until they are nice and golden, 15 to 20 minutes.
-8 Serve warm with some dipping sauce.</instructions>
-		<modifications>WTF?
- Fennel seeds will be with all the other spices in the store. Or .5 tsp ground fennel is legit, too. Fennel helps add a badass Italian sausage kinda flavor to the dish, but if you don’t want to buy a new spice that you’ll never fucking use again, just leave it out.
- Need help getting toasted?</modifications>
-	</recipe>
+8 Serve warm with some dipping sauce.
 
-</gourmetDoc>
+# modifications
+
+WTF?
+ Fennel seeds will be with all the other spices in the store. Or .5 tsp ground fennel is legit, too. Fennel helps add a badass Italian sausage kinda flavor to the dish, but if you don’t want to buy a new spice that you’ll never fucking use again, just leave it out.
+ Need help getting toasted?
+	
+

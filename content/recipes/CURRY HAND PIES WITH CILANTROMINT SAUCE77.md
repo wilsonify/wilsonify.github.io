@@ -1,7 +1,9 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <html>
   <head>
-  <title>CURRY HAND PIES WITH CILANTRO-MINT SAUCE</title><link rel='stylesheet' href='style.css' type='text/css'><meta http-equiv="Content-Style-Stype" content="text/css">
+  title: "CURRY HAND PIES WITH CILANTRO-MINT SAUCE"
+---
+# CURRY HAND PIES WITH CILANTRO-MINT SAUCE<link rel='stylesheet' href='style.css' type='text/css'><meta http-equiv="Content-Style-Stype" content="text/css">
      <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
      </head><body><div class="recipe" itemscope itemtype="http://schema.org/Recipe"><div class='header'><p class="title"><span class="label">Title:</span> <span itemprop="name">CURRY HAND PIES WITH CILANTRO-MINT SAUCE</span></p>
 <p class="yields"><span class="label">Yield:</span> <span itemprop="recipeYield">16 PIES (DEPENDING ON THE SIZE YOU CUT THAT SHIT)</span></p>

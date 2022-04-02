@@ -1,114 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE gourmetDoc>
-<gourmetDoc>
 
-	<recipe id="51">
-		<title>POZOLE ROJO</title>
-		<yields>6 HUNGRY PEOPLE, NO FUCKING PROBLEM</yields>
-		<ingredient-list>
-			<ingredient>
-				<amount>5</amount>
-				<unit>large</unit>
-				<item>dried chiles</item>
-				<key>dried chiles</key>
-			</ingredient>
-			<ingredient>
-				<amount>2</amount>
-				<unit>cup</unit>
-				<item>warm water</item>
-				<key>warm water</key>
-			</ingredient>
-			<ingredient>
-				<amount>1</amount>
-				<unit>large</unit>
-				<item>onion</item>
-				<key>onion</key>
-			</ingredient>
-			<ingredient>
-				<amount>5</amount>
-				<unit>clove</unit>
-				<item>garlic</item>
-				<key>garlic</key>
-			</ingredient>
-			<ingredient>
-				<amount>1</amount>
-				<item>zucchini</item>
-				<key>zucchini</key>
-			</ingredient>
-			<ingredient>
-				<amount>2</amount>
-				<unit>TBL</unit>
-				<item>unsweetened cocoa powder</item>
-				<key>unsweetened cocoa powder</key>
-			</ingredient>
-			<ingredient>
-				<amount>1</amount>
-				<unit>tsp</unit>
-				<item>olive oil</item>
-				<key>olive oil</key>
-			</ingredient>
-			<ingredient>
-				<amount>8</amount>
-				<item>ounces tempeh</item>
-				<key>ounces tempeh</key>
-			</ingredient>
-			<ingredient>
-				<amount>2</amount>
-				<unit>tsp</unit>
-				<item>soy sauce or tamari</item>
-				<key>soy sauce or tamari</key>
-			</ingredient>
-			<ingredient>
-				<amount>1</amount>
-				<item>can (29 ounces) hominy</item>
-				<key>can (29 ounces) hominy</key>
-			</ingredient>
-			<ingredient>
-				<amount>1</amount>
-				<unit>TBL</unit>
-				<item>dried oregano</item>
-				<key>dried oregano</key>
-			</ingredient>
-			<ingredient>
-				<amount>2</amount>
-				<unit>tsp</unit>
-				<item>ground cumin</item>
-				<key>ground cumin</key>
-			</ingredient>
-			<ingredient>
-				<amount>1/4</amount>
-				<unit>tsp</unit>
-				<item>salt</item>
-				<key>salt</key>
-			</ingredient>
-			<ingredient>
-				<amount>5</amount>
-				<unit>cup</unit>
-				<item>vegetable broth</item>
-				<key>vegetable broth</key>
-			</ingredient>
-			<ingredient>
-				<amount>1</amount>
-				<unit>tsp</unit>
-				<item>maple syrup or other liquid sweetener</item>
-				<key>maple syrup or other liquid sweetener</key>
-			</ingredient>
-			<ingredient>
-				<amount>2</amount>
-				<unit>tsp</unit>
-				<item>lime juice</item>
-				<key>lime juice</key>
-			</ingredient>
-			<ingredient>
-				<item>Toppings: Sliced cabbage, sliced green onions, radishes cut into matchsticks, cilantro, sliced</item>
-				<key>Toppings: Sliced cabbage, sliced green onions, radishes cut into matchsticks, cilantro, sliced</key>
-			</ingredient>
-			<ingredient>
-				<item>avocado, lime wedges</item>
-				<key>avocado, lime wedges</key>
-			</ingredient>
-		</ingredient-list>
-		<instructions>1 Grab a big pot or griddle and toast the dried chiles on both sides until they get a little
+
+	
+title: "POZOLE ROJO"
+---
+# POZOLE ROJO
+#### yields
+6 HUNGRY PEOPLE, NO FUCKING PROBLEM
+## ingredients
+* 5 large dried chiles* 5 large dried chilese* 5 large dried chiles* 5 large dried chiles
+* 5 clove garlic* 5 clove garlicchini
+
+* 2 TBL unsweetened cocoa powder* 2 TBL unsweetened cocoa powderl
+
+* 8 ounces tempeh ounces tempeh
+* 2 tsp soy sauce or tamari
+* 1 can (29 ounces) hominy can (29 ounces) hominy
+* 1 TBL dried oregano* 1 TBL dried oreganou* 1 TBL dried oregano* 1 TBL dried oregano* 1 TBL dried oreganoe* 1 TBL dried oregano
+* 1 tsp maple syrup or other liquid sweetener
+
+* 2 tsp lime juice
+Toppings: Sliced cabbage, sliced green onions, radishes cut into matchsticks, cilantro, slicedToppings: Sliced cabbage, sliced green onions, radishes cut into matchsticks, cilantro, sliced, lime wedges</key>
+
+
+# instructions
+1 Grab a big pot or griddle and toast the dried chiles on both sides until they get a little
 bendy and soft, about 2 minutes. Don’t let these fuckers burn. Stay focused. When they are all
 good, throw them in a bowl with the warm water and let them soak for 15 to 20 minutes.
 2 While that’s going down, chop up the onion, garlic, and zucchini. When the chiles are nice
@@ -124,12 +39,14 @@ that all together and then add the chile-garlic paste you made earlier. Toss tha
 that everything is well coated and then add the broth. Cover that bastard and let it simmer for
 15 to 20 minutes to get all the flavors to combine. Next add the maple syrup and lime juice.
 Taste that fucker and adjust the spices to the way you want it.
-4 Serve hot with your favorite toppings.</instructions>
-		<modifications>Guajillo, ancho, whateverthefuck kind of big chiles you can find hanging at the end of the spice aisle.
+4 Serve hot with your favorite toppings.
+
+# modifications
+
+Guajillo, ancho, whateverthefuck kind of big chiles you can find hanging at the end of the spice aisle.
  Yeah, the same shit you use to make brownies.
  Hominy is made by soaking maize kernels in a lime mixture to soften their hulls, causing them to swell up. It
 is fucking awesome. You can buy hominy already cooked in cans near the beans and salsa at the store, or you can
-find it dried and cook it yourself like the package says.</modifications>
-	</recipe>
+find it dried and cook it yourself like the package says.
+	
 
-</gourmetDoc>

@@ -1,7 +1,9 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <html>
   <head>
-  <title>BANANA AND COCONUT POPS</title><link rel='stylesheet' href='style.css' type='text/css'><meta http-equiv="Content-Style-Stype" content="text/css">
+  title: "BANANA AND COCONUT POPS"
+---
+# BANANA AND COCONUT POPS<link rel='stylesheet' href='style.css' type='text/css'><meta http-equiv="Content-Style-Stype" content="text/css">
      <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
      </head><body><div class="recipe" itemscope itemtype="http://schema.org/Recipe"><img src="pics/6.jpg" itemprop="image"><div class='header'><p class="title"><span class="label">Title:</span> <span itemprop="name">BANANA AND COCONUT POPS</span></p>
 <p class="yields"><span class="label">Yield:</span> <span itemprop="recipeYield">5 cup FILLING, ENOUGH FOR 10 POPS</span></p>

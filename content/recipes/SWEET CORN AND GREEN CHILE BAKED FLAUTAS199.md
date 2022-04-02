@@ -1,76 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE gourmetDoc>
-<gourmetDoc>
 
-	<recipe id="36">
-		<title>SWEET CORN AND GREEN CHILE BAKED FLAUTAS</title>
-		<yields>12 FLAUTAS</yields>
-		<ingredient-list>
-			<ingredient>
-				<amount>1</amount>
-				<unit>tsp</unit>
-				<item>olive oil</item>
-				<key>olive oil</key>
-			</ingredient>
-			<ingredient>
-				<amount>1</amount>
-				<unit>cup</unit>
-				<item>yellow or white onion (about .5 onion)</item>
-				<key>yellow or white onion (about .5 onion)</key>
-			</ingredient>
-			<ingredient>
-				<amount>2</amount>
-				<unit>tsp</unit>
-				<item>chili powder</item>
-				<key>chili powder</key>
-			</ingredient>
-			<ingredient>
-				<amount>3/4</amount>
-				<unit>tsp</unit>
-				<item>ground cumin</item>
-				<key>ground cumin</key>
-			</ingredient>
-			<ingredient>
-				<amount>1/2</amount>
-				<unit>tsp</unit>
-				<item>salt</item>
-				<key>salt</key>
-			</ingredient>
-			<ingredient>
-				<amount>4</amount>
-				<item>to 5 clove garlic</item>
-				<key>to 5 clove garlic</key>
-			</ingredient>
-			<ingredient>
-				<amount>3</amount>
-				<unit>cup</unit>
-				<item>cooked pinto beans</item>
-				<key>cooked pinto beans</key>
-			</ingredient>
-			<ingredient>
-				<amount>1</amount>
-				<item>can (4 ounces) mild green chiles</item>
-				<key>can (4 ounces) mild green chiles</key>
-			</ingredient>
-			<ingredient>
-				<amount>1</amount>
-				<unit>tsp</unit>
-				<item>lime juice</item>
-				<key>lime juice</key>
-			</ingredient>
-			<ingredient>
-				<amount>1</amount>
-				<unit>cup</unit>
-				<item>sweet corn kernels</item>
-				<key>sweet corn kernels</key>
-			</ingredient>
-			<ingredient>
-				<amount>12</amount>
-				<item>flour tortillas</item>
-				<key>flour tortillas</key>
-			</ingredient>
-		</ingredient-list>
-		<instructions>0 Chop garlic
+
+	
+title: "SWEET CORN AND GREEN CHILE BAKED FLAUTAS"
+---
+# SWEET CORN AND GREEN CHILE BAKED FLAUTAS
+#### yields
+12 FLAUTAS
+## ingredients
+* 1 tsp olive oil* 1 tsp olive oilr* 1 tsp olive oil* 1 tsp olive oil* 1 tsp olive oil cumin
+
+* 1/2 tsp salt* 1/2 tsp saltarlic to 5 clove garlic
+
+* 3 cup cooked pinto beans
+* 1 can (4 ounces) mild green chiles can (4 ounces) mild green chiles
+* 1 tsp lime juice* 1 tsp lime juicern kernels
+
+* 12 flour tortillas flour tortillas
+
+# instructions
+0 Chop garlic
 1 Crank your oven to 400°F. Grab a large baking sheet and coat it with a little cooking spray.
 2 Heat up the oil in a large sauté pan over medium heat and throw in the onion. Cook until
 the onion starts to brown, about 5 minutes. Add the chili powder, cumin, salt, and garlic and
@@ -91,11 +39,13 @@ or filling.
 the bottoms should be golden—if not, stick them in for another couple minutes. When the
 bottoms look good, turn them over and bake those bitches until they’re golden and crispy on
 both sides, another 5 to 7 minutes. Serve warm topped with lettuce and salsa if you want to
-impress some motherfuckers.</instructions>
-		<modifications>These should be in a tiny can near the salsa in your grocery store. If you can’t find them, you can roast 2
+impress some motherfuckers.
+
+# modifications
+
+These should be in a tiny can near the salsa in your grocery store. If you can’t find them, you can roast 2
 poblano peppers following the method for bell peppers on this page.
  This is about 1 cob’s worth. That’s a fucking ridiculous phrase but whatever. You can use frozen if that’s all you
-can find.</modifications>
-	</recipe>
+can find.
+	
 
-</gourmetDoc>

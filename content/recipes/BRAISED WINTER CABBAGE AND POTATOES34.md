@@ -1,7 +1,9 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <html>
   <head>
-  <title>BRAISED WINTER CABBAGE AND POTATOES</title><link rel='stylesheet' href='style.css' type='text/css'><meta http-equiv="Content-Style-Stype" content="text/css">
+  title: "BRAISED WINTER CABBAGE AND POTATOES"
+---
+# BRAISED WINTER CABBAGE AND POTATOES<link rel='stylesheet' href='style.css' type='text/css'><meta http-equiv="Content-Style-Stype" content="text/css">
      <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
      </head><body><div class="recipe" itemscope itemtype="http://schema.org/Recipe"><div class='header'><p class="title"><span class="label">Title:</span> <span itemprop="name">BRAISED WINTER CABBAGE AND POTATOES</span></p>
 <p class="yields"><span class="label">Yield:</span> <span itemprop="recipeYield">4 TO 6 AS A SIDE</span></p>

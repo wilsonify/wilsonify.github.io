@@ -1,52 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE gourmetDoc>
-<gourmetDoc>
 
-	<recipe id="73">
-		<title>SALSA VERDE</title>
-		<yields>4 TO 6, ABOUT 2.5 cup</yields>
-		<ingredient-list>
-			<ingredient>
-				<amount>1 1/2</amount>
-				<unit>LB</unit>
-				<item>s tomatillos</item>
-				<key>s tomatillos</key>
-			</ingredient>
-			<ingredient>
-				<amount>2</amount>
-				<item>jalapeños</item>
-				<key>jalapeños</key>
-			</ingredient>
-			<ingredient>
-				<item>0.5 white onion</item>
-				<key>0.5 white onion</key>
-			</ingredient>
-			<ingredient>
-				<amount>2</amount>
-				<unit>clove</unit>
-				<item>garlic</item>
-				<key>garlic</key>
-			</ingredient>
-			<ingredient>
-				<amount>1/4</amount>
-				<unit>cup</unit>
-				<item>cilantro</item>
-				<key>cilantro</key>
-			</ingredient>
-			<ingredient>
-				<amount>1</amount>
-				<unit>TBL</unit>
-				<item>lime juice</item>
-				<key>lime juice</key>
-			</ingredient>
-			<ingredient>
-				<amount>1/8</amount>
-				<unit>tsp</unit>
-				<item>salt</item>
-				<key>salt</key>
-			</ingredient>
-		</ingredient-list>
-		<instructions>0 chop onion
+
+	
+title: "SALSA VERDE"
+---
+# SALSA VERDE
+#### yields
+4 TO 6, ABOUT 2.5 cup
+## ingredients
+* 1 1/2 LB s tomatillos
+* 2 jalapeños jalapeños
+0.5 white onion
+* 2 clove garlic* 2 clove garlicr* 2 clove garlic* 2 clove garlic
+* 1/8 tsp salt
+
+# instructions
+0 chop onion
 1 Turn on the broiler in your oven and get it nice and hot.
 2 Tear off all that loose, papery skin on the tomatillos and wash away all that sticky shit left on
 the fruit. Put the tomatillos and jalapeños in a baking dish with sides and throw it under the
@@ -58,8 +26,10 @@ a little roasted on all sides.
 like a spicier salsa, leave the seeds in the jalapeños, otherwise fish those fuckers out as you chop.
 5 In a food processor, combine the tomatillos, jalapeños, onion, garlic, cilantro, lime juice, and
 salt and run that shit until you get a nice slightly chunky constancy, about 30 seconds.
-6 Serve the salsa warm, at room temperature, or cold.</instructions>
-		<modifications>They aren’t the same shit as green tomatoes. They have a papery outside skin that you peel away. Look for them in the fridge at a market that specializes in Mexican and Central American foods.</modifications>
-	</recipe>
+6 Serve the salsa warm, at room temperature, or cold.
 
-</gourmetDoc>
+# modifications
+
+They aren’t the same shit as green tomatoes. They have a papery outside skin that you peel away. Look for them in the fridge at a market that specializes in Mexican and Central American foods.
+	
+

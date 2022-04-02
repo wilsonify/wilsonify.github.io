@@ -1,5 +1,7 @@
-	
+	---
 title: "POZOLE ROJO"
+tags:
+
 ---
 
 # POZOLE ROJO

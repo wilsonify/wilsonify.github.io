@@ -1,6 +1,8 @@
 
-
+---
 title: "BAKED ZUCCHINI CHIPS"
+tags:
+
 ---
 # BAKED ZUCCHINI CHIPS
 

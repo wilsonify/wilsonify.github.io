@@ -1,7 +1,9 @@
 
 
-	
+	---
 title: "STRAWBERRY SHORTCAKE"
+tags:
+
 ---
 # STRAWBERRY SHORTCAKE
 #### yields 8

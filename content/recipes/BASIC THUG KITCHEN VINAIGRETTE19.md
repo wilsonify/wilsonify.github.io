@@ -1,7 +1,9 @@
 
 
-	
+	---
 title: "BASIC THUG KITCHEN VINAIGRETTE"
+tags:
+
 ---
 # BASIC THUG KITCHEN VINAIGRETTE
 ## ingredients

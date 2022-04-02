@@ -1,7 +1,9 @@
 
 	
-	
+	---
 title: "BLACK BEAN AND CORN SALAD"
+tags:
+
 ---
 # BLACK BEAN AND CORN SALAD
 #### yields 4 PEOPLE, OR A BADASS SIDE AT A GRILL-OUT

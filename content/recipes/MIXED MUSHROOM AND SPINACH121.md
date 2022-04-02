@@ -1,6 +1,8 @@
 
-
+---
 title: "MIXED MUSHROOM AND SPINACH"
+tags:
+
 ---
 # MIXED MUSHROOM AND SPINACH
 

@@ -1,6 +1,8 @@
 
-	
+	---
 title: "BUFFALO SAUCE"
+tags:
+
 ---
 # BUFFALO SAUCE
 #### yields 5 cup

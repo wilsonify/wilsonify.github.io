@@ -1,6 +1,8 @@
 
-
+---
 title: "WHOLE WHEAT BANANA PANCAKES"
+tags:
+
 ---
 # WHOLE WHEAT BANANA PANCAKES
 

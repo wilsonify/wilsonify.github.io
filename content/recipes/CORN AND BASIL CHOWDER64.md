@@ -1,6 +1,8 @@
 
-
+---
 title: "CORN AND BASIL CHOWDER"
+tags:
+
 ---
 # CORN AND BASIL CHOWDER
 
@@ -11,8 +13,10 @@ title: "CORN AND BASIL CHOWDER"
 
 ## ingredients
 * 6 large ears corn, shucked <
-
+---
 title: "CORN AND BASIL CHOWDER"
+tags:
+
 ---
 # CORN AND BASIL CHOWDER
 

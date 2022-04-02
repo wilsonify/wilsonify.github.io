@@ -1,6 +1,8 @@
 
-
+---
 title: "SAVORY MINI WAFFLES"
+tags:
+
 ---
 # SAVORY MINI WAFFLES
 

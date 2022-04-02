@@ -1,6 +1,8 @@
 
-	
+	---
 title: "BOOZY WATERMELON AND PAPAYA SALAD"
+tags:
+
 ---
 # BOOZY WATERMELON AND PAPAYA SALAD
 #### yields 4 TO 6 PEOPLE

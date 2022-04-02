@@ -1,7 +1,11 @@
 
 
-	
+	---
 title: "CINNAMON APRICOT FRENCH TOAST"
+---
+
+
+
 ---
 # CINNAMON APRICOT FRENCH TOAST
 #### yields 6 PIECES OF FRENCH TOAST

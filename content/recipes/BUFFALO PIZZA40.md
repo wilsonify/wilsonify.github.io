@@ -1,6 +1,8 @@
 
-
+---
 title: "BUFFALO PIZZA"
+tags:
+
 ---
 # BUFFALO PIZZA
 

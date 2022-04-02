@@ -1,6 +1,8 @@
 
-
+---
 title: "FOUR-BEAN SALAD"
+tags:
+
 ---
 # FOUR-BEAN SALAD
 

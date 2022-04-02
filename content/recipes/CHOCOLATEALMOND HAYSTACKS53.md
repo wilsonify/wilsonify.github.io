@@ -1,7 +1,9 @@
 
 
-	
+	---
 title: "CHOCOLATE-ALMOND HAYSTACKS"
+tags:
+
 ---
 # CHOCOLATE-ALMOND HAYSTACKS
 #### yields 18

@@ -1,6 +1,8 @@
 
-	
+	---
 title: "WATERMELON-STRAWBERRY TEQUILA PUNCH"
+tags:
+
 ---
 # WATERMELON-STRAWBERRY TEQUILA PUNCH
 #### yields 18 cups

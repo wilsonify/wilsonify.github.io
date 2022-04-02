@@ -1,7 +1,9 @@
 
 
-	
+	---
 title: "EVERYDAY GUACAMOLE"
+tags:
+
 ---
 # EVERYDAY GUACAMOLE
 #### yields 5 cup, DEPENDING ON THE SIZE OF YOUR AVOCADOS

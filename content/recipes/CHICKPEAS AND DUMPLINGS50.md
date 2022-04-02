@@ -1,6 +1,8 @@
 
-
+---
 title: "CHICKPEAS AND DUMPLINGS"
+tags:
+
 ---
 # CHICKPEAS AND DUMPLINGS
 
@@ -26,8 +28,10 @@ title: "CHICKPEAS AND DUMPLINGS"
 * 3 to 4 clove garlic 
 * 1/4 cup olive oil 
 * Salt 
-
+---
 title: "CHICKPEAS AND DUMPLINGS"
+tags:
+
 ---
 # CHICKPEAS AND DUMPLINGS
 

@@ -1,4 +1,6 @@
 title: "PUMPKIN CHILI"
+tags:
+
 ---
 
 # PUMPKIN CHILI

@@ -1,7 +1,9 @@
 
 
-	
+	---
 title: "MANGO CURRY"
+tags:
+
 ---
 # MANGO CURRY
 #### yields 4

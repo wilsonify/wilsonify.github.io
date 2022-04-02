@@ -1,7 +1,9 @@
 
 
-	
+	---
 title: "SOCAL GOURMET CARROT DOGS"
+tags:
+
 ---
 # SOCAL GOURMET CARROT DOGS
 #### yields 8 DOGS

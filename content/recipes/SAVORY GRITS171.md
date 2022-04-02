@@ -1,7 +1,9 @@
 
 
-	
+	---
 title: "SAVORY GRITS"
+tags:
+
 ---
 # SAVORY GRITS
 #### yields 6 cup

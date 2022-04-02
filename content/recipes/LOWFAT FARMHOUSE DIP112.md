@@ -1,7 +1,9 @@
 
 
-	
+	---
 title: "LOW-FAT FARMHOUSE DIP"
+tags:
+
 ---
 # LOW-FAT FARMHOUSE DIP
 #### yields 5 cup, ENOUGH FOR 6 TO 8 PEOPLE

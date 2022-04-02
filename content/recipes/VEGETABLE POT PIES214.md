@@ -1,7 +1,9 @@
 
 
-	
+	---
 title: "VEGETABLE POT PIES"
+tags:
+
 ---
 # VEGETABLE POT PIES
 #### yields 4 INDIVIDUAL POT PIES OR ONE 9-INCH PIE

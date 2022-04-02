@@ -1,6 +1,8 @@
 
-
+---
 title: "WHITE BEAN AND RED LENTIL BURGERS"
+tags:
+
 ---
 # WHITE BEAN AND RED LENTIL BURGERS
 

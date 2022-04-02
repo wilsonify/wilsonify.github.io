@@ -1,7 +1,9 @@
 
 
-	
+	---
 title: "ROASTED GARLIC PULL-APART BREAD"
+tags:
+
 ---
 # ROASTED GARLIC PULL-APART BREAD
 #### yields 6 TO 8 PEOPLE

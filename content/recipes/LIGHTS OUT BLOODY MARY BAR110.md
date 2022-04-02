@@ -1,5 +1,7 @@
-	
+	---
 title: "LIGHTS OUT BLOODY MARY BAR"
+tags:
+
 ---
 
 # LIGHTS OUT BLOODY MARY BAR

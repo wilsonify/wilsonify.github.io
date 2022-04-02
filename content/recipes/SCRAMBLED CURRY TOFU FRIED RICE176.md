@@ -1,7 +1,9 @@
 
 
-	
+	---
 title: "SCRAMBLED CURRY TOFU FRIED RICE"
+tags:
+
 ---
 # SCRAMBLED CURRY TOFU FRIED RICE
 #### yields 4 TO 6 HUNGRY SONS OF BITCHES

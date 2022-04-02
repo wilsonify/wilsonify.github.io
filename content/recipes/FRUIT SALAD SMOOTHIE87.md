@@ -1,6 +1,8 @@
 
-
+---
 title: "FRUIT SALAD SMOOTHIE"
+tags:
+
 ---
 # FRUIT SALAD SMOOTHIE
 

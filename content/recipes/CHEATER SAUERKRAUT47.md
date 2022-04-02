@@ -1,6 +1,8 @@
 
-	
+	---
 title: "CHEATER SAUERKRAUT"
+tags:
+
 ---
 # CHEATER SAUERKRAUT
 #### yields 4 cup

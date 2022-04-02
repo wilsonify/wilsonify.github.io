@@ -1,5 +1,7 @@
-	
+	---
 title: "MAPLE BERRY GRITS"
+tags:
+
 ---
 
 # MAPLE BERRY GRITS

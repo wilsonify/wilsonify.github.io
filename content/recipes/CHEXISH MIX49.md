@@ -1,6 +1,8 @@
 
-	
+	---
 title: "CHEX-ISH MIX"
+tags:
+
 ---
 # CHEX-ISH MIX
 #### yields 10 cup

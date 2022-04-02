@@ -1,5 +1,7 @@
-	
+	---
 title: "Indian Spiced Cauliflower Soup"
+tags:
+
 ---
 
 # Indian Spiced Cauliflower Soup

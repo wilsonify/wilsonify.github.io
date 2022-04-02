@@ -1,6 +1,8 @@
 
-
+---
 title: "HIGH SCHOOL–STYLE HARD LEMONADE"
+tags:
+
 ---
 # HIGH SCHOOL–STYLE HARD LEMONADE
 

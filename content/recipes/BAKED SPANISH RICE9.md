@@ -1,7 +1,9 @@
 
 
-	
+	---
 title: "BAKED SPANISH RICE"
+tags:
+
 ---
 # BAKED SPANISH RICE
 #### yields 4 TO 6 AS A SIDE OR 8 AS BURRITO FILLING

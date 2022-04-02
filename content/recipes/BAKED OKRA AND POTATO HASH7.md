@@ -1,6 +1,8 @@
 
-
+---
 title: "BAKED OKRA AND POTATO HASH"
+tags:
+
 ---
 # BAKED OKRA AND POTATO HASH
 
@@ -18,8 +20,10 @@ title: "BAKED OKRA AND POTATO HASH"
 * 1 dash ground pepper 
 * 1/4 tsp salt 
 * 1/2 tsp paprika 
-
+---
 title: "BAKED OKRA AND POTATO HASH"
+tags:
+
 ---
 # BAKED OKRA AND POTATO HASH
 

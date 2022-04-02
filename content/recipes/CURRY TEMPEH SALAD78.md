@@ -1,6 +1,8 @@
 
-	
+	---
 title: "CURRY TEMPEH SALAD"
+tags:
+
 ---
 # CURRY TEMPEH SALAD
 #### yields 4 AS A MAIN, 6 TO 8 AS A SIDE

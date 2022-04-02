@@ -1,6 +1,8 @@
 
-
+---
 title: "BUFFALO LETTUCE BITES"
+tags:
+
 ---
 # BUFFALO LETTUCE BITES
 
@@ -8,8 +10,10 @@ title: "BUFFALO LETTUCE BITES"
 
 ## ingredients
 * 3 cup cooked chickpeas 
-
+---
 title: "BUFFALO LETTUCE BITES"
+tags:
+
 ---
 # BUFFALO LETTUCE BITES
 

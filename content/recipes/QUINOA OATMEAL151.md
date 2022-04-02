@@ -1,7 +1,9 @@
 
 
-	
+	---
 title: "QUINOA OATMEAL"
+tags:
+
 ---
 # QUINOA OATMEAL
 #### yields 4

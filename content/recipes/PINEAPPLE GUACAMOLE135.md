@@ -1,6 +1,8 @@
 
-
+---
 title: "PINEAPPLE GUACAMOLE"
+tags:
+
 ---
 # PINEAPPLE GUACAMOLE
 

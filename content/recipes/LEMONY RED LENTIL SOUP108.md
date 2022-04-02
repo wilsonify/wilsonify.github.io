@@ -1,7 +1,8 @@
+
 ---
 title: "LEMONY RED LENTIL SOUP"
 tags:
-
+  - recipe
 ---
 
 # LEMONY RED LENTIL SOUP

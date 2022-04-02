@@ -1,8 +1,9 @@
 
-	---
+	
+---
 title: "DEVILED CHICKPEA BITES"
 tags:
-
+  - recipe
 ---
 # DEVILED CHICKPEA BITES
 #### yields 18 BITES, ENOUGH FOR 4 TO 6 PEOPLE

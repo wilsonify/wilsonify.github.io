@@ -1,9 +1,10 @@
 
 
-	---
+	
+---
 title: "WATERMELON HIBISCUS COOLERS"
 tags:
-
+  - recipe
 ---
 # WATERMELON HIBISCUS COOLERS
 #### yields 4 GLASSES

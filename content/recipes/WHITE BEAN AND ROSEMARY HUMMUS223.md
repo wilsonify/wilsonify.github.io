@@ -2,7 +2,7 @@
 ---
 title: "WHITE BEAN AND ROSEMARY HUMMUS"
 tags:
-
+  - recipe
 ---
 
 # WHITE BEAN AND ROSEMARY HUMMUS

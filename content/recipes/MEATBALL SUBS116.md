@@ -2,7 +2,7 @@
 ---
 title: "MEATBALL SUBS"
 tags:
-
+  - recipe
 ---
 # MEATBALL SUBS
 

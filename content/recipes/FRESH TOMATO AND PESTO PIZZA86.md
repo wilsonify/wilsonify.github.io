@@ -1,9 +1,6 @@
-	---
-title: "FRESH TOMATO AND PESTO PIZZA"
+	
 ---
-
-
-
+title: "FRESH TOMATO AND PESTO PIZZA"
 ---
 
 # FRESH TOMATO AND PESTO PIZZA

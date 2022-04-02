@@ -2,7 +2,7 @@
 ---
 title: "BLENDED EARL GREY LATTES"
 tags:
-
+  - recipe
 ---
 # BLENDED EARL GREY LATTES
 

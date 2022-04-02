@@ -2,7 +2,7 @@
 ---
 title: "CHERRY TOMATO GALETTES"
 tags:
-
+  - recipe
 ---
 # CHERRY TOMATO GALETTES
 

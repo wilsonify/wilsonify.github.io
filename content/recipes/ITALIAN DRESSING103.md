@@ -2,7 +2,7 @@
 ---
 title: "ITALIAN DRESSING"
 tags:
-
+  - recipe
 ---
 # ITALIAN DRESSING
 

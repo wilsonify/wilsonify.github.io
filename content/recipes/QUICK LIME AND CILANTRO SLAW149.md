@@ -2,7 +2,7 @@
 ---
 title: "QUICK LIME AND CILANTRO SLAW"
 tags:
-
+  - recipe
 ---
 # QUICK LIME AND CILANTRO SLAW
 

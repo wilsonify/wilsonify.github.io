@@ -2,7 +2,7 @@
 ---
 title: "ROSEMARY CARAMEL CORN"
 tags:
-
+  - recipe
 ---
 # ROSEMARY CARAMEL CORN
 

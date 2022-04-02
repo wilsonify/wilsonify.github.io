@@ -2,7 +2,7 @@
 ---
 title: "LANDLOCKED CEVICHE"
 tags:
-
+  - recipe
 ---
 # LANDLOCKED CEVICHE
 

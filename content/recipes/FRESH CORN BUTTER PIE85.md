@@ -1,9 +1,10 @@
 
 
-	---
+	
+---
 title: "FRESH CORN BUTTER PIE"
 tags:
-
+  - recipe
 ---
 # FRESH CORN BUTTER PIE
 #### yields 1 PIE

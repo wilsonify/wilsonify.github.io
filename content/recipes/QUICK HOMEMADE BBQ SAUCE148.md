@@ -2,7 +2,7 @@
 ---
 title: "QUICK HOMEMADE BBQ SAUCE"
 tags:
-
+  - recipe
 ---
 # QUICK HOMEMADE BBQ SAUCE
 

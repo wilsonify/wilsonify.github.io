@@ -2,7 +2,7 @@
 ---
 title: "GRILLED EGGPLANT WITH SOBA NOODLES"
 tags:
-
+  - recipe
 ---
 # GRILLED EGGPLANT WITH SOBA NOODLES
 
@@ -16,7 +16,7 @@ tags:
 ---
 title: "GRILLED EGGPLANT WITH SOBA NOODLES"
 tags:
-
+  - recipe
 ---
 # GRILLED EGGPLANT WITH SOBA NOODLES
 

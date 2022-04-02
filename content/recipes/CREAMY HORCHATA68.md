@@ -2,7 +2,7 @@
 ---
 title: "CREAMY HORCHATA"
 tags:
-
+  - recipe
 ---
 # CREAMY HORCHATA
 

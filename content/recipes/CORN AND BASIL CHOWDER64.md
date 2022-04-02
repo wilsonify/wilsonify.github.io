@@ -2,7 +2,7 @@
 ---
 title: "CORN AND BASIL CHOWDER"
 tags:
-
+  - recipe
 ---
 # CORN AND BASIL CHOWDER
 
@@ -16,7 +16,7 @@ tags:
 ---
 title: "CORN AND BASIL CHOWDER"
 tags:
-
+  - recipe
 ---
 # CORN AND BASIL CHOWDER
 

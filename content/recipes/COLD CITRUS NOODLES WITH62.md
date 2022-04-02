@@ -2,7 +2,7 @@
 ---
 title: "COLD CITRUS NOODLES WITH"
 tags:
-
+  - recipe
 ---
 
 # COLD CITRUS NOODLES WITH

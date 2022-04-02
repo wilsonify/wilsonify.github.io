@@ -2,7 +2,7 @@
 ---
 title: "BISCUITS AND GRAVY"
 tags:
-
+  - recipe
 ---
 # BISCUITS AND GRAVY
 

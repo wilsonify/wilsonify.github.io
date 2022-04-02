@@ -2,7 +2,7 @@
 ---
 title: "VIETNAMESE RICE NOODLE SALAD"
 tags:
-
+  - recipe
 ---
 # VIETNAMESE RICE NOODLE SALAD
 

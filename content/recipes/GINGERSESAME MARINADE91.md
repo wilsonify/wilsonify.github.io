@@ -2,7 +2,7 @@
 ---
 title: "GINGER-SESAME MARINADE"
 tags:
-
+  - recipe
 ---
 # GINGER-SESAME MARINADE
 

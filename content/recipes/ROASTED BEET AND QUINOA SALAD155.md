@@ -2,7 +2,7 @@
 ---
 title: "ROASTED BEET AND QUINOA SALAD"
 tags:
-
+  - recipe
 ---
 # ROASTED BEET AND QUINOA SALAD
 

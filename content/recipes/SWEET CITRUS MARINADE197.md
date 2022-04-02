@@ -2,7 +2,7 @@
 ---
 title: "SWEET CITRUS MARINADE"
 tags:
-
+  - recipe
 ---
 # SWEET CITRUS MARINADE
 

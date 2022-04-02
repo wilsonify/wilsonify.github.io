@@ -1,9 +1,10 @@
 
 
-	---
+	
+---
 title: "MANGO CURRY"
 tags:
-
+  - recipe
 ---
 # MANGO CURRY
 #### yields 4

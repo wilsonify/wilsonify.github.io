@@ -2,7 +2,7 @@
 ---
 title: "QUICK PICKLED CUCUMBERS AND ONIONS"
 tags:
-
+  - recipe
 ---
 # QUICK PICKLED CUCUMBERS AND ONIONS
 

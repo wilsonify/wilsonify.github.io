@@ -1,9 +1,10 @@
 
 
-	---
+	
+---
 title: "MID-SUMMER SALSA"
 tags:
-
+  - recipe
 ---
 # MID-SUMMER SALSA
 #### yields 4 TO 6, ABOUT 4.5 cup

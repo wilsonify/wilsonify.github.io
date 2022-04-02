@@ -2,7 +2,7 @@
 ---
 title: "QUICK BLENDER MARINARA"
 tags:
-
+  - recipe
 ---
 # QUICK BLENDER MARINARA
 

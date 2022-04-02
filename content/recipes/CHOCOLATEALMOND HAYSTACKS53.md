@@ -1,9 +1,10 @@
 
 
-	---
+	
+---
 title: "CHOCOLATE-ALMOND HAYSTACKS"
 tags:
-
+  - recipe
 ---
 # CHOCOLATE-ALMOND HAYSTACKS
 #### yields 18

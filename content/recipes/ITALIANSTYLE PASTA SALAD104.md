@@ -2,7 +2,7 @@
 ---
 title: "ITALIAN-STYLE PASTA SALAD"
 tags:
-
+  - recipe
 ---
 # ITALIAN-STYLE PASTA SALAD
 

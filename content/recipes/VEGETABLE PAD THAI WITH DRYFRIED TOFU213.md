@@ -2,7 +2,7 @@
 ---
 title: "VEGETABLE PAD THAI WITH DRY-FRIED TOFU"
 tags:
-
+  - recipe
 ---
 # VEGETABLE PAD THAI WITH DRY-FRIED TOFU
 

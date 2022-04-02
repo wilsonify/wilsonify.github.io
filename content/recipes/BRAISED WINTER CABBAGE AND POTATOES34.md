@@ -2,7 +2,7 @@
 ---
 title: "BRAISED WINTER CABBAGE AND POTATOES"
 tags:
-
+  - recipe
 ---
 # BRAISED WINTER CABBAGE AND POTATOES
 

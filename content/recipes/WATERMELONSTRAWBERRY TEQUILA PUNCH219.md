@@ -1,8 +1,9 @@
 
-	---
+	
+---
 title: "WATERMELON-STRAWBERRY TEQUILA PUNCH"
 tags:
-
+  - recipe
 ---
 # WATERMELON-STRAWBERRY TEQUILA PUNCH
 #### yields 18 cups

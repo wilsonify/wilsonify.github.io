@@ -2,7 +2,7 @@
 ---
 title: "SAVORY MINI WAFFLES"
 tags:
-
+  - recipe
 ---
 # SAVORY MINI WAFFLES
 

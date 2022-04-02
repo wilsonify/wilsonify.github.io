@@ -2,7 +2,7 @@
 ---
 title: "SWEET FRESH HERB SALSA"
 tags:
-
+  - recipe
 ---
 # SWEET FRESH HERB SALSA
 

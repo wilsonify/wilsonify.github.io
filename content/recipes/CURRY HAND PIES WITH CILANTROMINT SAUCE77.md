@@ -2,7 +2,7 @@
 ---
 title: "CURRY HAND PIES WITH CILANTRO-MINT SAUCE"
 tags:
-
+  - recipe
 ---
 # CURRY HAND PIES WITH CILANTRO-MINT SAUCE
 

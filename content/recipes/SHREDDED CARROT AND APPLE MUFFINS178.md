@@ -1,7 +1,8 @@
+
 ---
 title: "SHREDDED CARROT AND APPLE MUFFINS"
 tags:
-
+  - recipe
 ---
 
 # SHREDDED CARROT AND APPLE MUFFINS

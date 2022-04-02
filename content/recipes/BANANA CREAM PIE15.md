@@ -2,7 +2,7 @@
 ---
 title: "BANANA CREAM PIE"
 tags:
-
+  - recipe
 ---
 # BANANA CREAM PIE
 

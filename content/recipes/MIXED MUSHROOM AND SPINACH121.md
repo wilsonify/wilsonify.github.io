@@ -2,7 +2,7 @@
 ---
 title: "MIXED MUSHROOM AND SPINACH"
 tags:
-
+  - recipe
 ---
 # MIXED MUSHROOM AND SPINACH
 

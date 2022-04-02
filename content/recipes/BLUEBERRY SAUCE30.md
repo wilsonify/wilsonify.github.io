@@ -1,9 +1,10 @@
 
 
-	---
+	
+---
 title: "BLUEBERRY SAUCE"
 tags:
-
+  - recipe
 ---
 # BLUEBERRY SAUCE
 #### yields 1 CUP

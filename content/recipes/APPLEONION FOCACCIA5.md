@@ -1,10 +1,8 @@
 
-
-	
-	---
+---
 title: "APPLE-ONION FOCACCIA"
 tags:
-
+  - recipe
 ---
 # APPLE-ONION FOCACCIA
 #### yields 1 LOAF OF BREAD

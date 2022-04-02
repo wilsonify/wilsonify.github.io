@@ -2,7 +2,7 @@
 ---
 title: "TAHINI DRESSING"
 tags:
-
+  - recipe
 ---
 # TAHINI DRESSING
 

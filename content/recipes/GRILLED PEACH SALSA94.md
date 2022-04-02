@@ -2,7 +2,7 @@
 ---
 title: "GRILLED PEACH SALSA"
 tags:
-
+  - recipe
 ---
 # GRILLED PEACH SALSA
 

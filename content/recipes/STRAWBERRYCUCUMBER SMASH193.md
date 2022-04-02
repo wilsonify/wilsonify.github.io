@@ -2,7 +2,7 @@
 ---
 title: "STRAWBERRY-CUCUMBER SMASH"
 tags:
-
+  - recipe
 ---
 # STRAWBERRY-CUCUMBER SMASH
 

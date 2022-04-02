@@ -1,7 +1,8 @@
-	---
+	
+---
 title: "ENCHILADA-ISH SAUCE"
 tags:
-
+  - recipe
 ---
 
 # ENCHILADA-ISH SAUCE

@@ -1,9 +1,10 @@
 
 
-	---
+	
+---
 title: "BAKED SPICY PLANTAIN CHIPS"
 tags:
-
+  - recipe
 ---
 # BAKED SPICY PLANTAIN CHIPS
 #### yields 4 TO 6, ABOUT 30 CHIPS, DEPENDING ON THE

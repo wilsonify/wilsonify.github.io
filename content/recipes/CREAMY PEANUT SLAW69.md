@@ -2,7 +2,7 @@
 ---
 title: "CREAMY PEANUT SLAW"
 tags:
-
+  - recipe
 ---
 # CREAMY PEANUT SLAW
 

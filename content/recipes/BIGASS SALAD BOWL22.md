@@ -2,7 +2,7 @@
 ---
 title: "BIG-ASS SALAD BOWL"
 tags:
-
+  - recipe
 ---
 # BIG-ASS SALAD BOWL
 

@@ -2,7 +2,7 @@
 ---
 title: "TORTILLA SOUP"
 tags:
-
+  - recipe
 ---
 # TORTILLA SOUP
 

@@ -2,7 +2,7 @@
 ---
 title: "LENTIL TACOS WITH CARROT-JICAMA SLAW"
 tags:
-
+  - recipe
 ---
 # LENTIL TACOS WITH CARROT-JICAMA SLAW
 

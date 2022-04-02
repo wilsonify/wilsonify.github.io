@@ -2,7 +2,7 @@
 ---
 title: "COCONUT PANCAKES WITH MANGO COULIS"
 tags:
-
+  - recipe
 ---
 # COCONUT PANCAKES WITH MANGO COULIS
 

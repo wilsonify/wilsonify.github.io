@@ -2,7 +2,7 @@
 ---
 title: "SUMMER SQUASH SOUP"
 tags:
-
+  - recipe
 ---
 # SUMMER SQUASH SOUP
 

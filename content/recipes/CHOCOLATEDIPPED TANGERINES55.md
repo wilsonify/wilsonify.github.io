@@ -2,7 +2,7 @@
 ---
 title: "CHOCOLATE-DIPPED TANGERINES"
 tags:
-
+  - recipe
 ---
 # CHOCOLATE-DIPPED TANGERINES
 

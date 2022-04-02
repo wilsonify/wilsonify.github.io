@@ -2,7 +2,7 @@
 ---
 title: "QUESO-ISH QUESADILLAS"
 tags:
-
+  - recipe
 ---
 # QUESO-ISH QUESADILLAS
 

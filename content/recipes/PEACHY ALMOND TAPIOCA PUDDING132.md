@@ -2,7 +2,7 @@
 ---
 title: "PEACHY ALMOND TAPIOCA PUDDING"
 tags:
-
+  - recipe
 ---
 # PEACHY ALMOND TAPIOCA PUDDING
 
@@ -17,7 +17,7 @@ tags:
 ---
 title: "PEACHY ALMOND TAPIOCA PUDDING"
 tags:
-
+  - recipe
 ---
 # PEACHY ALMOND TAPIOCA PUDDING
 

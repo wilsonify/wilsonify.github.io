@@ -1,9 +1,10 @@
 
 
-	---
+	
+---
 title: "SPICY PICKLED CARROTS"
 tags:
-
+  - recipe
 ---
 # SPICY PICKLED CARROTS
 #### yields 4 TO 6, OR ONE LARGE JAR

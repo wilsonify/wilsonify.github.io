@@ -2,7 +2,7 @@
 ---
 title: "WHOLE WHEAT BANANA PANCAKES"
 tags:
-
+  - recipe
 ---
 # WHOLE WHEAT BANANA PANCAKES
 

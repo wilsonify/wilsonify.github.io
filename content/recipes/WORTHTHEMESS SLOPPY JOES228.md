@@ -2,7 +2,7 @@
 ---
 title: "WORTH-THE-MESS SLOPPY JOES"
 tags:
-
+  - recipe
 ---
 # WORTH-THE-MESS SLOPPY JOES
 

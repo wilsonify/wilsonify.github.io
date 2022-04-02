@@ -2,7 +2,7 @@
 ---
 title: "CARROT CAKE COOKIES"
 tags:
-
+  - recipe
 ---
 # CARROT CAKE COOKIES
 

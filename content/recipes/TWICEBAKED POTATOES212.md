@@ -2,7 +2,7 @@
 ---
 title: "TWICE-BAKED POTATOES"
 tags:
-
+  - recipe
 ---
 # TWICE-BAKED POTATOES
 

@@ -2,7 +2,7 @@
 ---
 title: "MIXED VEGGIE AND TOFU CHILAQUILES"
 tags:
-
+  - recipe
 ---
 # MIXED VEGGIE AND TOFU CHILAQUILES
 

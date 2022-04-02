@@ -1,8 +1,14 @@
 
 ---
-title: "Meatballs Marsala with Egg Noodles and Chives"---
-title:
 title: "Meatballs Marsala with Egg Noodles and Chives"
+tags:
+ - recipe
+categories:
+  - food
+date: 2022-04-02
+description: how to cook Meatballs Marsala with Egg Noodles and Chives
+excerpt_separator: <!--more-->
+url: /2022/04/02/Meatballs-Marsala/
 ---
 
 # Meatballs Marsala with Egg Noodles and Chives

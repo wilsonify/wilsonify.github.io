@@ -1,7 +1,8 @@
-	---
+	
+---
 title: "LIGHTS OUT BLOODY MARY BAR"
 tags:
-
+  - recipe
 ---
 
 # LIGHTS OUT BLOODY MARY BAR

@@ -1,9 +1,10 @@
 
 
-	---
+	
+---
 title: "FIRE-ROASTED SALSA"
 tags:
-
+  - recipe
 ---
 # FIRE-ROASTED SALSA
 #### yields 4 TO 6, ABOUT 2.5 cup

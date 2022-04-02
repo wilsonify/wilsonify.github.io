@@ -1,8 +1,9 @@
 
-	---
+	
+---
 title: "CHEATER SAUERKRAUT"
 tags:
-
+  - recipe
 ---
 # CHEATER SAUERKRAUT
 #### yields 4 cup

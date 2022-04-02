@@ -1,11 +1,10 @@
-
 ---
 title: "CHICKPEAS AND DUMPLINGS"
 tags:
-
+  - recipe
 ---
-# CHICKPEAS AND DUMPLINGS
 
+# CHICKPEAS AND DUMPLINGS
 
 
 #### yields  6 HUNGRY MOTHERFUCKERS
@@ -28,11 +27,7 @@ tags:
 * 3 to 4 clove garlic 
 * 1/4 cup olive oil 
 * Salt 
----
-title: "CHICKPEAS AND DUMPLINGS"
-tags:
 
----
 # CHICKPEAS AND DUMPLINGS
 
 

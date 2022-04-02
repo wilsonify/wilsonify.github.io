@@ -1,10 +1,10 @@
-title: "APPLE-COCONUT BUNDT CAKE"
-tags:
 
+---
+title: "APPLE-COCONUT BUNDT CAKE"
+tags: [recipe]
 ---
 
 # APPLE-COCONUT BUNDT CAKE
-
 
 
 #### yields  1 CAKE, ENOUGH FOR 6 TO 8 PEOPLE

@@ -1,6 +1,8 @@
+
+---
 title: "PUMPKIN CHILI"
 tags:
-
+  - recipe
 ---
 
 # PUMPKIN CHILI

@@ -2,7 +2,7 @@
 ---
 title: "ITALIAN COUSCOUS CASSEROLE"
 tags:
-
+  - recipe
 ---
 # ITALIAN COUSCOUS CASSEROLE
 

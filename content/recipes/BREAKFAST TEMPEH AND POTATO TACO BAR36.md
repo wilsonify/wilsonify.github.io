@@ -2,7 +2,7 @@
 ---
 title: "BREAKFAST TEMPEH AND POTATO TACO BAR"
 tags:
-
+  - recipe
 ---
 # BREAKFAST TEMPEH AND POTATO TACO BAR
 

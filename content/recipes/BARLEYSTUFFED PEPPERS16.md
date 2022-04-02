@@ -2,7 +2,7 @@
 ---
 title: "BARLEY-STUFFED PEPPERS"
 tags:
-
+  - recipe
 ---
 # BARLEY-STUFFED PEPPERS
 

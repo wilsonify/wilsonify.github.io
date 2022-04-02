@@ -2,7 +2,7 @@
 ---
 title: "TEX-MEX ENCHILADAS"
 tags:
-
+  - recipe
 ---
 # TEX-MEX ENCHILADAS
 

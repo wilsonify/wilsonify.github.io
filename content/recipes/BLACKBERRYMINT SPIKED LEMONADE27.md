@@ -1,8 +1,9 @@
 
-	---
+	
+---
 title: "BLACKBERRY-MINT SPIKED LEMONADE"
 tags:
-
+  - recipe
 ---
 # BLACKBERRY-MINT SPIKED LEMONADE
 #### yields 6 cup

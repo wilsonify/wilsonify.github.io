@@ -2,7 +2,7 @@
 ---
 title: "BAKED SPRING ROLLS"
 tags:
-
+  - recipe
 ---
 # BAKED SPRING ROLLS
 

@@ -1,7 +1,8 @@
+
 ---
 title: "MOROCCAN SPICED COUSCOUS"
 tags:
-
+  - recipe
 ---
 
 # MOROCCAN SPICED COUSCOUS

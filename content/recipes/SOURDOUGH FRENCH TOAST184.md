@@ -2,7 +2,7 @@
 ---
 title: "SOURDOUGH FRENCH TOAST"
 tags:
-
+  - recipe
 ---
 # SOURDOUGH FRENCH TOAST
 
@@ -11,7 +11,7 @@ tags:
 ---
 title: "SOURDOUGH FRENCH TOAST"
 tags:
-
+  - recipe
 ---
 # SOURDOUGH FRENCH TOAST
 

@@ -2,7 +2,7 @@
 ---
 title: "STUFFED MUSHROOMS"
 tags:
-
+  - recipe
 ---
 # STUFFED MUSHROOMS
 

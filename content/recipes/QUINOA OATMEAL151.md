@@ -1,9 +1,10 @@
 
 
-	---
+	
+---
 title: "QUINOA OATMEAL"
 tags:
-
+  - recipe
 ---
 # QUINOA OATMEAL
 #### yields 4

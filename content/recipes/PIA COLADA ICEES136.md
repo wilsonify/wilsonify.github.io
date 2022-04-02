@@ -2,7 +2,7 @@
 ---
 title: "PIÑA COLADA ICEES"
 tags:
-
+  - recipe
 ---
 # PIÑA COLADA ICEES
 

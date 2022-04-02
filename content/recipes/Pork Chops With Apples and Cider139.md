@@ -1,7 +1,8 @@
+
 ---
 title: "Pork Chops With Apples and Cider"
 tags:
-
+  - recipe
 ---
 
 # Pork Chops With Apples and Cider

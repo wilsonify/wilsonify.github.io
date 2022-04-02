@@ -1,9 +1,10 @@
 
 
-	---
+	
+---
 title: "POTATO LEEK CAKES"
 tags:
-
+  - recipe
 ---
 # POTATO LEEK CAKES
 #### yields 24 CAKES, ENOUGH FOR 6 TO 8 PEOPLE

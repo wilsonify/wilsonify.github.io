@@ -2,7 +2,7 @@
 ---
 title: "WHOLE WHEAT BISCUITS"
 tags:
-
+  - recipe
 ---
 # WHOLE WHEAT BISCUITS
 

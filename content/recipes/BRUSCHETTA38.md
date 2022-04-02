@@ -2,7 +2,7 @@
 ---
 title: "BRUSCHETTA"
 tags:
-
+  - recipe
 ---
 # BRUSCHETTA
 

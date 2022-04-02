@@ -2,7 +2,7 @@
 ---
 title: "CILANTRO PESTO"
 tags:
-
+  - recipe
 ---
 # CILANTRO PESTO
 

@@ -2,7 +2,7 @@
 ---
 title: "CARROT DOGS"
 tags:
-
+  - recipe
 ---
 # CARROT DOGS
 

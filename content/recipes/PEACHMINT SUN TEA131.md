@@ -1,7 +1,7 @@
 ---
 title: "PEACH-MINT SUN TEA"
 tags:
-
+  - recipe
 ---
 
 # PEACH-MINT SUN TEA

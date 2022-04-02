@@ -2,7 +2,7 @@
 ---
 title: "TOFU RICOTTA"
 tags:
-
+  - recipe
 ---
 # TOFU RICOTTA
 

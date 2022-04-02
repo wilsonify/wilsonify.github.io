@@ -1,9 +1,10 @@
 
 
-	---
+	
+---
 title: "POTATO LEEK SOUP"
 tags:
-
+  - recipe
 ---
 # POTATO LEEK SOUP
 #### yields 4 AS A SIDE

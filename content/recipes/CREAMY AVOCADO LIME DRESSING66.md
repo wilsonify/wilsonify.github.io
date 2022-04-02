@@ -2,7 +2,7 @@
 ---
 title: "CREAMY AVOCADO LIME DRESSING"
 tags:
-
+  - recipe
 ---
 # CREAMY AVOCADO LIME DRESSING
 

@@ -2,7 +2,7 @@
 ---
 title: "PANZANELLA"
 tags:
-
+  - recipe
 ---
 # PANZANELLA
 

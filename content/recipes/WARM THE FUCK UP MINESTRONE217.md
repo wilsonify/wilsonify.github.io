@@ -1,9 +1,10 @@
 
 
-	---
+	
+---
 title: "WARM THE FUCK UP MINESTRONE"
 tags:
-
+  - recipe
 ---
 # WARM THE FUCK UP MINESTRONE
 #### yields 4 TO 6

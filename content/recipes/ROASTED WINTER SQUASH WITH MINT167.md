@@ -1,9 +1,10 @@
 
 
-	---
+	
+---
 title: "ROASTED WINTER SQUASH WITH MINT"
 tags:
-
+  - recipe
 ---
 # ROASTED WINTER SQUASH WITH MINT
 #### yields 6 TO 8 PEOPLE AS A SIDE

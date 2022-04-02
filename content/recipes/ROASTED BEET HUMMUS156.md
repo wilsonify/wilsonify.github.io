@@ -2,7 +2,7 @@
 ---
 title: "ROASTED BEET HUMMUS"
 tags:
-
+  - recipe
 ---
 # ROASTED BEET HUMMUS
 

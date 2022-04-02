@@ -2,7 +2,7 @@
 ---
 title: "SMOKY MAPLE MARINADE"
 tags:
-
+  - recipe
 ---
 # SMOKY MAPLE MARINADE
 

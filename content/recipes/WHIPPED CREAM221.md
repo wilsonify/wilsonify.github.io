@@ -1,7 +1,8 @@
+
 ---
 title: "WHIPPED CREAM"
 tags:
-
+  - recipe
 ---
 
 # WHIPPED CREAM

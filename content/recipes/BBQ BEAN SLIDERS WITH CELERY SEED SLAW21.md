@@ -1,8 +1,9 @@
 
-	---
+	
+---
 title: "BBQ BEAN SLIDERS WITH CELERY SEED SLAW"
 tags:
-
+  - recipe
 ---
 # BBQ BEAN SLIDERS WITH CELERY SEED SLAW
 #### yields  12 SLIDERS OR 6 REGULAR-SIZE BURGERS

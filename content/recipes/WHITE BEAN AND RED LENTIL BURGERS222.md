@@ -2,7 +2,7 @@
 ---
 title: "WHITE BEAN AND RED LENTIL BURGERS"
 tags:
-
+  - recipe
 ---
 # WHITE BEAN AND RED LENTIL BURGERS
 

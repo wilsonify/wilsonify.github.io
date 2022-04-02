@@ -2,7 +2,7 @@
 ---
 title: "FOUR-BEAN SALAD"
 tags:
-
+  - recipe
 ---
 # FOUR-BEAN SALAD
 

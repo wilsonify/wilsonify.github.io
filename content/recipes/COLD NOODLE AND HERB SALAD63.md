@@ -1,11 +1,8 @@
 
 
-	---
-title: "COLD NOODLE AND HERB SALAD"
+	
 ---
-
-
-
+title: "COLD NOODLE AND HERB SALAD"
 ---
 # COLD NOODLE AND HERB SALAD
 #### yields 4 PEOPLE AS A MAIN, 6 TO 8 AS A SIDE

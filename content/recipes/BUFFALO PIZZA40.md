@@ -2,7 +2,7 @@
 ---
 title: "BUFFALO PIZZA"
 tags:
-
+  - recipe
 ---
 # BUFFALO PIZZA
 

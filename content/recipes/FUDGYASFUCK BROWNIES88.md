@@ -1,9 +1,10 @@
 
 
-	---
+	
+---
 title: "FUDGY-AS-FUCK BROWNIES"
 tags:
-
+  - recipe
 ---
 # FUDGY-AS-FUCK BROWNIES
 #### yields 16 BROWNIES, IF YOU CUT SHIT UP IN A REASONABLE SIZE

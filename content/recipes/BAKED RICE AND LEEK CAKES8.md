@@ -1,7 +1,8 @@
-	---
+	
+---
 title: "BAKED RICE AND LEEK CAKES"
 tags:
-
+  - recipe
 ---
 
 # BAKED RICE AND LEEK CAKES

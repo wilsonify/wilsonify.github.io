@@ -2,7 +2,7 @@
 ---
 title: "BANANA AND COCONUT POPS"
 tags:
-
+  - recipe
 ---
 # BANANA AND COCONUT POPS
 

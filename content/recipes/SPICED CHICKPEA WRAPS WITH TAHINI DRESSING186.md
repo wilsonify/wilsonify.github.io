@@ -1,7 +1,8 @@
-	---
+	
+---
 title: "SPICED CHICKPEA WRAPS WITH TAHINI DRESSING"
 tags:
-
+  - recipe
 ---
 
 # SPICED CHICKPEA WRAPS WITH TAHINI DRESSING

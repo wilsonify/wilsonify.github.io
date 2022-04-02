@@ -1,7 +1,8 @@
-	---
+	
+---
 title: "SWEET POTATO, SQUASH, AND BLACK BEAN ENCHILADAS"
 tags:
-
+  - recipe
 ---
 
 # SWEET POTATO, SQUASH, AND BLACK BEAN ENCHILADAS

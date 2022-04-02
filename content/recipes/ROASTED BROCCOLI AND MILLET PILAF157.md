@@ -2,7 +2,7 @@
 ---
 title: "ROASTED BROCCOLI AND MILLET PILAF"
 tags:
-
+  - recipe
 ---
 # ROASTED BROCCOLI AND MILLET PILAF
 

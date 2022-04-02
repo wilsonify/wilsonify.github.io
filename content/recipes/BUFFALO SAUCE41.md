@@ -1,8 +1,9 @@
 
-	---
+	
+---
 title: "BUFFALO SAUCE"
 tags:
-
+  - recipe
 ---
 # BUFFALO SAUCE
 #### yields 5 cup

@@ -2,7 +2,7 @@
 ---
 title: "TOFU SCRAMBLE TACOS"
 tags:
-
+  - recipe
 ---
 # TOFU SCRAMBLE TACOS
 

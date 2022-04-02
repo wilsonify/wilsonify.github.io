@@ -2,7 +2,7 @@
 ---
 title: "HOUSE MARINARA"
 tags:
-
+  - recipe
 ---
 # HOUSE MARINARA
 

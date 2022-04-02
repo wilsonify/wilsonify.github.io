@@ -1,9 +1,10 @@
 
 
-	---
+	
+---
 title: "POPPY SEED POTATO SALAD"
 tags:
-
+  - recipe
 ---
 # POPPY SEED POTATO SALAD
 #### yields 6 PEOPLE, OR A BIG-ASS BOWL AT A PICNIC

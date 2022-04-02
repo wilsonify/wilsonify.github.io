@@ -1,7 +1,8 @@
-	---
+	
+---
 title: "POZOLE ROJO"
 tags:
-
+  - recipe
 ---
 
 # POZOLE ROJO

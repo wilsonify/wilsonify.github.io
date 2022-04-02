@@ -1,9 +1,10 @@
 
 
-	---
+	
+---
 title: "BLACKBERRY-LEMON BUCKLE"
 tags:
-
+  - recipe
 ---
 # BLACKBERRY-LEMON BUCKLE
 #### yields 1 CAKE, ENOUGH FOR 6 TO 8 PEOPLE

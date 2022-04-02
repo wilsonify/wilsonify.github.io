@@ -2,7 +2,7 @@
 ---
 title: "BASIC MAPLE GRANOLA WITH ADD-IN IDEAS"
 tags:
-
+  - recipe
 ---
 # BASIC MAPLE GRANOLA WITH ADD-IN IDEAS
 

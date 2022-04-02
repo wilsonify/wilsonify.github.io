@@ -1,7 +1,8 @@
+
 ---
 title: "SRIRACHA AIOLI"
 tags:
-
+  - recipe
 ---
 
 # SRIRACHA AIOLI

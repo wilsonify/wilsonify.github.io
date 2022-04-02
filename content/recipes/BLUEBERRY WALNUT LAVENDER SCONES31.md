@@ -1,9 +1,10 @@
 
 
-	---
+	
+---
 title: "BLUEBERRY WALNUT LAVENDER SCONES"
 tags:
-
+  - recipe
 ---
 # BLUEBERRY WALNUT LAVENDER SCONES
 #### yields 12 SCONES. BEST SERVED THE DAY THEY ARE MADE.

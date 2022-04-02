@@ -1,8 +1,9 @@
 
-	---
+	
+---
 title: "CHOCOLATE-COCONUT PIE"
 tags:
-
+  - recipe
 ---
 # CHOCOLATE-COCONUT PIE
 #### yields 1 PIE

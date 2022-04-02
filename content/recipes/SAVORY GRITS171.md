@@ -1,9 +1,10 @@
 
 
-	---
+	
+---
 title: "SAVORY GRITS"
 tags:
-
+  - recipe
 ---
 # SAVORY GRITS
 #### yields 6 cup

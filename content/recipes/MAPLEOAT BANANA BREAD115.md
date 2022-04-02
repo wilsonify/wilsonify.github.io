@@ -1,9 +1,10 @@
 
 
-	---
+	
+---
 title: "MAPLE-OAT BANANA BREAD"
 tags:
-
+  - recipe
 ---
 # MAPLE-OAT BANANA BREAD
 ## ingredients

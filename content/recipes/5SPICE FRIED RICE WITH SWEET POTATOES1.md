@@ -9,13 +9,14 @@ description: how to cook 5-SPICE FRIED RICE WITH SWEET POTATOES
 excerpt_separator: <!--more-->
 
 url: /2022/04/02/SPICE-FRIED-RICE-WITH-SWEET-POTATOES/
+
 ---
 
 # 5-SPICE FRIED RICE WITH SWEET POTATOES
 
 
 #### yields 4 AS A SIDE OR YOUR LONELY ASS FOR A COUPLE
-<!--more-->
+
 
 ## ingredients
 * 1 medium sweet potato (¾ to 1 LB)

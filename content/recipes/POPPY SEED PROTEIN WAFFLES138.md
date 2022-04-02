@@ -2,7 +2,7 @@
 ---
 title: "POPPY SEED PROTEIN WAFFLES"
 tags:
-
+  - recipe
 ---
 # POPPY SEED PROTEIN WAFFLES
 

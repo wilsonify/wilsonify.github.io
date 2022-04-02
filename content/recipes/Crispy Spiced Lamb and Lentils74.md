@@ -1,7 +1,7 @@
 ---
 title: "Crispy Spiced Lamb and Lentils"
 tags:
-
+  - recipe
 ---
 
 # Crispy Spiced Lamb and Lentils

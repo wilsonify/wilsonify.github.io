@@ -2,7 +2,7 @@
 ---
 title: "PEAR AND POPPY SEED LB CAKE"
 tags:
-
+  - recipe
 ---
 # PEAR AND POPPY SEED LB CAKE
 

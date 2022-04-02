@@ -1,9 +1,10 @@
 
 
-	---
+	
+---
 title: "STRAWBERRY SHORTCAKE"
 tags:
-
+  - recipe
 ---
 # STRAWBERRY SHORTCAKE
 #### yields 8

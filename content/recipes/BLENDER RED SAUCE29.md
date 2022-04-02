@@ -2,7 +2,7 @@
 ---
 title: "BLENDER RED SAUCE"
 tags:
-
+  - recipe
 ---
 # BLENDER RED SAUCE
 

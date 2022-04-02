@@ -2,7 +2,7 @@
 ---
 title: "PINEAPPLE GUACAMOLE"
 tags:
-
+  - recipe
 ---
 # PINEAPPLE GUACAMOLE
 

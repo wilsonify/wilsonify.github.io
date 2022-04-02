@@ -1,9 +1,10 @@
 
 
-	---
+	
+---
 title: "HOMEMADE TORTILLAS WITH MIXED FRUIT COMPOTE"
 tags:
-
+  - recipe
 ---
 # HOMEMADE TORTILLAS WITH MIXED FRUIT COMPOTE
 #### yields 8 TO 12 TORTILLAS

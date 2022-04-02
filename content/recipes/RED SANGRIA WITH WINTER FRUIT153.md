@@ -1,9 +1,10 @@
 
 
-	---
+	
+---
 title: "RED SANGRIA WITH WINTER FRUIT"
 tags:
-
+  - recipe
 ---
 # RED SANGRIA WITH WINTER FRUIT
 ## ingredients

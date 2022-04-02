@@ -2,7 +2,7 @@
 ---
 title: "MICHELADA"
 tags:
-
+  - recipe
 ---
 # MICHELADA
 

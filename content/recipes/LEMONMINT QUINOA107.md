@@ -2,7 +2,7 @@
 ---
 title: "LEMON-MINT QUINOA"
 tags:
-
+  - recipe
 ---
 # LEMON-MINT QUINOA
 

@@ -1,8 +1,9 @@
 
+
 ---
 title: "ROASTED POTATO SALAD WITH FRESH HERBS"
 tags:
-
+  - recipe
 ---
 # ROASTED POTATO SALAD WITH FRESH HERBS
 

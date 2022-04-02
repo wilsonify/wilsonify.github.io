@@ -2,7 +2,7 @@
 ---
 title: "ARTICHOKE DIP"
 tags:
-
+  - recipe
 ---
 # ARTICHOKE DIP
 

@@ -2,7 +2,7 @@
 ---
 title: "HIGH SCHOOL–STYLE HARD LEMONADE"
 tags:
-
+  - recipe
 ---
 # HIGH SCHOOL–STYLE HARD LEMONADE
 

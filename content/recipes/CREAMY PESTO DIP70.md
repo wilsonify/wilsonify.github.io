@@ -1,8 +1,9 @@
 
-	---
+	
+---
 title: "CREAMY PESTO DIP"
 tags:
-
+  - recipe
 ---
 # CREAMY PESTO DIP
 #### yields 1 CUP, ENOUGH FOR 2 TO 4 PEOPLE

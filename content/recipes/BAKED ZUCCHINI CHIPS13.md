@@ -2,7 +2,7 @@
 ---
 title: "BAKED ZUCCHINI CHIPS"
 tags:
-
+  - recipe
 ---
 # BAKED ZUCCHINI CHIPS
 

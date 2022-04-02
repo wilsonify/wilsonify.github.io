@@ -1,8 +1,9 @@
 
-	---
+	
+---
 title: "CALIFORNIA CITRUS AND ALMOND SALAD"
 tags:
-
+  - recipe
 ---
 # CALIFORNIA CITRUS AND ALMOND SALAD
 #### yields 1 BIG-ASS SALAD, MORE THAN ENOUGH FOR 4 TO 6 PEOPLE

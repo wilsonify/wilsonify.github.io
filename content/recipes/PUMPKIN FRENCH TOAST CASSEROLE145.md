@@ -2,7 +2,7 @@
 ---
 title: "PUMPKIN FRENCH TOAST CASSEROLE"
 tags:
-
+  - recipe
 ---
 # PUMPKIN FRENCH TOAST CASSEROLE
 

@@ -2,7 +2,7 @@
 ---
 title: "CREAMY BLACK BEAN AND CILANTRO DIP"
 tags:
-
+  - recipe
 ---
 # CREAMY BLACK BEAN AND CILANTRO DIP
 

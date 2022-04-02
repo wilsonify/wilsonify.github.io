@@ -2,7 +2,7 @@
 ---
 title: "BAKED ZITI WITH SPINACH"
 tags:
-
+  - recipe
 ---
 # BAKED ZITI WITH SPINACH
 

@@ -2,7 +2,7 @@
 ---
 title: "BREAKFAST GREENS"
 tags:
-
+  - recipe
 ---
 # BREAKFAST GREENS
 

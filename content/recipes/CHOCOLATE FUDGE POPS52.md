@@ -1,8 +1,9 @@
 
-	---
+	
+---
 title: "CHOCOLATE FUDGE POPS"
 tags:
-
+  - recipe
 ---
 # CHOCOLATE FUDGE POPS
 #### yields 33 cup FILLING, about 12 POPS

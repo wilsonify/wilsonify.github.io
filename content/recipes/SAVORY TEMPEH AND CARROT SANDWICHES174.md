@@ -2,7 +2,7 @@
 ---
 title: "SAVORY TEMPEH AND CARROT SANDWICHES"
 tags:
-
+  - recipe
 ---
 # SAVORY TEMPEH AND CARROT SANDWICHES
 

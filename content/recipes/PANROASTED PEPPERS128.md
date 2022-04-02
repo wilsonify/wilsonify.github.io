@@ -2,7 +2,7 @@
 ---
 title: "PAN-ROASTED PEPPERS"
 tags:
-
+  - recipe
 ---
 
 # PAN-ROASTED PEPPERS

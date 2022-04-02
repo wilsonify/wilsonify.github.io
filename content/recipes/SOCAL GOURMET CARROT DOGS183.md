@@ -1,9 +1,10 @@
 
 
-	---
+	
+---
 title: "SOCAL GOURMET CARROT DOGS"
 tags:
-
+  - recipe
 ---
 # SOCAL GOURMET CARROT DOGS
 #### yields 8 DOGS

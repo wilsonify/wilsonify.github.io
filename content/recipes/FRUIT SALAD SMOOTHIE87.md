@@ -2,7 +2,7 @@
 ---
 title: "FRUIT SALAD SMOOTHIE"
 tags:
-
+  - recipe
 ---
 # FRUIT SALAD SMOOTHIE
 

@@ -1,9 +1,10 @@
 
 
-	---
+	
+---
 title: "CUMIN-SPIKED PINTO BEAN DIP"
 tags:
-
+  - recipe
 ---
 # CUMIN-SPIKED PINTO BEAN DIP
 #### yields 4 TO 6, ABOUT 3.5 cup

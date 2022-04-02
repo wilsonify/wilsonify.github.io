@@ -1,7 +1,8 @@
-	---
+	
+---
 title: "MAPLE BERRY GRITS"
 tags:
-
+  - recipe
 ---
 
 # MAPLE BERRY GRITS

@@ -2,7 +2,7 @@
 ---
 title: "ROASTED GARLIC DIP"
 tags:
-
+  - recipe
 ---
 # ROASTED GARLIC DIP
 

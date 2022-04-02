@@ -2,7 +2,7 @@
 ---
 title: "BUTTERNUT SQUASH QUESO-ISH DIP"
 tags:
-
+  - recipe
 ---
 # BUTTERNUT SQUASH QUESO-ISH DIP
 

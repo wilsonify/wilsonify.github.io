@@ -1,9 +1,10 @@
 
 
-	---
+	
+---
 title: "MELON AND MINT FRUIT SALAD"
 tags:
-
+  - recipe
 ---
 # MELON AND MINT FRUIT SALAD
 #### yields 6 PEOPLE

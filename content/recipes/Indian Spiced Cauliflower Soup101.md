@@ -1,7 +1,8 @@
-	---
+	
+---
 title: "Indian Spiced Cauliflower Soup"
 tags:
-
+  - recipe
 ---
 
 # Indian Spiced Cauliflower Soup

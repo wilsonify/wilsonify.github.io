@@ -1,9 +1,10 @@
 
 
-	---
+	
+---
 title: "SMOKED ALMOND AND CHICKPEA SALAD SAMMIES"
 tags:
-
+  - recipe
 ---
 # SMOKED ALMOND AND CHICKPEA SALAD SAMMIES
 #### yields 4 TO 6 SANDWICHES

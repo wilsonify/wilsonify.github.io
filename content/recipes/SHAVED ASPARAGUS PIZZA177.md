@@ -2,7 +2,7 @@
 ---
 title: "SHAVED ASPARAGUS PIZZA"
 tags:
-
+  - recipe
 ---
 # SHAVED ASPARAGUS PIZZA
 

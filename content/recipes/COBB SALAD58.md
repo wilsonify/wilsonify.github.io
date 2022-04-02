@@ -2,7 +2,7 @@
 ---
 title: "COBB SALAD"
 tags:
-
+  - recipe
 ---
 # COBB SALAD
 

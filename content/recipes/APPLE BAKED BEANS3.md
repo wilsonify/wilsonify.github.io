@@ -1,6 +1,8 @@
+
 ---
 title: "APPLE BAKED BEANS"
 tags:
+  - recipe
 ---
 
 # APPLE BAKED BEANS

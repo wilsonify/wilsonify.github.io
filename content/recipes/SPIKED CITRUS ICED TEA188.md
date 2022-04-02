@@ -2,7 +2,7 @@
 ---
 title: "SPIKED CITRUS ICED TEA"
 tags:
-
+  - recipe
 ---
 # SPIKED CITRUS ICED TEA
 

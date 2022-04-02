@@ -2,7 +2,7 @@
 ---
 title: "SUMMER NIGHT PAELLA"
 tags:
-
+  - recipe
 ---
 # SUMMER NIGHT PAELLA
 

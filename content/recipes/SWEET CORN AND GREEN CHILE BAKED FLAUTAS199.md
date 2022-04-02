@@ -1,9 +1,10 @@
 
 
-	---
+	
+---
 title: "SWEET CORN AND GREEN CHILE BAKED FLAUTAS"
 tags:
-
+  - recipe
 ---
 # SWEET CORN AND GREEN CHILE BAKED FLAUTAS
 #### yields 12 FLAUTAS

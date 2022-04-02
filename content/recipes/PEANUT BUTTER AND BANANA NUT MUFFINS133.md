@@ -2,7 +2,7 @@
 ---
 title: "PEANUT BUTTER AND BANANA NUT MUFFINS"
 tags:
-
+  - recipe
 ---
 # PEANUT BUTTER AND BANANA NUT MUFFINS
 

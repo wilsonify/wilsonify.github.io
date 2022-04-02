@@ -1,7 +1,8 @@
-	---
+	
+---
 title: "WHITE SANGRIA WITH MIDSUMMER PEACHES"
 tags:
-
+  - recipe
 ---
 
 # WHITE SANGRIA WITH MIDSUMMER PEACHES

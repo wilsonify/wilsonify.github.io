@@ -2,7 +2,7 @@
 ---
 title: "ZUCCHINI ROLLUPS"
 tags:
-
+  - recipe
 ---
 # ZUCCHINI ROLLUPS
 

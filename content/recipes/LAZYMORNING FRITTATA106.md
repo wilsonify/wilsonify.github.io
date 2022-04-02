@@ -1,9 +1,10 @@
 
 
-	---
+	
+---
 title: "LAZY-MORNING FRITTATA"
 tags:
-
+  - recipe
 ---
 # LAZY-MORNING FRITTATA
 #### yields 4 TO 6 PEOPLE

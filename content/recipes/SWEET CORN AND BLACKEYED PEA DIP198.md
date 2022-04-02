@@ -2,7 +2,7 @@
 ---
 title: "SWEET CORN AND BLACK-EYED PEA DIP"
 tags:
-
+  - recipe
 ---
 # SWEET CORN AND BLACK-EYED PEA DIP
 

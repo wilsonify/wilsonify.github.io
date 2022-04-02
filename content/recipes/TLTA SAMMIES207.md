@@ -2,7 +2,7 @@
 ---
 title: "TLTA SAMMIES"
 tags:
-
+  - recipe
 ---
 # TLTA SAMMIES
 

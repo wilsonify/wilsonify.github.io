@@ -4,8 +4,7 @@
 title: "CUMIN-SPIKED PINTO BEAN DIP"
 ---
 # CUMIN-SPIKED PINTO BEAN DIP
-#### yields
-4 TO 6, ABOUT 3.5 cup
+#### yields 4 TO 6, ABOUT 3.5 cup
 ## ingredients
 * 2 tsp olive oil
 * 1 white or yellow onion (about 1 cup) white or yellow onion (about 1 cup)

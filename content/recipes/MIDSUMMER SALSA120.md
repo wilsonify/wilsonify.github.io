@@ -4,15 +4,16 @@
 title: "MID-SUMMER SALSA"
 ---
 # MID-SUMMER SALSA
-#### yields
-4 TO 6, ABOUT 4.5 cup
+#### yields 4 TO 6, ABOUT 4.5 cup
 ## ingredients
 * 1 LB tomatoes
 0.5 white onion
 * 2 to 3 clove garlic to 3 clove garlic* 2 to 3 clove garlic to 3 clove garlicapeño
 
 * 2 TBL lime juice
-			<ingredient optional="yes">
+
+
+* optional *
 * 1 TBL orange juice
 
 * 1/4 cup cilantro* 1/4 cup cilantro

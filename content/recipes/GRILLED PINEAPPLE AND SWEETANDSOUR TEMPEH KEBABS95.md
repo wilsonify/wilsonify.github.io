@@ -4,12 +4,11 @@
 title: "GRILLED PINEAPPLE AND SWEET-AND-SOUR TEMPEH KEBABS"
 ---
 # GRILLED PINEAPPLE AND SWEET-AND-SOUR TEMPEH KEBABS
-#### yields
-10 KEBABS, ENOUGH FOR 5 PEOPLE
+#### yields 10 KEBABS, ENOUGH FOR 5 PEOPLE
 ## ingredients
 * 2 TBL water* 2 TBL waterc* 2 TBL water* 2 TBL water* 2 TBL wateri* 2 TBL water* 2 TBL water* 2 TBL waterg* 2 TBL water* 2 TBL water
 * 2 tsp soy sauce or tamari* 2 tsp soy sauce or tamari * 2 tsp soy sauce or tamari* 2 tsp soy sauce or tamari
-			<ingredient>
+
 * 8 ounces tempeh, cut into large cubes ounces tempeh, cut into large cubes
 
 * 1/2 cup vegetable broth* 1/2 cup vegetable brothe* 1/2 cup vegetable broth* 1/2 cup vegetable broth

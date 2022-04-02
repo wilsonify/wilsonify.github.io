@@ -4,8 +4,7 @@
 title: "STRAWBERRY SHORTCAKE"
 ---
 # STRAWBERRY SHORTCAKE
-#### yields
-8
+#### yields 8
 ## ingredients
 * 1 LB strawberries* 1 LB strawberries* 1 LB strawberries* 1 LB strawberries* 1 LB strawberrieso* 1 LB strawberries* 1 LB strawberries* 1 LB strawberries* 1 LB strawberries
 * 1/2 tsp salt

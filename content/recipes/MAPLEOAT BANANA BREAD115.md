@@ -7,10 +7,7 @@ title: "MAPLE-OAT BANANA BREAD"
 ## ingredients
 * 2 cup oat flour* 2 cup oat flour
 
-			<ingredient>
-				<unit>tsp</unit>
-				<item>baking soda</item>
-				<key>baking soda</key>
+* tsp baking soda
 
 * 3/4 tsp ground cinnamon* 3/4 tsp ground cinnamon* 3/4 tsp ground cinnamon* 3/4 tsp ground cinnamon* 3/4 tsp ground cinnamonc* 3/4 tsp ground cinnamon* 3/4 tsp ground cinnamon* 3/4 tsp ground cinnamons* 3/4 tsp ground cinnamon
 * 3 TBL olive oil

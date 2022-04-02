@@ -4,51 +4,22 @@
 title: "CINNAMON APRICOT FRENCH TOAST"
 ---
 # CINNAMON APRICOT FRENCH TOAST
-#### yields
-6 PIECES OF FRENCH TOAST
+#### yields 6 PIECES OF FRENCH TOAST
 ## ingredients
-			<ingredient>
-				<amount>2</amount>
-				<unit>cup</unit>
-				<item>sweetened vanilla nondairy milk</item>
-				<key>sweetened vanilla nondairy milk</key>
+* 2 cup sweetened vanilla nondairy milk
 
-			<ingredient>
-				<amount>1/4</amount>
-				<unit>cup</unit>
-				<item>packed dried apricots</item>
-				<key>packed dried apricots</key>
+* 1/4 cup packed dried apricots
 
-			<ingredient optional="yes">
-				<amount>1/4</amount>
-				<unit>tsp</unit>
-				<item>grated orange zest</item>
-				<key>grated orange zest</key>
+* 1/4 tsp grated orange zest *optional*
 
-			<ingredient>
-				<amount>1</amount>
-				<unit>TBL</unit>
-				<item>ground flaxseed or chia seeds</item>
-				<key>ground flaxseed or chia seeds</key>
+* 1 TBL ground flaxseed or chia seeds
 
-			<ingredient>
-				<amount>1 1/2</amount>
-				<unit>tsp</unit>
-				<item>nutritional yeast</item>
-				<key>nutritional yeast</key>
+* 1 1/2 tsp nutritional yeast
 
-			<ingredient>
-				<amount>1/4</amount>
-				<unit>tsp</unit>
-				<item>ground cinnamon</item>
-				<key>ground cinnamon</key>
+* 1/4 tsp ground cinnamon
 
 Spray oil
-			<ingredient>
-				<amount>1/2</amount>
-				<unit>loaf</unit>
-				<item>day-old crusty bread, cut into six .5-inch-thick slices</item>
-				<key>day-old crusty bread, cut into six .5-inch-thick slices</key>
+* 1/2 loaf day-old crusty bread, cut into six .5-inch-thick slices
 
 Maple syrup, cinnamon, and fresh fruit, for serving
 

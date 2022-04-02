@@ -4,106 +4,42 @@
 title: "GINGER-MUSHROOM SUMMER ROLLS"
 ---
 # GINGER-MUSHROOM SUMMER ROLLS
-#### yields
-10 TO 12 ROLLS THAT WILL HAVE PEOPLE TALKING FOR WEEKS
+#### yields 10 TO 12 ROLLS THAT WILL HAVE PEOPLE TALKING FOR WEEKS
 ## ingredients
-			<ingredient>
-				<amount>8</amount>
-				<item>ounces mushrooms</item>
-				<key>ounces mushrooms</key>
+* 8 ounces mushrooms
 
-			<ingredient>
-				<amount>3</amount>
-				<unit>clove</unit>
-				<item>garlic</item>
-				<key>garlic</key>
+* 3 clove garlic
 
-			<ingredient>
-				<amount>1/2</amount>
-				<unit>tsp</unit>
-				<item>neutral-tasting oil like grapeseed</item>
-				<key>neutral-tasting oil like grapeseed</key>
+* 1/2 tsp neutral-tasting oil like grapeseed
 
-			<ingredient>
-				<amount>1 1/2</amount>
-				<unit>tsp</unit>
-				<item>soy sauce or tamari</item>
-				<key>soy sauce or tamari</key>
+* 1 1/2 tsp soy sauce or tamari
 
-			<ingredient>
-				<amount>1/3</amount>
-				<unit>cup</unit>
-				<item>minced green onions</item>
-				<key>minced green onions</key>
+* 1/3 cup minced green onions
 
-			<ingredient>
-				<amount>2</amount>
-				<unit>TBL</unit>
-				<item>minced fresh ginger</item>
-				<key>minced fresh ginger</key>
+* 2 TBL minced fresh ginger
 
-			<ingredient>
-				<amount>1/2</amount>
-				<unit>tsp</unit>
-				<item>toasted sesame oil</item>
-				<key>toasted sesame oil</key>
+* 1/2 tsp toasted sesame oil
 
 SWEET AND SOUR DIPPING SAUCE *optional*
-			<ingredient>
-				<amount>1/2</amount>
-				<unit>cup</unit>
-				<item>rice vinegar</item>
-				<key>rice vinegar</key>
+* 1/2 cup rice vinegar
 
-			<ingredient>
-				<amount>2</amount>
-				<unit>TBL</unit>
-				<item>sugar</item>
-				<key>sugar</key>
+* 2 TBL sugar
 
-			<ingredient>
-				<amount>2-3</amount>
-				<unit>tsp</unit>
-				<item>chili-garlic paste</item>
-				<key>chili-garlic paste</key>
+* 2-3 tsp chili-garlic paste
 
-			<ingredient>
-				<amount>1</amount>
-				<unit>tsp</unit>
-				<item>lime juice</item>
-				<key>lime juice</key>
+* 1 tsp lime juice
 
-			<ingredient>
-				<amount>1/4</amount>
-				<unit>cup</unit>
-				<item>peanuts</item>
-				<key>peanuts</key>
+* 1/4 cup peanuts
 
-			<ingredient>
-				<amount>6</amount>
-				<item>lettuce leaves</item>
-				<key>lettuce leaves</key>
+* 6 lettuce leaves
 
-			<ingredient>
-				<amount>1</amount>
-				<item>cucumber</item>
-				<key>cucumber</key>
+* 1 cucumber
 
-			<ingredient>
-				<amount>1</amount>
-				<item>carrot</item>
-				<key>carrot</key>
+* 1 carrot
 
-			<ingredient>
-				<amount>1</amount>
-				<unit>cup</unit>
-				<item>fresh herbs</item>
-				<key>fresh herbs</key>
+* 1 cup fresh herbs
 
-			<ingredient>
-				<amount>1</amount>
-				<item>pack of large spring roll wrappers/rice paper wrappers</item>
-				<key>pack of large spring roll wrappers/rice paper wrappers</key>
+* 1 pack of large spring roll wrappers/rice paper wrappers
 
 
 # instructions

@@ -3,8 +3,7 @@
 title: "BUFFALO SAUCE"
 ---
 # BUFFALO SAUCE
-#### yields
-5 cup
+#### yields 5 cup
 ## ingredients
 * 2 TBL olive oil* 2 TBL olive oilo* 2 TBL olive oil* 2 TBL olive oil* 2 TBL olive oile
 

@@ -4,8 +4,7 @@
 title: "ROASTED GARLIC PULL-APART BREAD"
 ---
 # ROASTED GARLIC PULL-APART BREAD
-#### yields
-6 TO 8 PEOPLE
+#### yields 6 TO 8 PEOPLE
 ## ingredients
 * 2 bulbs garlic, roasted bulbs garlic, roasted
 * 1 clove raw garlic* 1 clove raw garlico* 1 clove raw garlic* 1 clove raw garlic* 1 clove raw garlici* 1 clove raw garlic* 1 clove raw garlic* 1 clove raw garlic* 1 clove raw garlic

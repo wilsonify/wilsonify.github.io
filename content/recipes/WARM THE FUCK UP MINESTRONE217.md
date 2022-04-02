@@ -4,8 +4,7 @@
 title: "WARM THE FUCK UP MINESTRONE"
 ---
 # WARM THE FUCK UP MINESTRONE
-#### yields
-4 TO 6
+#### yields 4 TO 6
 ## ingredients
 * 2 tsp olive oil
 * 1 onion onion* 1 onion onionc* 1 onion onion

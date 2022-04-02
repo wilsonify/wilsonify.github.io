@@ -4,8 +4,7 @@
 title: "CREAMY WHITE BEAN AND ARUGULA SANDWICHES"
 ---
 # CREAMY WHITE BEAN AND ARUGULA SANDWICHES
-#### yields
-6 SAMMIES (IF YOU PORTION YOUR FILLING OUT WITH SOME GODDAMN RESTRAINT)
+#### yields 6 SAMMIES (IF YOU PORTION YOUR FILLING OUT WITH SOME GODDAMN RESTRAINT)
 ## ingredients
 * 3 cup cooked white or cannellini beans
 * 1 avocado avocado
@@ -14,7 +13,9 @@ title: "CREAMY WHITE BEAN AND ARUGULA SANDWICHES"
 * 1/2 cup cucumber (about .5 cucumber)* 1/2 cup cucumber (about .5 cucumber)b* 1/2 cup cucumber (about .5 cucumber)
 * 2 clove garlic
 
-			<ingredient optional="yes">
+
+
+* optional *
 * 1/2 tsp cayenne pepper
 
 Salt

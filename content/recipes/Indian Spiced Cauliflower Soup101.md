@@ -1,28 +1,33 @@
-
-
 	
 title: "Indian Spiced Cauliflower Soup"
 ---
+
 # Indian Spiced Cauliflower Soup
-		<category>Soup</category>
-#### yields
-4 portions
+
+#### yields  4 portions
+
 ## ingredients
-* 2 tablespoons olive or peanut oil* 2 tablespoons olive or peanut oilh* 2 tablespoons olive or peanut oil* 2 tablespoons olive or peanut oil* 2 tablespoons olive or peanut oil,* 2 tablespoons olive or peanut oil* 2 tablespoons olive or peanut oil
-* 2 teaspoons peeled and chopped fresh ginger* 2 teaspoons peeled and chopped fresh gingerc* 2 teaspoons peeled and chopped fresh ginger
-* 1 fresh hot green chili, chopped (more or less to taste) fresh hot green chili, chopped (more or less to taste)
-
-* 2 teaspoons ground coriander* 2 teaspoons ground corianderu* 2 teaspoons ground coriander* 2 teaspoons ground coriander
-* 1/4 teaspoon red chili powder or cayenne (to taste)
-About 3 1/2 cups cauliflower florets (from about 1/2 a large 2.75-pound head)
-* 2 medium tomatoes, peeled and chopped or 1 1/2 cups canned chopped tomatoes* 2 medium tomatoes, peeled and chopped or 1 1/2 cups canned chopped tomatoess salt, or to taste (we wanted more)
-
-A couple spoonfuls heavy cream or dollops of yogurt
-* 1/2 cup cooked basmati or other long-grain white rice
-Handful of fresh cilantro, chopped *optional*Handful of fresh cilantro, chopped *optional* Handful of fresh cilantro, chopped *optional*eHandful of fresh cilantro, chopped *optional*ptional="yes">
-				<item>Toasted pita or naan wedges</item>
-				<key>Toasted pita or naan wedges</key>
-
+* 2 tablespoons olive or peanut oil
+* ½ teaspoon whole cumin seeds
+* ¼ teaspoon whole fennel seeds
+* 1 medium onion, peeled and chopped
+* 1 medium potato (about 6 ounces), peeled and chopped
+* 2 teaspoons peeled and chopped fresh ginger
+* 2 cloves garlic, peeled and chopped
+* 1 fresh hot green chili, chopped (more or less to taste)
+* 2 teaspoons ground coriander
+* 1 teaspoon ground cumin
+* ¼ teaspoon ground turmeric
+* ¼ teaspoon red chili powder or cayenne (to taste)
+* About 3 1/2 cups cauliflower florets (from about 1/2 a large 2.75-pound head)
+* 2 medium tomatoes, peeled and chopped or 1 1/2 cups canned chopped tomatoes
+* 1 ½ teaspoons salt, or to taste (we wanted more)
+* A couple spoonfuls heavy cream or dollops of yogurt
+* ½ cup cooked basmati or other long-grain white rice
+* Handful of fresh cilantro, chopped (Optional)
+* Freshly ground black pepper (Optional)
+* Lime wedges (Optional)
+* Toasted pita or naan wedges (Optional)
 
 # instructions
 Heat oil in the bottom of a 4 to 5-quart pot over medium-high heat. 

@@ -4,8 +4,7 @@
 title: "GINGER-LIME SPARKLERS"
 ---
 # GINGER-LIME SPARKLERS
-#### yields
-4
+#### yields 4
 ## ingredients
 * 1 lime, cut into small wedges lime, cut into small wedges
 * 1 1/2 TBL minced fresh peeled ginger* 1 1/2 TBL minced fresh peeled ginger * 1 1/2 TBL minced fresh peeled ginger* 1 1/2 TBL minced fresh peeled ginger

@@ -4,8 +4,7 @@
 title: "FUDGY-AS-FUCK BROWNIES"
 ---
 # FUDGY-AS-FUCK BROWNIES
-#### yields
-16 BROWNIES, IF YOU CUT SHIT UP IN A REASONABLE SIZE
+#### yields 16 BROWNIES, IF YOU CUT SHIT UP IN A REASONABLE SIZE
 ## ingredients
 * 2 TBL ground flax seeds* 2 TBL ground flax seedsc* 2 TBL ground flax seeds* 2 TBL ground flax seeds* 2 TBL ground flax seeds* 2 TBL ground flax seeds* 2 TBL ground flax seeds* 2 TBL ground flax seeds* 2 TBL ground flax seeds* 2 TBL ground flax seeds* 2 TBL ground flax seeds soda
 

@@ -1,18 +1,19 @@
 
-
-	
 title: "SPARKLING WINTER CITRUS AND GIN PUNCH"
 ---
+
 # SPARKLING WINTER CITRUS AND GIN PUNCH
-#### yields
-9 cup
+#### yields  9 cup
+
 ## ingredients
-* 2 bottles (750ml each) champagne or sparkling wine bottles (750ml each) champagne or sparkling wine
-* 1 cup fresh grapefruit juice* 1 cup fresh grapefruit juiceb* 1 cup fresh grapefruit juice* 1 cup fresh grapefruit juice* 1 cup fresh grapefruit juiceg water
-
-* 1/4 cup agave syrup or other syrupy sweetener
-IceIceuit slices, orange slices, and sprigs of mint or rosemary, for the punch bowl</key>
-
+* 2 bottles (750ml each) champagne or sparkling wine
+* 1 cup fresh grapefruit juice
+* ½ cup fresh blood orange or navel orange juice
+* 1 ¼ cup gin
+* 1 cup sparkling water
+* ¼ cup agave syrup or other syrupy sweetener
+* Ice
+* Grapefruit slices, orange slices, and sprigs of mint or rosemary, for the punch bowl
 
 # instructions
 1 Chill everything for a couple of hours before throwing the punch together.

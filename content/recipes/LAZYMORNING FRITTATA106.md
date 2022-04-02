@@ -4,8 +4,7 @@
 title: "LAZY-MORNING FRITTATA"
 ---
 # LAZY-MORNING FRITTATA
-#### yields
-4 TO 6 PEOPLE
+#### yields 4 TO 6 PEOPLE
 ## ingredients
 * 1 TBL olive oil* 1 TBL olive oilw onion
 

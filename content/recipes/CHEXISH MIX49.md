@@ -3,16 +3,12 @@
 title: "CHEX-ISH MIX"
 ---
 # CHEX-ISH MIX
-#### yields
-10 cup
+#### yields 10 cup
 ## ingredients
-* 8 cup square, waffle-cut cereal, such as Chex* 8 cup square, waffle-cut cereal, such as Chexs* 8 cup square, waffle-cut cereal, such as Chex* 8 cup square, waffle-cut cereal, such as Chex* 8 cup square, waffle-cut cereal, such as Chex* 8 cup square, waffle-cut cereal, such as Chex* 8 cup square, waffle-cut cereal, such as Chex
+* 8 cup square, waffle-cut cereal, such as Chex 
 * 1 tsp garlic powder* 1 tsp garlic powderpowder
-
-			<ingredient optional="yes">
-* 1/8 tsp cayenne pepper
-
-* 1/8 tsp black pepper* 1/8 tsp black peppere* 1/8 tsp black pepper* 1/8 tsp black pepper
+* 1/8 tsp cayenne pepper *optional*
+* 1/8 tsp black pepper* 1/8 tsp black pepper
 * 1/4 cup olive oil
 
 # instructions

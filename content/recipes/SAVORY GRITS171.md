@@ -4,8 +4,7 @@
 title: "SAVORY GRITS"
 ---
 # SAVORY GRITS
-#### yields
-6 cup
+#### yields 6 cup
 ## ingredients
 * 3 1/2 cup vegetable broth or water* 3 1/2 cup vegetable broth or watern* 3 1/2 cup vegetable broth or water* 3 1/2 cup vegetable broth or water* 3 1/2 cup vegetable broth or water
 

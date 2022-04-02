@@ -3,8 +3,7 @@
 title: "DEVILED CHICKPEA BITES"
 ---
 # DEVILED CHICKPEA BITES
-#### yields
-18 BITES, ENOUGH FOR 4 TO 6 PEOPLE
+#### yields 18 BITES, ENOUGH FOR 4 TO 6 PEOPLE
 ## ingredients
 * 1 1/2 cup cooked chickpeas* 1 1/2 cup cooked chickpeasn* 1 1/2 cup cooked chickpeas* 1 1/2 cup cooked chickpeas* 1 1/2 cup cooked chickpeasl* 1 1/2 cup cooked chickpeas* 1 1/2 cup cooked chickpeas* 1 1/2 cup cooked chickpeasnal yeast
 

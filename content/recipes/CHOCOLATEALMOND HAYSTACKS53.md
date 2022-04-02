@@ -4,8 +4,7 @@
 title: "CHOCOLATE-ALMOND HAYSTACKS"
 ---
 # CHOCOLATE-ALMOND HAYSTACKS
-#### yields
-18
+#### yields 18
 ## ingredients
 * 1 1/2 cup semisweet chocolate chips* 1 1/2 cup semisweet chocolate chips* 1 1/2 cup semisweet chocolate chips* 1 1/2 cup semisweet chocolate chips
 * 1/2 tsp sea salt

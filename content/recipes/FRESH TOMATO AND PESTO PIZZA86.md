@@ -1,68 +1,22 @@
-
-
 	
 title: "FRESH TOMATO AND PESTO PIZZA"
 ---
+
 # FRESH TOMATO AND PESTO PIZZA
-#### yields
-2 INDIVIDUAL PIZZAS
+#### yields  2 INDIVIDUAL PIZZAS
+
 ## ingredients
-			<ingredient>
-				<amount>2 1/2</amount>
-				<unit>cup</unit>
-				<item>packed torn basil leaves</item>
-				<key>packed torn basil leaves</key>
-
-			<ingredient>
-				<amount>2/3</amount>
-				<unit>cup</unit>
-				<item>slivered or sliced almonds</item>
-				<key>slivered or sliced almonds</key>
-
-			<ingredient>
-				<amount>1/4</amount>
-				<unit>cup</unit>
-				<item>olive oil</item>
-				<key>olive oil</key>
-
-			<ingredient>
-				<amount>1/4</amount>
-				<unit>cup</unit>
-				<item>water</item>
-				<key>water</key>
-
-			<ingredient>
-				<amount>3/4</amount>
-				<unit>tsp</unit>
-				<item>grated lemon zest</item>
-				<key>grated lemon zest</key>
-
-			<ingredient>
-				<amount>2</amount>
-				<unit>TBL</unit>
-				<item>lemon juice</item>
-				<key>lemon juice</key>
-
-			<ingredient>
-				<amount>1/2</amount>
-				<unit>tsp</unit>
-				<item>salt</item>
-				<key>salt</key>
-
-			<ingredient>
-				<amount>2</amount>
-				<item>to 3 clove garlic</item>
-				<key>to 3 clove garlic</key>
-
-Roasted Garlic White Sauce
-			<ingredient>
-				<amount>2</amount>
-				<unit>large</unit>
-				<item>tomatoes, sliced into thin half-moons</item>
-				<key>tomatoes, sliced into thin half-moons</key>
-
-Olive oil, for brushing the crustOlive oil, for brushing the crustce, for serving</key>
-
+* 2 ½ cup packed torn basil leaves
+* 2/3 cup slivered or sliced almonds
+* ¼ cup olive oil
+* ¼ cup water
+* ¾ tsp grated lemon zest
+* 2 TBL lemon juice
+* ½ tsp salt
+* 2 to 3 clove garlic
+* Roasted Garlic White Sauce
+* 2 large tomatoes, sliced into thin half-moons
+* Olive oil, for brushing the crust
 
 # instructions
 0 chop garlic

@@ -4,8 +4,7 @@
 title: "POTATO LEEK CAKES"
 ---
 # POTATO LEEK CAKES
-#### yields
-24 CAKES, ENOUGH FOR 6 TO 8 PEOPLE
+#### yields 24 CAKES, ENOUGH FOR 6 TO 8 PEOPLE
 ## ingredients
 * 2 1/2 cup grated potatoes (about 1 LB)* 2 1/2 cup grated potatoes (about 1 LB)i* 2 1/2 cup grated potatoes (about 1 LB)* 2 1/2 cup grated potatoes (about 1 LB)* 2 1/2 cup grated potatoes (about 1 LB)* 2 1/2 cup grated potatoes (about 1 LB)* 2 1/2 cup grated potatoes (about 1 LB)
 * 2 TBL olive oil* 2 TBL olive oil

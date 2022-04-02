@@ -3,8 +3,7 @@
 title: "CHOCOLATE FUDGE POPS"
 ---
 # CHOCOLATE FUDGE POPS
-#### yields
-33 cup FILLING, about 12 POPS
+#### yields 33 cup FILLING, about 12 POPS
 ## ingredients
 * 1 cup vanilla almond or your favorite nondairy milk* 1 cup vanilla almond or your favorite nondairy milksweet chocolate chips
 

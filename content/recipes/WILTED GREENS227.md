@@ -4,8 +4,7 @@
 title: "WILTED GREENS"
 ---
 # WILTED GREENS
-#### yields
-2 AS A SIDE
+#### yields 2 AS A SIDE
 ## ingredients
 * 1 bunch hearty, dark, leathery greens like kale or collards bunch hearty, dark, leathery greens like kale or collards
 * 1/2 tsp olive or grapeseed oil* 1/2 tsp olive or grapeseed oil* 1/2 tsp olive or grapeseed oil* 1/2 tsp olive or grapeseed oil* 1/2 tsp olive or grapeseed oilice

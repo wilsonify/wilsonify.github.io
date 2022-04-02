@@ -4,8 +4,7 @@
 title: "ROASTED WINTER SQUASH WITH MINT"
 ---
 # ROASTED WINTER SQUASH WITH MINT
-#### yields
-6 TO 8 PEOPLE AS A SIDE
+#### yields 6 TO 8 PEOPLE AS A SIDE
 ## ingredients
 * 2 TBL olive oil* 2 TBL olive oil * 2 TBL olive oil
 * 1/2 tsp salt

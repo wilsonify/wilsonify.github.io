@@ -4,8 +4,7 @@
 title: "SAVORY TOMATO AND NECTARINE COBBLER"
 ---
 # SAVORY TOMATO AND NECTARINE COBBLER
-#### yields
-6 TO 8 PEOPLE
+#### yields 6 TO 8 PEOPLE
 ## ingredients
 * 1 LB nectarines (about 3 fist-size ones)* 1 LB nectarines (about 3 fist-size ones) * 1 LB nectarines (about 3 fist-size ones)* 1 LB nectarines (about 3 fist-size ones)
 * 2 tsp olive oil

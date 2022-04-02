@@ -3,8 +3,8 @@
 title: "CALIFORNIA CITRUS AND ALMOND SALAD"
 ---
 # CALIFORNIA CITRUS AND ALMOND SALAD
-#### yields
-1 BIG-ASS SALAD, MORE THAN ENOUGH FOR 4 TO 6 PEOPLE
+#### yields 1 BIG-ASS SALAD, MORE THAN ENOUGH FOR 4 TO 6 PEOPLE
+
 ## ingredients
 * 3 TBL rice vinegar* 3 TBL rice vinegars* 3 TBL rice vinegar* 3 TBL rice vinegar
 * 1 tsp agave syrup or your favorite liquid sweetener* 1 tsp agave syrup or your favorite liquid sweetenere, tough ribs removed, cut into strips (about 4 cup) bunch of kale, tough ribs removed, cut into strips (about 4 cup)

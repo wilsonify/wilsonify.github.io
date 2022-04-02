@@ -1,19 +1,31 @@
-
-
 	
 title: "LIGHTS OUT BLOODY MARY BAR"
 ---
+
 # LIGHTS OUT BLOODY MARY BAR
-#### yields
-4 PEOPLE
+#### yields  4 PEOPLE
+
 ## ingredients
-* 4 cup tomato juice or a veggie blend* 4 cup tomato juice or a veggie blends* 4 cup tomato juice or a veggie blend* 4 cup tomato juice or a veggie blend
+* 4 cup tomato juice or a veggie blend
+* 1 TBL Tabasco sauce
+* ½ cup lemon juice
 * 1 tsp soy sauce
-Black pepper
-* 1 cup vodka* 1 cup vodkas* 1 cup vodka* 1 cup vodka
+* Black pepper
+* 1 cup vodka
+* ¼ cup flaky sea salt
+* 1 tsp celery seed
 * 1 tsp Old Bay seasoning
-ADD-INSADD-INSeADD-INStem>
-				<key>Ice</key>
+
+## ADD-INS
+* Lemon wedges
+* celery sticks
+* cucumber sticks
+* bell pepper sticks
+* dill pickle spears
+* green beans
+* horseradish
+* carrot sticks
+* Ice
 
 
 # instructions

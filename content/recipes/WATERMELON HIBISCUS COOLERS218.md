@@ -4,8 +4,7 @@
 title: "WATERMELON HIBISCUS COOLERS"
 ---
 # WATERMELON HIBISCUS COOLERS
-#### yields
-4 GLASSES
+#### yields 4 GLASSES
 ## ingredients
 * 6 cup cubed watermelon* 6 cup cubed watermelone* 6 cup cubed watermelon* 6 cup cubed watermelon
 * 2-3 tsp agave syrup or your favorite liquid sweetener

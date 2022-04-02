@@ -1,16 +1,16 @@
-
-
 	
 title: "WHITE SANGRIA WITH MIDSUMMER PEACHES"
 ---
-# WHITE SANGRIA WITH MIDSUMMER PEACHES
-## ingredients
-* 1 bottle (750ml) white wine bottle (750ml) white wine
-* 1/2 cup brandy
-* 4 white or yellow peaches, cut into slices white or yellow peaches, cut into slices* 4 white or yellow peaches, cut into slices white or yellow peaches, cut into slicesd into rounds lemon, sliced into rounds
 
-0.5 cucumber, sliced into rounds
-* 1 bottle (750ml) sparkling white wine or 2 cup sparkling water bottle (750ml) sparkling white wine or 2 cup sparkling water
+# WHITE SANGRIA WITH MIDSUMMER PEACHES
+
+## ingredients
+* 1 bottle (750ml) white wine
+* ½ cup brandy
+* 4 white or yellow peaches, cut into slices
+* 1 lemon, sliced into rounds
+* 0.5 cucumber, sliced into rounds
+* 1 bottle (750ml) sparkling white wine or 2 cup sparkling water
 
 # instructions
 1 In a big container or pitcher, stir together the wine, brandy, and fruit. (Don’t peel the fruit. Just throw it all in there.) Stick this in the fridge to chill for at least an hour or as long as overnight.

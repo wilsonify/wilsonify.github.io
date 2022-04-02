@@ -1,20 +1,31 @@
-
-
 	
 title: "SPICED CHICKPEA WRAPS WITH TAHINI DRESSING"
 ---
+
 # SPICED CHICKPEA WRAPS WITH TAHINI DRESSING
-#### yields
-4 BIG WRAPS
+
+#### yields  4 BIG WRAPS
+
 ## ingredients
-* 3 TBL warm water* 3 TBL warm watern* 3 TBL warm water* 3 TBL warm water* 3 TBL warm waterl* 3 TBL warm water* 3 TBL warm water* 3 TBL warm water* 3 TBL warm water* 3 TBL warm water* 3 TBL warm waterh* 3 TBL warm water* 3 TBL warm water* 3 TBL warm waterr* 3 TBL warm water* 3 TBL warm water
-* 2 tsp smoked paprika* 2 tsp smoked paprikau* 2 tsp smoked paprika* 2 tsp smoked paprika* 2 tsp smoked paprikayenne pepper
-
-			<ingredient>
+* 3 TBL warm water
+* 1 ½ TBL lemon juice
+* 1 TBL rice vinegar
+* 1 TBL olive oil
+* 1 tsp soy sauce or tamari
+* 2 clove garlic
+* 1 TBL olive oil
+* 3 cup cooked chickpeas
+* 2 TBL lemon juice
+* 1 tsp maple syrup
+* 1 tsp soy sauce or tamari
+* 2 tsp smoked paprika
+* 2 tsp ground cumin
+* 1 tsp garlic powder
+* ¼-½ tsp cayenne pepper
 * 4 large tortillas
-
-SpinachSpinachrSpinach sticks</item>
-				<key>Carrot sticks</key>
+* Spinach
+* Cucumber sticks
+* Carrot sticks
 
 
 # instructions

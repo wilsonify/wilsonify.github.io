@@ -4,8 +4,7 @@
 title: "FIRE-ROASTED SALSA"
 ---
 # FIRE-ROASTED SALSA
-#### yields
-4 TO 6, ABOUT 2.5 cup
+#### yields 4 TO 6, ABOUT 2.5 cup
 ## ingredients
 * 1 can (14.5 ounces) fire-roasted diced tomatoes can (14.5 ounces) fire-roasted diced tomatoes
 0.5 white onion

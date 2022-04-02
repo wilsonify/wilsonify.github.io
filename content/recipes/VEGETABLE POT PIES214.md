@@ -4,15 +4,14 @@
 title: "VEGETABLE POT PIES"
 ---
 # VEGETABLE POT PIES
-#### yields
-4 INDIVIDUAL POT PIES OR ONE 9-INCH PIE
+#### yields 4 INDIVIDUAL POT PIES OR ONE 9-INCH PIE
 ## ingredients
 * 2 tsp olive oil
 0.5 yellow onion
 * 1 carrot carrot
 * 1 cup frozen peas* 1 cup frozen peas* 1 cup frozen peas* 1 cup frozen peas* 1 cup frozen peast* 1 cup frozen peas* 1 cup frozen peas* 1 cup frozen peas* 1 cup frozen peas* 1 cup frozen peas* 1 cup frozen peasw* 1 cup frozen peas* 1 cup frozen peas
 * 1 1/2 cup cooked navy or white beans* 1 1/2 cup cooked navy or white beansi* 1 1/2 cup cooked navy or white beans* 1 1/2 cup cooked navy or white beans
-			<ingredient>
+
 * 1 TBL fresh parsley
 
 Olive oil, for brushing the crust

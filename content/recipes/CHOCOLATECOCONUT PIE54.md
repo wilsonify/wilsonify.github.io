@@ -3,8 +3,7 @@
 title: "CHOCOLATE-COCONUT PIE"
 ---
 # CHOCOLATE-COCONUT PIE
-#### yields
-1 PIE
+#### yields 1 PIE
 ## ingredients
 * 14 oz coconut milk* 14 oz coconut milke* 14 oz coconut milk* 14 oz coconut milk
 * 1 pinch salt

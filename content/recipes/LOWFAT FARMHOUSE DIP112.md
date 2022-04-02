@@ -4,8 +4,7 @@
 title: "LOW-FAT FARMHOUSE DIP"
 ---
 # LOW-FAT FARMHOUSE DIP
-#### yields
-5 cup, ENOUGH FOR 6 TO 8 PEOPLE
+#### yields 5 cup, ENOUGH FOR 6 TO 8 PEOPLE
 ## ingredients
 * 12 ounces soft silken tofu ounces soft silken tofu
 * 2 TBL minced shallot or white onion* 2 TBL minced shallot or white onion* 2 TBL minced shallot or white onion* 2 TBL minced shallot or white onion* 2 TBL minced shallot or white onionc* 2 TBL minced shallot or white onion

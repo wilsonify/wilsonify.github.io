@@ -3,8 +3,7 @@
 title: "BLACKBERRY-MINT SPIKED LEMONADE"
 ---
 # BLACKBERRY-MINT SPIKED LEMONADE
-#### yields
-6 cup
+#### yields 6 cup
 ## ingredients
 * 2 lemons into chunks lemons into chunks
 * 15 large mint leaves

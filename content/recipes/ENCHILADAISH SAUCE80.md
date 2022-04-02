@@ -1,26 +1,36 @@
-
 	
 title: "ENCHILADA-ISH SAUCE"
 ---
+
 # ENCHILADA-ISH SAUCE
-#### yields
-9 X 13-INCH PAN, ENOUGH FOR 6 TO 8 PEOPLE
+#### yields  9 X 13-INCH PAN, ENOUGH FOR 6 TO 8 PEOPLE
+
 ## ingredients
-* 1 1/2 cup vegetable broth* 1 1/2 cup vegetable brothn* 1 1/2 cup vegetable broth* 1 1/2 cup vegetable broth* 1 1/2 cup vegetable brothl* 1 1/2 cup vegetable broth* 1 1/2 cup vegetable broth* 1 1/2 cup vegetable brothe* 1 1/2 cup vegetable broth* 1 1/2 cup vegetable broth
-* 1/2 tsp dried oregano* 1/2 tsp dried oreganol* 1/2 tsp dried oregano* 1/2 tsp dried oregano
-			<ingredient>
-* 1 red bell pepper red bell pepper
-
+* 1 ½ cup vegetable broth
+* 1 ½ cup plain tomato sauce
+* 2 clove garlic
+* 3 TBL mild chili powder
+* 2 TBL lime juice
+* 1 TBL soy sauce or tamari
+* ½ tsp ground cumin
+* ½ tsp dried oregano
+* 2 tsp olive oil
+* 1 medium yellow onion
+* 1 red bell pepper
 * 3 clove garlic
-* 1 jalapeño, minced jalapeño, minced
-* 3 cup cooked black beans* 3 cup cooked black beans * 3 cup cooked black beans* 3 cup cooked black beans* 3 cup cooked black beans * 3 cup cooked black beans* 3 cup cooked black beans* 3 cup cooked black beans* 3 cup cooked black beans
-* 1 1/2 cup canned pumpkin puree
-
-* 1 TBL lime juice* 1 TBL lime juicer* 1 TBL lime juice
-* 12 flour tortillas flour tortillas
-
-Salsa (any of the shit from our first book would be legit)Salsa (any of the shit from our first book would be legit)</key>
-
+* 1 jalapeño, minced
+* 3 cup cooked black beans
+* 1 cup fresh or frozen corn kernels
+* 1 ½ tsp chili powder
+* ½ tsp ground cumin
+* ½ tsp smoked paprika
+* ½ tsp salt
+* 1 ½ cup canned pumpkin puree
+* 1 TBL lime juice
+* 2 tsp maple syrup
+* 12 flour tortillas
+* Salsa (any of the shit from our first book would be legit)
+* Avocado
 
 # instructions
 0 chop onion and bell pepper

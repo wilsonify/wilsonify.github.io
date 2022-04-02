@@ -4,8 +4,7 @@
 title: "SCRAMBLED CURRY TOFU FRIED RICE"
 ---
 # SCRAMBLED CURRY TOFU FRIED RICE
-#### yields
-4 TO 6 HUNGRY SONS OF BITCHES
+#### yields 4 TO 6 HUNGRY SONS OF BITCHES
 ## ingredients
 * 1 tsp refined coconut or olive oil
 * 2 carrots carrots* 2 carrots carrotsper red bell pepper

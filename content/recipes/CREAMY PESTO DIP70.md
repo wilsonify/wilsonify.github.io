@@ -3,8 +3,7 @@
 title: "CREAMY PESTO DIP"
 ---
 # CREAMY PESTO DIP
-#### yields
-1 CUP, ENOUGH FOR 2 TO 4 PEOPLE
+#### yields 1 CUP, ENOUGH FOR 2 TO 4 PEOPLE
 ## ingredients
 * 3 clove garlic* 3 clove garlic * 3 clove garlic* 3 clove garlic* 3 clove garlicl* 3 clove garlic* 3 clove garlic
 * 1/4 tsp salt* 1/4 tsp salte or cannellini beans

@@ -3,8 +3,7 @@
 title: "APPLE BAKED BEANS"
 ---
 # APPLE BAKED BEANS
-#### yields
-6 AS A SIDE
+#### yields 6 AS A SIDE
 ## ingredients
 * 1 1/2 cup dried white beans* 1 1/2 cup dried white beans* 1 1/2 cup dried white beans
 * 2 tsp olive oil

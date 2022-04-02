@@ -4,8 +4,7 @@
 title: "ROASTED GARLIC WHITE SAUCE"
 ---
 # ROASTED GARLIC WHITE SAUCE
-#### yields
-25 cup
+#### yields 25 cup
 ## ingredients
 * 3 TBL whole wheat pastry or all-purpose flour* 3 TBL whole wheat pastry or all-purpose flourl* 3 TBL whole wheat pastry or all-purpose flour
 * 1 1/2 cup unsweetened nondairy milk

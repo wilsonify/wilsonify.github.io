@@ -4,90 +4,35 @@
 title: "COLD NOODLE AND HERB SALAD"
 ---
 # COLD NOODLE AND HERB SALAD
-#### yields
-4 PEOPLE AS A MAIN, 6 TO 8 AS A SIDE
+#### yields 4 PEOPLE AS A MAIN, 6 TO 8 AS A SIDE
 ## ingredients
-			<ingredient>
-				<amount>2</amount>
-				<unit>clove</unit>
-				<item>garlic</item>
-				<key>garlic</key>
+* 2 clove garlic
 
-			<ingredient>
-				<amount>1/3</amount>
-				<unit>cup</unit>
-				<item>rice vinegar</item>
-				<key>rice vinegar</key>
+* 1/3 cup rice vinegar
 
-			<ingredient>
-				<amount>3</amount>
-				<unit>TBL</unit>
-				<item>toasted sesame oil</item>
-				<key>toasted sesame oil</key>
+* 3 TBL toasted sesame oil
 
-			<ingredient>
-				<amount>1</amount>
-				<unit>TBL</unit>
-				<item>lemon or lime juice</item>
-				<key>lemon or lime juice</key>
+* 1 TBL lemon or lime juice
 
-			<ingredient>
-				<amount>2</amount>
-				<unit>tsp</unit>
-				<item>Sriracha-style hot sauce</item>
-				<key>Sriracha-style hot sauce</key>
+* 2 tsp Sriracha-style hot sauce
 
-			<ingredient>
-				<amount>1</amount>
-				<unit>tsp</unit>
-				<item>agave syrup or your favorite liquid sweetener</item>
-				<key>agave syrup or your favorite liquid sweetener</key>
+* 1 tsp agave syrup or your favorite liquid sweetener
 
-			<ingredient>
-				<amount>1</amount>
-				<unit>LB</unit>
-				<item>thin noodles, cooked</item>
-				<key>thin noodles, cooked</key>
+* 1 LB thin noodles, cooked
 
-			<ingredient>
-				<amount>2</amount>
-				<item>carrots</item>
-				<key>carrots</key>
+* 2 carrots
 
-			<ingredient>
-				<amount>1</amount>
-				<item>red bell pepper</item>
-				<key>red bell pepper</key>
+* 1 red bell pepper
 
-			<ingredient>
-				<amount>1/2</amount>
-				<unit>medium</unit>
-				<item>cucumber</item>
-				<key>cucumber</key>
+* 1/2 medium cucumber
 
-			<ingredient>
-				<amount>1 1/2</amount>
-				<unit>cup</unit>
-				<item>shelled edamame</item>
-				<key>shelled edamame</key>
+* 1 1/2 cup shelled edamame
 
-			<ingredient>
-				<amount>1/2</amount>
-				<unit>cup</unit>
-				<item>fresh basil</item>
-				<key>fresh basil</key>
+* 1/2 cup fresh basil
 
-			<ingredient>
-				<amount>1/2</amount>
-				<unit>cup</unit>
-				<item>cilantro</item>
-				<key>cilantro</key>
+* 1/2 cup cilantro
 
-			<ingredient optional="yes">
-				<amount>2</amount>
-				<unit>TBL</unit>
-				<item>toasted sesame seeds</item>
-				<key>toasted sesame seeds</key>
+* 2 TBL toasted sesame seeds *optional*
 
 
 # instructions

@@ -4,8 +4,7 @@
 title: "SOCAL GOURMET CARROT DOGS"
 ---
 # SOCAL GOURMET CARROT DOGS
-#### yields
-8 DOGS
+#### yields 8 DOGS
 ## ingredients
 * 8 hotdog buns, whatever you like hotdog buns, whatever you like* 8 hotdog buns, whatever you like hotdog buns, whatever you likei* 8 hotdog buns, whatever you like hotdog buns, whatever you like
 * 3 jalapeños, sliced into thin rounds jalapeños, sliced into thin rounds

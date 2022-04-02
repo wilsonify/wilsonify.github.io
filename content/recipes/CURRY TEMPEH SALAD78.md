@@ -3,8 +3,7 @@
 title: "CURRY TEMPEH SALAD"
 ---
 # CURRY TEMPEH SALAD
-#### yields
-4 AS A MAIN, 6 TO 8 AS A SIDE
+#### yields 4 AS A MAIN, 6 TO 8 AS A SIDE
 ## ingredients
 * 1 TBL lime or lemon juice* 1 TBL lime or lemon juicee* 1 TBL lime or lemon juice* 1 TBL lime or lemon juice* 1 TBL lime or lemon juicea* 1 TBL lime or lemon juice
 * 1/2 tsp Sriracha-style hot sauce

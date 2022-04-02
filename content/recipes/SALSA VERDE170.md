@@ -4,8 +4,7 @@
 title: "SALSA VERDE"
 ---
 # SALSA VERDE
-#### yields
-4 TO 6, ABOUT 2.5 cup
+#### yields 4 TO 6, ABOUT 2.5 cup
 ## ingredients
 * 1 1/2 LB s tomatillos
 * 2 jalapeños jalapeños

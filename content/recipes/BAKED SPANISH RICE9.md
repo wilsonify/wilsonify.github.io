@@ -4,8 +4,7 @@
 title: "BAKED SPANISH RICE"
 ---
 # BAKED SPANISH RICE
-#### yields
-4 TO 6 AS A SIDE OR 8 AS BURRITO FILLING
+#### yields 4 TO 6 AS A SIDE OR 8 AS BURRITO FILLING
 ## ingredients
 * 2 tomatoes tomatoes
 * 3 clove garlic

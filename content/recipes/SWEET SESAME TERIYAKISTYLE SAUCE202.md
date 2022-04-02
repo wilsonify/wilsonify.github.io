@@ -4,13 +4,14 @@
 title: "SWEET SESAME TERIYAKI-STYLE SAUCE"
 ---
 # SWEET SESAME TERIYAKI-STYLE SAUCE
-#### yields
-1 CUP
+#### yields 1 CUP
 ## ingredients
 * 2 TBL rice vinegar* 2 TBL rice vinegarf* 2 TBL rice vinegar* 2 TBL rice vinegar* 2 TBL rice vinegarr* 2 TBL rice vinegar* 2 TBL rice vinegar
 * 2 tsp cornstarch or arrowroot powder* 2 tsp cornstarch or arrowroot powder
 
-			<ingredient optional="yes">
+
+
+* optional *
 * 2 TBL sesame seeds
 
 

@@ -1,16 +1,18 @@
-
-
 	
 title: "MAPLE BERRY GRITS"
 ---
-# MAPLE BERRY GRITS
-#### yields
-4 DAYS
-## ingredients
-* 2 cup water* 2 cup waterr* 2 cup water* 2 cup water* 2 cup waterlt
 
+# MAPLE BERRY GRITS
+#### yields  4 DAYS
+
+## ingredients
+* 2 cup water
+* 2 cup almond or other nondairy milk
+* 1 cup stoneground grits
+* ¼-½ tsp salt
 * 1-2 tsp maple syrup
-jamjamerries</key>
+* jam
+* Fresh berries
 
 
 # instructions

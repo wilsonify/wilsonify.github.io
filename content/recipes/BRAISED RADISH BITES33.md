@@ -3,8 +3,7 @@
 title: "BRAISED RADISH BITES"
 ---
 # BRAISED RADISH BITES
-#### yields
-4 PEOPLE
+#### yields 4 PEOPLE
 ## ingredients
 * 1 bunch of radishes (about 10 globes) bunch of radishes (about 10 globes)
 * 2 tsp olive oil* 2 tsp olive oil * 2 tsp olive oil* 2 tsp olive oil* 2 tsp olive oil vinegar

@@ -4,8 +4,7 @@
 title: "PAD THAI ROLLS"
 ---
 # PAD THAI ROLLS
-#### yields
-12 ROLLS THAT WILL HAVE PEOPLE TALKING FOR FUCKING WEEKS
+#### yields 12 ROLLS THAT WILL HAVE PEOPLE TALKING FOR FUCKING WEEKS
 ## ingredients
 * 2 TBL sugar* 2 TBL sugara* 2 TBL sugar* 2 TBL sugar* 2 TBL sugarce
 

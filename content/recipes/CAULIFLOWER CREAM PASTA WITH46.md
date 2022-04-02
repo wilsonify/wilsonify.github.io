@@ -3,8 +3,7 @@
 title: "CAULIFLOWER CREAM PASTA WITH"
 ---
 # CAULIFLOWER CREAM PASTA WITH
-#### yields
-4
+#### yields 4
 ## ingredients
 * 1 LB pasta (fettuccine, linguine, spaghetti, whatever)* 1 LB pasta (fettuccine, linguine, spaghetti, whatever)
 

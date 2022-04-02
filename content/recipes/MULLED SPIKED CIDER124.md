@@ -4,8 +4,7 @@
 title: "MULLED SPIKED CIDER"
 ---
 # MULLED SPIKED CIDER
-#### yields
-4 PEOPLE
+#### yields 4 PEOPLE
 ## ingredients
 * 5 cup apple cider or juice
 * 1 orange, cut into slices orange, cut into slices* 1 orange, cut into slices orange, cut into slices * 1 orange, cut into slices orange, cut into slices

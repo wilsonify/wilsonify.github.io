@@ -4,8 +4,7 @@
 title: "MELON AND MINT FRUIT SALAD"
 ---
 # MELON AND MINT FRUIT SALAD
-#### yields
-6 PEOPLE
+#### yields 6 PEOPLE
 ## ingredients
 * 2 small melons* 2 small melons * 2 small melons* 2 small melons
 * 1 TBL minced fresh mint

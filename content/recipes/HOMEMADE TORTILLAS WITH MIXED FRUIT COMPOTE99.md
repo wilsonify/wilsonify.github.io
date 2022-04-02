@@ -4,14 +4,15 @@
 title: "HOMEMADE TORTILLAS WITH MIXED FRUIT COMPOTE"
 ---
 # HOMEMADE TORTILLAS WITH MIXED FRUIT COMPOTE
-#### yields
-8 TO 12 TORTILLAS
+#### yields 8 TO 12 TORTILLAS
 ## ingredients
 * 2 cup flour (whole wheat pastry, whole wheat, or all-purpose)* 2 cup flour (whole wheat pastry, whole wheat, or all-purpose)* 2 cup flour (whole wheat pastry, whole wheat, or all-purpose)* 2 cup flour (whole wheat pastry, whole wheat, or all-purpose)* 2 cup flour (whole wheat pastry, whole wheat, or all-purpose)* 2 cup flour (whole wheat pastry, whole wheat, or all-purpose)* 2 cup flour (whole wheat pastry, whole wheat, or all-purpose)* 2 cup flour (whole wheat pastry, whole wheat, or all-purpose)favorite fresh or frozen berries (chopped into bite-size pieces if necessary)
 
 * 2 TBL orange juice* 2 TBL orange juicegar
 
-			<ingredient optional="yes">
+
+
+* optional *
 * 1/2 tsp vanilla extract
 
 * 1 pinch salt

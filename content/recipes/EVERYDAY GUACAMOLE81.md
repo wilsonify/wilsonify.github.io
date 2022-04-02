@@ -4,8 +4,7 @@
 title: "EVERYDAY GUACAMOLE"
 ---
 # EVERYDAY GUACAMOLE
-#### yields
-5 cup, DEPENDING ON THE SIZE OF YOUR AVOCADOS
+#### yields 5 cup, DEPENDING ON THE SIZE OF YOUR AVOCADOS
 ## ingredients
 * 2 avocados, preferably Hass avocados, preferably Hass
 * 1/4 cup diced red or white onion* 1/4 cup diced red or white onion
@@ -14,10 +13,14 @@ title: "EVERYDAY GUACAMOLE"
 * 1 tsp lime juice* 1 tsp lime juice * 1 tsp lime juice
 * 1 pinch salt
 
-			<ingredient optional="yes">
+
+
+* optional *
 * 3 TBL cilantro
 
-			<ingredient optional="yes">
+
+
+* optional *
 * 1 tomato tomato
 
 

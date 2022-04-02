@@ -4,8 +4,7 @@
 title: "POTATO LEEK SOUP"
 ---
 # POTATO LEEK SOUP
-#### yields
-4 AS A SIDE
+#### yields 4 AS A SIDE
 ## ingredients
 * 3 fist-size russet (baking) or yellow potatoes fist-size russet (baking) or yellow potatoes
 * 3 medium leeks* 3 medium leeksl

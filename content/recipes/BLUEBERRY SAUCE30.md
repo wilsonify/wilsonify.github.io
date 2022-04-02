@@ -4,8 +4,7 @@
 title: "BLUEBERRY SAUCE"
 ---
 # BLUEBERRY SAUCE
-#### yields
-1 CUP
+#### yields 1 CUP
 ## ingredients
 * 2 TBL sugar* 2 TBL sugari* 2 TBL sugar* 2 TBL sugar* 2 TBL sugarextract
 

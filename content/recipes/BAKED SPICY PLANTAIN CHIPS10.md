@@ -4,8 +4,7 @@
 title: "BAKED SPICY PLANTAIN CHIPS"
 ---
 # BAKED SPICY PLANTAIN CHIPS
-#### yields
-4 TO 6, ABOUT 30 CHIPS, DEPENDING ON THE
+#### yields 4 TO 6, ABOUT 30 CHIPS, DEPENDING ON THE
 ## ingredients
 * 1 green plantain green plantain
 * 1 TBL olive or grapeseed oil* 1 TBL olive or grapeseed oilc* 1 TBL olive or grapeseed oil* 1 TBL olive or grapeseed oil* 1 TBL olive or grapeseed oile pepper

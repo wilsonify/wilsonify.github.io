@@ -4,8 +4,7 @@
 title: "COCONUT CORNMEAL CAKE"
 ---
 # COCONUT CORNMEAL CAKE
-#### yields
-1 Cake
+#### yields 1 Cake
 ## ingredients
 * 1 1/4 cup cornmeal* 1 1/4 cup cornmeal* 1 1/4 cup cornmeal* 1 1/4 cup cornmeal* 1 1/4 cup cornmealo* 1 1/4 cup cornmeal* 1 1/4 cup cornmeal* 1 1/4 cup cornmealed coconut milk
 

@@ -4,8 +4,7 @@
 title: "SWEET CORN AND GREEN CHILE BAKED FLAUTAS"
 ---
 # SWEET CORN AND GREEN CHILE BAKED FLAUTAS
-#### yields
-12 FLAUTAS
+#### yields 12 FLAUTAS
 ## ingredients
 * 1 tsp olive oil* 1 tsp olive oilr* 1 tsp olive oil* 1 tsp olive oil* 1 tsp olive oil cumin
 

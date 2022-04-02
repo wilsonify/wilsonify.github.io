@@ -4,8 +4,7 @@
 title: "SPICY PICKLED CARROTS"
 ---
 # SPICY PICKLED CARROTS
-#### yields
-4 TO 6, OR ONE LARGE JAR
+#### yields 4 TO 6, OR ONE LARGE JAR
 ## ingredients
 * 2 jalapeños jalapeños
 * 3/4 cup distilled white vinegar* 3/4 cup distilled white vinegarc* 3/4 cup distilled white vinegar

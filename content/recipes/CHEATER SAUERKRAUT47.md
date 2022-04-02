@@ -3,15 +3,16 @@
 title: "CHEATER SAUERKRAUT"
 ---
 # CHEATER SAUERKRAUT
-#### yields
-4 cup
+#### yields 4 cup
 ## ingredients
 * 6 cup shredded cabbage, red or green
 * 4 bay leaves bay leaves
 * 3 clove garlic* 3 clove garlicd* 3 clove garlic* 3 clove garlic
 * 1/2 tsp salt
-			<ingredient optional="yes">
-* 1/4 cup fresh dill
+
+
+
+* 1/4 cup fresh dill *optional*
 
 
 # instructions

@@ -4,8 +4,7 @@
 title: "MANGO CURRY"
 ---
 # MANGO CURRY
-#### yields
-4
+#### yields 4
 ## ingredients
 * 1 tsp coconut or grapeseed oil
 0.5 onion

@@ -4,14 +4,15 @@
 title: "STOVETOP HERB POPCORN"
 ---
 # STOVETOP HERB POPCORN
-#### yields
-4 TO 6, ABOUT 8 cup
+#### yields 4 TO 6, ABOUT 8 cup
 ## ingredients
 * 2 tsp nutritional yeast* 2 tsp nutritional yeasts* 2 tsp nutritional yeast* 2 tsp nutritional yeast* 2 tsp nutritional yeasto* 2 tsp nutritional yeast* 2 tsp nutritional yeast* 2 tsp nutritional yeasteseed oil
 
 * 1/2 cup dried corn kernels* 1/2 cup dried corn kernelse oil
 
-			<ingredient optional="yes">
+
+
+* optional *
 * 1/8 tsp salt
 
 

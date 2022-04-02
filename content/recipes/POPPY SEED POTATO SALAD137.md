@@ -4,8 +4,7 @@
 title: "POPPY SEED POTATO SALAD"
 ---
 # POPPY SEED POTATO SALAD
-#### yields
-6 PEOPLE, OR A BIG-ASS BOWL AT A PICNIC
+#### yields 6 PEOPLE, OR A BIG-ASS BOWL AT A PICNIC
 ## ingredients
 * 1 TBL Dijon mustard* 1 TBL Dijon mustarde* 1 TBL Dijon mustard* 1 TBL Dijon mustard
 * 1 pinch salt* 1 pinch saltribs celery

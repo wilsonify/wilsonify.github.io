@@ -1,26 +1,32 @@
-
-
 	
 title: "TEMPEH AND SPINACH CALZONES WITH ALMOND RICOTTA"
 ---
+
 # TEMPEH AND SPINACH CALZONES WITH ALMOND RICOTTA
-#### yields
-8 HAND-SIZE CALZONES
+#### yields  8 HAND-SIZE CALZONES
+
 ## ingredients
 * 2 tsp olive oil
-* 8 ounces tempeh ounces tempeh* 8 ounces tempeh ounces tempeh yellow onion
-
-* 1 TBL soy sauce* 1 TBL soy saucee* 1 TBL soy sauce* 1 TBL soy sauce* 1 TBL soy saucee* 1 TBL soy sauce* 1 TBL soy sauce* 1 TBL soy sauce
-
-* 1 TBL lemon juice* 1 TBL lemon juice
-
-Red pepper flakes
+* 8 ounces tempeh
+* 1 yellow onion
+* 1 TBL soy sauce
+* 2 tsp fennel seeds
+* 1 tsp dried basil
+* 1 tsp dried oregano
+* 1 tsp dried thyme
+* 6 cup spinach
+* 1 TBL lemon juice
+* 3 clove garlic
+* Red pepper flakes
 * 1/3 cup sliced almonds, toasted
-* 14 ounces extra-firm tofu, drained ounces extra-firm tofu, drained
-* 2 clove garlic* 2 clove garlicl* 2 clove garlic* 2 clove garlic* 2 clove garlic
-
+* 14 ounces extra-firm tofu, drained
+* 2 clove garlic
+* 1 TBL olive oil
+* 1 TBL lemon juice
+* ½ tsp salt
 * 1/3 cup nutritional yeast
-Spray oilSpray oillender Marinara or Blender Red Sauce, for dipping</key>
+* Spray oil
+* Quick Blender Marinara or Blender Red Sauce, for dipping
 
 
 # instructions

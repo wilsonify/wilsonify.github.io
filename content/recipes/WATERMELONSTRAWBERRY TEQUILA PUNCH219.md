@@ -3,13 +3,14 @@
 title: "WATERMELON-STRAWBERRY TEQUILA PUNCH"
 ---
 # WATERMELON-STRAWBERRY TEQUILA PUNCH
-#### yields
-18 cups
+#### yields 18 cups
 ## ingredients
 * 1 big seedless watermelon (about 16 LBs) big seedless watermelon (about 16 LBs)
 * 4 cup strawberries (about 1 LB)* 4 cup strawberries (about 1 LB)r* 4 cup strawberries (about 1 LB)* 4 cup strawberries (about 1 LB)
 * 1 1/2 cup tequila
-			<ingredient optional="yes">
+
+
+* optional *
 * 1 TBL of your favorite liquid sweetener like agave syrup
 
 

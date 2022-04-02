@@ -1,25 +1,33 @@
-
-
 	
 title: "SWEET POTATO, SQUASH, AND BLACK BEAN ENCHILADAS"
 ---
+
 # SWEET POTATO, SQUASH, AND BLACK BEAN ENCHILADAS
-#### yields
-8 ENCHILADAS
+#### yields  8 ENCHILADAS
+
 ## ingredients
-* 2 1/4 cup vegetable broth* 2 1/4 cup vegetable broth * 2 1/4 cup vegetable broth* 2 1/4 cup vegetable broth* 2 1/4 cup vegetable brothumin
 
-* 1 1/2 tsp dried oregano* 1 1/2 tsp dried oreganoarlic to 3 clove garlic
-
-* 2 tsp soy sauce or tamari* 2 tsp soy sauce or tamaric* 2 tsp soy sauce or tamari* 2 tsp soy sauce or tamari
+* 2 ¼ cup vegetable broth
+* 1/3 cup tomato paste
+* 2 ½ TBL chili powder
+* 2 tsp ground cumin
+* 1 ½ tsp dried oregano
+* 2 to 3 clove garlic
+* 2 tsp soy sauce or tamari
+* 1 TBL lime juice
+* 1 large sweet potato
 * 2 tsp olive oil
-0.5 yellow onion
-* 1 medium yellow squash* 1 medium yellow squashw* 1 medium yellow squash* 1 medium yellow squash* 1 medium yellow squash* 1 medium yellow squash* 1 medium yellow squash
-* 1 1/2 cup cooked black beans* 1 1/2 cup cooked black beansr* 1 1/2 cup cooked black beans
-* 1 pack tortillas pack tortillas
-
-Sliced avocadoSliced avocadoilantro</key>
-
+* 0.5 yellow onion
+* 1 medium yellow squash
+* 1 tsp chili powder
+* ½ tsp ground cumin
+* ½ tsp salt
+* 2 clove garlic
+* 1 ½ cup cooked black beans
+* 1 tsp maple syrup or agave syrup
+* 1 pack tortillas
+* Sliced avocado
+* fresh cilantro
 
 # instructions
 0 chop onion and potato into nickel-size pieces; grate squash (about 1 cup)

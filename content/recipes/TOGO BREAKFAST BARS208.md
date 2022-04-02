@@ -4,8 +4,7 @@
 title: "TO-GO BREAKFAST BARS"
 ---
 # TO-GO BREAKFAST BARS
-#### yields
-10 BARS
+#### yields 10 BARS
 ## ingredients
 * 2 cup rolled oats* 2 cup rolled oatse* 2 cup rolled oats* 2 cup rolled oats* 2 cup rolled oatsd* 2 cup rolled oats* 2 cup rolled oats* 2 cup rolled oats* 2 cup rolled oats* 2 cup rolled oats* 2 cup rolled oats or almond butter
 

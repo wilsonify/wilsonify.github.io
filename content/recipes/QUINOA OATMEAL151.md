@@ -4,8 +4,7 @@
 title: "QUINOA OATMEAL"
 ---
 # QUINOA OATMEAL
-#### yields
-4
+#### yields 4
 ## ingredients
 * 4 cup water* 4 cup water* 4 cup water* 4 cup water* 4 cup watert* 4 cup water
 * 1 pinch salt

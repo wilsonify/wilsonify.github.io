@@ -4,8 +4,7 @@
 title: "FRESH CORN BUTTER PIE"
 ---
 # FRESH CORN BUTTER PIE
-#### yields
-1 PIE
+#### yields 1 PIE
 ## ingredients
 * 3 cup corn kernels* 3 cup corn kernelst* 3 cup corn kernels* 3 cup corn kernels* 3 cup corn kernelsextract
 

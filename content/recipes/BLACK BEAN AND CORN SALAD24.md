@@ -4,15 +4,16 @@
 title: "BLACK BEAN AND CORN SALAD"
 ---
 # BLACK BEAN AND CORN SALAD
-#### yields
-4 PEOPLE, OR A BADASS SIDE AT A GRILL-OUT
+#### yields 4 PEOPLE, OR A BADASS SIDE AT A GRILL-OUT
 ## ingredients
 * 2 medium red or orange bell peppers
 0.5 red onion
 * 2 tsp olive oil* 2 tsp olive oil* 2 tsp olive oil* 2 tsp olive oil* 2 tsp olive oil * 2 tsp olive oil* 2 tsp olive oil
 * 3 cup cooked black beans* 3 cup cooked black beansnels
 
-			<ingredient optional="yes">
+
+
+* optional *
 * 1 jalapeño, seeded and minced jalapeño, seeded and minced
 
 * 1/3 cup cilantro* 1/3 cup cilantroce

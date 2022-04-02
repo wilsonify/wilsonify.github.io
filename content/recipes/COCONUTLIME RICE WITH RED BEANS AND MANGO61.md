@@ -4,72 +4,29 @@
 title: "COCONUT-LIME RICE WITH RED BEANS AND MANGO"
 ---
 # COCONUT-LIME RICE WITH RED BEANS AND MANGO
-#### yields
-4 TO 6 AS A SIDE
+#### yields 4 TO 6 AS A SIDE
 ## ingredients
-			<ingredient>
-				<amount>2</amount>
-				<unit>cup</unit>
-				<item>short-grain brown rice</item>
-				<key>short-grain brown rice</key>
+* 2 cup short-grain brown rice
 
-			<ingredient>
-				<amount>2</amount>
-				<unit>tsp</unit>
-				<item>neutral-tasting oil</item>
-				<key>neutral-tasting oil</key>
+* 2 tsp neutral-tasting oil
 
-			<ingredient>
-				<amount>1</amount>
-				<unit>cup</unit>
-				<item>diced shallots or onion</item>
-				<key>diced shallots or onion</key>
+* 1 cup diced shallots or onion
 
-			<ingredient>
-				<amount>1 1/2</amount>
-				<unit>TBL</unit>
-				<item>minced fresh ginger</item>
-				<key>minced fresh ginger</key>
+* 1 1/2 TBL minced fresh ginger
 
-			<ingredient>
-				<amount>1</amount>
-				<unit>cup</unit>
-				<item>canned coconut milk</item>
-				<key>canned coconut milk</key>
+* 1 cup canned coconut milk
 
-			<ingredient>
-				<amount>2 1/2</amount>
-				<unit>cup</unit>
-				<item>vegetable broth</item>
-				<key>vegetable broth</key>
+* 2 1/2 cup vegetable broth
 
-			<ingredient>
-				<amount>1/4</amount>
-				<unit>tsp</unit>
-				<item>salt</item>
-				<key>salt</key>
+* 1/4 tsp salt
 
-			<ingredient>
-				<amount>1/8</amount>
-				<unit>tsp</unit>
-				<item>cayenne pepper</item>
-				<key>cayenne pepper</key>
+* 1/8 tsp cayenne pepper
 
-			<ingredient>
-				<amount>1</amount>
-				<item>mango</item>
-				<key>mango</key>
+* 1 mango
 
-			<ingredient>
-				<amount>1 1/2</amount>
-				<unit>cup</unit>
-				<item>cooked red beans</item>
-				<key>cooked red beans</key>
-
-			<ingredient>
-				<unit>tsp</unit>
-				<item>lime juice</item>
-				<key>lime juice</key>
+* 1 1/2 cup cooked red beans
+<>
+* tsp lime juice
 
 cilantro or green onions, for serving
 

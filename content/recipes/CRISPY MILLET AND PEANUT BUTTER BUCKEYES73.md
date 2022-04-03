@@ -1,15 +1,12 @@
-
 ---
 title: "CRISPY MILLET AND PEANUT BUTTER BUCKEYES"
 tags:
   - recipe
 ---
+
 # CRISPY MILLET AND PEANUT BUTTER BUCKEYES
 
-
-
 #### yields  24 BUCKEYES
-
 
 ## ingredients
 * 1/3 cup uncooked millet 
@@ -20,9 +17,8 @@ tags:
 * 1 cup semisweet chocolate chips 
 * 1 tsp butter, if needed 
 
-
-
 ## Instructions
+
 1 Heat the oil in a skillet over medium heat and toss in the millet. Shake the millet around in
 
 the pan until it starts to smell toasted and look a little golden, 3 to 5 minutes. Set it aside.
@@ -45,11 +41,11 @@ chocolate. (For an easy technique for melting chocolate, see this page. ) When t
 
 coat all the sides. Traditionally you are supposed to a leave the little spot of peanut butter open
 
-at the top, but if you find it easier to just roll all those bitches in the chocolate, don’t fight it.
+at the top, but if you find it easier to just roll all those   in the chocolate, don’t fight it.
 
 If you’re having trouble doing it, stir in the butter while the chocolate is still hot and it
 
-will loosen that bastard up. Drip off the excess chocolate and place the buckeye down on the
+will loosen up. Drip off the excess chocolate and place the buckeye down on the
 
 baking sheet and repeat with the rest of the balls. Freeze them on the tray for at least 3 hours
 
@@ -60,12 +56,4 @@ freezer. But for real, you will eat them long before then.
 
 
 ## Modifications
-Olive oil, grapeseed, coconut . . . almost anything is cool here.
-
- Don’t buy    that has more than 3 ingredients, OK? Bad  news.
-
- Yeah, this is dessert, so relax.
-
-
-
 

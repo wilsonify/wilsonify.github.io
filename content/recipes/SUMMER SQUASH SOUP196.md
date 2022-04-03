@@ -33,9 +33,9 @@ garlic and cook for another 3 minutes. Add the salt and veggie broth and bring i
 
 Cook until the potato is tender, 10 to 15 minutes.
 
-2 Turn off the heat. Use an immersion blender and blend until that son of a bitch looks nice
+2 Turn off the heat. Use an immersion blender and blend until creamy and without a ton of chunks. 
 
-and creamy and without a ton of chunks. (You could also pour it into a regular blender and do
+(You could also pour it into a regular blender and do
 
 it that way. Just return the blended soup to the pot.) Bring it back up to a simmer. Turn off
 

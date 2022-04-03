@@ -36,7 +36,7 @@ tags:
 
 4 Stir the smoky onions into the milk mixture. Make a well in the center of the flour mixture and add the milk/onion stuff and the oil. Whisk everything together a couple times and then add the chives. Stir a few more times until the chives are all mixed in, there aren’t any dry spots, and only a few lumps.
 
-5 Spray the warmed-up waffle iron with some oil so those bitches won’t stick, then pour in about .25 cup of the batter for each waffle section on your iron. Cook until golden brown according to your waffle maker’s directions. Serve warm with the dipping sauce.
+5 Spray the warmed-up waffle iron with some oil so those   won’t stick, then pour in about .25 cup of the batter for each waffle section on your iron. Cook until golden brown according to your waffle maker’s directions. Serve warm with the dipping sauce.
 
 
 

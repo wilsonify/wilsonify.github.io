@@ -54,18 +54,13 @@ buds, you dumbass.
 
 
 ## Modifications
-flour is really similar to all-purpose flour in texture and taste but contains all the good bran
 
-and germ stuff like you find in whole wheat flour. Basically, it is the   . If you can’t find it, use whole wheat or
+flour is really similar to all-purpose flour in texture and taste but contains all the good bran and germ stuff like you find in whole wheat flour. If you can’t find it, use whole wheat or all-purpose instead.
 
-all-purpose instead.
+In the quest for a fluffy biscuit, it had to be done.
 
- Yeah, don’t bitch. In the quest for a fluffy biscuit, it had to be done.
+This needs to be all opaque and solid like butter. 
 
- This needs to be all opaque and solid like butter. If it is clear and runny because it is hot outside, this won’t
+If it is clear and runny because it is hot outside, this won’t  work. 
 
- work. Stick it in the fridge until it gets its act together.
-
-
-
-
+Stick it in the fridge until it gets its act together.

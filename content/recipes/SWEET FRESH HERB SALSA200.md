@@ -25,11 +25,14 @@ tags:
 
 
 ## Instructions
-1 Throw everything together in a food processor and let that bitch run until everything is
 
-minced up. No food processor? Just mince everything up extra tiny by hand and mix that   
+1 Throw everything together in a food processor and let run until everything is minced up. 
 
-in a cup. Done.
+No food processor? 
+
+Just mince everything up extra tiny by hand and mix that in a cup. 
+
+Done.
 
 
 

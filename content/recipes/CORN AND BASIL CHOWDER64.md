@@ -42,7 +42,7 @@ it browns lightly, about 3 minutes. Add the celery, bell pepper, potato, and gar
 
 about 2 more minutes. Add the salt and then three-quarters of the corn kernels and stir. Add
 
-the broth and let that son of a bitch simmer until the potato pieces are soft, about 10 minutes.
+the broth and let simmer until the potato pieces are soft, about 10 minutes.
 
 3 When the potato is soft, turn off the heat. Use an immersion blender and blend until that
 

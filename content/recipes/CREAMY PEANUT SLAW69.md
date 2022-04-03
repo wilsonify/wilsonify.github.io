@@ -27,18 +27,13 @@ tags:
 
 
 ## Instructions
-1 Make the peanut dressing: Mix the peanut butter and warm water together in a medium
 
-glass until it’s creamy. Add the rest of the dressing ingredients to the sauce and mix that son
+1 Make the peanut dressing: Mix the peanut butter and warm water together in a medium glass until it’s creamy.
 
-of a bitch well.
+Add the rest of the dressing ingredients to the sauce and mix well.
 
-2 In a large bowl, combine all the slaw veggies. Pour the dressing over them and toss it all
+2 In a large bowl, combine all the slaw veggies. 
 
-around until everything is coated. Serve the day it’s made.
+Pour the dressing over them and toss it all around until everything is coated. 
 
-
-
-
-
-
+Serve the day it’s made.

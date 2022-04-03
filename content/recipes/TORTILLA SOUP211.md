@@ -1,15 +1,12 @@
-
 ---
 title: "TORTILLA SOUP"
 tags:
   - recipe
 ---
+
 # TORTILLA SOUP
 
-
-
 #### yields  4 AS A MAIN, 6 AS A SIDE
-
 
 ## ingredients
 * 1 yellow or white onion 
@@ -44,7 +41,7 @@ another 3 minutes. Add the jalapeños, garlic, spices, and salt and cook for ano
 
 This should smell pretty goddamn dope right about now. Add the diced tomatoes and tomato
 
-paste. Make sure that you stir that son of a bitch around enough so that the paste isn’t just
+paste. Make sure that you stir enough so that the paste isn’t just
 
 sitting in a clump. Add the broth and let that all come to a simmer.
 
@@ -52,9 +49,9 @@ sitting in a clump. Add the broth and let that all come to a simmer.
 
 Stir everything up and let that all gently simmer together until the tortillas get nice and soft,
 
-about 10 minutes. Now turn off the heat and grab your immersion blender and pulverize that
+about 10 minutes. Now turn off the heat and grab your immersion blender and pulverize 
 
-bastard until it’s nice and smooth. If you don’t have an immersion blender, you can throw this
+until it’s nice and smooth. If you don’t have an immersion blender, you can throw this
 
 all in your regular blender in batches too. Your call. Taste and add more of whatever you think
 

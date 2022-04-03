@@ -51,7 +51,7 @@ looks all mashed up with no big chunks left.
 size chunks and sauté until both the onion and tempeh start to brown, about 3 more minutes.
 Add soy sauce for a little flavor. Next, add the zucchini, hominy, oregano, cumin, and salt. Stir
 that all together and then add the chile-garlic paste you made earlier. Toss that all around so
-that everything is well coated and then add the broth. Cover that bastard and let it simmer for
+that everything is well coated and then add the broth. Cover and let it simmer for
 15 to 20 minutes to get all the flavors to combine. Next add the maple syrup and lime juice.
 Taste that  er and adjust the spices to the way you want it.
 

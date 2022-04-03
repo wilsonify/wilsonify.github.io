@@ -15,8 +15,8 @@ tags:
 * ½ tsp vanilla extract (Optional)
 
 ## instructions
-1 You need some electric beaters or a stand mixer to do this   . 
-Stick the bowl and the beaters in the freezer for 15 minutes to let those bastards get chilly.
+1 You need some electric beaters or a stand mixer to do this. 
+Stick the bowl and the beaters in the freezer for 15 minutes.
 
 2 Take them out after 15 minutes and grab the coconut milk from the fridge without shaking
 it up. 

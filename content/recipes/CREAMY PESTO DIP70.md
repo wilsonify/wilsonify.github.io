@@ -14,7 +14,7 @@ tags:
 
 # instructions
 0 chop garlic
-1 Place the almonds in a food processor or blender and pulse those nutty bitches around until they start getting kinda broken up. Add the basil, garlic, lemon zest, lemon juice, oil, water, and salt, and pulse for another 15 seconds.
+1 Place the almonds in a food processor or blender and pulse those nutty   around until they start getting kinda broken up. Add the basil, garlic, lemon zest, lemon juice, oil, water, and salt, and pulse for another 15 seconds.
 2 Add the beans and let that  er run until it looks nice and smooth. If you’re having trouble getting that    to blend, add another TBL of water, nature’s lube.
 3 Serve right away with some bread or veggies or let it chill in the fridge until cold.
 

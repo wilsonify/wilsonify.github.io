@@ -34,7 +34,7 @@ inch-thick slices while you wait.
 
 Heat a griddle or heavy pan over a medium heat and coat with a little cooking spray so these
 
-bitches don’t stick. Soak your bread slices in the batter for a couple seconds on each side and
+  don’t stick. Soak your bread slices in the batter for a couple seconds on each side and
 
 then throw them right on the griddle. Cook for 1 to 2 minutes a side, or until they look
 

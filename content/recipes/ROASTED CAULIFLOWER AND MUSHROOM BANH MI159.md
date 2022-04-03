@@ -45,7 +45,7 @@ tags:
 
 1 Prepare the vegetables: In a large bowl, mix together the soy sauce or tamari, vinegar, lime juice, oil, sugar, and hot sauce. Add the cauliflower and mushrooms and let them sit for about 15 minutes but no longer than 2 hours. When you’re ready to get going, start warming up the oven to 400°F and grab a baking sheet.
 
-2 In a medium bowl, mix together the panko and the curry powder. Drain the cauliflower and mushrooms then toss those fibrous bastards in the panko mix along with the shallots and ginger. Mix that all up until everything looks coated and pour it out onto the baking sheet. Roast, stirring it up halfway, until the cauliflower is starting to look nice and crispy, about 25 minutes.
+2 In a medium bowl, mix together the panko and the curry powder. Drain the cauliflower and mushrooms then toss in the panko mix along with the shallots and ginger. Mix that all up until everything looks coated and pour it out onto the baking sheet. Roast, stirring it up halfway, until the cauliflower is starting to look nice and crispy, about 25 minutes.
 
 3 While the cauliflower mixture is roasting you have time to get the rest of the    together. Don’t look at your phone; that    will only distract you and you’re on sandwich duty. To make the slaw: Just throw the radishes, carrots, vinegar, soy sauce or tamari, lime juice, and agave together in a bowl and toss it. So. . Simple.
 

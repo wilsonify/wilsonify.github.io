@@ -59,7 +59,7 @@ are supposed to look, so handle that   . Keep going until you run out of space o
 filling.
 6 Cover the enchiladas with the remaining sauce, cover the dish tightly with foil, and throw it
 in the oven for 20 minutes. Take off the foil and cook it for 5 more minutes. Let it cool for a
-minute or two before serving. Feel free to top those savory sons of bitches with some sliced
+minute or two before serving. Feel free to top those savory sons of   with some sliced
 avocado or chopped cilantro if you give a    about presentation.
 
 # modifications

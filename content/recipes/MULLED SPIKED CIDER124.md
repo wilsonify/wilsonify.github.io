@@ -18,7 +18,7 @@ tags:
 
 # instructions
 1 In a large pot, combine the cider, orange slices, ginger, cinnamon sticks, and allspice and bring to a simmer over medium heat. Simmer for 4 minutes, add the rum, then turn off the heat.
-2 Let this sweet winter bastard cool for a few minutes, then fish out the orange and ginger slices and the cinnamon sticks. Serve hot.
+2 Let cool for a few minutes, then fish out the orange and ginger slices and the cinnamon sticks. Serve hot.
 
 # modifications
 

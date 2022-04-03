@@ -36,7 +36,7 @@ tags:
 ## Instructions
 1 Rinse the peas well and then throw them in a medium pot with the water and a pinch of salt
 
-and bring them to a boil. Reduce the heat and let those sons of bitches simmer until they are
+and bring them to a boil. Reduce the heat and let those sons of   simmer until they are
 
 tender, 10 to 15 minutes. You can figure that    out just by tasting them. When the peas are
 

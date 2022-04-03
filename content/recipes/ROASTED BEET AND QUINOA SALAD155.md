@@ -55,7 +55,7 @@ kale into the hot quinoa and then add the dressing. Add the fresh herb of your c
 
 well.
 
-5 When the beets are done, fold those ruby red bitches right in to the quinoa. Add salt and
+5 When the beets are done, fold those ruby red   right in to the quinoa. Add salt and
 
 pepper to taste. Serve this salad at room temperature or refrigerate until cold.
 

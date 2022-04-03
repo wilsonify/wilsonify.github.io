@@ -41,7 +41,7 @@ the lemon juice, maple syrup, and soy sauce. When the chickpeas are lookin’ ri
 lemon juice mixture over them and stir. Let that    evaporate for about 30 seconds and then
 add all the spices. Stir and let them all fry together for another 30 seconds and then turn off
 the heat.
-3 Serve these spiced sons of bitches in a wrap with some spinach leaves and thinly sliced carrot
+3 Serve these spiced sons of   in a wrap with some spinach leaves and thinly sliced carrot
 and cucumber sticks. Drizzle some dressing over it and wrap that    up.
 
 # modifications

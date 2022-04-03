@@ -21,9 +21,7 @@ tags:
 
 bean-size pieces. Throw them in a small saucepan with the rest of the syrup ingredients and
 
-warm it all over a medium-low heat. At first it might not look like there’s enough liquid in
-
-this bitch to make syrup, but once everything gets going the strawberries will fix that   .
+warm it all over a medium-low heat. At first it might not look like there’s enough liquid to make syrup, but once everything gets going the strawberries will fix that   .
 
 Trust. Stir it around and bring it to a gentle simmer. Let it go for 15 to 20 minutes, stirring
 
@@ -41,7 +39,7 @@ crater in the center and add the milk mixture and the oil. Whisk everything toge
 
 there aren’t any more dry spots and only a few lumps. Coat the plates of the preheated waffle
 
-iron with some cooking spray so those bitches won’t stick, then pour in some batter. Cook
+iron with some cooking spray so those   won’t stick, then pour in some batter. Cook
 
 until golden brown according to your waffle maker’s directions. Cover with strawberry syrup
 

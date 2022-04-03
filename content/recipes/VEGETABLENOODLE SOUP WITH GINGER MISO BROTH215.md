@@ -66,7 +66,7 @@ green onions and some of your favorite condiments.
 
 
 ## Modifications
-Stems and all, bitches.
+Stems and all,  .
 
  WTF? See tip.
 

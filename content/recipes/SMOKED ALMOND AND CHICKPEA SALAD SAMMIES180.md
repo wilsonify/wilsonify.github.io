@@ -31,7 +31,7 @@ them to the liquid bowl, and stir that together to make sure all the almonds are
 out the almonds, add them to the bowl with all the dry seasonings, and stir that    around
 until they are covered. When they look all seasoned, scoop them out and lay them on the
 baking sheet. Toast them in the oven for 10 minutes, stir them around, and then put them
-back in the oven for 5 more minutes. Take them out and let those sons of bitches cool.
+back in the oven for 5 more minutes. Take them out and let those sons of   cool.
 3 While all that    is happening, add the chickpeas, avocado, and lemon juice to a big bowl
 and mash the   out of them. Some chunks are fine, whatever you like. Fold in the onion, dill,
 celery, hot sauce, salt, and pepper, then mix it all together.

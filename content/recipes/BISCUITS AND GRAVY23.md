@@ -42,7 +42,7 @@ tags:
 
 1 Make the gravy: In a pot, bring the lentils, water, and a pinch of salt to a boil. Let those
 
-bitches simmer until they are tender and kinda falling apart, about 40 minutes. Prep everything
+  simmer until they are tender and kinda falling apart, about 40 minutes. Prep everything
 
 else while you wait or you can do this    the night before and refrigerate.
 

@@ -51,7 +51,7 @@ tags:
 
 6 Bring your grill to a medium-high heat.
 
-7 In a small bowl, mix together 2 TBL of that tempeh marinade, the no-salt seasoning, and the paprika. Using a pastry brush or spoon, spread that    all over the kebabs. That’s right, we’re layering the flavors, bitches. Place the kebabs on the grill and cook for 7 to 9 minutes, turning every couple minutes. You are looking for those bomb-ass grill marks and for the veggies to get golden brown around the edges. If they start looking a little dry before they are done, brush them with a little bit of olive oil or some of the remaining marinade. Take them off the grill and let them cool for a hot minute.
+7 In a small bowl, mix together 2 TBL of that tempeh marinade, the no-salt seasoning, and the paprika. Using a pastry brush or spoon, spread that    all over the kebabs. That’s right, we’re layering the flavors,  . Place the kebabs on the grill and cook for 7 to 9 minutes, turning every couple minutes. You are looking for those bomb-ass grill marks and for the veggies to get golden brown around the edges. If they start looking a little dry before they are done, brush them with a little bit of olive oil or some of the remaining marinade. Take them off the grill and let them cool for a hot minute.
 
 8 To serve you can either pour the chimichurri sauce over the kebabs or serve it on the side so people can dip how they want. Up to you. Or forget other people and just make these for yourself. B.Y.O.K.
 

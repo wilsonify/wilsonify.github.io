@@ -62,7 +62,7 @@ Fig. 3: Keep rolling until it’s all tight. Spray it gently with a bit of oil a
 
 6 You can mix up the optional dipping sauce while the spring rolls are baking by just throwing the soy sauce or tamari, rice vinegar, water, hot sauce, sesame oil, agave, and garlic in a small bowl and stirring.  done.
 
-7 Let the rolls cool for a couple minutes and then serve those golden brown bitches with some dipping sauce and watch people lose their goddamn minds when they find out it’s not takeout.
+7 Let the rolls cool for a couple minutes and then serve those golden brown   with some dipping sauce and watch people lose their goddamn minds when they find out it’s not takeout.
 
 
 

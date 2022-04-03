@@ -64,8 +64,10 @@ into thirds.
 4 Now for the real bougie   . Warm about 3 inches of water in the same wok or skillet you
 cooked the mushrooms. You want the water hot but not so hot you can’t put your hand in it.
 Like tea temperature or some    like that. Turn off the heat. Place one spring roll wrapper
-flat in the water for 10 to 15 seconds until it becomes bendy like a noodle. Let the extra water
-drip off and lay that translucent son of a bitch down on a plate.
+flat in the water for 10 to 15 seconds until it becomes bendy like a noodle. 
+
+Let the extra water drip off and lay down on a plate.
+
 5 Fold the wrapper in half so that it looks like a flat taco, straight edge on the bottom. Lay
 down a lettuce leaf, about 2 fingers’ worth of veggies and herbs, and a scoop of the sautéed
 mushrooms on the left side of the semicircle wrapper thing you’ve got going. Fold the wrapper

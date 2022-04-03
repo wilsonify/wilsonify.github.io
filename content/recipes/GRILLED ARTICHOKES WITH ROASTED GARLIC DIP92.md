@@ -1,15 +1,12 @@
-
 ---
 title: "GRILLED ARTICHOKES WITH ROASTED GARLIC DIP"
 tags:
   - recipe
 ---
+
 # GRILLED ARTICHOKES WITH ROASTED GARLIC DIP
 
-
-
 #### yields  4 PEOPLE
-
 
 ## ingredients
 * 2 lemons 
@@ -19,9 +16,8 @@ tags:
 * 1/4 cup olive oil 
 * Roasted Garlic Dip 
 
-
-
 ## Instructions
+
 1 Fill a large pot with water and put it over high heat. Squeeze the juice of .5 lemon into the pot and slice up the other half and add it to the water with a good pinch of salt and the 2 clove of smashed garlic. While that comes to a boil, prep your   .
 
 2 We know artichokes look alien as  , but they’re really easy to clean up. Remove all the tough outer leaves around the base and cut 1.5 inches off the top of each artichoke. Using a pair of scissors, cut the top off any leaves that still have the barb on them. Disarm that mother er. If your artichokes still have their stalks, peel the outside with a vegetable peeler to get at the softer center (see artichoke 1).
@@ -30,12 +26,7 @@ tags:
 
 4 Warm up the grill to medium-high. In a bowl, mix together the minced garlic, oil, a pinch of salt, and 2 TBL of juice from that last lemon. When the grill is ready to go, brush some of that oil mixture all over the drained chokes.
 
-5 Throw those thistly bastards on the grill, cut side down, and cook until they get some good grill marks on them but the leaves aren’t burnt to   , 2 to 3 minutes. Flip them over and do the same on the other side. Brush with more of the oil mix if you think it needs it.
+5 Throw them on the grill, cut side down, and cook until they get some good grill marks on them but the leaves aren’t burnt to   , 2 to 3 minutes. Flip them over and do the same on the other side. Brush with more of the oil mix if you think it needs it.
 
 6 Serve hot or at room temperature with some garlic dip and a big-ass bowl for everyone to throw away their leaves. Eating an artichoke is messy but well worth the trouble.
-
-
-
-
-
 

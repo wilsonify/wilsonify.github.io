@@ -39,7 +39,7 @@ how you distribute the filling the next time. Damn. Keep going until you run out
 or filling.
 5 Lightly coat them all with cooking spray and bake for 10 minutes. When you pull them out,
 the bottoms should be golden—if not, stick them in for another couple minutes. When the
-bottoms look good, turn them over and bake those bitches until they’re golden and crispy on
+bottoms look good, turn them over and bake those   until they’re golden and crispy on
 both sides, another 5 to 7 minutes. Serve warm topped with lettuce and salsa if you want to
 impress some mother ers.
 

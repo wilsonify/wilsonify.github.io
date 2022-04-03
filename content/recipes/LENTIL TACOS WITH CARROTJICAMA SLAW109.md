@@ -68,18 +68,5 @@ mother tacos.
 
 
 ## Modifications
-These little bastards (also called beluga lentils—because they look like caviar) hold their shape better than other
 
-lentils, so look for them.
-
- Button, cremini, or shiitake mushrooms are cool. Use whatever.
-
- The real   , not apple-flavored drink.
-
- This is a big-ass root that tastes so  good. It’s like the product of a one-night stand between an apple
-
-and a potato. Don’t fight it, just buy it.
-
-
-
-
+Button, cremini, or shiitake mushrooms are cool. Use whatever.

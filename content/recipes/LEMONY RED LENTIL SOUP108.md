@@ -47,7 +47,7 @@ you can stop if you prefer a chunky lentil soup, or you can blend half of it for
 
 hybrid thing. It’s your soup, so own that   . The blended soup will thicken up if you throw
 
-it back on the stove with some low heat for a minute or two, just watch. Magic, bitches.
+it back on the stove with some low heat for a minute or two, just watch. Magic,  .
 
 3 Serve warm, topped with some chopped cilantro if you want.
 

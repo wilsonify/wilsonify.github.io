@@ -45,7 +45,7 @@ tags:
 
 1 First, make the dressing. In a small glass, mix together the mustard, maple syrup, and garlic. Whisk in the vinegars. Then slowly add the oil and stir that    up until it’s all combined. Set it in the fridge until it’s go-time.
 
-2 Next, make the onions: In a medium skillet, heat the oil up over medium-high heat. Add the onions and sauté until they start to brown up and look kinda caramelized, 8 to 10 minutes. While that is going down, mix together the soy sauce or tamari, water, and liquid smoke in a small glass. When the onions are done caramelizing, pour the soy sauce mixture over those tasty sons of bitches and cook until all the liquid has evaporated, about 1 minute longer. Scrape them onto a plate and set aside.
+2 Next, make the onions: In a medium skillet, heat the oil up over medium-high heat. Add the onions and sauté until they start to brown up and look kinda caramelized, 8 to 10 minutes. While that is going down, mix together the soy sauce or tamari, water, and liquid smoke in a small glass. When the onions are done caramelizing, pour the soy sauce mixture over those tasty sons of   and cook until all the liquid has evaporated, about 1 minute longer. Scrape them onto a plate and set aside.
 
 3 Now, make the chickpeas: In a small glass, mix together the broth, miso, and soy sauce or tamari. Heat the same skillet the onions were in over medium-high heat and add the oil. Add the chickpeas and cook until they warm up and start to look a little golden in some spots, about 2 minutes. Add the miso sauce and cook until all the liquid has evaporated, 3 to 4 minutes longer. Remove from the heat and stir in the nutritional yeast and garlic powder until all the chickpeas are coated.
 

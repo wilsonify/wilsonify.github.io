@@ -1,4 +1,3 @@
-
 ---
 title: "POPPY SEED PROTEIN WAFFLES"
 tags:
@@ -35,7 +34,7 @@ tags:
 
 3 In a large bowl, whisk together the flour, sugar, baking powder, baking soda, and salt so that they’re all mixed up. Make a well in the center and add the tofu/milk mixture. Whisk everything together until it is just kinda starting to combine and then fold in the poppy seeds. Keep mixing until there aren’t any more dry spots and only a few lumps, no need to go crazy.
 
-4 Spray the warmed-up waffle iron with some oil so those bitches won’t stick, then pour in some batter. Cook until golden brown according to your waffle maker’s directions. Cover with maple syrup, whatever fruit that’s in season, and serve hot. Then make those lazy bastards we mentioned earlier clean up the kitchen.
+4 Spray the warmed-up waffle iron with some oil so those   won’t stick, then pour in some batter. Cook until golden brown according to your waffle maker’s directions. Cover with maple syrup, whatever fruit that’s in season, and serve hot. 
 
 
 

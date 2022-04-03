@@ -44,7 +44,7 @@ tags:
 
 1 Make the pizza dough through step 3. While that yeasty beast is rising, make all your toppings and crank up the oven to 475°F. Yeah, your kitchen is going to be hot as  , but you’re getting pizza out of it. Fair trade.
 
-2 Now get that buffalo tempeh going: In a small glass, mix together the flour and vinegar until you get a paste. Slowly whisk in that hot sauce and try to minimize the chunks. Set that spicy son of a bitch aside.
+2 Now get that buffalo tempeh going: In a small glass, mix together the flour and vinegar until you get a paste. Slowly whisk in that hot sauce and try to minimize the chunks. Set aside.
 
 3 Warm up the oil in a large skillet or wok over medium heat. Add the crumbled tempeh and onion and sauté that    around until they both look a little golden in some spots, 5 to 7 minutes. Add the garlic and then pour over the hot sauce mixture. Stir this all around and let it cook for about 1 minute so that the tempeh absorbs a little bit of the sauce, then turn that heat right off. Yeah, your whole place smells like hot sauce now. YOU’RE  WELCOME.
 

@@ -36,7 +36,7 @@ tags:
 
 4 In a large measuring glass (or blender if you don’t mind cleaning that   ), mix together the pumpkin, brown sugar, vanilla, cinnamon, ginger, and nutmeg until it looks smooth. Stir in the milk mixture until everything is all combined. Pour this over the bread until it all looks coated, sprinkle in the nutritional yeast, and stir a couple more times so it looks like all that    is nice and mixed up.
 
-5 Pour the bread mixture into the baking dish in a sort of even layer and spray the top with a little oil. Cover it with foil, and throw that son of a bitch in the oven. Bake for 20 minutes, then take off the foil and bake until the top looks sorta golden, another 15 to 20 minutes. Let it cool for a few minutes before you dish the hot  er up.
+5 Pour the bread mixture into the baking dish in a sort of even layer and spray the top with a little oil. Cover it with foil, and throw in the oven. Bake for 20 minutes, then take off the foil and bake until the top looks sorta golden, another 15 to 20 minutes. Let it cool for a few minutes before you dish the hot  er up.
 
 6 Serve warm with maple syrup and some more cinnamon for sprinkling. Baristas got nothing on this   .
 

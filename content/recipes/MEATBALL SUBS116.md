@@ -1,15 +1,12 @@
-
 ---
 title: "MEATBALL SUBS"
 tags:
   - recipe
 ---
+
 # MEATBALL SUBS
 
-
-
 #### yields  6 SUBS (ABOUT 24 MEATBALLS, IF YOU DO THAT    RIGHT)
-
 
 ## ingredients
 * 1 1/2 cup cooked kidney beans 
@@ -29,8 +26,8 @@ tags:
 * Arugula, for serving 
 
 
-
 ## Instructions
+
 1 Crank your oven to 400°F. Spray a baking sheet with oil.
 
 2 Mash up the beans and lentils in a large bowl until they form a paste. Some whole bean bits are cool, but try to keep that    to a minimum. Stir in the rest of the ingredients for the balls and mix it all up so that everything gets distributed. You might need to use your hands because it’s just the best  way to do this with a quickness. You can use a spoon if you want, but we’ll be silently judging you. If the stuff you are mixing up feels a little dry, add a TBL or two of water.
@@ -41,9 +38,7 @@ tags:
 
 5 When the balls are almost ready to go, throw the sauce into a medium saucepan and warm it up over medium heat. Cut your rolls or bread in half and throw them in the oven with the balls to warm up for a minute.
 
-6 When all that    is ready, assemble your subs. Spoon a little marinara on the bottom half of the bread, put 3 or 4 meatballs on top, lather those bastards in marinara sauce to your liking, add a handful of arugula for color, then top it off with the other half of the bread. Get it down immediately or someone is going to eat that  er for you.
-
-
+6 Assemble your subs. Spoon a little marinara on the bottom half of the bread, put 3 or 4 meatballs on top, lather in marinara sauce to your liking, add a handful of arugula for color, then top it off with the other half of the bread. 
 
 ## Modifications
 Or one 15-ounce can of beans, drained and rinsed.

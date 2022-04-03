@@ -32,51 +32,50 @@ tags:
 
 
 ## Instructions
-1 Chop up the broccoli into pieces no larger than a nickel, aiming for about 2 cup. Dice the
 
-bell pepper and onion into pea-size pieces. Shred the carrot on that box grater you think you
+1 Chop up the broccoli into pieces no larger than a nickel, aiming for about 2 cup. 
 
-bought a while back. Mince the garlic and jalapeño. In a small bowl, mix together the cumin,
+Dice the bell pepper and onion into pea-size pieces. 
 
-chili powder, and oregano and set that    aside. PREP WORK, MOTHER ER.
+Shred the carrot on that box grater you think you bought a while back. 
 
-2 Now it’s time to cook. In a large skillet, heat the oil over medium heat. Add the onion and
+Mince the garlic and jalapeño. 
 
-cook until it starts to look golden around the edges, 3 to 5 minutes. Now add the chopped
+In a small bowl, mix together the cumin, chili powder, and oregano and set that aside. 
 
-broccoli and bell pepper and cook until the broccoli starts to get tender but isn’t all 
+2 Now it’s time to cook. 
 
-limp, another 3 to 4 minutes. Don’t overcook this    or your broccoli will taste like little
+In a large skillet, heat the oil over medium heat. 
 
-soggy trees. Now add the garlic and jalapeño and sauté for about 30 seconds.
+Add the onion and cook until it starts to look golden around the edges, 3 to 5 minutes. 
 
-3 While that    is going on, drain the tofu and squeeze out as much water as possible. (You
+Now add the chopped broccoli and bell pepper and cook until the broccoli starts to get tender but isn’t all 
+limp, another 3 to 4 minutes. 
 
-can just use your hands; no need to press this bastard.) Now crumble that tofu into the pan in
+Now add the garlic and jalapeño and sauté for about 30 seconds. 
 
-quarter-size chunks. Some small bits are cool but the more you stir it, the more    is going
+3 While that is going on, drain the tofu and squeeze out as much water as possible. 
 
-to break down, so its better to start bigger and work to smaller, you know? Sauté that tofu
+(You can just use your hands; no need to press.) 
 
-around with the veggies for 2 to 3 minutes and try to get it all mixed in. If the pan starts
+Now crumble that tofu into the pan in quarter-size chunks. 
 
-looking dry, add a splash of water and move the   on. Add the soy sauce and lemon/lime
+Some small bits are cool but its better to start bigger and work to smaller, you know?
 
-juice all over the pan. Add the spice blend, shredded carrot, and nutritional yeast right after
+Sauté that tofu around with the veggies for 2 to 3 minutes and try to get it all mixed in. 
 
-and stir those  ers in. Let this all cook together for about 2 minutes so that the flavors
+If the pan starts looking dry, add a splash of water. 
 
-blend. Top with the hot sauce, stir, and then pile the filling into your waiting tortillas.
+Add the soy sauce and lemon/lime juice all over the pan. 
 
-Breakfast is served, bitches.
+Add the spice blend, shredded carrot, and nutritional yeast right after and stir. 
 
-Serve with avocados, fresh cilantro, and your favorite salsa.   yeah.
+Let cook together for about 2 minutes so that the flavors blend. 
 
+Top with the hot sauce, stir, and then pile the filling into your waiting tortillas.
 
+Serve with avocados, fresh cilantro, and your favorite salsa.
 
 ## Modifications
-Whatever heat you can handle. Remove the seeds for less heat.
 
-
-
-
+Remove the seeds for less heat.

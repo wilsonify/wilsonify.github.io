@@ -43,7 +43,7 @@ veggies, and herbs around the mound while leaving a good amount of the noodles e
 
 Drizzle the dressing on both the noodles and lightly around the vegetables and herbs, then
 
-sprinkle the peanuts all over that delicious bitch. Serve with lime wedges.
+sprinkle the peanuts all over. Serve with lime wedges.
 
 
 

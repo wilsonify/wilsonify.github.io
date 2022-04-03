@@ -35,25 +35,25 @@ tags:
 ## Instructions
 0 chop the onion and bell pepper and jalapenos. mince the garlic.
 
-1 Crank your oven to 400°F. Cut your tortillas up into 8 wedges, like a motherfucking pizza.
+1 Crank your oven to 400°F. Cut your tortillas up into 8 wedges, like a mother pizza.
 
 Spread the wedges out on a baking sheet and throw them in the oven for 15 to 20 minutes to
 
 dry out. Stir them around halfway through. It’s fine if they start to get hard in some spots but
 
-don’t let them fucking burn.
+don’t let them  burn.
 
 2 While the tortillas get crispy, grab a big skillet and do the damn thing. Heat up 1 tsp
 
 of the oil over a medium heat and crumble in the tofu. It might be a little watery, but don’t
 
-worry about that shit. Think runny scrambled eggs. Stir in the soy sauce and garlic powder and
+worry about that   . Think runny scrambled eggs. Stir in the soy sauce and garlic powder and
 
 let it all cook together until some of that water cooks off, about 2 minutes. Stir in the nutritional yeast,
 
 turn off the heat, and pour the tofu into a bowl. Wipe the skillet down and throw that
 
-motherfucker right back on the stove cause we ain’t done yet.
+mother er right back on the stove cause we ain’t done yet.
 
 3 Heat up that second tsp of oil over medium heat. Throw in the onion, bell pepper, and
 
@@ -69,11 +69,11 @@ Add half of the tofu over the whole skillet and then layer on the rest of the to
 
 the rest of the tofu, salsa, and broth and gently stir it around to make sure the layers are
 
-coated. A dry bite of chilaquiles can be a fucking bummer, so pay attention. Let this all simmer
+coated. A dry bite of chilaquiles can be a  bummer, so pay attention. Let this all simmer
 
 together for about 5 minutes so that the tortillas soften up and the liquid evaporates. The
 
-dope smell of cooking this will drag even the laziest motherfucker out of bed. Believe that shit.
+dope smell of cooking this will drag even the laziest mother er out of bed. Believe that   .
 
 5 Serve right away topped with sliced avocado, a sprinkle of cilantro, more jalapeños, and pico
 
@@ -82,7 +82,7 @@ de gallo. Don’t share until someone else promises to wash the goddamn dishes.
 
 
 ## Modifications
-You want the kind packed in water that is sold in the fridge at the store, so make sure to drain that shit before you start cooking.
+You want the kind packed in water that is sold in the fridge at the store, so make sure to drain that    before you start cooking.
 
 
 

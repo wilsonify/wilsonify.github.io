@@ -18,11 +18,11 @@ tags:
 
 
 # instructions
-1 Throw the flour, oil, milk, roasted garlic, and nutritional yeast into a blender and run that fucker until the roasted garlic is all chopped up and the sauce looks mostly smooth. Pour all that in a small saucepan and warm it up over medium heat, whisking it every few minutes until that shit starts to thicken up, about 5 minutes. Whisk in the lemon juice and salt, then turn the heat off.
+1 Throw the flour, oil, milk, roasted garlic, and nutritional yeast into a blender and run that  er until the roasted garlic is all chopped up and the sauce looks mostly smooth. Pour all that in a small saucepan and warm it up over medium heat, whisking it every few minutes until that    starts to thicken up, about 5 minutes. Whisk in the lemon juice and salt, then turn the heat off.
 
 # modifications
 
-No fucking clue how to roast garlic?
+No  clue how to roast garlic?
  WTF?
 	
 

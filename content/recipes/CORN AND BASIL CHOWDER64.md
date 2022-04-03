@@ -32,7 +32,7 @@ cob in half, stand it on its end in the middle of a large bowl and cut the kerne
 
 bottom. When you’re all done, you should have about 4 cup of kernels. Don’t get lazy and use
 
-frozen corn here; that shit will not taste the same. Chop the onion, celery, bell pepper, and
+frozen corn here; that    will not taste the same. Chop the onion, celery, bell pepper, and
 
 potato into bean-size pieces and mince the garlic. Prep work done.
 
@@ -46,7 +46,7 @@ the broth and let that son of a bitch simmer until the potato pieces are soft, a
 
 3 When the potato is soft, turn off the heat. Use an immersion blender and blend until that
 
-motherfucker looks nice and creamy and without a bunch of chunks. (You could also pour it
+mother er looks nice and creamy and without a bunch of chunks. (You could also pour it
 
 into your blender and do it that way; up to you. Just return the blended soup to the pot.) Add
 
@@ -54,7 +54,7 @@ the rest of the corn and the lemon juice, and bring it back to a simmer. Turn of
 
 the basil, and then taste. Add more salt, more lemon juice, more basil, whatever. Serve right
 
-away with some more basil on top to make that shit look as legit as it tastes.
+away with some more basil on top to make that    look as legit as it tastes.
 
 
 

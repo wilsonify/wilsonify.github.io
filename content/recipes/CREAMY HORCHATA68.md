@@ -31,7 +31,7 @@ hours.
 
 2 When that soaking is done, dump the whole deal in your blender, water and all, add the
 
-agave, and blend that mess until it’s all smooth. Leave the cinnamon in—don’t worry, that shit
+agave, and blend that mess until it’s all smooth. Leave the cinnamon in—don’t worry, that   
 
 will blend up too. Pour it all through a fine-mesh strainer or cheesecloth to get out the grit.
 
@@ -39,12 +39,12 @@ will blend up too. Pour it all through a fine-mesh strainer or cheesecloth to ge
 
 not, blend in another .5 cup water and stick it in the fridge. Serve cold with ice cubes and some
 
-cinnamon sprinkled on top because you’re fucking fancy like that.
+cinnamon sprinkled on top because you’re  fancy like that.
 
 
 
 ## Modifications
-Brown basmati rice is the best here, but use whatever the fuck kind of brown rice you can find.
+Brown basmati rice is the best here, but use whatever the   kind of brown rice you can find.
 
  Whatever liquid, syrupy sweetener you got should do.
 

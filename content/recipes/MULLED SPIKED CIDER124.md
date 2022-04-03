@@ -22,8 +22,8 @@ tags:
 
 # modifications
 
-Just grab what looks legit. We like unfiltered apple juice, which is usually labeled “cider” depending on where you’re at. Don’t grab hard apple cider though, that shit is way different.
- Allspice is not a suicide-style blend of spices; it's a berry with a confusing-as-fuck name. It is in a lot of Caribbean food and should be right next to the rest of the spices in the store.
+Just grab what looks legit. We like unfiltered apple juice, which is usually labeled “cider” depending on where you’re at. Don’t grab hard apple cider though, that    is way different.
+ Allspice is not a suicide-style blend of spices; it's a berry with a confusing-as-  name. It is in a lot of Caribbean food and should be right next to the rest of the spices in the store.
  Driving the sleigh tonight? You can leave this out.
 	
 

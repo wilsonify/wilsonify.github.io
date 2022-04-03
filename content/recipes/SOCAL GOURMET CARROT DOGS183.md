@@ -16,10 +16,10 @@ Your favorite pico de gallo–style salsa
 
 # instructions
 1 Make the carrot dogs and pesto.
-2 To assemble a dog, smear some pesto on the inside of a bun, lay down a couple slices of avocado and jalapeño, and top the damn thing off with some salsa. Add more pesto if you are feeling extra fancy. Yeah we know this sounds fucked up, but you’ll love this shit. We swear.
+2 To assemble a dog, smear some pesto on the inside of a bun, lay down a couple slices of avocado and jalapeño, and top the damn thing off with some salsa. Add more pesto if you are feeling extra fancy. Yeah we know this sounds  ed up, but you’ll love this   . We swear.
 
 # modifications
 
-The salsa in our first book is the shit, just sayin’.
+The salsa in our first book is the   , just sayin’.
 	
 

@@ -36,7 +36,7 @@ tags:
 
 butter into the flour using your fingers and break up pieces bigger than a pea. It should
 
-look kinda like coarse sand from a shitty playground. You can throw this all in your food
+look kinda like coarse sand from a   ty playground. You can throw this all in your food
 
 processor too, just run it until you get the same texture, and then put it in a bowl.
 
@@ -46,13 +46,13 @@ a shaggy dough comes together. If it still looks dry, add the remaining TBL of m
 
 Press the dough into the pie plate so that it’s even and going up the sides. You know how a pie
 
-crust should look. (At this point, you can stick that shit in the fridge to bake later or get
+crust should look. (At this point, you can stick that    in the fridge to bake later or get
 
 right down to business. Your call.)
 
 4 Line the inside of your crust with foil and pour a bunch of dried beans in there that you
 
-aren’t planning on eating. This weird shit keeps the crust in place while it bakes. Trust the
+aren’t planning on eating. This weird    keeps the crust in place while it bakes. Trust the
 
 system. Throw this in the oven for 12 minutes, then pull it out and remove the foil and beans.
 
@@ -74,25 +74,25 @@ can feel it start to thicken to sort of a gravy texture, about 5 minutes. Now, t
 
 heat to medium-low and grab a spatula. Keep the pot at a very gentle simmer and keep scraping
 
-the bottom and sides with a spatula to avoid pudding skin. That shit is gross. Keep this up for
+the bottom and sides with a spatula to avoid pudding skin. That    is gross. Keep this up for
 
 7 to 10 minutes or until you flick some of the custard across the top of itself in the pot and
 
-that spot holds its shape for a couple seconds. Gross but fucking accurate.
+that spot holds its shape for a couple seconds. Gross but  accurate.
 
 7 Your pie crust should be cool enough to handle now. Slice up the bananas into rounds no
 
-thicker than .5 inch. Line the crust with the banana slices, like all over the fucking place. Up
+thicker than .5 inch. Line the crust with the banana slices, like all over the  place. Up
 
 the sides, BANANAS EVERYWHERE. Now pour the warm custard into the banana-lined
 
-pie shell. Cover and place this fucker in the fridge for at least 3 hours.
+pie shell. Cover and place this  er in the fridge for at least 3 hours.
 
 8 Once the custard has cooled and set, spread on a batch of the whipped cream over the top
 
 and serve. This pie is best eaten within 3 days of being made because the bananas cannot be
 
-trusted to keep their shit together much longer than that.
+trusted to keep their    together much longer than that.
 
 
 
@@ -101,7 +101,7 @@ You can use whole wheat pastry, all-purpose, or a combo here. All of it will wor
 
  You don’t want the oil all runny and melted. It should look milky and have a consistency similar to room
 
-temp butter. If it’s hot in your place, stick that shit in the fridge for a minute or two to cool down.
+temp butter. If it’s hot in your place, stick that    in the fridge for a minute or two to cool down.
 
 
 

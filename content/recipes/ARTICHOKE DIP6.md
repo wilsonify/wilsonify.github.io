@@ -34,11 +34,11 @@ tags:
 
 
 ## Instructions
-1 In a blender or food processor, combine the onion, garlic, milk, and soy sauce and pulse that shit until it looks like paste. Add the almonds and pulse again until there aren’t any big pieces in there. Add the artichokes and pulse again until it starts to resemble what dip should look like. We prefer it kinda chunky, but if you like it smooth just run it a bit longer.
+1 In a blender or food processor, combine the onion, garlic, milk, and soy sauce and pulse that    until it looks like paste. Add the almonds and pulse again until there aren’t any big pieces in there. Add the artichokes and pulse again until it starts to resemble what dip should look like. We prefer it kinda chunky, but if you like it smooth just run it a bit longer.
 
-2 In a small saucepan over medium heat, stir the oil and flour around until it starts to look kinda toasted and smells nutty, about 2 minutes. Yeah, that’s right, we’re.making.a. motherfucking.roux. Gently whisk in the broth. It’s gonna get really thick and Play-Doh looking, just go with it. Add the artichoke mixture and spinach. Keep stirring until everything starts to thicken up and the spinach wilts, about 3 minutes.
+2 In a small saucepan over medium heat, stir the oil and flour around until it starts to look kinda toasted and smells nutty, about 2 minutes. Yeah, that’s right, we’re.making.a. mother.roux. Gently whisk in the broth. It’s gonna get really thick and Play-Doh looking, just go with it. Add the artichoke mixture and spinach. Keep stirring until everything starts to thicken up and the spinach wilts, about 3 minutes.
 
-3 Add the nutritional yeast and lemon juice and heat for another minute. Remove from the heat and taste. Add more lemon juice, garlic, whatever the fuck you think it needs to get it right where you like it.
+3 Add the nutritional yeast and lemon juice and heat for another minute. Remove from the heat and taste. Add more lemon juice, garlic, whatever the   you think it needs to get it right where you like it.
 
 4 Serve it warm or at room temperature with your favorite dip transportation device.
 
@@ -47,7 +47,7 @@ tags:
 ## Modifications
 WTF?
 
- This can be all-purpose or whole wheat. It doesn’t really fucking matter.
+ This can be all-purpose or whole wheat. It doesn’t really  matter.
 
 
 

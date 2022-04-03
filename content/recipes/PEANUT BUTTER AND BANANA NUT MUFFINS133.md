@@ -29,7 +29,7 @@ tags:
 
 liners.
 
-2 In a big bowl, mix together the flour, baking powder, and salt. Set the fucker aside.
+2 In a big bowl, mix together the flour, baking powder, and salt. Set the  er aside.
 
 3 Now in a smaller bowl, mix together the peanut butter and brown sugar until it looks kinda
 
@@ -37,11 +37,11 @@ creamy. Stir in the milk, banana, and vanilla until everything is mixed up.
 
 4 Pour the wet ingredients into the dry and stir until just combined. If you mix it up too
 
-much, your muffins will be tough. Don’t waste all that peanut butter on some fucked-up
+much, your muffins will be tough. Don’t waste all that peanut butter on some  ed-up
 
 muffins. Fold in the nuts now if you are using them.
 
-5 Scoop the batter into the muffin cup. This yields a lot of batter, so fill those fuckers to the
+5 Scoop the batter into the muffin cup. This yields a lot of batter, so fill those  ers to the
 
 brim so you get nice, domed, bakery-style muffins. Bake until a toothpick comes out clean
 
@@ -54,7 +54,7 @@ for at least 15 minutes before eating.
 ## Modifications
 This usually takes about 3 regular-size bananas.
 
- You could sub .5 cup chocolate chips in here if you want to drop any illusions that these fuckers aren’t dessert.
+ You could sub .5 cup chocolate chips in here if you want to drop any illusions that these  ers aren’t dessert.
 
 
 

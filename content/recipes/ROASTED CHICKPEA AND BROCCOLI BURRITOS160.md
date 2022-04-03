@@ -36,21 +36,21 @@ tags:
 
 chopped up veggies in a large bowl with the cooked chickpeas. Pour in the oil and soy sauce,
 
-stir, and then throw all the spices in there. Mix until all the vegetables and shit are covered.
+stir, and then throw all the spices in there. Mix until all the vegetables and    are covered.
 
 Put all of that on the baking sheet and bake for 20 minutes.
 
-3 Take it out of the oven—don’t fucking burn yourself—then add the garlic and stir it
+3 Take it out of the oven—don’t  burn yourself—then add the garlic and stir it
 
 around. Bake for another 15 minutes. The broccoli might look a little burnt at this point but
 
-that is the plan, so chill the fuck out and take it out of the oven. Squeeze the lime juice over the
+that is the plan, so chill the   out and take it out of the oven. Squeeze the lime juice over the
 
 pan and stir the roasted chickpeas and veggies all around. Taste and see if it needs more spices
 
 or anything.
 
-4 Now make a motherfucking burrito. We like ours with spinach, avocado, cilantro, and some
+4 Now make a mother burrito. We like ours with spinach, avocado, cilantro, and some
 
 fire-roasted salsa, but do your thing.
 

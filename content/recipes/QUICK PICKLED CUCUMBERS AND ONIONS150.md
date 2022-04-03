@@ -29,7 +29,7 @@ no longer than 2 inches.
 
 2 Throw the cucumber and onion slices into a medium bowl, sprinkle them with the salt, and
 
-rub that all in with your hands. You could use a spoon if you are too fucking cool for school,
+rub that all in with your hands. You could use a spoon if you are too  cool for school,
 
 but why? Pour in the vinegars and toss.
 

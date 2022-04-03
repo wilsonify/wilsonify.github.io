@@ -22,6 +22,6 @@ tags:
 
 # modifications
 
-Use a red wine that is nice and cheap, but not so superdisgusting that you wouldn’t drink it without fruit. Does the tag say it tastes like it already has some fruit in it? Cool, just grab that shit.
+Use a red wine that is nice and cheap, but not so superdisgusting that you wouldn’t drink it without fruit. Does the tag say it tastes like it already has some fruit in it? Cool, just grab that   .
 	
 

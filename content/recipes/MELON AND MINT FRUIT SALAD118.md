@@ -20,7 +20,7 @@ tags:
 # modifications
 
 We like to do a combo of cantaloupe and honeydew, but use whatever the hell is ripe when you run to the store. All the same melon is chill too if you’re super into cantaloupe or whatever.
- So fucking fancy. Lost?
- You can leave this sugar out if your melons are just that fucking good, but this shit helps them release a little extra juice and sweetness in case you got one that’s doing you dirty.
+ So  fancy. Lost?
+ You can leave this sugar out if your melons are just that  good, but this    helps them release a little extra juice and sweetness in case you got one that’s doing you dirty.
 	
 	

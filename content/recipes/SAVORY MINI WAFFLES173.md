@@ -8,7 +8,7 @@ tags:
 
 
 
-#### yields  12 MINI WAFFLES, DEPENDING ON HOW YOU POUR THAT SHIT
+#### yields  12 MINI WAFFLES, DEPENDING ON HOW YOU POUR THAT   
 
 
 ## ingredients
@@ -41,7 +41,7 @@ tags:
 
 
 ## Modifications
-Same shit that you’d use to make cornbread, not polenta.
+Same    that you’d use to make cornbread, not polenta.
 
  WTF?
 

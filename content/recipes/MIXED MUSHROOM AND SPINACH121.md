@@ -36,9 +36,9 @@ tags:
 
 1 Put all the ingredients for the pesto in a food processor and blend until smooth-ish. No
 
-food processor? Chill the fuck out. Just put the almonds in a plastic bag and smash them up
+food processor? Chill the   out. Just put the almonds in a plastic bag and smash them up
 
-with a rolling pin or a can until they are tiny, and chop the rest of that shit up super small, too.
+with a rolling pin or a can until they are tiny, and chop the rest of that    up super small, too.
 
 Mix it with a fork until it looks like a paste. Set it aside.
 
@@ -66,9 +66,9 @@ two of the pesto over all of that and then do another layer of noodles. Repeat t
 
 until you run out of room and top with the final layer of noodles. Cover the noodles with the
 
-remaining sauce. If you want to look extra fucking fancy, add sliced tomato rounds on top.
+remaining sauce. If you want to look extra  fancy, add sliced tomato rounds on top.
 
-5 Cover that whole heavy motherfucker with foil and throw it in the oven for about 30
+5 Cover that whole heavy mother er with foil and throw it in the oven for about 30
 
 minutes. Gently take off the foil after that and bake it until the edges of the noodles start to
 

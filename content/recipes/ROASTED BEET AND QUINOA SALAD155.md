@@ -33,21 +33,21 @@ tags:
 
 1 Crank your oven to 400°F. Grab a rimmed baking sheet and have it on standby.
 
-2 Make the dressing: Pour all the ingredients together in a jar and shake that shit up.
+2 Make the dressing: Pour all the ingredients together in a jar and shake that    up.
 
 3 For the salad: In a medium bowl, toss the beets together with the vinegar, olive oil, and a
 
 pinch of salt. Your hands might get kinda red and bloody looking from the beets. Don’t worry
 
-about that shit; it will wash off, so quit complaining. Pour the mixture onto the baking sheet
+about that   ; it will wash off, so quit complaining. Pour the mixture onto the baking sheet
 
 and roast for 20 minutes, stirring the beets halfway through.
 
 4 While the beets roast up, bring the water to a boil in a medium pot. Add the quinoa. Once
 
-that shit starts boiling again, cover, and adjust the heat to low. Cook the quinoa at a slow
+that    starts boiling again, cover, and adjust the heat to low. Cook the quinoa at a slow
 
-simmer until it is tender, about 15 minutes. Just taste it and you’ll figure that shit out. Drain
+simmer until it is tender, about 15 minutes. Just taste it and you’ll figure that    out. Drain
 
 any extra water that remains in the pot and scoop the quinoa into a medium bowl. Fold the
 

@@ -35,13 +35,13 @@ ground ginger. Make sure there are no lumps of brown sugar hanging around in the
 
 smaller bowl, mix together the shredded carrots, milk, and oil. Pour the wet ingredients into
 
-the dry ones and stir all that shit until there are only a couple dry spots. Fold in the nuts and
+the dry ones and stir all that    until there are only a couple dry spots. Fold in the nuts and
 
 raisins and stir until there aren’t any dry spots.
 
 3 Scoop spoonfuls of the dough onto the baking sheet about 1 inch apart. Bake until the
 
-bottoms are golden brown, 18 to 22 minutes. Then do whatever the fuck you do with freshly
+bottoms are golden brown, 18 to 22 minutes. Then do whatever the   you do with freshly
 
 baked cookies.
 
@@ -50,7 +50,7 @@ baked cookies.
 ## Modifications
 That’s about 2 medium carrots on a box grater.
 
- This shit is optional. These cookies are just as dope without them, too.
+ This    is optional. These cookies are just as dope without them, too.
 
 
 

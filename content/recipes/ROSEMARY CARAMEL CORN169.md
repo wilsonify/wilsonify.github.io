@@ -27,9 +27,9 @@ tags:
 
 2 Pour the popcorn in one big bowl with tall sides or two medium bowls so that you don’t spill it later while you’re trying to mix.
 
-3 In a small saucepan, melt the butter over medium heat. When it’s totally clear, add the rosemary and stir around for about 30 seconds. Add the brown sugar, maple syrup, and salt and simmer that shit for 2.5 to 3 minutes, stirring constantly so nothing burns. You want the sugar crystals to dissolve and a nice constant roll of bubbles through the whole sauce.
+3 In a small saucepan, melt the butter over medium heat. When it’s totally clear, add the rosemary and stir around for about 30 seconds. Add the brown sugar, maple syrup, and salt and simmer that    for 2.5 to 3 minutes, stirring constantly so nothing burns. You want the sugar crystals to dissolve and a nice constant roll of bubbles through the whole sauce.
 
-4 Stir in the baking soda and remove from the heat. It will kinda bubble up and turn less see-thru. Don’t worry. Mix it up well and pour it over the popcorn. Stir and stir until all that shit is lightly coated in that kick-ass caramel. Don’t taste it yet because you will burn the shit out of your tongue.
+4 Stir in the baking soda and remove from the heat. It will kinda bubble up and turn less see-thru. Don’t worry. Mix it up well and pour it over the popcorn. Stir and stir until all that    is lightly coated in that kick-ass caramel. Don’t taste it yet because you will burn the    out of your tongue.
 
 5 Pour the popcorn on the lined baking sheet in an even layer. Turn off the heat for the oven and then throw the baking sheet in. Leave it in there for 15 minutes to harden up and then serve. Store it in an airtight container or bag, but don’t plan on leftovers if you’ve got a full house.
 

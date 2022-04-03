@@ -17,9 +17,9 @@ tags:
 
 
 ## Instructions
-Pour all the ingredients into a jar and shake that shit up. Taste and add more of
+Pour all the ingredients into a jar and shake that    up. Taste and add more of
 
-whateverthefuck you think it needs. Orange, lime, or lemon works best.
+whateverthe  you think it needs. Orange, lime, or lemon works best.
 
 
 

@@ -28,7 +28,7 @@ tags:
 
 1 Cut the peaches into wedges no thicker than an inch. You can leave the skin on because
 
-everybody needs more fiber in their motherfucking diet. You should get around 12 wedges out
+everybody needs more fiber in their mother diet. You should get around 12 wedges out
 
 of each peach. Throw the cut-up peaches in a large bowl with the oil and mix them all together.
 
@@ -36,7 +36,7 @@ of each peach. Throw the cut-up peaches in a large bowl with the oil and mix the
 
 each side. You don’t need to cook them; you just want some char marks on there because that
 
-looks pro as fuck. Grilling the peaches also caramelizes their natural sugars, making them
+looks pro as  . Grilling the peaches also caramelizes their natural sugars, making them
 
 sweeter.
 

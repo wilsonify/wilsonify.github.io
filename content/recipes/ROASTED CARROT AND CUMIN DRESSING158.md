@@ -18,7 +18,7 @@ tags:
 Toss them together with the oil, cumin, and salt. Roast them in a small pan, covered, until the
 carrots are tender, 30 to 40 minutes.
 2 Let the carrots cool for a minute then add them to a food processor with the rest of your
-shit. Blend it until it’s smooth. This could take as long as 3 minutes.
+  . Blend it until it’s smooth. This could take as long as 3 minutes.
 
 # modifications
 

@@ -19,7 +19,7 @@ tags:
 1 Throw the tofu, shallot, and garlic into a blender or food processor and run until it looks all smooth. Throw in the rest of the ingredients and pulse it a couple of times so everything gets chopped up and mixed in but the herbs are still kinda visible.
 2 Let it sit in the fridge at least 1 hour before serving so that the flavors can get to know each other. Serve with whatever vegetables you like and get to dipping. It will keep for 3 to 4 days in the fridge.
 WANT TO MAKE IT A DRESSING?
-Just add 2 TBL of unsweetened plain almond milk to the blender to make it easier to pour later. Fucking done.
+Just add 2 TBL of unsweetened plain almond milk to the blender to make it easier to pour later.  done.
 
 # modifications
 

@@ -30,7 +30,7 @@ tags:
 
 1 In a small glass, mix together the broth, maple syrup, tomato paste, liquid smoke, and 1
 
-tsp of the soy sauce and set that shit aside.
+tsp of the soy sauce and set that    aside.
 
 2 Heat the oil in a big wok or skillet over medium heat. Crumble in the tempeh in bite-size
 
@@ -40,7 +40,7 @@ that broth mixture all over and let it cook for about 15 seconds. Add the garlic
 
 blend and cook for another 30 seconds. Almost done.
 
-3 Now we get to the greens. Pile those motherfuckers on top of the tempeh, pour in the
+3 Now we get to the greens. Pile those mother ers on top of the tempeh, pour in the
 
 lemon juice and remaining 1 tsp soy sauce, and stir everything around with the tempeh. It
 

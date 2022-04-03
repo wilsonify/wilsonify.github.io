@@ -37,11 +37,11 @@ into little trees no bigger than your thumb.
 
 2 Whisk together the flour and water in a big bowl until a batter forms with no chunks. Did
 
-you already fuck up and it’s all chunky? Start that shit over again. Toss in the cauliflower and
+you already   up and it’s all chunky? Start that    over again. Toss in the cauliflower and
 
 mix it around until all the pieces look a little coated. Spread the cauliflower out on the baking
 
-sheet and roast for 15 minutes. Mix those fuckers around halfway through roasting so all the
+sheet and roast for 15 minutes. Mix those  ers around halfway through roasting so all the
 
 sides get a little love.
 
@@ -61,7 +61,7 @@ everything is incorporated. Stick that in the fridge until it’s go time.
 
 hot sauce mixture from the stovetop. Make sure everything is coated. Drop those
 
-motherfuckers back on the baking sheet, leaving the extra sauce in the bowl, and roast for
+mother ers back on the baking sheet, leaving the extra sauce in the bowl, and roast for
 
 another 3 minutes just so everything is warm and delicious.
 

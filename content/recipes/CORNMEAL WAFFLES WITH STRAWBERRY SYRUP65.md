@@ -23,7 +23,7 @@ bean-size pieces. Throw them in a small saucepan with the rest of the syrup ingr
 
 warm it all over a medium-low heat. At first it might not look like there’s enough liquid in
 
-this bitch to make syrup, but once everything gets going the strawberries will fix that shit.
+this bitch to make syrup, but once everything gets going the strawberries will fix that   .
 
 Trust. Stir it around and bring it to a gentle simmer. Let it go for 15 to 20 minutes, stirring
 
@@ -50,11 +50,11 @@ and serve hot.
 
 
 ## Modifications
-Fresh strawberries are best but frozen will do as long as you thaw that shit out.
+Fresh strawberries are best but frozen will do as long as you thaw that    out.
 
  Add the 4 TBL if your strawberries aren’t that sweet or if you like a sweet-ass syrup.
 
- Same shit that you would use to make cornbread. Sometimes it’s called corn flour in the store. Just don’t buy
+ Same    that you would use to make cornbread. Sometimes it’s called corn flour in the store. Just don’t buy
 
 polenta and you’ll be cool.
 

@@ -42,7 +42,7 @@ and the water and stir-fry the potato, stirring often. If the potato starts to s
 more of the water as needed. Cook until the potato is close to tender and browning on some
 sides, 5 to 8 minutes. Add the onion and carrot and cook until the onions are translucent,
 about 3 more minutes. Add the 5-spice powder and garlic, mix well, then remove the
-vegetables from the pan. Scrape the pan clean cause we aren’t fucking done.
+vegetables from the pan. Scrape the pan clean cause we aren’t  done.
 3 In a small glass, mix together the soy sauce, vinegar, and chili paste. Heat the wok back up
 over medium heat and add the remaining 1 tsp oil. Throw in the rice and stir-fry until it
 begins to warm, 3 to 5 minutes. Drizzle the sauce over the rice, mix well, then add the cooked
@@ -52,8 +52,8 @@ and peas. Turn off the heat and serve immediately.
 # modifications
 
 Grapeseed, peanut, or regular sesame oil would be cool.
- Most grocery stores carry this shit with the rest of the spices. It’s a blend of clove, star anise, cinnamon, pepper,
+ Most grocery stores carry this    with the rest of the spices. It’s a blend of clove, star anise, cinnamon, pepper,
 ginger, and fennel seeds. It’s tasty as hell and you should own some. If you can’t find it, you can make your own
-blend or just leave it out and tell your grocer to get their shit together.
+blend or just leave it out and tell your grocer to get their    together.
  We used watercress, but mustard or arugula are fine if you can’t find that weedy looking bastard.
 	

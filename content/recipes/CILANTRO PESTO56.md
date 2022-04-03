@@ -26,7 +26,7 @@ tags:
 ## Instructions
 0 chop garlic
 
-1 Throw the cilantro, almonds, garlic, lemon zest, lemon juice, salt, oil, and broth in a food processor and blend until sorta smooth and, you know, pesto looking. No food processor? Just put the almonds in a bag and smash them until they are tiny and chop the rest of that shit up supersmall too. Mix all of it together with a fork until it looks like a paste.
+1 Throw the cilantro, almonds, garlic, lemon zest, lemon juice, salt, oil, and broth in a food processor and blend until sorta smooth and, you know, pesto looking. No food processor? Just put the almonds in a bag and smash them until they are tiny and chop the rest of that    up supersmall too. Mix all of it together with a fork until it looks like a paste.
 
 
 

@@ -43,9 +43,9 @@ tags:
 
 2 Now, make the bean balls. Chop up the onion and measure out .25 cup. Save the rest but
 
-push it to the side; we’ll use that shit in a bit. Mash up the beans in a large bowl until they
+push it to the side; we’ll use that    in a bit. Mash up the beans in a large bowl until they
 
-form a paste. Some whole bean bits are cool, but try to keep that shit to a minimum. Stir in
+form a paste. Some whole bean bits are cool, but try to keep that    to a minimum. Stir in
 
 the rest of the ingredients including the .25 cup chopped onion and mix it all up so that
 
@@ -77,18 +77,18 @@ the heat.
 
 soup over them. Serve it up right away. The balls will slowly break apart as you eat and
 
-everything will taste so damn good together you’ll understand why the fuck it’s called wedding
+everything will taste so damn good together you’ll understand why the   it’s called wedding
 
 soup.
 
 
 
 ## Modifications
-Or two 15-ounce cans. Kidney beans would work, too, but those motherfuckers are red and we didn’t want to
+Or two 15-ounce cans. Kidney beans would work, too, but those mother ers are red and we didn’t want to
 
 change the name of the recipe. Truth.
 
- Orzo, elbows, stars, letters, whateverthefuck you got.
+ Orzo, elbows, stars, letters, whateverthe  you got.
 
 1 Creamy Black Bean and Cilantro Dip
 

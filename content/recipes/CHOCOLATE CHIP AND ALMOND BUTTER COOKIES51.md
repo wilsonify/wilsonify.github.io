@@ -44,7 +44,7 @@ parchment paper.
 
 5 Scoop out a spoonful of dough onto the sheet and kind of flatten it out a bit until you get
 
-about a 2-inch-wide cookie. Keep going until you fucking run out of dough and then bake
+about a 2-inch-wide cookie. Keep going until you  run out of dough and then bake
 
 until the bottoms are nice and golden, 15 to 18 minutes. Take them off the sheet and let them
 
@@ -53,9 +53,9 @@ cool on a wire rack for at least 10 minutes before serving.
 
 
 ## Modifications
-It really helps the dough come together if this shit is cold, so just stick it in the fridge. You could use peanut butter if that’s all you got, but that is a totally different kind of cookie—just know that shit.
+It really helps the dough come together if this    is cold, so just stick it in the fridge. You could use peanut butter if that’s all you got, but that is a totally different kind of cookie—just know that   .
 
- Depends on how much chocolate you like in your cookies. That’s your fucking call.
+ Depends on how much chocolate you like in your cookies. That’s your  call.
 
 
 

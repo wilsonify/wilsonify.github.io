@@ -46,7 +46,7 @@ simmer for about 1.5 minutes. Drain.
 
 3 Toss the spices, salt, and olive oil together in a large bowl. Add the cauliflower and onion
 
-and stir ’til those fuckers are coated. Dump it on the baking sheet and bake until browned,
+and stir ’til those  ers are coated. Dump it on the baking sheet and bake until browned,
 
 stirring halfway, about 20 minutes.
 
@@ -61,7 +61,7 @@ plenty of salsa.
 ## Modifications
 Whatever you are cool with drinking the rest of is fine here. Just no coffee stout or anything heavy like that.
 
- For homemade shit, go to this page, but use what you got.
+ For homemade   , go to this page, but use what you got.
 
 
 

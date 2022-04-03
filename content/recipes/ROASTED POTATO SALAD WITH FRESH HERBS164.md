@@ -32,7 +32,7 @@ tags:
 
 2 Slice the potatoes in half lengthwise. If for some reason your little potatoes are not bite-size,
 
-then cut those fuckers into quarters instead and throw them in a bowl. Toss the potatoes with
+then cut those  ers into quarters instead and throw them in a bowl. Toss the potatoes with
 
 the olive oil, paprika, and salt until they all look covered. Pour them onto a rimmed baking
 
@@ -50,9 +50,9 @@ just mince and mix by hand if you don’t want to create another dirty dish.
 
 bowl and cover them with the herb sauce, making sure every spud gets some love. Taste and
 
-add some salt and pepper until it’s howeverthefuck you like it. Stick it in the fridge for at least
+add some salt and pepper until it’s howeverthe  you like it. Stick it in the fridge for at least
 
-1 hour so that the potatoes can absorb all that flavor and the garlic can mellow the fuck out.
+1 hour so that the potatoes can absorb all that flavor and the garlic can mellow the   out.
 
 Serve cold or at room temperature.
 

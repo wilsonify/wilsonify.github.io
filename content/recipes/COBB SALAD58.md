@@ -43,7 +43,7 @@ tags:
 ## Instructions
 0 chop romaine hear, red leaf lettuce, avacado, and tomatoes; slice onion
 
-1 First, make the dressing. In a small glass, mix together the mustard, maple syrup, and garlic. Whisk in the vinegars. Then slowly add the oil and stir that shit up until it’s all combined. Set it in the fridge until it’s go-time.
+1 First, make the dressing. In a small glass, mix together the mustard, maple syrup, and garlic. Whisk in the vinegars. Then slowly add the oil and stir that    up until it’s all combined. Set it in the fridge until it’s go-time.
 
 2 Next, make the onions: In a medium skillet, heat the oil up over medium-high heat. Add the onions and sauté until they start to brown up and look kinda caramelized, 8 to 10 minutes. While that is going down, mix together the soy sauce or tamari, water, and liquid smoke in a small glass. When the onions are done caramelizing, pour the soy sauce mixture over those tasty sons of bitches and cook until all the liquid has evaporated, about 1 minute longer. Scrape them onto a plate and set aside.
 
@@ -58,7 +58,7 @@ You know what you’re about. Add the extra garlic.
 
  WTF?
 
- Really, any miso paste is cool here. Red is just our favorite. Can’t find that shit at all? Replace it with 1 tsp soy sauce or tamari and move the fuck on.
+ Really, any miso paste is cool here. Red is just our favorite. Can’t find that    at all? Replace it with 1 tsp soy sauce or tamari and move the   on.
 
  A 15-ounce can of chickpeas, drained and rinsed, is cool, too.
 

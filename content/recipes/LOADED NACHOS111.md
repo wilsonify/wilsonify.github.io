@@ -20,11 +20,11 @@ tags:
 
 
 ## Instructions
-1 You know how nachos work, so you can pile this shit on however you like and leave off or add whatever the fuck you want. We like to put the warm chips out in a thin layer on a tray or giant plate. A huge pile of chips where you end up with a shit-ton of dry chips at the bottom is a fucking bummer. Thin layer is the way to go.
+1 You know how nachos work, so you can pile this    on however you like and leave off or add whatever the   you want. We like to put the warm chips out in a thin layer on a tray or giant plate. A huge pile of chips where you end up with a   -ton of dry chips at the bottom is a  bummer. Thin layer is the way to go.
 
 2 Scatter the black beans and cabbage over that, then drizzle the queso all over the chips. Glob on nice spoonfuls of guacamole and salsa all over the platter then sprinkle with the jalapeño and cilantro. Drizzle over some hot sauce if you roll like that.
 
-3 Serve that shit right up to the happy crowd.
+3 Serve that    right up to the happy crowd.
 
 
 

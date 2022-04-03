@@ -29,7 +29,7 @@ middle and add the milk and mashed up banana. Mix that all together until there 
 
 dry spots, but don’t go crazy. Mixing it too much will make your pancakes tough, so just chill
 
-the fuck out sir mix-a-lot.
+the   out sir mix-a-lot.
 
 2 Now, you probably know what to do once the batter is done, but in case this is your first
 

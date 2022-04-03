@@ -24,13 +24,13 @@ tags:
 
 
 ## Instructions
-1 In a large pot, heat the water over medium-high heat until you see bubbles forming on the bottom. You don’t need to fucking boil it. Turn off the heat and add the tea bags. Let them chill out in the hot water for about 5 minutes. You know, steeping and shit.
+1 In a large pot, heat the water over medium-high heat until you see bubbles forming on the bottom. You don’t need to  boil it. Turn off the heat and add the tea bags. Let them chill out in the hot water for about 5 minutes. You know, steeping and   .
 
-2 Pull the bags out and add the .25 cup maple syrup, the whiskey, and citrus juices. Stir and taste. If you like it a little sweeter, just fucking add some more syrup.
+2 Pull the bags out and add the .25 cup maple syrup, the whiskey, and citrus juices. Stir and taste. If you like it a little sweeter, just  add some more syrup.
 
 3 Let the tea sit in the fridge until it’s cool. Serve this summertime staple with some ice and orange or lemon slices because then it looks classy as hell.
 
-Maple syrup can be expensive, so feel free to sub it with whatthefuckever liquid sweetener you’ve got, like agave.
+Maple syrup can be expensive, so feel free to sub it with whatthe ever liquid sweetener you’ve got, like agave.
 
 Optional, but c’mon.
 

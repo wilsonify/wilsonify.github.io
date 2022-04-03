@@ -32,13 +32,13 @@ tags:
 
 3 In a medium glass, stir together the maple syrup, oil, and vanilla. Pour this all over the oat
 
-mixture and stir that shit around until everything looks coated. Add the cinnamon and the salt
+mixture and stir that    around until everything looks coated. Add the cinnamon and the salt
 
 and stir.
 
 4 Pour all of this evenly over that baking sheet and stick it in the oven for 40 minutes. Stir it
 
-every 10 minutes so that it cooks evenly. You’ll know this shit is done when everything looks
+every 10 minutes so that it cooks evenly. You’ll know this    is done when everything looks
 
 kinda toasted and the oats feel crispy instead of damp. Stir in the dried fruit now if you’re using
 
@@ -50,16 +50,16 @@ weeks.
 
 strawberries; walnuts and dried pears or figs; pecans and dried cherries; peanuts and dried
 
-apples or bananas. Just use whateverthefuck sounds good to you.
+apples or bananas. Just use whateverthe  sounds good to you.
 
 
 
 ## Modifications
 Basically, 1 cup of whatever nuts you prefer.
 
-No millet? Fuck it, just add more oats.
+No millet?   it, just add more oats.
 
-Legit syrup can get kinda fucking expensive. But so can granola. Save up for the good shit.
+Legit syrup can get kinda  expensive. But so can granola. Save up for the good   .
 
 Or use any dried fruit you like.
 

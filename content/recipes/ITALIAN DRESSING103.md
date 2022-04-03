@@ -22,7 +22,7 @@ tags:
 
 
 ## Instructions
-In a small jar, combine the oil, vinegar, lemon juice, garlic, dried basil, thyme, onion powder, and pepper and mix that shit up.
+In a small jar, combine the oil, vinegar, lemon juice, garlic, dried basil, thyme, onion powder, and pepper and mix that    up.
 
 
 

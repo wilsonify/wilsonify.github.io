@@ -23,14 +23,14 @@ tags:
 
 
 ## Instructions
-Throw everything in a blender that can fucking handle some ice and let that shit run until your drink as is smooth as you imagine yourself being after you drink it.
+Throw everything in a blender that can  handle some ice and let that    run until your drink as is smooth as you imagine yourself being after you drink it.
 
 
 
 ## Modifications
-Or, you know, whatever amount of rum you want based on how shitty your day was. No judgment here. Not drinking? Substitute water or coconut water for a chill treat without the kick.
+Or, you know, whatever amount of rum you want based on how   ty your day was. No judgment here. Not drinking? Substitute water or coconut water for a chill treat without the kick.
 
- You can totally leave agave out if you don’t like your drinks sweet. But we say fucking go for it. You’ve earned it.
+ You can totally leave agave out if you don’t like your drinks sweet. But we say  go for it. You’ve earned it.
 
 
 

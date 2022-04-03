@@ -39,7 +39,7 @@ and let that all simmer until the lentils are soft and mushy and the water is mo
 
 10 minutes. Drain away any extra water and let the lentils cool while you prep all the other
 
-shit.
+  .
 
 2 Mash the white beans in a large bowl and then add the lentils and the rest of the ingredients
 
@@ -55,7 +55,7 @@ up to 4 hours.
 
 cooking spray and bake them for about 30 minutes, flipping them over halfway. You want them
 
-to be golden on both sides. Serve them up with whatever the fuck you like on a burger and then
+to be golden on both sides. Serve them up with whatever the   you like on a burger and then
 
 go to town.
 

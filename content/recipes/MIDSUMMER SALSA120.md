@@ -24,10 +24,10 @@ tags:
 
 # instructions
 0 chop onion and tomatoes. dice jalapeno
-1 If you’re a picky motherfucker about salsa, you’ve got a couple options here. Mix everything
+1 If you’re a picky mother er about salsa, you’ve got a couple options here. Mix everything
 together in a bowl and leave it chunky, or throw everything in a food processor and run that
-shit until you get the consistency your ass prefers. Maybe you like your salsa chunky, maybe
-not. If salsa is being served, who really gives a fuck about consistency? Chill at least 20 minutes
+   until you get the consistency your ass prefers. Maybe you like your salsa chunky, maybe
+not. If salsa is being served, who really gives a   about consistency? Chill at least 20 minutes
 before serving.
 
 # modifications

@@ -28,12 +28,12 @@ Dijon mustard, lettuce, and tomato
 2 To make the almonds: Mix together all the liquid ingredients in a small bowl and combine
 the nutritional yeast, paprika, and garlic powder in a separate bowl. Grab the almonds, add
 them to the liquid bowl, and stir that together to make sure all the almonds are covered. Scoop
-out the almonds, add them to the bowl with all the dry seasonings, and stir that shit around
+out the almonds, add them to the bowl with all the dry seasonings, and stir that    around
 until they are covered. When they look all seasoned, scoop them out and lay them on the
 baking sheet. Toast them in the oven for 10 minutes, stir them around, and then put them
 back in the oven for 5 more minutes. Take them out and let those sons of bitches cool.
-3 While all that shit is happening, add the chickpeas, avocado, and lemon juice to a big bowl
-and mash the fuck out of them. Some chunks are fine, whatever you like. Fold in the onion, dill,
+3 While all that    is happening, add the chickpeas, avocado, and lemon juice to a big bowl
+and mash the   out of them. Some chunks are fine, whatever you like. Fold in the onion, dill,
 celery, hot sauce, salt, and pepper, then mix it all together.
 4 Once the almonds have cooled, chop them up and add them to the bowl.
 5 Serve up this badass filling on some toasted bread with Dijon mustard, lettuce, and tomato.

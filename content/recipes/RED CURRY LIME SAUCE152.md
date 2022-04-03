@@ -27,6 +27,6 @@ cool for at least a couple minutes before serving.
 # modifications
 
 See this page for some more about this.
-Either of these will thicken the fuck out of your sauce.
+Either of these will thicken the   out of your sauce.
 	
 

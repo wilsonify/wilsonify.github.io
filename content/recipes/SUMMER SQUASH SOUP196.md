@@ -39,7 +39,7 @@ and creamy and without a ton of chunks. (You could also pour it into a regular b
 
 it that way. Just return the blended soup to the pot.) Bring it back up to a simmer. Turn off
 
-the heat, add the chives, and then taste. Add more salt, garlic, chives, your favorite shit. Serve
+the heat, add the chives, and then taste. Add more salt, garlic, chives, your favorite   . Serve
 
 right away.
 

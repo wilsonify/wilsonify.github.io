@@ -36,7 +36,7 @@ bubble around the edges. Turn off the heat and add the tea bags. Let them steep 
 
 minutes while you do something incredibly unproductive. If you let the tea steep too long it
 
-could taste bitter, so set a fucking timer. Take the bags out and stick all that in the fridge to
+could taste bitter, so set a  timer. Take the bags out and stick all that in the fridge to
 
 cool down for at least 1.5 hours.
 
@@ -47,7 +47,7 @@ run until it is smooth.
 
 
 ## Modifications
-Honestly you can use chai, yerba maté, peppermint, whateverthefuck tea you like to drink. Go crazy.
+Honestly you can use chai, yerba maté, peppermint, whateverthe  tea you like to drink. Go crazy.
 
  This sweetens it up and helps it get creamy. It’s a good idea to keep a bag of peeled, frozen banana chunks in the
 

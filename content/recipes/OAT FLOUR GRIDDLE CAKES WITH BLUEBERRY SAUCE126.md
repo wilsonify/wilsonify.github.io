@@ -33,9 +33,9 @@ sure everything is covered and then let it sit for 10 minutes so that those oats
 
 2 In a small bowl, mix together the flour, sugar, baking powder, salt, and cinnamon. Stir the
 
-flour mixture into the wet oats and mix until all that shit is combined.
+flour mixture into the wet oats and mix until all that    is combined.
 
-3 Now it’s time to cook these fuckers. Grab a skillet or griddle and heat it over medium heat.
+3 Now it’s time to cook these  ers. Grab a skillet or griddle and heat it over medium heat.
 
 Lightly grease the pan with some oil and pour some of the thick batter onto the griddle for
 
@@ -45,14 +45,14 @@ toasted oats, about 2 minutes. Flip and continue cooking the other side until th
 
 golden brown all over, 1 to 2 minutes. Serve warm with some blueberry sauce for a great
 
-fucking time.
+ time.
 
 
 
 ## Modifications
-Not that instant bullshit. Real rolled oats.
+Not that instant bull  . Real rolled oats.
 
- This might sound fancy, but take some rolled oats, throw them in a blender or food processor, and run until that shit looks like flour. You can use all-purpose or whole wheat flour here too if it’s too early to be fucking with your blender.
+ This might sound fancy, but take some rolled oats, throw them in a blender or food processor, and run until that    looks like flour. You can use all-purpose or whole wheat flour here too if it’s too early to be  with your blender.
 
 
 

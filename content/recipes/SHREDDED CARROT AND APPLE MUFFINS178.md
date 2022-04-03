@@ -14,11 +14,11 @@ tags:
 ## Ingredients
 * lemon juice
 * 1 tsp vanilla extract 
-* 1/2 cup nuts like walnuts or almonds (optional as fuck) 
+* 1/2 cup nuts like walnuts or almonds (optional as  ) 
 
 
 ## Instructions
-1 Heat your oven to 375°F. Grab a muffin tin and grease that fucker up or throw in some
+1 Heat your oven to 375°F. Grab a muffin tin and grease that  er up or throw in some
 
 muffin liners.
 
@@ -30,7 +30,7 @@ everything is pretty well combined. See any big-ass globs of carrots? Keep stirr
 
 3 Pour the wet ingredients into the flour mixture and stir until just combined. If you mix it
 
-up too much, your muffins will be tough and sad. Don’t fuck this up after you did all that
+up too much, your muffins will be tough and sad. Don’t   this up after you did all that
 
 grating. Fold in the nuts now if you are using them.
 

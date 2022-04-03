@@ -30,9 +30,9 @@ tags:
 
 1 Make the dressing and set aside.
 
-2 Cook the pasta according to the package directions. While the pasta is boiling away, cut up all your veggies. About 30 seconds before the pasta is done, add the broccoli. This will soften it up a little for the salad because we’re too lazy to steam that shit separately. You, too? Awesome. Drain the whole thing and run under cool water to stop that broccoli from overcooking.
+2 Cook the pasta according to the package directions. While the pasta is boiling away, cut up all your veggies. About 30 seconds before the pasta is done, add the broccoli. This will soften it up a little for the salad because we’re too lazy to steam that    separately. You, too? Awesome. Drain the whole thing and run under cool water to stop that broccoli from overcooking.
 
-3 Grab a big-ass bowl and throw in the cooked pasta and broccoli, the bell pepper, cucumber, tomatoes, red onion, basil, and olives (if using). Pour the dressing on top and toss that shit together. Add the salt and a little pepper and keep tossing. Stick it in the fridge and let it chill out for at least an hour because there’s no such thing as hot pasta salad, that’s just pasta. Practice some damn patience. Taste and then add whatthefuckever else it might need.
+3 Grab a big-ass bowl and throw in the cooked pasta and broccoli, the bell pepper, cucumber, tomatoes, red onion, basil, and olives (if using). Pour the dressing on top and toss that    together. Add the salt and a little pepper and keep tossing. Stick it in the fridge and let it chill out for at least an hour because there’s no such thing as hot pasta salad, that’s just pasta. Practice some damn patience. Taste and then add whatthe ever else it might need.
 
 4 Serve cool or at room temperature.
 
@@ -43,7 +43,7 @@ We like rotini but you can use penne, big macaroni, or large shells. Whatever yo
 
  Don’t know how to roast a damn pepper?
 
- Optional, but people will be expecting that olive shit.
+ Optional, but people will be expecting that olive   .
 
 
 

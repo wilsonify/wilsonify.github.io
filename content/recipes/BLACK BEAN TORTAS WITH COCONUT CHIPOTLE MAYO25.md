@@ -48,11 +48,11 @@ tags:
 
 1 First, make the mayo. Throw all those mayo ingredients in your blender or food processor
 
-and run that motherfucker on high for about a minute so everything is good and mixed. Taste
+and run that mother er on high for about a minute so everything is good and mixed. Taste
 
 and see if you want more hot sauce. Pour this all in a cup or bowl and store it in the fridge
 
-until you need it. It will thicken in there, just fucking be patient.
+until you need it. It will thicken in there, just  be patient.
 
 2 Next, make the beans. Heat the oil in a large soup pot over medium heat. Throw in the
 
@@ -60,26 +60,26 @@ onion and sauté it until it starts to look golden brown, about 5 minutes. Add t
 
 powder, and cumin and cook for another 30 seconds. Add the beans and broth and stir that
 
-shit up. Let it come to a simmer and then turn down the heat real low. Using a potato masher
+   up. Let it come to a simmer and then turn down the heat real low. Using a potato masher
 
 or big-ass spoon, smash up all those beans as best you can. Think chunky guacamole. Add the
 
-lime juice and then taste. Add some salt or more spices if that’s the kinda shit you’re into.
+lime juice and then taste. Add some salt or more spices if that’s the kinda    you’re into.
 
 Now turn off the heat and make a torta.
 
-3 Grab a toasted roll and smear with a bunch of the coconut chipotle mayo. Pile a fuckton of
+3 Grab a toasted roll and smear with a bunch of the coconut chipotle mayo. Pile a  ton of
 
-the beans on the bottom half. In between, add whateverthefuck you want. Lettuce, tomatoes,
+the beans on the bottom half. In between, add whateverthe  you want. Lettuce, tomatoes,
 
-red onion, and some avocado are some time-tested choices, but be creative and shit. Serve right
+red onion, and some avocado are some time-tested choices, but be creative and   . Serve right
 
 away with some extra hot sauce.
 
 
 
 ## Modifications
-Yeah, chia seeds, like the fucking chia pet. They are rich in omega-3s and full of fiber. If you can’t find them,
+Yeah, chia seeds, like the  chia pet. They are rich in omega-3s and full of fiber. If you can’t find them,
 
 flaxseeds are an OK sub.
 

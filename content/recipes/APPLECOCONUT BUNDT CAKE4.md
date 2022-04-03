@@ -37,24 +37,24 @@ tags: [recipe]
 
 1 Warm the oven to 325°F. Grease and flour a Bundt pan and set it aside.
 
-2 In a large measuring cup, toss the cubed apples with 2 TBL of the flour until the apples are coated. Set that shit aside.
+2 In a large measuring cup, toss the cubed apples with 2 TBL of the flour until the apples are coated. Set that    aside.
 
 3 In a large bowl, stir together the milks, oil, sugars, extract, and vinegar. Mix well until all the ingredients are incorporated.
 
-4 In a separate large bowl, whisk together the remaining 3 cup flour, the baking powder, baking soda, salt, and spices. Pour half the flour mixture into the milk mixture and stir that batter up until there are no more large dry spots. Add the second half and do the same shit. Once there are no more dry patches in the batter, gently fold in the apples and the coconut. The batter will be thick, but you haven’t done anything wrong, so keep going. Pour the mixture into the prepared pan and kinda spread that shit around so it looks even. If you got fancy and picked up an extra detailed Bundt pan, let the mixture sit for a couple minutes so that the thick batter has time to settle into all the detailing.
+4 In a separate large bowl, whisk together the remaining 3 cup flour, the baking powder, baking soda, salt, and spices. Pour half the flour mixture into the milk mixture and stir that batter up until there are no more large dry spots. Add the second half and do the same   . Once there are no more dry patches in the batter, gently fold in the apples and the coconut. The batter will be thick, but you haven’t done anything wrong, so keep going. Pour the mixture into the prepared pan and kinda spread that    around so it looks even. If you got fancy and picked up an extra detailed Bundt pan, let the mixture sit for a couple minutes so that the thick batter has time to settle into all the detailing.
 
-5 Throw that shit onto the middle rack of the oven and bake until a toothpick stuck into multiple areas of the cake comes out clean, 45 minutes to 1 hour. You got to test around with a Bundt. Let the cake cool in the pan for 10 minutes. Then using a plate to cover the bottom of the pan, flip that shit over so that the cake it sitting on the plate. Let it cool completely while it chills out there.
+5 Throw that    onto the middle rack of the oven and bake until a toothpick stuck into multiple areas of the cake comes out clean, 45 minutes to 1 hour. You got to test around with a Bundt. Let the cake cool in the pan for 10 minutes. Then using a plate to cover the bottom of the pan, flip that    over so that the cake it sitting on the plate. Let it cool completely while it chills out there.
 
-6 Serve with a light dusting of powdered sugar and some whipped cream. (Or with a side of yogurt if you are calling this shit breakfast. This is a safe space. No judgment.)
+6 Serve with a light dusting of powdered sugar and some whipped cream. (Or with a side of yogurt if you are calling this    breakfast. This is a safe space. No judgment.)
 
 
 
 ## Modifications
 Whatever kind of crisp apples you like to eat will work here.
 
- This spice is fucking delicious, but if you don’t want to hunt this shit down, just add the same amount of cinnamon.
+ This spice is  delicious, but if you don’t want to hunt this    down, just add the same amount of cinnamon.
 
-Want to talk shit but don’t have a Bundt pan? Ninety-eight percent of thrift stores we’ve been in have at least one Bundt lying around. If you really can’t find one, grab an angel food cake pan instead. This cake demands a hole in the center to replicate the shit-talking circle of the neighbor gossips, so come correct.
+Want to talk    but don’t have a Bundt pan? Ninety-eight percent of thrift stores we’ve been in have at least one Bundt lying around. If you really can’t find one, grab an angel food cake pan instead. This cake demands a hole in the center to replicate the   -talking circle of the neighbor gossips, so come correct.
 
 
 

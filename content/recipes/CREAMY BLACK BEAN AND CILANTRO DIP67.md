@@ -24,7 +24,7 @@ tags:
 
 
 ## Instructions
-Throw all of that shit in a food processor and run until creamy. Or mash the everliving fuck
+Throw all of that    in a food processor and run until creamy. Or mash the everliving  
 
 out of it with a potato masher until it is the consistency you want. Serve warm, room
 

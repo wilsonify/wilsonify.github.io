@@ -31,7 +31,7 @@ tags:
 ## Instructions
 1 Warm up the waffle iron.
 
-2 In a small blender, mix together the tofu, milk, vanilla, lemon zest, and lemon juice and run that shit until everything is mixed up and looking smooth.
+2 In a small blender, mix together the tofu, milk, vanilla, lemon zest, and lemon juice and run that    until everything is mixed up and looking smooth.
 
 3 In a large bowl, whisk together the flour, sugar, baking powder, baking soda, and salt so that they’re all mixed up. Make a well in the center and add the tofu/milk mixture. Whisk everything together until it is just kinda starting to combine and then fold in the poppy seeds. Keep mixing until there aren’t any more dry spots and only a few lumps, no need to go crazy.
 
@@ -40,7 +40,7 @@ tags:
 
 
 ## Modifications
-No clue on how to do this zest shit?
+No clue on how to do this zest   ?
 
  Not required but the waffles are way better with them.
 

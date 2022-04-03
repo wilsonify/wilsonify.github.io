@@ -22,7 +22,7 @@ tags:
 ## Instructions
 1 Peel the fruit and break them up into segments. Try to get all that white pith off because
 
-that shit will taste bitter. Lay the segments on a baking sheet lined with wax paper in some
+that    will taste bitter. Lay the segments on a baking sheet lined with wax paper in some
 
 kind of order.
 
@@ -36,7 +36,7 @@ off the heat.
 
 sheet. Repeat with remaining segments. Sprinkle the chocolate dipped ends with some sea salt
 
-to dazzle motherfuckers.
+to dazzle mother ers.
 
 4 Place the baking sheet in a cool area and let the chocolate firm up before serving, 15 to 45
 

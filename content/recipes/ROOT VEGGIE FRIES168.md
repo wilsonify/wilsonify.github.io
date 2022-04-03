@@ -24,7 +24,7 @@ warm with your favorite dipping sauce.
 
 # modifications
 
-Fry size, for any of you dense motherfuckers out there. You can grab potatoes, carrots, parsnips, turnips—whatever
+Fry size, for any of you dense mother ers out there. You can grab potatoes, carrots, parsnips, turnips—whatever
 mix you like.
 	
 

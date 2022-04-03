@@ -21,12 +21,12 @@ tags:
 ## Instructions
 0 roast bell peppers
 
-1 Throw all that shit in a blender and run it until the sauce looks saucy. You know what the fuck that means. This will keep in the fridge for 2 weeks, no problem.
+1 Throw all that    in a blender and run it until the sauce looks saucy. You know what the   that means. This will keep in the fridge for 2 weeks, no problem.
 
 
 
 ## Modifications
-Optional, but way fucking worth it. Learn how to roast those fuckers up.
+Optional, but way  worth it. Learn how to roast those  ers up.
 
 
 

@@ -38,7 +38,7 @@ tags:
 
 
 ## Instructions
-1 Make the dressing: Throw the mustard, sweetener, garlic, lemon juice, vinegars, and olive oil together in a small jar and shake the fuck out of it. Set it aside.
+1 Make the dressing: Throw the mustard, sweetener, garlic, lemon juice, vinegars, and olive oil together in a small jar and shake the   out of it. Set it aside.
 
 2 Get the salad going: Place a steamer insert and a couple inches of water in a small pot. Bring to a boil over medium heat. Add the green beans, cover, and steam until they’re tender but not sad and mushy, 8 to 10 minutes.
 
@@ -49,15 +49,15 @@ tags:
 
 
 ## Modifications
-You could use frozen here instead of fresh, but we aren’t down with canned green beans. They are always way too fucking mushy.
+You could use frozen here instead of fresh, but we aren’t down with canned green beans. They are always way too  mushy.
 
- One 15-ounce can of each bean, drained and rinsed, would do too. Also, feel free to mix things up. You could do shelled edamame, navy, and kidney, or whateverthefuck you’ve got. Just try to mix up colors and the textures so this isn’t boring as fuck to eat. All mushy beans = a terrible salad.
+ One 15-ounce can of each bean, drained and rinsed, would do too. Also, feel free to mix things up. You could do shelled edamame, navy, and kidney, or whateverthe  you’ve got. Just try to mix up colors and the textures so this isn’t boring as   to eat. All mushy beans = a terrible salad.
 
  About 5 ribs celery.
 
  We used flat-leaf parsley because we’re fancy like that, but use whatever your store stocks.
 
- Celery seed is your secret weapon to make food that screams “summer party picnic table shit.” It should be with the rest of the spices at the store. If you can’t find it, just leave it out and tell your grocery store to get their shit in order.
+ Celery seed is your secret weapon to make food that screams “summer party picnic table   .” It should be with the rest of the spices at the store. If you can’t find it, just leave it out and tell your grocery store to get their    in order.
 
 
 

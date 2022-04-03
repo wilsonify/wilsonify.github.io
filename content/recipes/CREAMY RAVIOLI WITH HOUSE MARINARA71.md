@@ -22,8 +22,8 @@ tags:
 a crater in the center of that and add ¾ cup of the water and the olive oil. Mix the liquids and
 flour together until a shaggy dough comes together. If there’s still a bunch of dry-ass flour in
 the bowl, add the remaining .25 cup water—but no more—1 TBL at a time until that
-shit comes together (it should be a little drier and less sticky than pizza dough). Once you’ve
-got your ball of dough, knead it on a well-floured surface for 10 minutes so that shit gets nice
+   comes together (it should be a little drier and less sticky than pizza dough). Once you’ve
+got your ball of dough, knead it on a well-floured surface for 10 minutes so that    gets nice
 and elastic. If you don’t do this, your dough will be pasty and gross, so don’t get lazy. Place the
 dough back in the bowl, cover, and let it rest in the fridge for at least 30 minutes but up to 2
 hours.
@@ -44,11 +44,11 @@ depending on the size of your pot. Boil gently until the raviolis float, 2 to 4 
 
 # modifications
 
-If you’re feeling lazy as fuck or are scared of making your own dough, you can cheat and just buy wonton
+If you’re feeling lazy as   or are scared of making your own dough, you can cheat and just buy wonton
 wrappers and use them instead. Skip the whole ravioli stamp and rolling out thing. Just place a little filling in the
 center of a wonton wrapper, wet the edges, and press another wrapper over the top, making sure to seal the edges.
-Freeze them or cook them right away just like the homemade shit.
- That ravioli stamp shouldn’t be more than a couple bucks at the store and it’ll make this whole fucking process
+Freeze them or cook them right away just like the homemade   .
+ That ravioli stamp shouldn’t be more than a couple bucks at the store and it’ll make this whole  process
 easier. Or you can use a knife and just cut those bastards out if you are feeling brave. Just remember to wet your
 fingers and press down the edges so the filling doesn’t spill out while you cook.
  Or just serve with your favorite sauce or with the basil pesto from the Mixed Mushroom and Spinach Lasagna

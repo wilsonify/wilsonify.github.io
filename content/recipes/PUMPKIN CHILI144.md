@@ -36,7 +36,7 @@ sauté them until they begin to brown, about 5 minutes. Add the garlic, jalapeno
 
 spices and cook that all together for another 30 seconds. Add the tomatoes, pumpkin, broth,
 
-and beans and stir that up so everything is mixed. Get those flavors mingling and shit. Turn
+and beans and stir that up so everything is mixed. Get those flavors mingling and   . Turn
 
 down the heat, cover, and let that simmer together for about 15 minutes. Stir it around every
 
@@ -53,9 +53,9 @@ Fire-roasted tomatoes are damn delicious if you can find them.
 
  You can buy canned pumpkin puree or cut up a fresh pumpkin into chunks, steam it until it is tender, and puree
 
-the fuck out of it until you have 1.5 cup. If you try to make this chili with pumpkin pie filling, don’t complain
+the   out of it until you have 1.5 cup. If you try to make this chili with pumpkin pie filling, don’t complain
 
-about how fucked up it tastes. You did that dumb shit yourself.
+about how  ed up it tastes. You did that dumb    yourself.
 
  Whatever beans you prefer in chili are cool, but if you need direction, half black bean and half pinto make a
 

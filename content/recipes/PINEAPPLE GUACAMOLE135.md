@@ -27,9 +27,9 @@ tags:
 ## Instructions
 1 Mash up the avocado into nice chunks. Add everything to the avocado and stir. Taste and add
 
-more of your favorite shit. Serve at room temp or chill. Eat this the day you make it. Why the
+more of your favorite   . Serve at room temp or chill. Eat this the day you make it. Why the
 
-fuck would you wait?
+  would you wait?
 
 
 

@@ -18,7 +18,7 @@ tags:
 
 2 When all the peppers are done, squeeze in a little lemon juice, mix, sprinkle in the salt, and toss again. Serve right away with some drinks handy.
 
-Want to mix up the flavors? Replace the salt with a splash of soy sauce or tamari and .25 tsp toasted sesame oil and you’ve got a whole new fucking dish. ACHIEVEMENT UNLOCKED: SUPER SIMPLE BONUS RECIPE
+Want to mix up the flavors? Replace the salt with a splash of soy sauce or tamari and .25 tsp toasted sesame oil and you’ve got a whole new  dish. ACHIEVEMENT UNLOCKED: SUPER SIMPLE BONUS RECIPE
 
 
 

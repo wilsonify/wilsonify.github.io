@@ -20,7 +20,7 @@ tags:
 
 1 Mix all the ingredients for the citrus sesame sauce together in a small glass.
 
-2 Cook the noodles according to the package directions, because all that shit is different.
+2 Cook the noodles according to the package directions, because all that    is different.
 
 When they are done, drain and rinse them with cold water so that they stop cooking and don’t
 

@@ -19,13 +19,13 @@ tags:
 ## Instructions
 1 Mix the couscous, salt, and spices in a medium saucepot with a tight-fitting lid. Add the
 
-boiling water to the couscous mix without splashing it around and burning the fuck out of
+boiling water to the couscous mix without splashing it around and burning the   out of
 
 your hand. Stir everything up and quickly put on the lid. Let it rest for at least 8 minutes. The
 
 couscous should absorb all the water while you wait and it should be tender when you take off
 
-the lid. Easy shit.
+the lid. Easy   .
 
 2 While your ass is waiting, mix together the olive oil and rice vinegar in a small glass. Chop
 
@@ -35,7 +35,7 @@ up the spinach into thick ribbons.
 
 and stir it up some more until it is mixed. Gently fold in the orange pieces and spinach. Season
 
-to your fucking taste . Serve cold or at room temperature.
+to your  taste . Serve cold or at room temperature.
 
 
 

@@ -36,7 +36,7 @@ quinoa is tender, 15 to 18 minutes. If the quinoa is ready but there is water le
 
 just drain it in your mesh strainer, return it to the pot, and cover it with a towel while you get
 
-your other shit in order.
+your other    in order.
 
 2 Mix together the lemon zest, lemon juice, vinegar, and remaining 2 TBL olive oil in a
 
@@ -44,16 +44,16 @@ small glass. After the quinoa has cooled for a couple of minutes, add the lemon 
 
 and green onions to it. Toss well and fold in the almonds. Taste to see if you want more salt,
 
-mint, or whatthefuckever. Serve at room temperature or cold.
+mint, or whatthe ever. Serve at room temperature or cold.
 
 
 
 ## Modifications
-Rinse it under some cool water to make sure it isn’t bitter as fuck when you cook it.
+Rinse it under some cool water to make sure it isn’t bitter as   when you cook it.
 
  Just use the smallest side on your box grater to grate the zest. You don’t need any fancy equipment.
 
- The almonds are optional but add a fucking crunch you won’t regret.
+ The almonds are optional but add a  crunch you won’t regret.
 
 
 

@@ -48,7 +48,7 @@ paste. Make sure that you stir that son of a bitch around enough so that the pas
 
 sitting in a clump. Add the broth and let that all come to a simmer.
 
-3 Now it’s time to take this motherfucker up a notch. Add the lime juice and tortilla squares.
+3 Now it’s time to take this mother er up a notch. Add the lime juice and tortilla squares.
 
 Stir everything up and let that all gently simmer together until the tortillas get nice and soft,
 

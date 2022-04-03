@@ -29,7 +29,7 @@ tags:
 ## Instructions
 1 Warm up your oven to 400°F. Grab a 9 by 13-inch baking pan, like what you might use for lasagna, and set it aside.
 
-2 Chop up the potatoes (yes, leave the fucking skin on) about the size of your thumbnail. Do the same damn thing with the tempeh, bell pepper, and onion.
+2 Chop up the potatoes (yes, leave the  skin on) about the size of your thumbnail. Do the same damn thing with the tempeh, bell pepper, and onion.
 
 3 In a large bowl, mix together the broth, oil, lime juice, garlic, spices, and salt. Add the chopped veggies and tempeh to the bowl and stir it all up until everything is coated with flavor. Throw it all into the baking pan, yes including the liquid, cover it with foil, and bake for 20 minutes.
 

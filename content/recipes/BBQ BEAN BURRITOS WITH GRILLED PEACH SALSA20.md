@@ -42,7 +42,7 @@ tags:
 
 sauce, broth, OJ, brown sugar, molasses, and soy sauce in a food processor or blender and run
 
-that fucker until a smooth sauce forms. Pour that into a medium saucepan over medium-low
+that  er until a smooth sauce forms. Pour that into a medium saucepan over medium-low
 
 heat, fold in the beans, and simmer until everything is warm and the beans absorb all that
 
@@ -52,16 +52,16 @@ flavor, 5 to 10 minutes.
 
 handful of lettuce and top with the peach salsa and some avocado. Serve right away because
 
-burritos wait for no motherfucker.
+burritos wait for no mother er.
 
 
 
 ## Modifications
 These smoked peppers come packed in sauce and are sold in a tiny can at most stores near the salsa and beans.
 
-Trust us, it’s there, just fucking look before you start whining.
+Trust us, it’s there, just  look before you start whining.
 
- Two 15-ounce cans if you aren’t cooking this shit yourself
+ Two 15-ounce cans if you aren’t cooking this    yourself
 
 
 

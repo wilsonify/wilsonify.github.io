@@ -28,9 +28,9 @@ tags:
 ## ingredients
 * 2 TBL toasted seg for the marinade in a glass. Slice the eggplant crosswise into .25-inch
 
-rounds. Place the eggplant in a large pan of some kind and pour the marinade over that shit.
+rounds. Place the eggplant in a large pan of some kind and pour the marinade over that   .
 
-Let the eggplant marinate for at least 15 minutes or up to 1 hour if you’ve got the fucking
+Let the eggplant marinate for at least 15 minutes or up to 1 hour if you’ve got the 
 
 time.
 
@@ -61,7 +61,7 @@ sesame seeds and serve at room temperature or cold.
 
 
 ## Modifications
-You can use whole wheat pasta or whatever here, but soba noodles—made of buckwheat flour—taste way fucking
+You can use whole wheat pasta or whatever here, but soba noodles—made of buckwheat flour—taste way 
 
 better.
 

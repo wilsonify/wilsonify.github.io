@@ -19,9 +19,9 @@ tags:
 
 # instructions
 0 chop cilantro
-1 Make the dressing: Throw everything together in a tiny-ass cup and mix it up with a fork. Stick that shit in the fridge until it’s go-time.
-2 Make the salad: Put the kale in a large bowl and sprinkle it with the salt. Now get in there with your hands and kinda massage that shit around for about a minute. The salt will help break down the kale a little so the fibrous motherfucker isn’t so tough to chew.
-3 Add the romaine, green onions, and cilantro. Drizzle in the dressing and toss until everything looks all coated and shiny as shit. Fold in the orange slices and almonds and then taste. Add more vinegar, cilantro, almonds, whateverthefuck you think it needs, then serve right away.
+1 Make the dressing: Throw everything together in a tiny-ass cup and mix it up with a fork. Stick that    in the fridge until it’s go-time.
+2 Make the salad: Put the kale in a large bowl and sprinkle it with the salt. Now get in there with your hands and kinda massage that    around for about a minute. The salt will help break down the kale a little so the fibrous mother er isn’t so tough to chew.
+3 Add the romaine, green onions, and cilantro. Drizzle in the dressing and toss until everything looks all coated and shiny as   . Fold in the orange slices and almonds and then taste. Add more vinegar, cilantro, almonds, whateverthe  you think it needs, then serve right away.
 
 # modifications
 

@@ -52,11 +52,11 @@ asses won’t be sliding around once they’re stuffed.
 
 3 When the barley is done, fold in the beans and turn off the heat. (This filling can even be
 
-made a day or two ahead of time, no fucking problem.) Fill the bell peppers up to the top with
+made a day or two ahead of time, no  problem.) Fill the bell peppers up to the top with
 
 the filling, cover them tightly with foil, and bake until the peppers are tender, 45 minutes to 1
 
-hour. Let them rest for 5 minutes after coming out of the oven, ’cause those fuckers are hot.
+hour. Let them rest for 5 minutes after coming out of the oven, ’cause those  ers are hot.
 
 Top with the parsley and serve.
 

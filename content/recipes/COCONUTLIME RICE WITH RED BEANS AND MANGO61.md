@@ -36,11 +36,11 @@ the shallots and sauté until they start to brown in some spots, about 3 minutes
 ginger and sauté for 30 seconds until everything smells choice. Add the rice and keep stirring
 until the rice starts to smell slightly toasted, about 2 minutes. Add the coconut milk, broth,
 salt, and cayenne pepper and bring to a simmer. Give the pot a quick stir, cover it, and reduce
-the heat to low. Keep it all at a very gentle simmer and leave it the fuck alone until the rice is
+the heat to low. Keep it all at a very gentle simmer and leave it the   alone until the rice is
 tender and has absorbed nearly all the liquid, about 40 minutes. If your rice isn’t done by the
-time you run out of liquid, don’t stress that shit; just add a little more broth or water.
+time you run out of liquid, don’t stress that   ; just add a little more broth or water.
 2 While the rice is cooking, chop up the mango into bite-size pieces. (Not sure how to chop
-that fucker up? Turn to this page for the how-to. You should get around 1.5 cup of flesh
+that  er up? Turn to this page for the how-to. You should get around 1.5 cup of flesh
 from 1 mango.)
 3 When the rice is tender, fold in the beans, lime zest, lime juice, and mango. Let this all cook
 together for another minute or two so that everything is warmed up. Serve warm topped with
@@ -48,10 +48,10 @@ cilantro or green onions.
 
 # modifications
 
-Grapeseed, peanut, or regular sesame oil work fucking great.
+Grapeseed, peanut, or regular sesame oil work  great.
  That’s about 4 shallots or .5 small onion.
  See Dropping Knowledge.
- Leave this shit out if you can’t stand the heat.
+ Leave this    out if you can’t stand the heat.
  Or two 15-ounce cans. Also, you can use black or kidney beans here if you can’t find red beans.
 	
 	

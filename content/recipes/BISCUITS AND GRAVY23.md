@@ -44,7 +44,7 @@ tags:
 
 bitches simmer until they are tender and kinda falling apart, about 40 minutes. Prep everything
 
-else while you wait or you can do this shit the night before and refrigerate.
+else while you wait or you can do this    the night before and refrigerate.
 
 2 In a small skillet, sauté the onion in the olive oil over medium heat until golden around the
 

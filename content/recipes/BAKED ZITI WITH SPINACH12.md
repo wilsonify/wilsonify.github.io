@@ -39,7 +39,7 @@ tags:
 
 1 Warm up your oven to 350°F. Have an 8 x 10-inch baking dish handy.
 
-2 In a blender or food processor, combine the artichoke hearts, tofu, almonds, nutritional yeast, lemon juice, whole clove of garlic, and salt and run until there aren’t any big chunks. (You have a shitty blender that was just never the same after that one party? Just add a TBL of water to help get that shit going as you bang on the side. #beenthere)
+2 In a blender or food processor, combine the artichoke hearts, tofu, almonds, nutritional yeast, lemon juice, whole clove of garlic, and salt and run until there aren’t any big chunks. (You have a   ty blender that was just never the same after that one party? Just add a TBL of water to help get that    going as you bang on the side. #beenthere)
 
 3 In a medium skillet, heat the oil up over medium heat. Add the onion and sauté until it starts to look kinda see-thru, about 3 minutes. Add the spinach, minced garlic, lemon juice, and salt and sauté until the spinach has wilted and given up that leaf life, about 3 minutes. Turn off the heat.
 
@@ -49,14 +49,14 @@ tags:
 
 6 Make the topping: In a small bowl, mix together the bread crumbs, nutritional yeast, and garlic powder. In a small skillet, heat up the oil over medium heat. Add the bread crumb mixture and sauté until everything is coated in oil and it smells kinda toasty, about 3 minutes.
 
-7 Sprinkle the bread crumbs over the top of the pasta, cover it with foil, and stick it in the oven for 25 minutes. After 25 minutes, take off the foil, and bake it uncovered for 10 minutes longer. Let that shit cool for a couple of minutes before serving.
+7 Sprinkle the bread crumbs over the top of the pasta, cover it with foil, and stick it in the oven for 25 minutes. After 25 minutes, take off the foil, and bake it uncovered for 10 minutes longer. Let that    cool for a couple of minutes before serving.
 
 
 
 ## Modifications
 WTF?
 
- You know, like ziti or some other tube-like shit.
+ You know, like ziti or some other tube-like   .
 
 
 

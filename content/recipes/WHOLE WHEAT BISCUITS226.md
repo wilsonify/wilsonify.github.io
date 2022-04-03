@@ -31,7 +31,7 @@ tags:
 
 into the flour a TBL at a time using your fingers and break up into pieces a little bigger
 
-than a pea. It should look kinda like coarse sand from a shitty playground, minus the broken
+than a pea. It should look kinda like coarse sand from a   ty playground, minus the broken
 
 glass. Make a well in the center and pour in the milk mixture. Stir until a shaggy dough is
 
@@ -41,13 +41,13 @@ too dry to stick together, add a TBL or two of milk.
 
 4 Turn the dough out on a floured surface and pat it into a roughly 8 x 5-inch rectangle about
 
-1.5 inches thick. using the open end of a glass or biscuit cutter, cut out all the motherfucking
+1.5 inches thick. using the open end of a glass or biscuit cutter, cut out all the mother
 
 biscuits you can and put them on the baking sheet. You should end up with about 8.
 
 5 Bake the biscuits until the bottoms are golden, 15 to 18 minutes. Let them cool for a
 
-minute before digging in or go ahead and start the day by burning the fuck out of your taste
+minute before digging in or go ahead and start the day by burning the   out of your taste
 
 buds, you dumbass.
 
@@ -56,7 +56,7 @@ buds, you dumbass.
 ## Modifications
 flour is really similar to all-purpose flour in texture and taste but contains all the good bran
 
-and germ stuff like you find in whole wheat flour. Basically, it is the shit. If you can’t find it, use whole wheat or
+and germ stuff like you find in whole wheat flour. Basically, it is the   . If you can’t find it, use whole wheat or
 
 all-purpose instead.
 
@@ -64,7 +64,7 @@ all-purpose instead.
 
  This needs to be all opaque and solid like butter. If it is clear and runny because it is hot outside, this won’t
 
-fucking work. Stick it in the fridge until it gets its act together.
+ work. Stick it in the fridge until it gets its act together.
 
 
 

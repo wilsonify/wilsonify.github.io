@@ -34,7 +34,7 @@ tags:
 
 until it looks all creamy. Add all the other ingredients and keep stirring until everything is
 
-incorporated. Simple shit.
+incorporated. Simple   .
 
 2 Now cook the noodles according to the package directions, but use a larger soup pot than
 
@@ -44,9 +44,9 @@ water to make sure it’s all covered. After 30 seconds, drain the pasta and kal
 
 cold water to stop the cooking process and keep the kale green. That’s called lazy-ass
 
-blanching. Some people might say to do that shit in separate pots, but those are usually the
+blanching. Some people might say to do that    in separate pots, but those are usually the
 
-motherfuckers who don’t wash their own dishes, so fuck them.
+mother ers who don’t wash their own dishes, so   them.
 
 3 Grab a big wok or skillet and heat up the oil. Crumble in the tempeh in bite-size pieces and
 
@@ -58,7 +58,7 @@ quarters of the peanut sauce. Mix it all up to make sure everything is covered a
 
 tempeh is blended into the noodles. Taste it and if it isn’t saucy enough for you, add the rest of
 
-the sauce now. Otherwise, hold on to that shit because the noodles really absorb the sauce as
+the sauce now. Otherwise, hold on to that    because the noodles really absorb the sauce as
 
 they sit, so it’s nice to have extra for leftovers. Top with the green onions and serve warm or at
 
@@ -69,11 +69,11 @@ room temperature.
 ## Modifications
 Don’t buy peanut butter that has anything other than peanuts, a little oil, and salt listed as ingredients.
 
-Anything else is unfuckingnecessary.
+Anything else is unnecessary.
 
  Optional, but you should suck it up and do it.
 
- Soba, udon, spaghetti, whatthefuckever.
+ Soba, udon, spaghetti, whatthe ever.
 
 
 

@@ -24,7 +24,7 @@ tags:
 ## Instructions
 1 In a pie pan or similar shallow dish, mix together the ground chia seeds and flour. Slowly
 
-whisk in the milk so that shit doesn’t get all lumpy. SLOWLY, MOTHERFUCKER. Now
+whisk in the milk so that    doesn’t get all lumpy. SLOWLY, MOTHER ER. Now
 
 let that sit for 15 minutes. Make your sleepy ass some coffee and then cut the bread up into 1-
 
@@ -38,7 +38,7 @@ bitches don’t stick. Soak your bread slices in the batter for a couple seconds
 
 then throw them right on the griddle. Cook for 1 to 2 minutes a side, or until they look
 
-golden and tasty as fuck all over.
+golden and tasty as   all over.
 
 
 

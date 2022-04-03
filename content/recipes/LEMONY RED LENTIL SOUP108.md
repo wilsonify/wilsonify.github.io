@@ -33,7 +33,7 @@ tags:
 
 about 3 minutes, until it starts getting all soft and vaguely golden. Yeah, that’s right, “vaguely
 
-golden,” motherfucker. Now add the potato and carrot. Sauté for another 2 minutes and then
+golden,” mother er. Now add the potato and carrot. Sauté for another 2 minutes and then
 
 add the garlic and spices. At this point, your place should start smelling choice. Sauté for
 
@@ -45,7 +45,7 @@ minutes. Stir this every now and then. Add the lemon zest and juice and turn off
 
 you can stop if you prefer a chunky lentil soup, or you can blend half of it for a creamy chunky
 
-hybrid thing. It’s your soup, so own that shit. The blended soup will thicken up if you throw
+hybrid thing. It’s your soup, so own that   . The blended soup will thicken up if you throw
 
 it back on the stove with some low heat for a minute or two, just watch. Magic, bitches.
 

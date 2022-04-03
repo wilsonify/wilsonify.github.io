@@ -39,7 +39,7 @@ the dip, but you can skip it if you are over the whole mashed bean thing.
 
 3 Mix in the pepper and tomato and everything else, stir, and taste. Easy. Add more lime juice
 
-or salt if you think it needs it. Serve this as a dip or over some greens for a fucking bomb-ass
+or salt if you think it needs it. Serve this as a dip or over some greens for a  bomb-ass
 
 salad.
 

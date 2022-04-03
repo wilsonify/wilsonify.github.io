@@ -23,16 +23,16 @@ tags:
 
 
 ## Instructions
-In a small saucepan, mix everything together and bring that shit to a simmer over medium heat. Reduce to low heat and simmer for about 10 minutes, stirring every couple minutes, until it thickens up a little. Serve warm right away or keep it in the fridge for about a week. Pour it on everything. YES. EVERYTHING.
+In a small saucepan, mix everything together and bring that    to a simmer over medium heat. Reduce to low heat and simmer for about 10 minutes, stirring every couple minutes, until it thickens up a little. Serve warm right away or keep it in the fridge for about a week. Pour it on everything. YES. EVERYTHING.
 
 
 
 ## Modifications
 You can use blackstrap or regular molasses. See House Rules.
 
- Don’t know what this shit is?
+ Don’t know what this    is?
 
-Blackstrap has way more fucking iron but is also more bitter than the regular stuff. We use blackstrap, but you do you. Either way, this shit will be near the maple syrup at the store.
+Blackstrap has way more  iron but is also more bitter than the regular stuff. We use blackstrap, but you do you. Either way, this    will be near the maple syrup at the store.
 
 
 

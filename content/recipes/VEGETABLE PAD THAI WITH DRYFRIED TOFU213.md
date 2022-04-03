@@ -43,13 +43,13 @@ lock. Get ready to stir-fry.
 
 3 Now that you’ve got everything lined up, heat the oil over medium heat in a big skillet or
 
-wok. When the pan is hot, add the shallots and stir-fry those fuckers until they start to char
+wok. When the pan is hot, add the shallots and stir-fry those  ers until they start to char
 
-around the edges, about 2 minutes. Add the broccoli and keep that shit up for another 2
+around the edges, about 2 minutes. Add the broccoli and keep that    up for another 2
 
-minutes until the broccoli is kinda charred but isn’t limp as fuck. Now add the garlic and fry it
+minutes until the broccoli is kinda charred but isn’t limp as  . Now add the garlic and fry it
 
-up for another 30 seconds. Gently add the noodles and .33 cup of the sauce and toss that shit
+up for another 30 seconds. Gently add the noodles and .33 cup of the sauce and toss that   
 
 all around to make sure everything is covered. Keep stirring and fold in the tofu. Cook for
 
@@ -63,18 +63,18 @@ onions and cilantro.
 
 carrots, bean sprouts, and topped with the peanuts. Have some limes wedges shoved in there
 
-and squeeze that shit over it before you dig in.
+and squeeze that    over it before you dig in.
 
 
 
 ## Modifications
-Don’t eat this all at once because that is too much goddamn salt for one day. Fuck.
+Don’t eat this all at once because that is too much goddamn salt for one day.  .
 
  Use a yellow onion if that is what you can find.
 
  Like safflower or grapeseed
 
- Red, green, whatthefuckever
+ Red, green, whatthe ever
 
 
 

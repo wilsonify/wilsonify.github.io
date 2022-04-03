@@ -8,7 +8,7 @@ tags:
 
 
 
-#### yields  5 CUP (TRIPLE IT AND KEEP THIS FUCKER IN THE FRIDGE)
+#### yields  5 CUP (TRIPLE IT AND KEEP THIS  ER IN THE FRIDGE)
 
 
 ## ingredients

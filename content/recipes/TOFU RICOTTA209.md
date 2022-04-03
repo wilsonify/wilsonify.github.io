@@ -23,7 +23,7 @@ tags:
 
 
 ## Instructions
-1 Pour the sunflower seeds into a food processor and run until that shit is in tiny-ass pieces.
+1 Pour the sunflower seeds into a food processor and run until that    is in tiny-ass pieces.
 
 2 Take the tofu out of its package and with your hands, squeeze out as much water as you can.
 
@@ -35,7 +35,7 @@ looks kinda smooth.
 
 all together and then stir in the nutritional yeast. Done and done. Throw that in the fridge
 
-until you need it. You can make this shit a day ahead of time if you’re pressed for time.
+until you need it. You can make this    a day ahead of time if you’re pressed for time.
 
 
 

@@ -31,11 +31,11 @@ tags:
 ## Instructions
 0. peel, roast, and chop beets
 
-1 In a food processor or blender, combine the beets, chickpeas, garlic, tahini, olive oil, citrus juices, and salt. Run that shit until everything looks smooth. If it’s getting caught up, add a TBL of water to help it out. Done.
+1 In a food processor or blender, combine the beets, chickpeas, garlic, tahini, olive oil, citrus juices, and salt. Run that    until everything looks smooth. If it’s getting caught up, add a TBL of water to help it out. Done.
 
 2 To make the crumble: Just chop up the walnuts all teeny tiny and mix them in a small bowl with the dill, green onions, and salt.
 
-3 Sprinkle the walnut-herb mixture over the dip and serve. The dip is awesome cold or at room temperature and can totally be made a day ahead. Save the crumble for the day of, though, so those herbs stay looking all green and shit.
+3 Sprinkle the walnut-herb mixture over the dip and serve. The dip is awesome cold or at room temperature and can totally be made a day ahead. Save the crumble for the day of, though, so those herbs stay looking all green and   .
 
 
 

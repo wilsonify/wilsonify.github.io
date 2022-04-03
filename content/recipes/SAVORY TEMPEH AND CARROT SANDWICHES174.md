@@ -30,7 +30,7 @@ tags:
 ## Instructions
 1 Slice the tempeh into planks about .25 inch thick and 2 inches long. Do the same thing with
 
-the carrots so that they are a similar size and shape. No need to fucking measure it out, just
+the carrots so that they are a similar size and shape. No need to  measure it out, just
 
 eyeball it.
 
@@ -38,13 +38,13 @@ eyeball it.
 
 bring it to a simmer. Add the tempeh and carrots and gently stir them around. They won’t all
 
-be covered, just fucking make it work the best you can. After everything simmers together for
+be covered, just  make it work the best you can. After everything simmers together for
 
 about 30 seconds, turn off the heat and pour it all into a shallow dish like a pie pan or some
 
-shit. Cover that up and stick it in the fridge to marinate for at least 4 hours and up to 8. Yeah,
+  . Cover that up and stick it in the fridge to marinate for at least 4 hours and up to 8. Yeah,
 
-plan ahead, you lazy fuck. We told you to read the goddamn recipe first.
+plan ahead, you lazy  . We told you to read the goddamn recipe first.
 
 3 When you’re ready to assemble your sandwiches, fry up your tempeh and carrots: In a large
 
@@ -52,7 +52,7 @@ skillet or wok, heat up the oil over medium heat. Lay the tempeh and carrot plan
 
 one layer and cook them until the tempeh starts to brown, 2 to 3 minutes on each side. The
 
-carrots can cook a little faster so keep an eye on that shit. When it starts to look a little dry in
+carrots can cook a little faster so keep an eye on that   . When it starts to look a little dry in
 
 there, or the tempeh feels like it might be sticking, just add a couple spoonfuls of the marinade.
 
@@ -60,7 +60,7 @@ there, or the tempeh feels like it might be sticking, just add a couple spoonful
 
 Pile lettuce, tomato, avocado, and red onions onto your favorite toasted bread with a little
 
-mustard. Add a layer of carrot planks and then the tempeh, close that motherfucker up, and go
+mustard. Add a layer of carrot planks and then the tempeh, close that mother er up, and go
 
 to town. If you need more help with how to assemble a sandwich, check around on the
 

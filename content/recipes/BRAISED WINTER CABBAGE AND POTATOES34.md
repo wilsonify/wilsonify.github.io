@@ -31,7 +31,7 @@ tags:
 
 2 Chop the cabbage in half and slice into wedges no thicker than 2 inches. If it has an extra
 
-thick core, chop that fucker right out. Roughly chop the onion and carrots. Big chunks are
+thick core, chop that  er right out. Roughly chop the onion and carrots. Big chunks are
 
 fine because they are going to have time to cook all the way through.
 
@@ -45,13 +45,13 @@ and stick in the oven for 40 minutes.
 
 about the size of the head of a soup spoon. When 40 minutes have gone by, take the cabbage
 
-out of the oven and turn the wedges over. Next, add the potatoes all over those motherfuckers
+out of the oven and turn the wedges over. Next, add the potatoes all over those mother ers
 
 and sprinkle in the garlic, rosemary, and .25 tsp salt. Stir the potatoes around so that they
 
 kinda get some of the remaining broth on them, but don’t spend a lot of time on this. It’s not
 
-worth a bunch of trouble. Cover that fucker back up and let it bake for 40 more minutes, then
+worth a bunch of trouble. Cover that  er back up and let it bake for 40 more minutes, then
 
 take off the foil, and let it go for 10 more minutes.
 

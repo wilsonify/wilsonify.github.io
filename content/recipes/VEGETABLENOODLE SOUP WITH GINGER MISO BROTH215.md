@@ -35,11 +35,11 @@ into .25-inch-thick slices. Thickly slice the garlic too and chop the carrot int
 
 a medium pot and turn the heat on to medium. Once the pot is hot, add the ginger and carrot
 
-chunks and let those fuckers go on the bottom of the pot with no oil or anything. Keep
+chunks and let those  ers go on the bottom of the pot with no oil or anything. Keep
 
 stirring them around off and on for 2 minutes. It’s cool if they stick, just rip them off with the
 
-spoon and keep going. Now add the garlic and do the same shit for another minute. Pour in
+spoon and keep going. Now add the garlic and do the same    for another minute. Pour in
 
 the broth or water, add the cilantro, and let that veggie hot tub simmer for 15 minutes.
 
@@ -53,7 +53,7 @@ broccoli has lost its raw edge, then turn off the heat. Scoop up .5 cup of the b
 
 the miso paste in it, stirring until the chunks are gone. Pour that back in the pot and give it all
 
-a taste. Fucking great, right?
+a taste.  great, right?
 
 4 To assemble, grab a handful of the noodles and place them at the bottom of a bowl. Add a
 

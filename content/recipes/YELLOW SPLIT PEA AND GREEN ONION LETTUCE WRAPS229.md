@@ -38,7 +38,7 @@ tags:
 
 and bring them to a boil. Reduce the heat and let those sons of bitches simmer until they are
 
-tender, 10 to 15 minutes. You can figure that shit out just by tasting them. When the peas are
+tender, 10 to 15 minutes. You can figure that    out just by tasting them. When the peas are
 
 done, drain them and set aside.
 
@@ -58,12 +58,12 @@ toasted sesame oil and then turn off the heat.
 
 4 Serve the filling warm or at room temperature with a bunch of lettuce leaves to use as leafy
 
-tortillas. Keep the dipping sauce on the side. Looks like a good fucking time.
+tortillas. Keep the dipping sauce on the side. Looks like a good  time.
 
 
 
 ## Modifications
-Optional but you really should try new shit.
+Optional but you really should try new   .
 
  Agave or maple syrup would do if that’s what you’ve got.
 

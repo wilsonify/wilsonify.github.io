@@ -31,7 +31,7 @@ the pan until it starts to smell toasted and look a little golden, 3 to 5 minute
 
 butter, powdered sugar, flour, and vanilla until a thick dough is formed. Fold in the millet and
 
-mix until that shit is all in there. Make walnut-size balls with the dough and put them on the
+mix until that    is all in there. Make walnut-size balls with the dough and put them on the
 
 baking sheet. You should get about 24. You can lick your fingers here, we won’t snitch. Put
 
@@ -62,7 +62,7 @@ freezer. But for real, you will eat them long before then.
 ## Modifications
 Olive oil, grapeseed, coconut . . . almost anything is cool here.
 
- Don’t buy shit that has more than 3 ingredients, OK? Bad fucking news.
+ Don’t buy    that has more than 3 ingredients, OK? Bad  news.
 
  Yeah, this is dessert, so relax.
 

@@ -38,7 +38,7 @@ medium heat, no oil needed. Add the millet and stir it around until it smells to
 
 you’re over it, about 2 minutes. This helps the millet taste nuttier and more awesome, but if
 
-you don’t give a damn about depth of flavor, you could just move the fuck on. Pour in the
+you don’t give a damn about depth of flavor, you could just move the   on. Pour in the
 
 water and a pinch of salt and bring this all to a boil. Now turn down the heat so that the pot is
 

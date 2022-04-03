@@ -8,7 +8,7 @@ tags:
 
 
 
-#### yields  4 PEOPLE, BUT YOU CAN DOUBLE OR TRIPLE, NO FUCKING PROBLEM
+#### yields  4 PEOPLE, BUT YOU CAN DOUBLE OR TRIPLE, NO  PROBLEM
 
 
 ## ingredients
@@ -44,7 +44,7 @@ tags:
 ## Modifications
 The kind of finely ground cornmeal you’d use to make cornbread, not gritty-ass polenta.
 
- No fucking clue?
+ No  clue?
 
  Need help toasting?
 

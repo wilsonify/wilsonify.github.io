@@ -18,7 +18,7 @@ tags:
 
 
 ## Instructions
-Pour all this shit together in a jar and shake the fuck out of it. Taste and add more of whateverthefuck you think it needs. Refrigerate until go-time.
+Pour all this    together in a jar and shake the   out of it. Taste and add more of whateverthe  you think it needs. Refrigerate until go-time.
 
 
 

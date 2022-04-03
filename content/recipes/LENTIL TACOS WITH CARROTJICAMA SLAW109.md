@@ -47,11 +47,11 @@ onion becomes translucent, about 3 minutes. Add the mushrooms and cook until the
 
 some of their liquid, about 3 minutes. Add the soy sauce, stir, and then add the lentils. Mix
 
-that shit up and then add the garlic and apple juice. Yes, fucking apple juice. Just do it. Cook
+that    up and then add the garlic and apple juice. Yes,  apple juice. Just do it. Cook
 
 until most of the liquid has evaporated, about 2 minutes. Turn off the heat and stir in the
 
-toasted sesame oil. Taste that shit. Fucking awesome.
+toasted sesame oil. Taste that   .  awesome.
 
 3 Now, the slaw. Cut the jicama, cucumber, and carrot into matchsticks no more than 1 inch
 
@@ -59,11 +59,11 @@ long. Toss with the rest of the slaw ingredients and refrigerate before you serv
 
 4 To make the tacos, warm the tortillas and fill those gifts from god with the lentil mix, some
 
-shredded cabbage or lettuce, the jicama slaw, and top with that herb salsa. These fuckers aren’t
+shredded cabbage or lettuce, the jicama slaw, and top with that herb salsa. These  ers aren’t
 
 half bad cold either if you are feeling too lazy to heat up leftovers. Cold tacos are still
 
-motherfucking tacos.
+mother tacos.
 
 
 
@@ -74,9 +74,9 @@ lentils, so look for them.
 
  Button, cremini, or shiitake mushrooms are cool. Use whatever.
 
- The real shit, not apple-flavored drink.
+ The real   , not apple-flavored drink.
 
- This is a big-ass root that tastes so fucking good. It’s like the product of a one-night stand between an apple
+ This is a big-ass root that tastes so  good. It’s like the product of a one-night stand between an apple
 
 and a potato. Don’t fight it, just buy it.
 

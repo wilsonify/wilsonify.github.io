@@ -33,7 +33,7 @@ tags:
 
 high until the sauce is smooth. Pour it into a small saucepan and stick it on the stove. We’ll
 
-come back to this shit in a minute.
+come back to this    in a minute.
 
 2 Now cook the pasta according to the package directions . . . or your pasta instincts. While
 
@@ -41,9 +41,9 @@ the pasta is cooking, slice the zucchini into thin matchsticks. Yeah, show off t
 
 Try to get the strips as close as you can to the size of the noodles so they can blend in when
 
-you mix those motherfuckers together. Don’t spend all day trying to make this happen. Just
+you mix those mother ers together. Don’t spend all day trying to make this happen. Just
 
-aim for noodle twins and fucking deal with wherever you end up.
+aim for noodle twins and  deal with wherever you end up.
 
 3 Right before the pasta is done, start up a low heat under the sauce you made earlier so it
 

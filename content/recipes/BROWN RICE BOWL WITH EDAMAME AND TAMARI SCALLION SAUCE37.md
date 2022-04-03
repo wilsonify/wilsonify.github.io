@@ -34,7 +34,7 @@ TBL or two of sauce all over it. If you aren’t super hungry in the mornings, .
 
 each should do you. If you want some added crunch, sprinkle some sliced almonds over the top.
 
-You can make this shit all on Sunday night and then just heat it up all week for breakfast.
+You can make this    all on Sunday night and then just heat it up all week for breakfast.
 
 
 
@@ -43,7 +43,7 @@ Green onions, scallions . . . they’re the same damn thing. “Scallion” just
 
 “sauce.”
 
- Edamame are immature soybeans and are tasty as fuck. They have a great texture and are full of good shit like
+ Edamame are immature soybeans and are tasty as  . They have a great texture and are full of good    like
 
 protein, fatty acids, and tons of fiber. Find them in the frozen veggie section at the store and keep your freezer full.
 

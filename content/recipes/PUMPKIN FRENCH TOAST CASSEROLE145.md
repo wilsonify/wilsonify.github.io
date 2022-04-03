@@ -34,18 +34,18 @@ tags:
 
 3 In a medium glass, mix together the ground flaxseed, milk, and vinegar and set aside.
 
-4 In a large measuring glass (or blender if you don’t mind cleaning that shit), mix together the pumpkin, brown sugar, vanilla, cinnamon, ginger, and nutmeg until it looks smooth. Stir in the milk mixture until everything is all combined. Pour this over the bread until it all looks coated, sprinkle in the nutritional yeast, and stir a couple more times so it looks like all that shit is nice and mixed up.
+4 In a large measuring glass (or blender if you don’t mind cleaning that   ), mix together the pumpkin, brown sugar, vanilla, cinnamon, ginger, and nutmeg until it looks smooth. Stir in the milk mixture until everything is all combined. Pour this over the bread until it all looks coated, sprinkle in the nutritional yeast, and stir a couple more times so it looks like all that    is nice and mixed up.
 
-5 Pour the bread mixture into the baking dish in a sort of even layer and spray the top with a little oil. Cover it with foil, and throw that son of a bitch in the oven. Bake for 20 minutes, then take off the foil and bake until the top looks sorta golden, another 15 to 20 minutes. Let it cool for a few minutes before you dish the hot fucker up.
+5 Pour the bread mixture into the baking dish in a sort of even layer and spray the top with a little oil. Cover it with foil, and throw that son of a bitch in the oven. Bake for 20 minutes, then take off the foil and bake until the top looks sorta golden, another 15 to 20 minutes. Let it cool for a few minutes before you dish the hot  er up.
 
-6 Serve warm with maple syrup and some more cinnamon for sprinkling. Baristas got nothing on this shit.
+6 Serve warm with maple syrup and some more cinnamon for sprinkling. Baristas got nothing on this   .
 
 
 
 ## Modifications
-We like sourdough, but you could use French or whatever the fuck you’ve got. You want it to be stale though, so it doesn’t get really fucking soggy as it bakes. Eat the fresh stuff and wait until you have some old-ass bread to make this.
+We like sourdough, but you could use French or whatever the   you’ve got. You want it to be stale though, so it doesn’t get really  soggy as it bakes. Eat the fresh stuff and wait until you have some old-ass bread to make this.
 
- Not pumpkin pie mix; that shit shouldn’t exist. Buy a 15-ounce can of plain pumpkin puree (or steam and puree some shit yourself).
+ Not pumpkin pie mix; that    shouldn’t exist. Buy a 15-ounce can of plain pumpkin puree (or steam and puree some    yourself).
 
  WTF?
 

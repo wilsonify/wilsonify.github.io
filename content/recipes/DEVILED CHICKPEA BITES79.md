@@ -18,14 +18,14 @@ tags:
 Paprika
 
 # instructions
-1 To make the filling, throw the chickpeas, vinegar, shallot, oil, water, nutritional yeast, mustard, and salt into a blender or food processor and let that shit run until it looks all creamy. If your machine sucks, add another TBL of water to get it going.
-2 To assemble the bites, smear a little of the chickpea mix on the bread slices so that the cucumbers stick, then place 2 slices of cucumbers on the bread so that the surface is mostly covered. Now you can just spoon 1.5 TBL worth of the chickpea mix on the cucumber slices or you can use the lazy pastry bag method and pile that shit on like you’re out to impress some motherfuckers.
+1 To make the filling, throw the chickpeas, vinegar, shallot, oil, water, nutritional yeast, mustard, and salt into a blender or food processor and let that    run until it looks all creamy. If your machine sucks, add another TBL of water to get it going.
+2 To assemble the bites, smear a little of the chickpea mix on the bread slices so that the cucumbers stick, then place 2 slices of cucumbers on the bread so that the surface is mostly covered. Now you can just spoon 1.5 TBL worth of the chickpea mix on the cucumber slices or you can use the lazy pastry bag method and pile that    on like you’re out to impress some mother ers.
 3 Sprinkle the chives over the top and shake on some paprika for looks. Serve within a couple hours of making so that the bread and cucumbers don’t get soggy.
 
 # modifications
 
 One 15-ounce can of chickpeas, drained and rinsed, is no problem.
  WTF?
- You can leave the skin on the cucumber if 1) It isn’t too waxy and 2) You’re down with that shit. Clearly, we are.
+ You can leave the skin on the cucumber if 1) It isn’t too waxy and 2) You’re down with that   . Clearly, we are.
 	
 	

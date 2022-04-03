@@ -33,14 +33,14 @@ sauce, coconut milk, and vegetable broth and turn that son of a bitch to a gentl
 2 Once the pot is gently simmering, add the mango and tofu. Reduce the heat to low and let
 this all cook together until the mango is tender enough to fall apart, 5 to 8 minutes. Turn off
 the heat, add the lime juice, and then dish up. Serve over the brown rice and tell your neighbors
-to fucking go home when they stop by asking what smells so good.
+to  go home when they stop by asking what smells so good.
 
 # modifications
 
 You can find this in a glass jar or small can shelved near the coconut milk and soy sauces. It’s made of all kinds
-of shit like shallots, lemongrass, galangal, and red chiles. Some pastes are hotter than others, so try 1 TBL
-first and then work your way up in the recipe. There are hundreds of recipes for making this shit yourself, so if you
-have a well-stocked store, look a recipe up and make this fucker from scratch. The hardest part is finding all the
+of    like shallots, lemongrass, galangal, and red chiles. Some pastes are hotter than others, so try 1 TBL
+first and then work your way up in the recipe. There are hundreds of recipes for making this    yourself, so if you
+have a well-stocked store, look a recipe up and make this  er from scratch. The hardest part is finding all the
 ingredients, trust.
 	
 	

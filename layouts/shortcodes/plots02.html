@@ -1,0 +1,40 @@
+<div id="{{.Get "id"}}" style="width:100%; height:100%;"></div>
+<script>
+  var data = {{.Get "data"}};
+  var shapes = [];
+  var index = 0;
+  var yMin = Math.min.apply(null, data.y);
+  var yMax = Math.max.apply(null, data.y);
+  for (var i = 0; i < data.status.length; i++) {
+    if (data.status[i] === 0) {
+      shapes.push({
+        type: 'rect',
+        x0: data.x[i] - 0.5,
+        x1: data.x[i] + 0.5,
+        y0: yMin,
+        y1: yMax,
+        xref: 'x',
+        yref: 'y',
+        fillcolor: 'grey',
+        opacity: 0.5,
+        line: {
+          width: 0
+        }
+      });
+    }
+  }
+  Plotly.newPlot('{{.Get "id"}}', [{
+    x: data.x,
+    y: data.y,
+    type: 'line',
+    name: 'y'
+  }, {
+    x: data.x,
+    y: data.z,
+    mode: 'markers',
+    type: 'scatter',
+    name: 'z'
+  }], {
+    shapes: shapes
+  });
+</script>

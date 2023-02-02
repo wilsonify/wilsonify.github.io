@@ -15,7 +15,7 @@ url: /2020/12/28/Plotly-Example/
 should see a plot here
 
 
-{{< plots plot2 >}}
+{{< plots plot1 >}}
 var trace1 = {
   x: [1, 2, 3, 4],
   y: [10, 15, 13, 17],
@@ -33,3 +33,18 @@ fig = {
   data: data
 }
 {{< /plots >}}
+
+
+## Second Plot
+
+and another here
+
+{{< plots02 myDiv "example02" >}}
+
+## table
+
+{{< tomlTable "sample" >}}
+
+## String
+
+{{< jsonString "example02" >}}

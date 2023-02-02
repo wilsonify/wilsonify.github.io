@@ -1,0 +1,5 @@
+{{ $arg := .Get 0 }}
+{{ $dataFile := index .Site.Data $arg }}
+{{- range $k, $v := $dataFile }}
+  {{ $k }} = {{ $v }}
+{{- end -}}

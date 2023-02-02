@@ -39,6 +39,12 @@ fig = {
 
 and another here
 
-{{< plots02 myDiv "{ \"x\":[1,2,3,4,5,6,7], \"y\":[2,4,6,8,16,32,64], \"z\":[2,4,6,16,16,30,50], \"status\":[1,1,1,0,0,1,1] }" >}}
+{{< plots02 myDiv "example02" >}}
 
+## table
 
+{{< tomlTable "sample" >}}
+
+## String
+
+{{< jsonString "example02" >}}

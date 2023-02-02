@@ -15,7 +15,7 @@ url: /2020/12/28/Plotly-Example/
 should see a plot here
 
 
-{{< plots plot2 >}}
+{{< plots plot1 >}}
 var trace1 = {
   x: [1, 2, 3, 4],
   y: [10, 15, 13, 17],
@@ -33,3 +33,15 @@ fig = {
   data: data
 }
 {{< /plots >}}
+
+
+## Second Plot
+
+an another here
+
+{{< plot02 id="myDiv" data='{
+      "x":[1,2,3,4,5,6,7],
+      "y":[2,4,6,8,16,32,64],
+      "z":[2,4,6,16,16,30,50],
+      "status":[1,1,1,0,0,1,1]
+    }' >}}

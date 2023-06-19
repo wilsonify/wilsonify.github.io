@@ -1,4 +1,4 @@
-FROM ghcr.io/wilsonify/wilsonify.github.io.base:main
+FROM ghcr.io/wilsonify/wilsonify.github.io.base:master
 WORKDIR /usr/local
 RUN apt-get install -y wget gcc g++ curl
 

@@ -1,4 +1,4 @@
-FROM ghcr.io/wilsonify/wilsonify.github.io.builder:main as builder
+FROM ghcr.io/wilsonify/wilsonify.github.io.builder:master as builder
 COPY . /usr/src/app
 WORKDIR /usr/src/app
 RUN hugo

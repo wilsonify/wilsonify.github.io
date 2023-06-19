@@ -22,7 +22,7 @@ jobs:
         run: |
           docker run --rm \
           --name wilsonify.github.io.builder \
-          --volume wilsonify.github.io/config.toml:/usr/src/app \
+          --volume wilsonify.github.io:/usr/src/app \
           ghcr.io/wilsonify/wilsonify.github.io.builder:master \
           hugo --minify
 

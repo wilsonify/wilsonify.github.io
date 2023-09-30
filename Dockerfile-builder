@@ -1,19 +1,24 @@
-FROM ghcr.io/wilsonify/wilsonify.github.io.base:latest
+FROM ghcr.io/wilsonify/wilsonify.github.io.base:master
 WORKDIR /usr/local
 RUN apt-get install -y wget gcc g++ curl
+
+# install GO
 RUN wget "https://golang.org/dl/go1.19.4.linux-amd64.tar.gz"
-RUN wget "https://github.com/gohugoio/hugo/releases/download/v0.113.0/hugo_extended_0.113.0_linux-amd64.tar.gz"
-
 RUN tar -xzf go1.19.4.linux-amd64.tar.gz
-RUN tar -xzf hugo_extended_0.113.0_linux-amd64.tar.gz
-
 RUN update-alternatives --install /usr/bin/go go /usr/local/go/bin/go 10
+
+# install Hugo
+RUN wget "https://github.com/gohugoio/hugo/releases/download/v0.113.0/hugo_extended_0.113.0_linux-amd64.tar.gz"
+RUN tar -xzf hugo_extended_0.113.0_linux-amd64.tar.gz
 RUN update-alternatives --install /usr/bin/hugo hugo /usr/local/hugo 10
 
+# install nodejs
 RUN curl -sL https://deb.nodesource.com/setup_lts.x | bash -
 RUN apt-get install -y nodejs build-essential
 
+# install node modules
 COPY . /usr/src/app
 WORKDIR /usr/src/app/themes/ananke
 RUN npm install
+
 WORKDIR /usr/src/app

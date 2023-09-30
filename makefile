@@ -33,3 +33,25 @@ build/update.txt: build_dir
   --volume $(shell pwd):/usr/src/app \
   ghcr.io/wilsonify/wilsonify.github.io.builder:main \
   R -e 'rmarkdown::render_site()'
+
+tag:
+	docker tag ghcr.io/wilsonify/wilsonify.github.io:latest 064592191516.dkr.ecr.us-east-1.amazonaws.com/wilsonify.github.io:latest
+
+push:
+	aws --profile 064592191516 ecr get-login-password | docker login --username AWS --password-stdin 064592191516.dkr.ecr.us-east-1.amazonaws.com
+	docker push 064592191516.dkr.ecr.us-east-1.amazonaws.com/wilsonify.github.io:latest
+
+ecs-config:
+	AWS_PROFILE=064592191516 ecs-cli  configure --cluster thom-ecs-cluster --region us-east-1
+
+ecs-up:
+	ecs-cli up \
+	--keypair id_rsa \
+	--capability-iam \
+	--size 1 \
+	--instance-type t2.medium \
+	--cluster-config thom-ecs-conf
+
+
+ecs-deploy:
+	ecs-cli compose up --cluster-config thom-ecs-conf

@@ -1,37 +1,40 @@
-
 ---
-title: "ALMOND CAESAR SALAD WITH"
+title: "Almond Caesar Salad with"
 tags:
   - recipe
 ---
 
-# ALMOND CAESAR SALAD WITH
+# Almond Caesar Salad with
 
-#### yields 4 SIDE SALADS
+#### Yields 4 Side Salads
 
+## Ingredients
+- 1/3 cup sliced or slivered almonds
+- 1 TBL capers
+- 1 handful croutons
 
-## ingredients
-* 1/3 cup sliced or slivered almonds* 1/3 cup sliced or slivered almondst* 1/3 cup sliced or slivered almonds* 1/3 cup sliced or slivered almonds* 1/3 cup sliced or slivered almondso* 1/3 cup sliced or slivered almonds* 1/3 cup sliced or slivered almonds* 1/3 cup sliced or slivered almondss* 1/3 cup sliced or slivered almonds* 1/3 cup sliced or slivered almonds
-* 1 TBL capers* 1 TBL capers* 1 TBL capers
-* 1 handful Croutons
+## Instructions
 
+1. Chop up the lettuce.
 
-# instructions
-0 chop up the lettuce
-1 Put the almonds in a glass with the hot water and let those  ers soak for about 15
-minutes. Chop up the garlic. When the almonds start feeling sorta soft, throw them in a food
-processor or blender with the water they soaked in, the garlic, olive oil, lemon juice, mustard,
-and vinegar. Blend it all up until there are no more large almond pieces and it starts to look
-creamy. You know what the   Caesar dressing should look like, come on. Add the capers
-and run it again for another 5 seconds just so they get chopped up. Chill until you are ready to
-eat.
-2 Serve a couple TBL of the dressing over your favorite lettuce with homemade
-croutons because you know how to live.
+2. Put the almonds in a glass with hot water and let them soak for about 15 minutes.
 
-# modifications
+3. Chop up the garlic.
 
-These pickled mother ers are near the olives at the store. They sound all fancy, but 1 jar will last you forever
-and class up your fridge. Throw them in the House Marinara with some olives and red pepper flakes and you got 109
-yourself a puttanesca, you crazy mother er.
-	
+4. When the almonds feel soft, blend them in a food processor or blender with the soaked water, garlic, olive oil, lemon juice, mustard, and vinegar.
 
+5. Blend until creamy, with no large almond pieces.
+
+6. Add the capers and blend for another 5 seconds.
+
+7. Chill the dressing until ready to eat.
+
+8. Serve a couple of tablespoons of the dressing over your favorite lettuce with homemade croutons.
+
+## Modifications
+
+Pickled items are near the olives at the store.
+
+Use them to enhance your fridge with a jar lasting a long time.
+
+Mix them in the House Marinara with olives and red pepper flakes for a puttanesca sauce.

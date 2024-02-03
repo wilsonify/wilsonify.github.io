@@ -1,34 +1,38 @@
-
 ---
-title: "APPLE-ONION FOCACCIA"
+title: "Apple-Onion Focaccia"
 tags:
   - recipe
 ---
-# APPLE-ONION FOCACCIA
-#### yields 1 LOAF OF BREAD
 
+# Apple-Onion Focaccia
 
-## ingredients
-* 2 tsp plus 2 TBL olive oil* 2 tsp plus 2 TBL olive oilw* 2 tsp plus 2 TBL olive oil* 2 tsp plus 2 TBL olive oil* 2 tsp plus 2 TBL olive oilice
+#### Yields 1 Loaf of Bread
 
-* 1 TBL fresh thyme or rosemary
-Everyday Pizza Dough
-* 1 TBL unsweetened nondairy milk of your choice
-BALSAMIC DIPPING SAUCE *optional*
-* 3 TBL balsamic vinegar* 3 TBL balsamic vinegarl* 3 TBL balsamic vinegar* 3 TBL balsamic vinegar* 3 TBL balsamic vinegarresh parsley
+## Ingredients
+- 2 tsp plus 2 TBL olive oil
+- 1 TBL fresh thyme or rosemary
+- Everyday Pizza Dough
+- 1 TBL unsweetened nondairy milk of your choice
 
-* 1 pinch of red pepper flakes
+- Balsamic Dipping Sauce (optional)
+  - 3 TBL balsamic vinegar
+  - Fresh parsley
+  - 1 pinch of red pepper flakes
 
-# instructions
-1 Crank your oven up to 450°F. Grease a rimmed baking sheet so your bread doesn’t stick.
-2 In a medium skillet, heat up 1 tsp of the olive oil over medium heat. Add the onion and sauté those  ers around until they look kinda brown and delicious, 5 to 7 minutes. Scrape the onion out of the pan onto a plate.
-3 Throw another 1 tsp olive oil into the same pan. Add the apple slices and cook them over medium heat. Add the lemon juice and thyme and sauté until the apple slices are slightly browned, 5 to 7 minutes total. Remove from the heat, cuz it’s dough time.
-4 On a well-floured surface, shape your dough into a 4 x 10-inch rectangle about an inch or so thick. Don’t pull out a  ruler, just eyeball that   . Place that on your super greased-up baking sheet. Take your fingertips and dimple the top of the bread like you’re a phantom of the opera, or some    like that, playing the organ in a dramatic way. You know what the   we’re saying. Mix the remaining 2 TBL of olive oil with the milk and brush this all over the dough.
-5 Scatter half the onions all over the bread, dimple that    a little more, and then lay down all the apple slices in a single layer. Make a cool or dumb pattern, spell out  , whatever. Scatter on the rest of the onions and then throw that    in the oven. Bake until the bread looks nice and golden, 15 to 25 minutes. Serve warm or at room temp.
-6 If you are making the dipping sauce, just mix all the ingredients together on a low-rimmed plate or bowl and get to  dipping.
+## Instructions
 
-# modifications
+1. Preheat your oven to 450°F. Grease a rimmed baking sheet.
 
-Granny Smith, Pink Lady, whateverthe  you’re willing to eat will work here.
-	
-	
+2. In a medium skillet, heat 1 tsp of olive oil over medium heat. Sauté the onions until brown and delicious, about 5 to 7 minutes. Transfer the onions to a plate.
+
+3. Add another 1 tsp of olive oil to the same pan. Cook the apple slices over medium heat with lemon juice and thyme until slightly browned, about 5 to 7 minutes. Remove from heat.
+
+4. On a well-floured surface, shape the dough into a 4 x 10-inch rectangle, approximately an inch thick. Place it on the greased baking sheet. Dimple the top of the bread with your fingertips. Mix the remaining 2 TBL of olive oil with the milk and brush it over the dough.
+
+5. Scatter half of the sautéed onions over the bread, dimple it a bit more, and arrange the apple slices in a single layer. Feel free to make a creative pattern. Scatter the remaining onions and bake until the bread is golden, 15 to 25 minutes. Serve warm or at room temperature.
+
+6. For the dipping sauce, mix all the sauce ingredients on a low-rimmed plate or bowl.
+
+## Modifications
+
+Use Granny Smith, Pink Lady, or any apple variety you enjoy.

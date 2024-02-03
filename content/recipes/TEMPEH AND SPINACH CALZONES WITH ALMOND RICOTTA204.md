@@ -45,7 +45,7 @@ tags:
 
 # modifications
 
-WTF?
+
  Fennel seeds will be with all the other spices in the store. Or .5 tsp ground fennel is legit, too. Fennel helps add a badass Italian sausage kinda flavor to the dish, but if you don’t want to buy a new spice that you’ll never  use again, just leave it out.
  Need help getting toasted?
 	

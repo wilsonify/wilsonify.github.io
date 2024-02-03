@@ -71,7 +71,7 @@ You can try whole wheat pastry flour, but this is one of those times that all-pu
 
  One 15-ounce can of beans, drained and rinsed, will do if you want to save yourself some extra work. You’ve earned that much, if you ask us.
 
- WTF?
+ 
 
 
 

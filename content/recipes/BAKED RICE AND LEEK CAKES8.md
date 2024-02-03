@@ -35,9 +35,9 @@ tags:
 
 # modifications
 
-WTF?
+
  See House Rules.
  This could be leftover rice or freshly made, it’s not going to  matter. No clue how to make rice at home because you grew up with that Minute   ?
- WTF?
+ 
 	
 

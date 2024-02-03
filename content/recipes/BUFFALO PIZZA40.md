@@ -65,7 +65,7 @@ Frank’s RedHot is traditional, but do whatever basic vinegar red hot sauce you
 
  Just crumble this fermented  er right into the pan into pieces no bigger than a dime. Not sure what tempeh is?
 
- WTF?
+ 
 
  Celery seed is in the spice aisle with the other spices. We  promise. It’s been there forever. Not some new, weird trendy    you have to hunt down. It’s old school.
 

@@ -31,7 +31,7 @@ tags:
 # modifications
 
 This is 6 ounces of yogurt or one little plastic cup thing at the store. We used plain coconut yogurt, but use whatever kind your store stocks.
- WTF?
+ 
  About ¾ cup uncooked quinoa. No  idea beyond that?
  If you hate walnuts, just sub in what kind of nuts you like or keep in the back of your freezer. Pecans, cashews, and almonds would all be legit. Need help getting toasted?
 	

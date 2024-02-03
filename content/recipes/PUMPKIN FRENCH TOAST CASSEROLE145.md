@@ -47,7 +47,7 @@ We like sourdough, but you could use French or whatever the   you’ve got. You 
 
  Not pumpkin pie mix; that    shouldn’t exist. Buy a 15-ounce can of plain pumpkin puree (or steam and puree some    yourself).
 
- WTF?
+ 
 
 
 

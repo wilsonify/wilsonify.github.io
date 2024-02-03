@@ -33,8 +33,8 @@ roast the bell peppers
 
 # modifications
 
-WTF?
+
  This is about two-thirds of a 15-ounce can of chickpeas. Just save the rest of that    for a salad or something.
- WTF?
+ 
 	
 	

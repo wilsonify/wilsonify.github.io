@@ -58,7 +58,7 @@ tags:
 
 
 ## Modifications
-WTF?
+
 
  Paprika is just so it looks extra sexy. Leave it out if you don’t already have that    in your pantry.
 

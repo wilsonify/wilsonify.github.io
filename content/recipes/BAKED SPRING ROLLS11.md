@@ -67,7 +67,7 @@ Fig. 3: Keep rolling until it’s all tight. Spray it gently with a bit of oil a
 
 
 ## Modifications
-WTF?
+
 
 
 

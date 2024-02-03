@@ -23,7 +23,7 @@ Just add 2 TBL of unsweetened plain almond milk to the blender to make it easier
 
 # modifications
 
-WTF?
+
  We know it’s strange to call for two kinds of garlic, but there’s a good goddamn reason. This helps give it that store-bought ranch taste that you grew up with. Trust us.
 	
 	

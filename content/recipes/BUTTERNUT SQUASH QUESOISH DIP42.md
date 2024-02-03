@@ -45,7 +45,7 @@ You can use canned puree, but it’s easy as hell to make: Skin and chop up a bu
 
  Canned is cool here.
 
- WTF?
+ 
 
 
 

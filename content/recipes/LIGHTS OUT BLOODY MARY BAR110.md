@@ -35,7 +35,7 @@ tags:
 1 In a large pitcher or old glass juice jar, mix together the tomato juice, Tabasco, lemon juice, Bragg’s, and a couple dashes of black pepper. Stir that    around and taste. You can add the vodka now to make sure no one gets out of hand and drinks all your   , or you can just put the bottle out and let people add it to their drinks themselves. Your call, but be honest with yourself if you know your friends can’t hold their booze.
 2 Set up the plate for making salted rims: On a small rimmed plate, mix together the salt, celery seed, and Old Bay seasoning. Take the rim of one of your glasses and stick it in there so it leaves a circle. This will show all the rookies at the party what the hell they’re supposed to do.
 3 To set up the bar, put out as few or as many of the add-ins as you want out. Have a bunch of glasses and ice ready and let people do the damn thing.
-WTF?
+
 Old Bay is a supercommon spice blend that’s added to    like crab cakes, etc. If you can’t find it by the spices at your store, just add paprika instead and move the   on with your life.
 	
 	

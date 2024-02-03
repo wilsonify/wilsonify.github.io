@@ -42,11 +42,11 @@ tags:
 
 
 ## Modifications
-WTF?
+
 
  Calm the   down. It’s a marinade, not a  drink. You won’t be consuming that much sodium, we swear.
 
- WTF?
+ 
 
  Confused? See the House Rules.
 

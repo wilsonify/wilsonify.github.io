@@ -30,6 +30,6 @@ Spray oil
 
 See House Rules.
  One 15-ounce can of beans equals 1.5 cup, just what is needed for the cakes and sauce; so yeah, we got your lazy ass like that.
- WTF?
+ 
 	
 

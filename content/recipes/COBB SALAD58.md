@@ -56,7 +56,7 @@ tags:
 ## Modifications
 You know what you’re about. Add the extra garlic.
 
- WTF?
+ 
 
  Really, any miso paste is cool here. Red is just our favorite. Can’t find that    at all? Replace it with 1 tsp soy sauce or tamari and move the   on.
 

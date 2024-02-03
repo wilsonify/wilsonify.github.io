@@ -33,7 +33,7 @@ tags:
 # modifications
 
 This takes about 1 medium sweet potato and is a  workout on your arm. If someone in your place owes you a favor, call it in for this    or borrow their food processor with that fancy grating attachment thing.
- WTF?
+ 
 Get a head start and cook this    the night before. To reheat it, just cover it in foil and throw it back in the oven at 350°F for 15 to 20 minutes to get warm. Take a longer shower instead because you earned that    for being so damn clever.
 	
 	

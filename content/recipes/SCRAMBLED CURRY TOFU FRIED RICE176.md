@@ -37,7 +37,7 @@ Squeeze of lime or lemon juice
 You could use kale or whatever your go-to green is. No need to buy a bunch of different   .
  Frozen peas are legit here. Don’t overthink this.
  Do yourself a favor and don’t buy any curry powder with salt as an ingredient. You don’t need them sneaking extra sodium on you like that.
- WTF?
+ 
 DON’T EVEN  THINK about using freshly cooked rice here because it will get all mushy and taste like a disaster. The trick to good fried rice is using cold, leftover cooked rice because it’s drier and the rice kernels are separated. This keeps it from being a sticky gross paste, SO PLAN AHEAD.
 	
 

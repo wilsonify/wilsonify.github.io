@@ -47,7 +47,7 @@ Or one 15-ounce can of beans, drained and rinsed.
 
  White, yellow, or sweet onion will do. Whatever is on sale.
 
- WTF?
+ 
 
  No clue how to zest?
 

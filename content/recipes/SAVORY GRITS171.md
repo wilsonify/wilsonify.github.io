@@ -21,6 +21,6 @@ tags:
 
 Almond milk is fine, use whatever you want.
  Not that instant   .
- WTF?
+ 
 	
 

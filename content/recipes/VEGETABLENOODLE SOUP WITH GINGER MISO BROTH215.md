@@ -68,7 +68,7 @@ green onions and some of your favorite condiments.
 ## Modifications
 Stems and all,  .
 
- WTF? See tip.
+  See tip.
 
  A squeeze of lime juice, a dash of toasted sesame oil, and a splooge of Sriracha are usually the way to go for
 

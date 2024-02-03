@@ -27,6 +27,6 @@ tags:
 
 Need help zesting?
  Both paprika and parsley are just for looks. If you don’t have them, don’t stress.
- WTF?
+ 
 	
 

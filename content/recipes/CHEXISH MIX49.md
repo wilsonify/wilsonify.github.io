@@ -25,7 +25,7 @@ tags:
 
 You can do half rice cereal, half corn, some wheat, whateverthe  you like or is on sale.
  Optional but  awesome. If you know you like heat, go up to .25 tsp for delicious results.
- WTF?
+ 
 Make this mix your own. Sub in bagel chips for the nuts, add more pretzel, whatever the   you like. Just keep the total amount of dry    to 10 cup so that everything gets enough seasoning and you are good to grub.
 	
 	

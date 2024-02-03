@@ -43,7 +43,7 @@ tags:
 
 
 ## Modifications
-WTF?
+
 
  Can’t find that    in the store/don’t want to look? Leave it out.
 

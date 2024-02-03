@@ -1,34 +1,24 @@
-
-
-	
 ---
-title: "BAKED SPICY PLANTAIN CHIPS"
+title: "Baked Spicy Plantain Chips"
 tags:
   - recipe
 ---
-# BAKED SPICY PLANTAIN CHIPS
-#### yields 4 TO 6, ABOUT 30 CHIPS, DEPENDING ON THE
-## ingredients
-* 1 green plantain green plantain
-* 1 TBL olive or grapeseed oil* 1 TBL olive or grapeseed oilc* 1 TBL olive or grapeseed oil* 1 TBL olive or grapeseed oil* 1 TBL olive or grapeseed oile pepper
 
-* 1/4 tsp salt
+# Baked Spicy Plantain Chips
 
-# instructions
-1 Crank your oven to 400°F. Grab a baking sheet and coat it lightly with cooking spray.
-2 Peel the plantain and cut it crosswise into slices no thicker than .125 inch. Don’t measure
-that   , just think thin.
-3 Grab two bowls and put the oil and lime juice in one. Add the plantain and mix all around
-until every last mother piece gets covered. Fish out the plantains and place them in the
-second bowl. Add the spices and salt and  mix that up until all the plantains have some
-seasoning on them.
-4 Lay them out in a single layer on the baking sheet and bake them for 20 minutes, flipping
-them halfway. They will be golden and crispy when they are ready to go. They are best eaten the
-day they are made for crisp retention. Yeah that’s right, crisp retention, some highbrow    right
-there.
+#### Yields 4 to 6 (About 30 Chips, Depending On The Size)
 
-# modifications
+## Ingredients
+- 1 green plantain
+- 1 TBL olive or grapeseed oil
+- 1/4 tsp cayenne pepper
+- 1/4 tsp salt
 
-Plantains are like big, starchy bananas. Look for them in any market that specializes in Latin American foods.
-	
-	
+## Instructions
+1. Preheat your oven to 400°F. Grab a baking sheet and coat it lightly with cooking spray.
+2. Peel the plantain and cut it crosswise into slices no thicker than 0.125 inch. Don't measure, just think thin.
+3. Grab two bowls and put the oil and lime juice in one. Add the plantain and mix until every piece is covered. Place the plantains in the second bowl, add the spices and salt, and mix until all the plantains have seasoning on them.
+4. Lay them out in a single layer on the baking sheet and bake for 20 minutes, flipping them halfway. They will be golden and crispy when ready. Best eaten on the same day for crisp retention.
+
+## Modifications
+- Plantains are like big, starchy bananas. Look for them in any market that specializes in Latin American foods.

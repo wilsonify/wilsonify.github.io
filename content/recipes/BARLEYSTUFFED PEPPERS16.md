@@ -1,70 +1,58 @@
-
 ---
 title: "BARLEY-STUFFED PEPPERS"
 tags:
   - recipe
 ---
+
 # BARLEY-STUFFED PEPPERS
 
+**Yields:** 4 stuffed peppers
 
-
-#### yields  4 STUFFED PEPPERS
-
-
-## ingredients
-* 2 TBL olive oil 
-* 0.5 onion 
-* 2 ribs celery 
-* 1 carrot 
-* 3 to 4 clove garlic 
-* 2 tsp dried thyme 
-* 1 1/2 tsp dried oregano 
-* 1 cup pearled barley 
-* 1 tomato 
-* 2 TBL sherry vinegar or red wine vinegar 
-* 2 cup vegetable broth 
-* 1/2 tsp salt 
-* 1/4 tsp ground pepper 
-* 4 bell peppers, whatever color you find is cool 
-* 1 1/2 cup cooked kidney or white beans 
-* 1/4 cup fresh parsley 
-
-
+## Ingredients
+- 2 tablespoons olive oil
+- 1/2 onion
+- 2 ribs celery
+- 1 carrot
+- 3 to 4 cloves garlic
+- 2 teaspoons dried thyme
+- 1 1/2 teaspoons dried oregano
+- 1 cup pearled barley
+- 1 tomato
+- 2 tablespoons sherry vinegar or red wine vinegar
+- 2 cups vegetable broth
+- 1/2 teaspoon salt
+- 1/4 teaspoon ground pepper
+- 4 bell peppers, any color
+- 1 1/2 cups cooked kidney or white beans
+- 1/4 cup fresh parsley
 
 ## Instructions
-0 chop onion, celery, carrots, tomato
 
-1 In a medium pot, heat the oil over medium heat. Add the onion and cook until it starts
-
-turning golden, about 3 minutes. Add the celery, carrot, garlic, thyme, and oregano and cook
-
-for another 2 minutes. Throw in the barley, tomato, and vinegar and stir. Add the broth, salt,
-
-and pepper and let it come to a low simmer. Cook, uncovered, until all the broth is absorbed
-
-and the barley is tender, about 15 minutes.
-
-2 While the barley is simmering, heat your oven to 375°F. Cut the tops off the bell peppers
-
-and scrape out any seeds. Place them in an oiled pie plate or loaf pan, something where their
-
-asses won’t be sliding around once they’re stuffed.
-
-3 When the barley is done, fold in the beans and turn off the heat. (This filling can even be
-
-made a day or two ahead of time, no  problem.) Fill the bell peppers up to the top with
-
-the filling, cover them tightly with foil, and bake until the peppers are tender, 45 minutes to 1
-
-hour. Let them rest for 5 minutes after coming out of the oven, ’cause those  ers are hot.
-
-Top with the parsley and serve.
-
-
+1. Chop onion, 
+2. Chop celery
+3. Chop carrot
+4. Chop tomato
+5. In a medium pot, heat the oil over medium heat. 
+6. Add the onion 
+7. cook until it starts turning golden, about 3 minutes. 
+8. Add the celery, carrot, garlic, thyme, and oregano, 
+9. cook for another 2 minutes.
+10. Add the barley, tomato, and vinegar. 
+11. Stir to combine.
+12. Add the vegetable broth, salt, and pepper. 
+13. Bring to a low simmer. 
+14. Cook, uncovered, until all the broth is absorbed and the barley is tender, about 15 minutes.
+15. While the barley is simmering, 
+16. preheat your oven to 375°F.
+17. Cut the tops off the bell peppers 
+18. scrape out any seeds. 
+19. Place them in an oiled pie plate or loaf pan to keep them stable.
+20. When the barley is done, fold in the beans and turn off the heat.
+21. Fill the bell peppers to the top with the barley and bean mixture. 
+22. Cover them tightly with foil.
+23. Bake until the peppers are tender, 45 minutes to 1 hour.
+24. Let them rest for 5 minutes after coming out of the oven.
+25. Top with fresh parsley before serving.
 
 ## Modifications
-Or one 15-ounce can
-
-
-
-
+- Substitute one 15-ounce can of kidney or white beans for the cooked beans.

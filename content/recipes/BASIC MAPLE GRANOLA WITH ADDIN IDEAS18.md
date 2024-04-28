@@ -1,68 +1,43 @@
-
 ---
 title: "BASIC MAPLE GRANOLA WITH ADD-IN IDEAS"
 tags:
   - recipe
 ---
+
 # BASIC MAPLE GRANOLA WITH ADD-IN IDEAS
 
+**Yields:** 5 cups
 
-
-#### yields  5 cup
-
-
-## ingredients
-* 3 cup rolled oats 
-* 1/2 cup sunflower seeds 
-* 1/2 cup almonds 
-* 1/4 cup uncooked millet 
-* 1/2 cup maple syrup 
-* 1/3 cup olive oil 
-* 1/2 tsp vanilla extract 
-* 1/2 tsp ground cinnamon 
-* 1/2 tsp salt 
-* 1/2 cup dried cranberries (optional)
-
-
+## Ingredients
+- 3 cups rolled oats
+- 1/2 cup sunflower seeds
+- 1/2 cup almonds
+- 1/4 cup uncooked millet
+- 1/2 cup maple syrup
+- 1/3 cup olive oil
+- 1/2 teaspoon vanilla extract
+- 1/2 teaspoon ground cinnamon
+- 1/2 teaspoon salt
+- 1/2 cup dried cranberries (optional)
 
 ## Instructions
-1 Heat your oven to 300°F. Line a rimmed baking sheet with some parchment paper.
+1. Preheat your oven to 300°F. Line a rimmed baking sheet with parchment paper.
+2. In a large bowl, mix together the oats, sunflower seeds, almonds, and millet.
+3. In a medium glass, stir together the maple syrup, olive oil, and vanilla. Pour this mixture over the oat mixture and stir until everything is well coated. Add the cinnamon and salt, and stir again.
+4. Spread the mixture evenly on the prepared baking sheet. Bake for 40 minutes, stirring every 10 minutes to ensure even cooking. The granola is done when it looks toasted and the oats feel crispy instead of damp.
+5. If using dried cranberries, stir them into the granola after baking. Let the granola cool completely on the baking sheet, then store it in an airtight container for up to 2 weeks.
 
-2 Mix together the oats, seeds, nuts, and millet in a large bowl.
-
-3 In a medium glass, stir together the maple syrup, oil, and vanilla. Pour this all over the oat
-
-mixture and stir that    around until everything looks coated. Add the cinnamon and the salt
-
-and stir.
-
-4 Pour all of this evenly over that baking sheet and stick it in the oven for 40 minutes. Stir it
-
-every 10 minutes so that it cooks evenly. You’ll know this    is done when everything looks
-
-kinda toasted and the oats feel crispy instead of damp. Stir in the dried fruit now if you’re using
-
-any. Let that all cool on the baking sheet and then store it in an airtight container for up to 2
-
-weeks.
-
-5 Want to mix it up? Try these nut and fruit combos: almonds and chopped, dried apricots or
-
-strawberries; walnuts and dried pears or figs; pecans and dried cherries; peanuts and dried
-
-apples or bananas. Just use whateverthe  sounds good to you.
-
-
+## Add-In Ideas
+- Try these nut and fruit combos:
+  - Almonds with chopped dried apricots or strawberries
+  - Walnuts with dried pears or figs
+  - Pecans with dried cherries
+  - Peanuts with dried apples or bananas
+- Use whatever nuts and dried fruits you prefer!
 
 ## Modifications
-Basically, 1 cup of whatever nuts you prefer.
+- You can use 1 cup of any nuts of your choice.
+- If you don't have millet, simply add more oats.
+- Quality maple syrup can be expensive, but it's worth it for delicious granola. Alternatively, use any dried fruit you like.
 
-No millet?   it, just add more oats.
-
-Legit syrup can get kinda  expensive. But so can granola. Save up for the good   .
-
-Or use any dried fruit you like.
-
-
-
-
+Enjoy your homemade maple granola with endless customization options!

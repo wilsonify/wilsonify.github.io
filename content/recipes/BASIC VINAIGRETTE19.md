@@ -1,26 +1,25 @@
-
-
-	
 ---
 title: "BASIC VINAIGRETTE"
 tags:
   - recipe
 ---
-# BASIC THUG KITCHEN VINAIGRETTE
-## ingredients
-* 2 TBL diced shallot or sweet onion* 2 TBL diced shallot or sweet onionn* 2 TBL diced shallot or sweet onion* 2 TBL diced shallot or sweet onion* 2 TBL diced shallot or sweet onioninegar
 
-* 1/4 cup olive oil
+# BASIC VINAIGRETTE
 
-# instructions
-Pour all this    together in a jar and shake the   out of it. Taste and add more of
-whateverthe  you think it needs. You can switch out the vinegars with what you like to find
-your favorite combo. If you want to mix it up even more, add 1 tsp of your favorite dried
-herb or herb blend and shake that    in.
+## Ingredients
+- 2 tablespoons diced shallot or sweet onion
+- 1/4 cup vinegar (use your preferred type)
+- 1/4 cup olive oil
 
-# modifications
+## Instructions
+1. Pour all the ingredients into a jar.
+2. Shake vigorously to emulsify the vinaigrette.
+3. Taste and add more of whatever you think it needs.
+   - You can switch out the vinegars to find your favorite combo.
+   - To add more flavor, mix in 1 teaspoon of your favorite dried herb or herb blend and shake it in.
 
-You can sub in 2 clove of garlic instead.
- This brings the whole dressing together. Trust.
-	
-	
+## Modifications
+- Instead of shallot or sweet onion, you can use 2 cloves of garlic.
+  - This brings the whole dressing together. Trust.
+
+Enjoy your homemade Basic Thug Kitchen Vinaigrette!

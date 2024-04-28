@@ -1,3 +1,9 @@
+---
+title: "Green Smoothies"
+tags:
+  - recipe
+---
+
 ## Green Smoothies 
 
 Green smoothies are an easy way to get more fruits and veggies into your diet. Get a dose of fiber, chlorophyll, essential vitamins, and other good stuff your body needs in one glass. Keep it simple.

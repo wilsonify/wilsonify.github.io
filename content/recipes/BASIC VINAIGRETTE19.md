@@ -2,7 +2,7 @@
 
 	
 ---
-title: "BASIC THUG KITCHEN VINAIGRETTE"
+title: "BASIC VINAIGRETTE"
 tags:
   - recipe
 ---

@@ -1,3 +1,8 @@
+---
+title: "Szechuan Tofu Chili"
+tags:
+  - recipe
+---
 # Szechuan Tofu Chili
 
 ## Ingredients:

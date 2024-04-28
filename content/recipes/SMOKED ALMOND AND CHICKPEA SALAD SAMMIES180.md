@@ -2,11 +2,11 @@
 
 	
 ---
-title: "SMOKED ALMOND AND CHICKPEA SALAD SAMMIES"
+title: "SMOKED ALMOND AND CHICKPEA SALAD SANDWICHES"
 tags:
   - recipe
 ---
-# SMOKED ALMOND AND CHICKPEA SALAD SAMMIES
+# SMOKED ALMOND AND CHICKPEA SALAD SANDWICHES
 #### yields 4 TO 6 SANDWICHES
 ## ingredients
 * 2 1/2 tsp liquid smoke* 2 1/2 tsp liquid smokeo* 2 1/2 tsp liquid smoke* 2 1/2 tsp liquid smoke* 2 1/2 tsp liquid smoker* 2 1/2 tsp liquid smoke* 2 1/2 tsp liquid smoke* 2 1/2 tsp liquid smokea* 2 1/2 tsp liquid smoke

@@ -28,7 +28,7 @@ tags:
 
 1 Mix all that    together (except the bread, dumbass) in a medium bowl and let it chill in the fridge for 30 minutes so all the flavors can hang out and get to know each other. Taste and then add more of what you think it needs. You do you.
 
-2 Serve in a bowl surrounded by the toasted bread or prescoop that    onto the toasts and pass it around like a bunch of tiny open-faced sammies. Both ways are equally  delicious.
+2 Serve in a bowl surrounded by the toasted bread or prescoop that    onto the toasts and pass it around like a bunch of tiny open-faced SANDWICHES. Both ways are equally  delicious.
 
 
 

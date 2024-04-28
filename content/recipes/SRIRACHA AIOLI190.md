@@ -18,7 +18,7 @@ tags:
 
 
 ## Instructions
-1 Throw everything together in a blender or food processor and run it until everything looks smooth and mixed up, about 1 minute. This flavorful mother er will keep in the fridge for about 2 weeks. If it starts to separate, just throw it back in the blender and emulsify its ass one more time.
+1 Throw everything together in a blender or food processor and run it until everything looks smooth and mixed up, about 1 minute. This flavorful mother er will keep in the fridge for about 2 weeks. If it starts to separate, just throw it back in the blender and emulsify it one more time.
 
 
 

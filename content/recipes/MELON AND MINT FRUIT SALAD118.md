@@ -14,7 +14,7 @@ tags:
 
 # instructions
 0 chop melons into chunks no bigger than a nickel (about 10 cup)
-1 Mix the melon, lemon zest, sugar, and mint together in a big ass bowl. Let this chill in the fridge for a minimum of 2 hours, or you can let it hang out overnight. If you’re going for the longer chill, leave the mint out until you’re ready to serve so that green is still looking all nice and fresh.
+1 Mix the melon, lemon zest, sugar, and mint together in a big bowl. Let this chill in the fridge for a minimum of 2 hours, or you can let it hang out overnight. If you’re going for the longer chill, leave the mint out until you’re ready to serve so that green is still looking all nice and fresh.
 2 Serve cold and appreciate how badass melons are.
 
 # modifications

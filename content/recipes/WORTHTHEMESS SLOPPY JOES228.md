@@ -1,14 +1,12 @@
 
 ---
-title: "WORTH-THE-MESS SLOPPY JOES"
+title: "SLOPPY JOES"
 tags:
   - recipe
 ---
-# WORTH-THE-MESS SLOPPY JOES
+# SLOPPY JOES
 
-
-
-#### yields  6 REASONABLE SAMMIES, 4 IF YOU LIKE HUGE AND SLOPPY
+#### yields 6 REASONABLE SANDWICHES
 
 
 ## ingredients

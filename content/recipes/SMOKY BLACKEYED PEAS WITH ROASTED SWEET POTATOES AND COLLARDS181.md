@@ -80,15 +80,19 @@ Pour at least 1 cup of peas over the potatoes and 2 cup of the greens. Serve rig
 
 
 ## Modifications
-This is not a blend of spices—it’s a berry with a confusing ass name. It is in a lot of Caribbean food and
 
-should be right next to all the spices and    in your store.
+This is not a blend of spices
+it’s a berry with a confusing name. 
 
- These smoked peppers in sauce are sold in a tiny can and are usually near the salsa and beans. When you chop
+It is in a lot of Caribbean food and should be right next to all the other spices in your store.
 
-the chipotles, cut them open and scrape out the seeds. If you prefer it hot, then keep some of the seeds in, but think of
+These smoked peppers in sauce are sold in a tiny can and are usually near the salsa and beans. 
 
-your butt hole tomorrow as you make that call.
+When you chop the chipotles, 
+cut them open and scrape out the seeds. 
+
+If you prefer it hot, then keep some of the seeds in. 
+
 
 
 

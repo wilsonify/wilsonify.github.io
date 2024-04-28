@@ -51,7 +51,7 @@ tags:
 
 4 Make the aioli if you are using it and get the rest of your toppings in order. You got this   .
 
-5 When the vegetables are all roasted and looking right, spread your sammie-size baguette pieces with some aioli and fill up with slaw, cilantro, and all the rest of the toppers. Pile the roasted vegetables high inside the bread and keep making sammies until you run out of bread. Serve hot or at room temp. These badasses taste great no matter what the   you do. Serve these the day you make them though, so that the panko stays crispy and delicious. You’re  welcome.
+5 When the vegetables are all roasted and looking right, spread your SANDWICH-size baguette pieces with some aioli and fill up with slaw, cilantro, and all the rest of the toppers. Pile the roasted vegetables high inside the bread and keep making SANDWICHES until you run out of bread. Serve hot or at room temp. These badasses taste great no matter what the   you do. Serve these the day you make them though, so that the panko stays crispy and delicious. You’re  welcome.
 
 
 

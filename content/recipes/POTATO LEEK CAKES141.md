@@ -21,7 +21,7 @@ Spray oil
 # instructions
 1 Crank up your oven up to 400°F. Grab a rimmed baking sheet and line it with some parchment paper.
 2 In a large bowl, mix the potatoes, leek strips, beans, garlic, nutritional yeast, olive oil, and salt and mix all the    around until you can kinda form little patties.
-3 Grab a small handful of that potato mess. Make a thin patty by kinda flattening that    out as you place it on the baking sheet. Repeat, then spray with a little oil. Bake until those  ers look golden, about 30 minutes, flipping halfway. While they’re crisping up in the oven, your multitasking ass has time to make the sauce.
+3 Grab a small handful of that potato mess. Make a thin patty by kinda flattening that    out as you place it on the baking sheet. Repeat, then spray with a little oil. Bake until those  ers look golden, about 30 minutes, flipping halfway. While they’re crisping up in the oven, you have time to make the sauce.
 4 To make the dipping sauce: Throw the broth, milk, beans, flour, garlic, mustard, nutritional yeast, lemon juice, and soy sauce or tamari in a blender and run that loud mother er until the beans have gone and disappeared.
 5 Pour that mixture into a small saucepan and bring it to a gentle simmer, like a couple bubbles, over medium heat. Simmer until the sauce starts thickening up, 3 to 5 minutes. You want that    to look like you could actually dip something in it, so get it that thick. Remove from the heat and stir in the dill. Taste and add more garlic or whatever you’re feeling at that moment.
 6 Serve both the sauce and cakes warm.
@@ -29,7 +29,10 @@ Spray oil
 # modifications
 
 See House Rules.
- One 15-ounce can of beans equals 1.5 cup, just what is needed for the cakes and sauce; so yeah, we got your lazy ass like that.
+
+One 15-ounce can of beans equals 1.5 cup, 
+just what is needed for the cakes and sauce; 
+
  
 	
 

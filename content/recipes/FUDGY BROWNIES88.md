@@ -2,7 +2,7 @@
 
 	
 ---
-title: "FUDGY-AS-  BROWNIES"
+title: "FUDGY BROWNIES"
 tags:
   - recipe
 ---

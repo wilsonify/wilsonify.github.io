@@ -1,14 +1,14 @@
 
 ---
-title: "TLTA SAMMIES"
+title: "TLTA SANDWICHES"
 tags:
   - recipe
 ---
-# TLTA SAMMIES
+# TLTA SANDWICHES
 
 
 
-#### yields  4 SAMMIES ON REGULAR-SIZE LOAF BREAD
+#### yields  4 SANDWICHES ON REGULAR-SIZE LOAF BREAD
 
 
 ## ingredients

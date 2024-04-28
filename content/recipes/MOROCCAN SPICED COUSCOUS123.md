@@ -27,7 +27,7 @@ couscous should absorb all the water while you wait and it should be tender when
 
 the lid. Easy   .
 
-2 While your ass is waiting, mix together the olive oil and rice vinegar in a small glass. Chop
+2 While your waiting, mix together the olive oil and rice vinegar in a small glass. Chop
 
 up the spinach into thick ribbons.
 

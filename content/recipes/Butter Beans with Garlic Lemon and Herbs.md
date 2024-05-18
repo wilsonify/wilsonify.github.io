@@ -30,16 +30,20 @@ tags:
 ## Instructions
 
 ### 1. Toast the seasonings.
-- Mince 4 garlic cloves. In a large nonstick pan, heat 2 tablespoons of olive oil over medium heat.
-- When the oil begins to shimmer, add the minced garlic, ¼ teaspoon smoked paprika, and ½ teaspoon each of red pepper flakes, Urfa biber (if using), and cumin.
-- Season with a big pinch of salt and pepper and stir just until the garlic is fragrant, about 30 seconds to 1 minute (do not let the garlic brown or the oil will taste bitter).
+- Mince 4 garlic cloves. In a large nonstick pan, 
+- heat 2 tablespoons of olive oil over medium heat.
+- When the oil begins to shimmer, add the minced garlic, ¼ teaspoon smoked paprika, and ½ teaspoon each of red pepper flakes, Urfa biber, and cumin.
+- Season with a big pinch of salt and pepper 
+- stir just until the garlic is fragrant, about 30 seconds to 1 minute (do not let the garlic brown or the oil will taste bitter).
 
 ### 2. Simmer the beans.
 - Add 2 (15-ounce) cans of drained butter beans and 1 cup of vegetable broth.
 - Bring to a boil, then turn the heat to low and simmer until the beans are warm and the broth is just slightly thickened, 5 to 10 minutes.
-- Meanwhile, trim and chop 2 green onions. Prepare ⅓ cup each of chopped dill and parsley.
+- Meanwhile, trim and chop 2 green onions. 
+- Prepare ⅓ cup each of chopped dill and parsley.
 
 ### 3. Finish and serve.
-- Juice in two lemons, then stir in 2 chopped green onions and fresh herbs.
+- Juice in two lemons, 
+- then stir in 2 chopped green onions and fresh herbs.
 - Serve warm.
 

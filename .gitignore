@@ -4,3 +4,4 @@ _site/
 *~
 .idea/
 build/
+/.hugo_build.lock

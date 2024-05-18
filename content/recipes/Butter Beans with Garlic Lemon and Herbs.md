@@ -1,15 +1,30 @@
+---
+title: "Butter Beans Recipe"
+tags:
+  - recipe
+---
+
 # Butter Beans Recipe
 
 ## Ingredients
 
-- **Olive oil:** Olive oil is used to extract the garlic’s flavor and toast the herbs, making them more intense. Use a high quality, extra virgin variety. Any of the hand selected olive oils from our shop work well with this recipe.
-- **Garlic:** A healthy amount of garlic adds a bold flavor to the beans.
-- **Spices:** Red pepper flakes, Urfa pepper, cumin, and smoked paprika give these butter beans a Mediterranean twist. Kosher salt and black pepper enhance the flavor. Note: Urfa pepper is a Turkish spice that adds a slightly earthy heat. You can substitute with Aleppo pepper, more red chili flakes, or simply leave it out if you’d like.
-- **Butter beans:** Large, creamy beans that are delicious right out of the can but even better with a quick simmer. You can substitute with any large white bean, like cannelini or Great Northern.
-- **Lemon:** Fresh lemon juice lightens the richness of the beans, perfectly complementing the fresh herbs and garlic. Fresh lime juice would also work.
-- **Green onions:** Used like an herb, green onion is mild enough to enjoy raw. They add a fresh sweet and savory flavor that complements the stewed garlic. You can substitute with shallots or chives if you’d like.
-- **Fresh herbs:** Parsley and dill add a Mediterranean spirit and freshness to the butter beans. Any tender, leafy herb like basil or mint would also work.
-
+- **Olive oil:** 2 tablespoons
+- **Garlic:** 4 cloves, minced
+- **Spices:**
+  - Red pepper flakes: ½ teaspoon
+  - Urfa pepper: ½ teaspoon (optional)
+  - Cumin: ½ teaspoon
+  - Smoked paprika: ¼ teaspoon
+  - Kosher salt: to taste
+  - Black pepper: to taste
+- **Butter beans:** 2 cans (15 ounces each), drained
+- **Vegetable broth:** 1 cup
+- **Lemon:** Juice of 2 lemons
+- **Green onions:** 2, chopped
+- **Fresh herbs:**
+  - Dill: ⅓ cup, chopped
+  - Parsley: ⅓ cup, chopped
+  
 ![Butter beans in a white pan with a wooden spoon and bread and lemon wedges on the side.](butter_beans_image.jpg)
 
 ## Instructions

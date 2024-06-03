@@ -16,10 +16,10 @@ jobs:
           fetch-depth: 0
 
       - name: Render site
-        run: docker run --rm --name wilsonify.github.io.builder --volume wilsonify.github.io:/usr/src/app ghcr.io/wilsonify/wilsonify.github.io.builder:master hugo --minify
+        run: docker run --rm --name builder -v ${{ github.workspace }}:/usr/src/app ghcr.io/wilsonify/wilsonify.github.io.builder:master hugo --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: wilsonify.github.io/public
+          publish_dir: public

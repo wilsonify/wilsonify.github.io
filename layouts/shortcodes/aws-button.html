@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="https://sdk.amazonaws.com/js/aws-sdk-2.1338.0.js"></script>
+    <script>
+        // Function to list S3 buckets
+        async function listS3Buckets() {
+          AWS.config.update({ region: "us-east-1" });
+          try {
+            // Create an S3 client
+            const s3 = new AWS.S3();
+
+            // Fetch the list of buckets
+            const result = await s3.listBuckets().promise();
+            const bucketNames = result.Buckets.map((bucket) => bucket.Name);
+
+            // Display the results
+            document.getElementById("output").innerText = bucketNames.join("\n");
+          } catch (err) {
+            console.error("Error listing S3 buckets:", err);
+            document.getElementById("output").innerText =
+              "Error fetching S3 buckets. Check console for details.";
+          }
+        }
+    </script>
+</head>
+<body>
+<div>
+    <h1>S3 Bucket Viewer</h1>
+    <button onclick="listS3Buckets()">List S3 Buckets</button>
+    <pre id="output" style="background: #f4f4f4; padding: 10px; border: 1px solid #ddd; overflow: auto;"></pre>
+</div>
+</body>
+</html>

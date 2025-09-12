@@ -1,10 +1,11 @@
 baseURL = ""
 languageCode = "en-us"
 tagline = "Data Scientist"
-theme = "ananke"
+
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 100
+googleAnalytics = ""   # <---- disable analytics
 
 [menu]
 
@@ -27,7 +28,7 @@ Paginate = 100
   name = "Projects"
   URL = "/projects"
   weight = 4
-  
+
   [[menu.main]]
   name = "Recipes"
   URL = "/recipes"
@@ -42,4 +43,3 @@ location = "Pennsylvania"
   changefreq = "monthly"
   priority = 0.5
   filename = "sitemap.xml"
-

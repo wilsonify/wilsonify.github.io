@@ -21,7 +21,7 @@ jobs:
           fetch-depth: 0
 
       - name: Render site
-        run: docker run --rm --name builder -v ${{ github.workspace }}:/usr/src/app ghcr.io/wilsonify/wilsonify.github.io.builder:master hugo --minify
+        run: docker run --rm --name builder -v ${{ github.workspace }}:/usr/src/app hcr.io/gohugoio/hugo:latest hugo --minify
 
       - name: update gh-pages branch
         uses: peaceiris/actions-gh-pages@v3

@@ -1,0 +1,6 @@
+# Use an official Hugo image with extended Sass/SCSS support (needed by many themes)
+FROM ghcr.io/gohugoio/hugo:v0.150.0 AS builder
+
+# Set working directory inside container
+WORKDIR /src
+

@@ -1,63 +1,39 @@
-
 ---
-title: "CORN AND BASIL CHOWDER"
+title: "Corn and Basil Chowder"
 tags:
   - recipe
 ---
-# CORN AND BASIL CHOWDER
 
+# Corn and Basil Chowder
 
+#### Yields: 4–6 servings (as a side)
 
-#### yields  4 TO 6 AS A SIDE
+## Ingredients
+- 6 large ears corn, shucked  
+- 1 medium onion, chopped  
+- 2 ribs celery, chopped  
+- 1 red bell pepper, chopped  
+- 1 medium potato, chopped  
+- 3 cloves garlic, minced  
+- 1 tbsp olive oil  
+- 1 tsp salt (plus more to taste)  
+- 4 cups vegetable broth  
+- 2 tbsp lemon juice (or to taste)  
+- 1/2 cup fresh basil, chopped  
 
+## Instructions
 
-## ingredients
-* 6 large ears corn, shucked <
----
-title: "CORN AND BASIL CHOWDER"
-tags:
-  - recipe
----
-# CORN AND BASIL CHOWDER
+1. **Prep the vegetables**  
+   Cut the corn off the cobs. (It helps to snap the cob in half, stand it upright in a large bowl, and slice from top to bottom.) You should have about 4 cups of kernels. Chop the onion, celery, bell pepper, and potato into small pieces, and mince the garlic.  
 
+2. **Start the soup base**  
+   In a large soup pot, heat the oil over medium heat. Add the onion and cook until lightly browned, about 3 minutes. Add the celery, bell pepper, potato, and garlic; cook for another 2 minutes. Stir in the salt and three-quarters of the corn kernels. Add the broth and simmer until the potatoes are tender, about 10 minutes.  
 
+3. **Blend for creaminess**  
+   Turn off the heat. Use an immersion blender to blend until creamy and mostly smooth (or carefully transfer to a blender, then return to the pot).  
 
-#### yields  4 TO 6 AS A SIDE
+4. **Finish the chowder**  
+   Add the remaining corn and the lemon juice, then bring back to a simmer. Remove from heat, stir in the basil, and adjust seasoning with more salt, lemon juice, or basil as needed.  
 
-
-## ingredients
-* 6 large ears corn, shucked <iv itemprop="recipeInstructions"><p>1 First you want to use a sharp knife to cut the corn off of the cobs. It’s easier if you snap the
-
-cob in half, stand it on its end in the middle of a large bowl and cut the kernels off from top to
-
-bottom. When you’re all done, you should have about 4 cup of kernels. Don’t get lazy and use
-
-frozen corn here; that    will not taste the same. Chop the onion, celery, bell pepper, and
-
-potato into bean-size pieces and mince the garlic. Prep work done.
-
-2 Now grab a large soup pot and heat the oil over medium heat. Add the onion and cook until
-
-it browns lightly, about 3 minutes. Add the celery, bell pepper, potato, and garlic and cook for
-
-about 2 more minutes. Add the salt and then three-quarters of the corn kernels and stir. Add
-
-the broth and let simmer until the potato pieces are soft, about 10 minutes.
-
-3 When the potato is soft, turn off the heat. Use an immersion blender and blend until that
-
-mother er looks nice and creamy and without a bunch of chunks. (You could also pour it
-
-into your blender and do it that way; up to you. Just return the blended soup to the pot.) Add
-
-the rest of the corn and the lemon juice, and bring it back to a simmer. Turn off the heat, add
-
-the basil, and then taste. Add more salt, more lemon juice, more basil, whatever. Serve right
-
-away with some more basil on top to make that    look as legit as it tastes.
-
-
-
-
-
-
+5. **Serve**  
+   Ladle into bowls and garnish with extra basil for freshness.  

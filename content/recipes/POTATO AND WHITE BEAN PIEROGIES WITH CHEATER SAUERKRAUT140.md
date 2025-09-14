@@ -1,78 +1,48 @@
-
 ---
-title: "POTATO AND WHITE BEAN PIEROGIES WITH CHEATER SAUERKRAUT"
+title: "Potato and White Bean Pierogies with Cheater Sauerkraut"
 tags:
   - recipe
 ---
-# POTATO AND WHITE BEAN PIEROGIES WITH CHEATER SAUERKRAUT
 
+# Potato and White Bean Pierogies with Cheater Sauerkraut
 
+#### Yields: 24 pierogies — enough for 4–6 people as a side or 10–12 as part of a spread
 
-#### yields  24 PIEROGIES, ENOUGH FOR 4 TO 6 PEOPLE AS A SIDE OR 10 TO 12 AS PART OF A SPREAD
+## Ingredients
+- 2 1/2 cups all-purpose flour, plus more for kneading  
+- 1/4 tsp salt  
+- 1/4 tsp garlic powder  
+- 1 1/2 to 2 cups warm water  
+- 1 tsp olive oil (for dough)  
+- 1 lb red or yellow potatoes (about 4 fist-size potatoes)  
+- 2 tsp olive oil (for filling)  
+- 1/2 large yellow onion  
+- 3 cups spinach  
+- Salt, to taste  
+- 1 can (15 oz) white beans, drained and rinsed  
+- 1 clove garlic, minced (or more to taste)  
+- 1–2 tbsp lemon juice  
+- 1–2 tsp hot sauce (optional)  
+- 2 tbsp nutritional yeast  
 
+## Instructions
 
-## ingredients
-* 2 1/2 cup all-purpose flour, plus more for kneading 
-* 1/4 tsp salt 
-* 1/4 tsp garlic powder 
-* 1 1/2 to 2 cup warm water 
-* 1 tsp olive oil 
-* 1 LB red or yellow potatoes (about 4 fist-size potatoes) 
-* 2 tsp olive oil 
-* 1/2 large yellow onion 
-* 3 cup spinach 
-* Salt 
-<li class="in
----
-title: "POTATO AND WHITE BEAN PIEROGIES WITH CHEATER SAUERKRAUT"
-tags:
-  - recipe
----
-# POTATO AND WHITE BEAN PIEROGIES WITH CHEATER SAUERKRAUT
+1. **Make the dough**: In a large bowl, combine the flour, salt, and garlic powder. Add the warm water and olive oil, stirring until a shaggy dough forms. Knead on a lightly floured surface until smooth, then cover and let rest while you prepare the filling.  
 
+2. **Prepare the potatoes**: Chop the potatoes into chunks no larger than poker chips. Place in a steamer basket over a pot with a couple inches of water. Cover and steam over medium-low heat until tender, 15–20 minutes.  
 
+3. **Cook the vegetables**: While the potatoes steam, heat the oil in a skillet over medium heat. Add the onion and sauté until starting to brown, about 5 minutes. Add the spinach, a pinch of salt, and cook until wilted, about 2 minutes. Remove from heat.  
 
-#### yields  24 PIEROGIES, ENOUGH FOR 4 TO 6 PEOPLE AS A SIDE OR 10 TO 12 AS PART OF A SPREAD
+4. **Make the filling**: In a large bowl, mash the beans into a paste. Add the cooked potatoes and mash until they resemble mashed potatoes. Stir in the onion-spinach mixture, garlic, lemon juice, hot sauce, nutritional yeast, and salt to taste. Adjust seasoning as needed.  
 
+5. **Prepare the dough rounds**: Bring a large pot of salted water to a boil while you roll out the dough. Divide the rested dough in half. Roll out one half on a floured surface until about tortilla thickness. Cut out 2.5-inch rounds using a biscuit cutter or jar. Repeat with the other half, re-rolling scraps as needed (about 24 rounds total).  
 
-## ingredients
-* 2 1/2 cup all-purpose flour, plus more for kneading 
-* 1/4 tsp salt 
-* 1/4 tsp garlic powder 
-* 1 1/2 to 2 cup warm water 
-* 1 tsp olive oil 
-* 1 LB red or yellow potatoes (about 4 fist-size potatoes) 
-* 2 tsp olive oil 
-* 1/2 large yellow onion 
-* 3 cup spinach 
-* Salt 
-<li class="in slower.
+6. **Fill the pierogies**: Place about 1 tablespoon of filling in the center of each round. Wet the edges with water, fold over, and press to seal. Crimp edges with a fork. Place assembled pierogies on a floured baking sheet.  
 
-3 Make the filling: Chop the potatoes up into chunks no bigger than a poker chip. It’s cool to leave the skin on if you’re all about the fiber life. Place a steamer insert and a couple inches of water in a medium pot. Add the potatoes, cover, heat that    over medium-low heat, and steam those tubers until you can stick a fork through with no  problem, 15 to 20 minutes.
+7. **Cook the pierogies**: Working in batches of 6, drop pierogies into the boiling water. Cook until they float and the dough is cooked through, about 5 minutes. Remove with a slotted spoon and set aside. Continue until all are cooked.  
 
-4 While the potatoes are getting soft, grab a skillet and heat up the oil over medium heat. Add the onion and sauté that    until it starts to brown, about 5 minutes. Add the spinach, a pinch of salt, and keep cooking until the spinach is all wilted down, about 2 minutes longer. Remove from the heat and leave that    there.
-
-5 Grab a large bowl and dump the beans in. Using a potato masher or a big-ass spoon, mash those mother ers up until a smoothish paste is formed. By now the potatoes should be down, so dump those spuds in and keep smashing until it kinda looks like mashed potatoes. Add the onion-spinach mixture, the garlic, lemon juice, hot sauce, and nutritional yeast and mix it up until it’s all combined. Taste that starchy savior and add more garlic, lemon juice, hot sauce, or salt depending on whatthe  you think is missing.
-
-6 Fill a large pot with water and bring that    to a boil over medium-high heat while you assemble the pierogies.
-
-7 Flour the counter where you kneaded the dough again and grab half of the rested dough. Roll that    out nice and thin, about the thickness of a tortilla. Grab a biscuit cutter or jar with a mouth at least 2.5 inches wide and cut out some rounds for your pierogies. Ball up any scraps and reroll them. We usually get about 12 rounds for each half of dough. Grab the other half of the dough and repeat that   .
-
-8 To stuff the pierogies, grab a small glass of water and use your finger to wet the edges of each dough round. Add about 1 TBL of filling to each round and then fold that    over. Seal the edges down with your finger and then crimp that    with a fork so it looks kinda like a pie crust along the edges. Put them all on a floured baking sheet until you’re all done and ready to boil them.
-
-9 To cook, drop them down in the boiling water in batches no larger than 6 at a time so those  ers don’t all stick together. Boil them until they all start to float and the dough is cooked through, about 5 minutes. Fish them out with a slotted spoon, throw them on a plate, and keep boiling all the remaining pierogies.
-
-10 Once the pierogies are all done, serve with a side of the sauerkraut and maybe some sour cream. Dig in and enjoy.
-
-
+8. **Serve**: Enjoy hot with cheater sauerkraut, sour cream, or your favorite toppings.  
 
 ## Modifications
-You can try whole wheat pastry flour, but this is one of those times that all-purpose really just works best. It’s the  truth.
-
- One 15-ounce can of beans, drained and rinsed, will do if you want to save yourself some extra work. You’ve earned that much, if you ask us.
-
- 
-
-
-
-
+- Whole wheat pastry flour can be used, but all-purpose flour gives the best texture.  
+- Using canned beans (15 oz, drained and rinsed) saves time compared to cooking from scratch.  

@@ -4,12 +4,6 @@ services:
   hugo:
     env_file: .env
     container_name: hugo
-    image: "ghcr.io/peaceiris/hugo-extended-docker/hugo:latest-full"
+    image: "ghcr.io/wilsonify/wilsonify.github.io:latest"
     ports:
-      - 1313:1313
-    volumes:
-      - ${PWD}:/src
-    command:
-      - server
-      - --bind=0.0.0.0
-      - --buildDrafts
+      - 31313:80

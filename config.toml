@@ -1,11 +1,11 @@
-baseURL = ""
+baseURL = "https://wilsonify.github.io/"
 languageCode = "en-us"
-tagline = "Data Scientist"
+title = "Data Scientist"
 
 DefaultContentLanguage = "en"
-SectionPagesMenu = "main"
-Paginate = 100
-googleAnalytics = ""   # <---- disable analytics
+
+[pagination]
+  pagerSize = 100
 
 [menu]
 
@@ -35,9 +35,9 @@ googleAnalytics = ""   # <---- disable analytics
   weight = 5
 
 [author]
-email = "tom.andrew.wilson@gmail.com"
-name = "Thomas Wilson"
-location = "Pennsylvania"
+  name = "Thomas Wilson"
+  email = "tom.andrew.wilson@gmail.com"
+  location = "Pennsylvania"
 
 [sitemap]
   changefreq = "monthly"

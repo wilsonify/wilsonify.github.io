@@ -1,9 +1,0 @@
-version: '3'
-
-services:
-  hugo:
-    env_file: .env
-    container_name: hugo
-    image: "ghcr.io/wilsonify/wilsonify.github.io:latest"
-    ports:
-      - 31313:80

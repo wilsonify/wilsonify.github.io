@@ -1,39 +1,52 @@
-name: github pages
+name: Deploy Hugo site to GitHub Pages
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - main  # or "master", adjust to your default branch
   pull_request:
-    types:
-      - synchronize
+    types: [synchronize]
 
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
-      id-token: write
+      contents: read
       pages: write
+      id-token: write
 
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout source
+        uses: actions/checkout@v4
         with:
           submodules: true
           fetch-depth: 0
 
-      - name: Render site
-        run: docker run --rm --name builder -v ${{ github.workspace }}:/usr/src/app hcr.io/gohugoio/hugo:latest hugo --minify
-
-      - name: update gh-pages branch
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Install Hugo
+        uses: peaceiris/actions-hugo@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: public
+          hugo-version: '0.110.0' # match your dev version
+          extended: true
+
+      - name: Build site
+        run: hugo --minify
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: public
 
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    permissions:
+      pages: write
+      id-token: write
+    steps:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4

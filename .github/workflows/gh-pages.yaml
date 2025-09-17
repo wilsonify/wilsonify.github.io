@@ -4,9 +4,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - main  # or "master", adjust to your default branch
-  pull_request:
-    types: [synchronize]
+      - master
 
 jobs:
   build:

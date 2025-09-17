@@ -1,7 +1,7 @@
 baseURL = "https://wilsonify.github.io/"
 languageCode = "en-us"
 title = "Data Scientist"
-
+theme = 'ananke'
 DefaultContentLanguage = "en"
 
 [pagination]
@@ -43,3 +43,4 @@ DefaultContentLanguage = "en"
   changefreq = "monthly"
   priority = 0.5
   filename = "sitemap.xml"
+
